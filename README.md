@@ -2,77 +2,49 @@
 
 Public working repository for Pioneer Auction Service / HiBid auction research.
 
-## Workflow
+## Normal workflow: one button
 
-1. Open the auction on the main HiBid domain, for example:
-   `https://hibid.com/catalog/776304/beach-living-estate-auction`
-2. Open Chrome DevTools → Console.
-3. Run the launcher below.
-4. The latest exporter is loaded from this repository.
-5. The exporter queries HiBid's public GraphQL catalog data and downloads one ZIP:
-   - `pioneer-<auction-id>-export.zip`
-6. The ZIP contains:
+1. In GitHub, open **Actions → Run Pioneer Auction**.
+2. Click **Run workflow**, enter the HiBid auction ID, and start it.
+3. GitHub exports all auction lots and their available photo links.
+4. The workflow downloads the photos and stores them in a **temporary Actions artifact** named `pioneer-<auction-id>-photos`.
+5. The auction's permanent metadata is committed to `auctions/<auction-id>/`:
+   - `README.md`
    - `summary.md`
-   - `lots.json`
    - `summary.csv`
-7. Extract those three files and put them under `auctions/<auction-id>/`.
-8. Run the **Mirror auction photos** GitHub Action for that auction ID if a durable photo mirror is wanted.
+   - `lots.json`
 
-## Console launcher
+To retrieve the temporary photos, open the successful **Run Pioneer Auction** run in GitHub Actions and download the photo artifact from its **Artifacts** section.
 
-```javascript
-fetch(
-  "https://raw.githubusercontent.com/hatchmiw/pioneer-auctions/main/pioneer-exporter.js?ts=" + Date.now()
-)
-  .then(r => {
-    if (!r.ok) throw new Error(`Exporter load failed: HTTP ${r.status}`);
-    return r.text();
-  })
-  .then(code => {
-    console.log("Loaded Pioneer/HiBid exporter from GitHub.");
-    (0, eval)(code);
-  })
-  .catch(err => console.error("EXPORTER ERROR:", err));
-```
+**Photo expiration is based on the auction closing time, not the workflow start.** A separate **Purge expired auction photos** Action runs every six hours and removes photo artifacts after `bidCloseDateTime + 7 days`. It also removes visible photo folders committed by earlier versions of the workflow. The metadata files and original HiBid image links remain.
 
-## Current test auction
+HiBid timestamps without an explicit timezone are interpreted as `America/Detroit`, the Pioneer auction timezone. GitHub Actions schedules may run late; cleanup is not guaranteed to occur at the exact expiration minute. GitHub caps artifact retention at 90 days, so photos for an auction more than 90 days away may expire early and should be refreshed closer to the closing date.
 
-- Auction ID: **776304**
-- Name: **Beach Living Estate Auction**
-- Auctioneer: **Pioneer Auction Service**
-- Catalog size at setup: **1,153 lots**
+## Troubleshooting workflows
+
+- **Export HiBid auction:** metadata-only export and commit.
+- **Mirror auction photos:** regenerate temporary photo artifact from the existing `lots.json`, without adding photos to Git history.
+- **Purge expired auction photos:** may be triggered manually to clear expired auctions without waiting for its scheduled check.
+
+## Legacy browser exporter
+
+The `pioneer-exporter.js` browser console launcher remains available as a backup. Normal operation no longer requires a browser console, ZIP downloads, or manual file moving.
 
 ## Export contents
 
-`lots.json` is the primary research file. It includes, when HiBid provides them:
+`lots.json` includes, when HiBid provides them:
 
-- lot number and HiBid lot ID
-- title and description
-- category
-- current high bid and minimum next bid
-- bid count
-- price realized after closing
-- lot status and countdown
-- shipping flag
-- lot URL
-- featured image
-- **all lot images returned by HiBid's `pictures` field**
-- auction-level metadata
+- lot number, HiBid lot ID, title and description
+- category and shipping information
+- high bid, minimum next bid, bid count, price realized, status
+- lot URL, auction metadata, featured image and all images returned by HiBid
 
-`summary.csv` is a compact lot index. `summary.md` is a human-readable snapshot with direct photo links.
+`summary.csv` is a compact index and `summary.md` is a human-readable snapshot with original photo links. The mirror normalizes downloaded photos to JPEG (long edge at most 1600 px), preserving the original HiBid URLs in its temporary `manifest.json`.
 
-## Photo mirror
+## Existing auction
 
-The photo workflow reads `auctions/<auction-id>/lots.json`, downloads every image recorded for each lot, normalizes it to JPEG (up to 1600 px on the long edge), and writes galleries under:
+- Auction ID **776304**, Beach Living Estate Auction
+- Export snapshot: **1,159 lots**, **9,759 photo references**
+- Photos from the older workflow were committed directly to Git and will be removed from the visible tree after auction close + seven days. Removing them does **not** reclaim the historic Git blobs. For future auctions, photo artifacts avoid adding these blobs to Git history.
 
-`auctions/<auction-id>/photos/<lot>/`
-
-The original HiBid image URL is retained in `photos/manifest.json` and each lot gallery.
-
-## Notes
-
-- Run the exporter from the main `hibid.com` catalog URL rather than a regional or auctioneer portal when possible.
-- Auction data is a snapshot at the time the exporter is run.
-- The exporter sets `countAsView: false` so retrieval does not intentionally inflate HiBid lot view counts.
-- No HiBid password, buyer token, or bidding credential is stored in this repository.
-- HiBid can change its GraphQL schema or Cloudflare behavior; if the exporter stops working, update the query rather than falling back immediately to manual lot-by-lot collection.
+No HiBid password, buyer token, or bidding credential is stored in this repository.
