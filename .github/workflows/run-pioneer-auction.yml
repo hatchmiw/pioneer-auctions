@@ -35,6 +35,11 @@ jobs:
       - name: Export HiBid auction
         run: python scripts/export_hibid.py "${{ inputs.auction_id }}"
 
+      - name: Calculate photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
+
       - name: Mirror all lot photos
         run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
 
@@ -49,16 +54,36 @@ jobs:
           test -s "auctions/${{ inputs.auction_id }}/photos/manifest.json"
           echo "Auction export and photo mirror verified."
 
-      - name: Commit complete auction
+      - name: Upload temporary photo archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos
+          path: auctions/${{ inputs.auction_id }}/photos/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Commit permanent auction metadata
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "auctions/${{ inputs.auction_id }}"
+          git add "auctions/${{ inputs.auction_id }}/README.md" \
+                  "auctions/${{ inputs.auction_id }}/summary.md" \
+                  "auctions/${{ inputs.auction_id }}/summary.csv" \
+                  "auctions/${{ inputs.auction_id }}/lots.json"
 
           if git diff --cached --quiet; then
-            echo "No auction changes to commit."
+            echo "No metadata changes to commit."
           else
             git commit -m "Run Pioneer auction ${{ inputs.auction_id }}"
             git push
           fi
+
+      - name: Summary
+        shell: bash
+        run: |
+          echo "## Pioneer auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Metadata committed. Photos stored in the temporary Actions artifact." >> "$GITHUB_STEP_SUMMARY"
+          echo "Auction close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Delete photos after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
