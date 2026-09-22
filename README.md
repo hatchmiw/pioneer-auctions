@@ -24,7 +24,7 @@ HiBid timestamps without an explicit timezone are interpreted as `America/Detroi
 ## Troubleshooting workflows
 
 - **Export HiBid auction:** metadata-only export and commit.
-- **Mirror auction photos:** regenerate temporary photo artifact from the existing `lots.json`, without adding photos to Git history.
+- **Mirror auction photos:** regenerate the temporary 100-lot photo artifacts from the existing `lots.json`, without adding photos to Git history.
 - **Purge expired auction photos:** may be triggered manually to clear expired auctions without waiting for its scheduled check.
 
 ## Legacy browser exporter
