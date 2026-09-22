@@ -10,15 +10,24 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: pioneer-auction-${{ inputs.auction_id }}
   cancel-in-progress: false
 
 jobs:
-  run-auction:
+  metadata:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 20
+    outputs:
+      matrix: ${{ steps.batches.outputs.matrix }}
+      batch_count: ${{ steps.batches.outputs.batch_count }}
+      retention_days: ${{ steps.retention.outputs.retention_days }}
+      expired: ${{ steps.retention.outputs.expired }}
+      cleanup_at: ${{ steps.retention.outputs.cleanup_at }}
+      auction_close: ${{ steps.retention.outputs.auction_close }}
+      metadata_ref: ${{ steps.commit.outputs.metadata_ref }}
 
     steps:
       - name: Check out repository
@@ -29,8 +38,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: python -m pip install --upgrade curl_cffi pillow
+      - name: Install exporter dependency
+        run: python -m pip install --upgrade curl_cffi
 
       - name: Export HiBid auction
         run: python scripts/export_hibid.py "${{ inputs.auction_id }}"
@@ -40,33 +49,13 @@ jobs:
         shell: bash
         run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
 
-      - name: Mirror all lot photos
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
-
-      - name: Verify generated files
-        if: steps.retention.outputs.expired != 'true'
+      - name: Build 100-lot photo batches
+        id: batches
         shell: bash
-        run: |
-          test -s "auctions/${{ inputs.auction_id }}/README.md"
-          test -s "auctions/${{ inputs.auction_id }}/summary.md"
-          test -s "auctions/${{ inputs.auction_id }}/summary.csv"
-          test -s "auctions/${{ inputs.auction_id }}/lots.json"
-          test -s "auctions/${{ inputs.auction_id }}/photos/README.md"
-          test -s "auctions/${{ inputs.auction_id }}/photos/manifest.json"
-          echo "Auction export and photo mirror verified."
-
-      - name: Upload temporary photo archive
-        if: steps.retention.outputs.expired != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: pioneer-${{ inputs.auction_id }}-photos
-          path: auctions/${{ inputs.auction_id }}/photos/
-          retention-days: ${{ steps.retention.outputs.retention_days }}
-          compression-level: 0
-          if-no-files-found: error
+        run: python scripts/photo_batches.py "${{ inputs.auction_id }}" 100 >> "$GITHUB_OUTPUT"
 
       - name: Commit permanent auction metadata
+        id: commit
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -74,33 +63,101 @@ jobs:
           git add "auctions/${{ inputs.auction_id }}/README.md" \
                   "auctions/${{ inputs.auction_id }}/summary.md" \
                   "auctions/${{ inputs.auction_id }}/summary.csv" \
-                  "auctions/${{ inputs.auction_id }}/lots.json"
+                  "auctions/${{ inputs.auction_id }}/lots.json" \
+                  "auctions/${{ inputs.auction_id }}/photo-batches.json"
 
           if git diff --cached --quiet; then
             echo "No metadata changes to commit."
           else
             git commit -m "Run Pioneer auction ${{ inputs.auction_id }}"
-            # Long-running photo jobs may finish after another commit lands on main.
-            # Rebase metadata-only changes onto the newest main and retry if needed.
+            pushed=false
             for attempt in 1 2 3; do
               echo "Synchronizing with main (attempt $attempt/3)..."
               git fetch origin main
               git rebase origin/main
               if git push origin HEAD:main; then
-                echo "Auction metadata committed and pushed."
-                exit 0
+                pushed=true
+                break
               fi
               echo "Main changed during push; retrying..."
               sleep 5
             done
-            echo "Failed to push after 3 attempts." >&2
-            exit 1
+            if [ "$pushed" != "true" ]; then
+              echo "Failed to push after 3 attempts." >&2
+              exit 1
+            fi
           fi
 
-      - name: Summary
+          echo "metadata_ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Metadata summary
         shell: bash
         run: |
           echo "## Pioneer auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Metadata committed. Photos artifact uploaded only if the seven-day post-close window remains open." >> "$GITHUB_STEP_SUMMARY"
-          echo "Auction close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Delete photos after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Photo batches: ${{ steps.batches.outputs.batch_count }} (100 lots maximum each)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Auction close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Photo cleanup after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
+
+  photos:
+    needs: metadata
+    if: needs.metadata.outputs.expired != 'true' && needs.metadata.outputs.batch_count != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix: ${{ fromJSON(needs.metadata.outputs.matrix) }}
+
+    steps:
+      - name: Check out exact auction snapshot
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ needs.metadata.outputs.metadata_ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: python -m pip install --upgrade pillow
+
+      - name: Mirror batch ${{ matrix.batch.label }}
+        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}" "${{ matrix.batch.start }}" "${{ matrix.batch.end }}"
+
+      - name: Upload photo batch
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.batch.artifact_name }}
+          path: auctions/${{ inputs.auction_id }}/photo_batches/${{ matrix.batch.label }}/
+          retention-days: ${{ needs.metadata.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Batch summary
+        shell: bash
+        run: |
+          echo "## Photo batch ${{ matrix.batch.label }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Lots ${{ matrix.batch.first_lot }} through ${{ matrix.batch.last_lot }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Artifact: ${{ matrix.batch.artifact_name }}" >> "$GITHUB_STEP_SUMMARY"
+
+  retire-monolith:
+    needs: [metadata, photos]
+    if: always() && needs.metadata.result == 'success' && needs.photos.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Delete obsolete single photo artifact
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          old_name="pioneer-${{ inputs.auction_id }}-photos"
+          gh api "/repos/$GITHUB_REPOSITORY/actions/artifacts?name=$old_name&per_page=100" \
+            --jq ".artifacts[] | select(.name == \"$old_name\") | .id" |
+          while IFS= read -r artifact_id; do
+            [ -n "$artifact_id" ] || continue
+            echo "Deleting obsolete monolithic artifact $artifact_id"
+            gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
+          done
