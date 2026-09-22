@@ -80,7 +80,21 @@ jobs:
             echo "No metadata changes to commit."
           else
             git commit -m "Run Pioneer auction ${{ inputs.auction_id }}"
-            git push
+            # Long-running photo jobs may finish after another commit lands on main.
+            # Rebase metadata-only changes onto the newest main and retry if needed.
+            for attempt in 1 2 3; do
+              echo "Synchronizing with main (attempt $attempt/3)..."
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Auction metadata committed and pushed."
+                exit 0
+              fi
+              echo "Main changed during push; retrying..."
+              sleep 5
+            done
+            echo "Failed to push after 3 attempts." >&2
+            exit 1
           fi
 
       - name: Summary
