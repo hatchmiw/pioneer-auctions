@@ -34,9 +34,11 @@ jobs:
         run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
 
       - name: Mirror photos
+        if: steps.retention.outputs.expired != 'true'
         run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
 
       - name: Upload temporary photo archive
+        if: steps.retention.outputs.expired != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: pioneer-${{ inputs.auction_id }}-photos
