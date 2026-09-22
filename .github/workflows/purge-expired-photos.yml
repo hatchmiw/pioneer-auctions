@@ -46,21 +46,7 @@ jobs:
             gh api --paginate \
               "/repos/$GITHUB_REPOSITORY/actions/artifacts?per_page=100" \
               --jq '.artifacts[] | [.id, .name] | @tsv' |
-            while IFS=
-            if [ -d "auctions/$auction_id/photos" ]; then
-              echo "Removing legacy committed photo folder for auction $auction_id"
-              git rm -r -q "auctions/$auction_id/photos"
-            fi
-          done < /tmp/expired-auctions.txt
-
-          if git diff --cached --quiet; then
-            echo "No legacy photo folders to remove."
-          else
-            git commit -m "Purge expired Pioneer auction photos"
-            git pull --rebase origin main
-            git push
-          fi
-\t' read -r artifact_id artifact_name; do
+            while IFS=$'\t' read -r artifact_id artifact_name; do
               [ -n "$artifact_id" ] || continue
               if [[ "$artifact_name" == "$artifact_prefix"* ]]; then
                 echo "Deleting artifact $artifact_name ($artifact_id)"
