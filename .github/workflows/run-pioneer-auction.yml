@@ -41,9 +41,11 @@ jobs:
         run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
 
       - name: Mirror all lot photos
+        if: steps.retention.outputs.expired != 'true'
         run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
 
       - name: Verify generated files
+        if: steps.retention.outputs.expired != 'true'
         shell: bash
         run: |
           test -s "auctions/${{ inputs.auction_id }}/README.md"
@@ -55,6 +57,7 @@ jobs:
           echo "Auction export and photo mirror verified."
 
       - name: Upload temporary photo archive
+        if: steps.retention.outputs.expired != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: pioneer-${{ inputs.auction_id }}-photos
@@ -84,6 +87,6 @@ jobs:
         shell: bash
         run: |
           echo "## Pioneer auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Metadata committed. Photos stored in the temporary Actions artifact." >> "$GITHUB_STEP_SUMMARY"
+          echo "Metadata committed. Photos artifact uploaded only if the seven-day post-close window remains open." >> "$GITHUB_STEP_SUMMARY"
           echo "Auction close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
           echo "Delete photos after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
