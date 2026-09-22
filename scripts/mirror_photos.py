@@ -3,6 +3,11 @@
 
 Usage:
     python scripts/mirror_photos.py 776304
+    python scripts/mirror_photos.py 776304 0 100
+
+With start/end indexes, only that zero-based slice of lots.json is mirrored.
+This is used by GitHub Actions to keep each photo artifact small enough for
+selective retrieval.
 
 Reads:
     auctions/<auction_id>/lots.json
@@ -126,11 +131,22 @@ def mirror_one(task: dict) -> dict:
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
-        print("Usage: python scripts/mirror_photos.py <auction_id>", file=sys.stderr)
+    if len(sys.argv) not in (2, 4):
+        print(
+            "Usage: python scripts/mirror_photos.py <auction_id> [start_index end_index]",
+            file=sys.stderr,
+        )
         return 2
 
     auction_id = str(sys.argv[1]).strip()
+    start_index = None
+    end_index = None
+    if len(sys.argv) == 4:
+        start_index = int(sys.argv[2])
+        end_index = int(sys.argv[3])
+        if start_index < 0 or end_index <= start_index:
+            print("Invalid lot slice", file=sys.stderr)
+            return 2
     auction_dir = Path("auctions") / auction_id
     lots_path = auction_dir / "lots.json"
 
@@ -141,8 +157,20 @@ def main() -> int:
     with lots_path.open("r", encoding="utf-8") as fh:
         data = json.load(fh)
 
-    lots = data.get("lots", [])
-    photo_root = auction_dir / "photos"
+    all_lots = data.get("lots", [])
+    if start_index is None:
+        lots = all_lots
+        photo_root = auction_dir / "photos"
+        batch_label = None
+    else:
+        if start_index >= len(all_lots):
+            print(f"Start index {start_index} is outside {len(all_lots)} lots", file=sys.stderr)
+            return 2
+        end_index = min(end_index, len(all_lots))
+        lots = all_lots[start_index:end_index]
+        batch_label = f"{start_index + 1:04d}-{end_index:04d}"
+        photo_root = auction_dir / "photo_batches" / batch_label
+
     photo_root.mkdir(parents=True, exist_ok=True)
 
     tasks = []
@@ -173,7 +201,13 @@ def main() -> int:
                 }
             )
 
-    print(f"Auction {auction_id}: {len(lots)} lots, {len(tasks)} photos")
+    scope = (
+        f"batch {batch_label}" if batch_label else "full auction"
+    )
+    print(
+        f"Auction {auction_id} ({scope}): {len(lots)} selected lots, "
+        f"{len(tasks)} photos"
+    )
 
     results = []
     errors = []
@@ -250,6 +284,10 @@ def main() -> int:
         "auction_id": int(auction_id) if auction_id.isdigit() else auction_id,
         "source_snapshot": str(lots_path),
         "lot_count": len(lots),
+        "total_auction_lot_count": len(all_lots),
+        "batch_label": batch_label,
+        "start_index": start_index,
+        "end_index": end_index,
         "photo_count": len(results),
         "error_count": len(errors),
         "max_edge": MAX_EDGE,
@@ -275,9 +313,11 @@ def main() -> int:
     )
 
     index_lines = [
-        f"# Pioneer / HiBid Auction {auction_id} Photo Mirror",
+        f"# Pioneer / HiBid Auction {auction_id} Photo Mirror"
+        + (f" — Batch {batch_label}" if batch_label else ""),
         "",
-        f"- Lots in snapshot: {len(lots)}",
+        f"- Lots in this archive: {len(lots)}",
+        f"- Total lots in auction snapshot: {len(all_lots)}",
         f"- Photos mirrored: {len(results)}",
         f"- Errors: {len(errors)}",
         "",
