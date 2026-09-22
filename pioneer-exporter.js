@@ -143,13 +143,76 @@
   const md = (v) => clean(v).replace(/</g, "&lt;").replace(/>/g, "&gt;");
   const csv = (v) => '"' + String(v ?? "").replace(/"/g, '""') + '"';
 
-  function downloadBlob(name, blob) {
+  function showDownloadButton(name, blob) {
+    const old = document.getElementById("auction-export-download-panel");
+    if (old) old.remove();
+
     const url = URL.createObjectURL(blob);
-    const a = Object.assign(document.createElement("a"), { href: url, download: name });
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    setTimeout(() => URL.revokeObjectURL(url), 10000);
+    const panel = document.createElement("div");
+    panel.id = "auction-export-download-panel";
+    Object.assign(panel.style, {
+      position: "fixed",
+      right: "24px",
+      bottom: "24px",
+      zIndex: "2147483647",
+      background: "#ffffff",
+      color: "#111111",
+      border: "2px solid #222222",
+      borderRadius: "10px",
+      padding: "16px",
+      boxShadow: "0 4px 18px rgba(0,0,0,.28)",
+      font: "14px/1.4 Arial, sans-serif",
+      maxWidth: "360px",
+    });
+
+    const title = document.createElement("div");
+    title.textContent = "Auction export ready";
+    Object.assign(title.style, { fontWeight: "700", marginBottom: "8px" });
+
+    const note = document.createElement("div");
+    note.textContent = name;
+    Object.assign(note.style, { marginBottom: "12px", wordBreak: "break-all" });
+
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = name;
+    link.textContent = "Download export ZIP";
+    Object.assign(link.style, {
+      display: "inline-block",
+      background: "#111111",
+      color: "#ffffff",
+      padding: "10px 14px",
+      borderRadius: "6px",
+      textDecoration: "none",
+      fontWeight: "700",
+      cursor: "pointer",
+    });
+    link.addEventListener("click", () => {
+      link.textContent = "Download started";
+      setTimeout(() => URL.revokeObjectURL(url), 60000);
+    }, { once: true });
+
+    const close = document.createElement("button");
+    close.textContent = "×";
+    close.title = "Close";
+    Object.assign(close.style, {
+      position: "absolute",
+      top: "4px",
+      right: "8px",
+      border: "0",
+      background: "transparent",
+      fontSize: "22px",
+      cursor: "pointer",
+    });
+    close.addEventListener("click", () => {
+      URL.revokeObjectURL(url);
+      panel.remove();
+    });
+
+    panel.append(title, note, link, close);
+    document.body.appendChild(panel);
+    panel.scrollIntoView({ block: "nearest" });
+    return panel;
   }
 
   const CRC32_TABLE = (() => {
@@ -500,10 +563,10 @@
       { name: "summary.csv", content: summaryCsv },
     ]);
 
-    downloadBlob(zipName, zip);
+    showDownloadButton(zipName, zip);
 
     console.log(
-      `DONE — ${lots.length}/${totalCount} lots retrieved with ${photoCount} photos. Downloaded ${zipName} containing summary.md, lots.json, and summary.csv.`
+      `READY — ${lots.length}/${totalCount} lots retrieved with ${photoCount} photos. Click the on-page Download export ZIP button for ${zipName}.`
     );
   }
 
