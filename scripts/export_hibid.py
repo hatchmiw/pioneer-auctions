@@ -159,7 +159,7 @@ def natural_key(value: str):
 def category_text(category) -> str:
     """Return readable category text whether HiBid sends an object or a list."""
     if isinstance(category, dict):
-        return clean(category_text(category))
+        return clean(category.get("fullCategory") or category.get("categoryName") or "")
     if isinstance(category, list):
         parts = []
         for item in category:
@@ -344,7 +344,7 @@ def write_outputs(auction_id: int, auction: dict, lots: list[dict], total_report
         "- [summary.csv](./summary.csv)",
         "- [lots.json](./lots.json)",
         "",
-        "Run the repository's **Export HiBid auction** GitHub Action again to refresh this snapshot.",
+        "Run the repository's **Run Pioneer Auction** GitHub Action again to refresh this snapshot and its photo mirror.",
     ]
     (output_dir / "README.md").write_text("\n".join(readme) + "\n", encoding="utf-8")
 
