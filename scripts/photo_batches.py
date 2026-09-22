@@ -69,7 +69,42 @@ def main() -> int:
             }
         )
 
-    matrix = {"batch": batches}
+    for batch in batches:
+        start = batch["start"]
+        end = batch["end"]
+        batch["artifact_name"] = f"pioneer-{auction_id}-photos-{batch['label']}"
+        batch["lots"] = [
+            safe_text(
+                lot.get("lot_number")
+                or lot.get("requested_lot_number")
+                or lot.get("id")
+            )
+            for lot in lots[start:end]
+        ]
+
+    plan = {
+        "auction_id": int(auction_id) if auction_id.isdigit() else auction_id,
+        "batch_size": batch_size,
+        "lot_count": len(lots),
+        "batch_count": len(batches),
+        "batches": batches,
+    }
+    plan_path = Path("auctions") / auction_id / "photo-batches.json"
+    plan_path.write_text(json.dumps(plan, indent=2), encoding="utf-8")
+
+    matrix = {
+        "batch": [
+            {
+                "start": batch["start"],
+                "end": batch["end"],
+                "label": batch["label"],
+                "first_lot": batch["first_lot"],
+                "last_lot": batch["last_lot"],
+                "artifact_name": batch["artifact_name"],
+            }
+            for batch in batches
+        ]
+    }
     print("matrix=" + json.dumps(matrix, separators=(",", ":")))
     print(f"batch_count={len(batches)}")
     print(f"lot_count={len(lots)}")
