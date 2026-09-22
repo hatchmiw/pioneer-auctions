@@ -7,16 +7,17 @@ Public working repository for Pioneer Auction Service / HiBid auction research.
 1. In GitHub, open **Actions → Run Pioneer Auction**.
 2. Click **Run workflow**, enter the HiBid auction ID, and start it.
 3. GitHub exports all auction lots and their available photo links.
-4. The workflow downloads the photos and stores them in a **temporary Actions artifact** named `pioneer-<auction-id>-photos`.
+4. The workflow splits the auction into **100-lot photo batches** and stores each batch as a temporary Actions artifact, for example `pioneer-<auction-id>-photos-0001-0100`.
 5. The auction's permanent metadata is committed to `auctions/<auction-id>/`:
    - `README.md`
    - `summary.md`
    - `summary.csv`
    - `lots.json`
+   - `photo-batches.json`
 
-To retrieve the temporary photos, open the successful **Run Pioneer Auction** run in GitHub Actions and download the photo artifact from its **Artifacts** section.
+`photo-batches.json` records exactly which lot belongs to which temporary artifact. This keeps each archive small enough for selective retrieval and review instead of requiring a multi-gigabyte download.
 
-**Photo expiration is based on the auction closing time, not the workflow start.** A separate **Purge expired auction photos** Action runs every six hours and removes photo artifacts after `bidCloseDateTime + 7 days`. It also removes visible photo folders committed by earlier versions of the workflow. The metadata files and original HiBid image links remain.
+**Photo expiration is based on the auction closing time, not the workflow start.** A separate **Purge expired auction photos** Action runs every six hours and removes every photo batch for an auction after `bidCloseDateTime + 7 days`. It also removes visible photo folders committed by earlier versions of the workflow. The metadata files, batch map, and original HiBid image links remain.
 
 HiBid timestamps without an explicit timezone are interpreted as `America/Detroit`, the Pioneer auction timezone. GitHub Actions schedules may run late; cleanup is not guaranteed to occur at the exact expiration minute. GitHub caps artifact retention at 90 days, so photos for an auction more than 90 days away may expire early and should be refreshed closer to the closing date.
 
