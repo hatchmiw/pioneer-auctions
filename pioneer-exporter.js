@@ -143,14 +143,127 @@
   const md = (v) => clean(v).replace(/</g, "&lt;").replace(/>/g, "&gt;");
   const csv = (v) => '"' + String(v ?? "").replace(/"/g, '""') + '"';
 
-  function download(name, content, type) {
-    const blob = new Blob([content], { type });
+  function downloadBlob(name, blob) {
     const url = URL.createObjectURL(blob);
     const a = Object.assign(document.createElement("a"), { href: url, download: name });
     document.body.appendChild(a);
     a.click();
     a.remove();
-    setTimeout(() => URL.revokeObjectURL(url), 3000);
+    setTimeout(() => URL.revokeObjectURL(url), 10000);
+  }
+
+  const CRC32_TABLE = (() => {
+    const table = new Uint32Array(256);
+    for (let n = 0; n < 256; n++) {
+      let c = n;
+      for (let k = 0; k < 8; k++) {
+        c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      }
+      table[n] = c >>> 0;
+    }
+    return table;
+  })();
+
+  function crc32(bytes) {
+    let crc = 0xFFFFFFFF;
+    for (const b of bytes) crc = CRC32_TABLE[(crc ^ b) & 0xFF] ^ (crc >>> 8);
+    return (crc ^ 0xFFFFFFFF) >>> 0;
+  }
+
+  function u16(value) {
+    return new Uint8Array([value & 0xFF, (value >>> 8) & 0xFF]);
+  }
+
+  function u32(value) {
+    return new Uint8Array([
+      value & 0xFF,
+      (value >>> 8) & 0xFF,
+      (value >>> 16) & 0xFF,
+      (value >>> 24) & 0xFF,
+    ]);
+  }
+
+  function concatBytes(parts) {
+    const total = parts.reduce((sum, part) => sum + part.length, 0);
+    const out = new Uint8Array(total);
+    let offset = 0;
+    for (const part of parts) {
+      out.set(part, offset);
+      offset += part.length;
+    }
+    return out;
+  }
+
+  function makeZip(files) {
+    const encoder = new TextEncoder();
+    const localParts = [];
+    const centralParts = [];
+    let offset = 0;
+
+    for (const file of files) {
+      const nameBytes = encoder.encode(file.name);
+      const dataBytes = encoder.encode(file.content);
+      const crc = crc32(dataBytes);
+      const size = dataBytes.length;
+
+      const localHeader = concatBytes([
+        u32(0x04034B50),
+        u16(20),
+        u16(0x0800),
+        u16(0),
+        u16(0),
+        u16(0),
+        u32(crc),
+        u32(size),
+        u32(size),
+        u16(nameBytes.length),
+        u16(0),
+        nameBytes,
+      ]);
+
+      localParts.push(localHeader, dataBytes);
+
+      const centralHeader = concatBytes([
+        u32(0x02014B50),
+        u16(20),
+        u16(20),
+        u16(0x0800),
+        u16(0),
+        u16(0),
+        u16(0),
+        u32(crc),
+        u32(size),
+        u32(size),
+        u16(nameBytes.length),
+        u16(0),
+        u16(0),
+        u16(0),
+        u16(0),
+        u32(0),
+        u32(offset),
+        nameBytes,
+      ]);
+
+      centralParts.push(centralHeader);
+      offset += localHeader.length + dataBytes.length;
+    }
+
+    const centralDirectory = concatBytes(centralParts);
+    const endRecord = concatBytes([
+      u32(0x06054B50),
+      u16(0),
+      u16(0),
+      u16(files.length),
+      u16(files.length),
+      u32(centralDirectory.length),
+      u32(offset),
+      u16(0),
+    ]);
+
+    return new Blob(
+      [...localParts, centralDirectory, endRecord],
+      { type: "application/zip" }
+    );
   }
 
   async function graphql(operationName, variables, query) {
@@ -259,7 +372,8 @@
       featured_picture: lot.featuredPicture ?? null,
       images,
       photo_count: images.length,
-      source: lot,
+      reported_picture_count: lot.pictureCount ?? null,
+      bid_amount_raw: lot.bidAmount ?? null,
     };
   }
 
@@ -377,12 +491,19 @@
       ].map(csv).join(","));
     }
 
-    download("summary.md", summary, "text/markdown;charset=utf-8");
-    download("lots.json", JSON.stringify(data, null, 2), "application/json;charset=utf-8");
-    download("summary.csv", rows.join("\r\n"), "text/csv;charset=utf-8");
+    const lotsJson = JSON.stringify(data, null, 2);
+    const summaryCsv = rows.join("\r\n");
+    const zipName = `pioneer-${CONFIG.auctionId}-export.zip`;
+    const zip = makeZip([
+      { name: "summary.md", content: summary },
+      { name: "lots.json", content: lotsJson },
+      { name: "summary.csv", content: summaryCsv },
+    ]);
+
+    downloadBlob(zipName, zip);
 
     console.log(
-      `DONE — ${lots.length}/${totalCount} lots retrieved with ${photoCount} photos. Downloaded summary.md, lots.json, and summary.csv.`
+      `DONE — ${lots.length}/${totalCount} lots retrieved with ${photoCount} photos. Downloaded ${zipName} containing summary.md, lots.json, and summary.csv.`
     );
   }
 
