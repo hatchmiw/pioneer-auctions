@@ -343,8 +343,9 @@ def write_outputs(auction_id: int, auction: dict, lots: list[dict], total_report
         "- [summary.md](./summary.md)",
         "- [summary.csv](./summary.csv)",
         "- [lots.json](./lots.json)",
+        "- [photo-batches.json](./photo-batches.json) — maps each lot to its temporary photo artifact",
         "",
-        "Run the repository's **Run Pioneer Auction** GitHub Action again to refresh this snapshot and its photo mirror.",
+        "Run the repository's **Run Pioneer Auction** GitHub Action again to refresh this snapshot and its temporary photo batches.",
     ]
     (output_dir / "README.md").write_text("\n".join(readme) + "\n", encoding="utf-8")
 
