@@ -9,12 +9,14 @@ Public working repository for Pioneer Auction Service / HiBid auction research.
 2. Open Chrome DevTools → Console.
 3. Run the launcher below.
 4. The latest exporter is loaded from this repository.
-5. The exporter queries HiBid's public GraphQL catalog data and downloads:
+5. The exporter queries HiBid's public GraphQL catalog data and downloads one ZIP:
+   - `pioneer-<auction-id>-export.zip`
+6. The ZIP contains:
    - `summary.md`
    - `lots.json`
    - `summary.csv`
-6. Put those three files under `auctions/<auction-id>/`.
-7. Run the **Mirror auction photos** GitHub Action for that auction ID if a durable photo mirror is wanted.
+7. Extract those three files and put them under `auctions/<auction-id>/`.
+8. Run the **Mirror auction photos** GitHub Action for that auction ID if a durable photo mirror is wanted.
 
 ## Console launcher
 
