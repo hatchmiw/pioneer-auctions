@@ -280,7 +280,7 @@ def write_outputs(auction_id: int, auction: dict, lots: list[dict], total_report
         f"- Lots retrieved: {len(lots)}",
         f"- Photos found: {photo_count}",
     ]
-    if (auction.get("auctioneer", {}).get("name"):
+    if auction.get("auctioneer", {}).get("name"):
         lines.append(f"- Auctioneer: {clean(auction['auctioneer']['name'])}")
     if auction.get("bidCloseDateTime"):
         lines.append(f"- Auction close: {auction['bidCloseDateTime']}")
