@@ -10,11 +10,48 @@ on:
 
 permissions:
   contents: read
+  actions: write
 
 jobs:
-  mirror:
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 10
+    outputs:
+      matrix: ${{ steps.batches.outputs.matrix }}
+      batch_count: ${{ steps.batches.outputs.batch_count }}
+      retention_days: ${{ steps.retention.outputs.retention_days }}
+      expired: ${{ steps.retention.outputs.expired }}
+      cleanup_at: ${{ steps.retention.outputs.cleanup_at }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Calculate photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
+
+      - name: Build 100-lot photo batches
+        id: batches
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        run: python scripts/photo_batches.py "${{ inputs.auction_id }}" 100 >> "$GITHUB_OUTPUT"
+
+  mirror:
+    needs: prepare
+    if: needs.prepare.outputs.expired != 'true' && needs.prepare.outputs.batch_count != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
 
     steps:
       - name: Check out repository
@@ -28,27 +65,35 @@ jobs:
       - name: Install Pillow
         run: python -m pip install --upgrade pillow
 
-      - name: Calculate photo retention
-        id: retention
-        shell: bash
-        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
+      - name: Mirror batch ${{ matrix.batch.label }}
+        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}" "${{ matrix.batch.start }}" "${{ matrix.batch.end }}"
 
-      - name: Mirror photos
-        if: steps.retention.outputs.expired != 'true'
-        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
-
-      - name: Upload temporary photo archive
-        if: steps.retention.outputs.expired != 'true'
+      - name: Upload photo batch
         uses: actions/upload-artifact@v4
         with:
-          name: pioneer-${{ inputs.auction_id }}-photos
-          path: auctions/${{ inputs.auction_id }}/photos/
-          retention-days: ${{ steps.retention.outputs.retention_days }}
+          name: ${{ matrix.batch.artifact_name }}
+          path: auctions/${{ inputs.auction_id }}/photo_batches/${{ matrix.batch.label }}/
+          retention-days: ${{ needs.prepare.outputs.retention_days }}
           compression-level: 0
           if-no-files-found: error
 
-      - name: Summary
+  retire-monolith:
+    needs: [prepare, mirror]
+    if: always() && needs.prepare.result == 'success' && needs.mirror.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Delete obsolete single photo artifact
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          echo "Temporary photo artifact created for auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Delete after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
+          old_name="pioneer-${{ inputs.auction_id }}-photos"
+          gh api "/repos/$GITHUB_REPOSITORY/actions/artifacts?name=$old_name&per_page=100" \
+            --jq ".artifacts[] | select(.name == \"$old_name\") | .id" |
+          while IFS= read -r artifact_id; do
+            [ -n "$artifact_id" ] || continue
+            echo "Deleting obsolete monolithic artifact $artifact_id"
+            gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
+          done
