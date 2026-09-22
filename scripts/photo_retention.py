@@ -42,6 +42,7 @@ def one_auction(auction_id: str) -> int:
     seconds = (cleanup.astimezone(timezone.utc) - now).total_seconds()
     days = max(1, math.ceil(seconds / 86400))
     retention_days = min(days, MAX_ARTIFACT_RETENTION_DAYS)
+    expired = now >= cleanup.astimezone(timezone.utc)
 
     if days > MAX_ARTIFACT_RETENTION_DAYS:
         print(
@@ -50,6 +51,7 @@ def one_auction(auction_id: str) -> int:
             file=sys.stderr,
         )
 
+    print(f"expired={'true' if expired else 'false'}")
     print(f"cleanup_at={cleanup.astimezone(timezone.utc).isoformat()}")
     print(f"retention_days={retention_days}")
     print(f"auction_close={close.astimezone(timezone.utc).isoformat()}")
