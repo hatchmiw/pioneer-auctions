@@ -156,6 +156,23 @@ def natural_key(value: str):
     return [int(p) if p.isdigit() else p.lower() for p in re.split(r"(\d+)", value)]
 
 
+def category_text(category) -> str:
+    """Return readable category text whether HiBid sends an object or a list."""
+    if isinstance(category, dict):
+        return clean(category_text(category))
+    if isinstance(category, list):
+        parts = []
+        for item in category:
+            if isinstance(item, dict):
+                value = clean(item.get("fullCategory") or item.get("categoryName") or "")
+            else:
+                value = clean(item)
+            if value and value not in parts:
+                parts.append(value)
+        return " | ".join(parts)
+    return clean(category)
+
+
 def graphql(session, operation: str, variables: dict, query: str) -> dict:
     response = session.post(
         GRAPHQL_URL,
@@ -262,12 +279,12 @@ def write_outputs(auction_id: int, auction: dict, lots: list[dict], total_report
             "category", "title", "lot_url",
         ])
         for lot in lots:
-            category = lot.get("category") or {}
+            category = lot.get("category")
             writer.writerow([
                 lot["lot_number"], lot["id"], lot["item_id"], lot["current_bid"],
                 lot["price_realized"], lot["bid_count"], lot["photo_count"],
                 lot["status"], lot["time_left_seconds"],
-                category.get("fullCategory") or category.get("categoryName") or "",
+                category_text(category),
                 clean(lot["title"]), lot["lot_url"],
             ])
 
@@ -287,7 +304,7 @@ def write_outputs(auction_id: int, auction: dict, lots: list[dict], total_report
     lines.append("")
 
     for lot in lots:
-        category = lot.get("category") or {}
+        category = lot.get("category")
         lines += [
             "---",
             "",
@@ -298,7 +315,7 @@ def write_outputs(auction_id: int, auction: dict, lots: list[dict], total_report
             f"- Price realized: {lot['price_realized'] if lot['price_realized'] is not None else ''} {lot['currency']}",
             f"- Bid count: {lot['bid_count'] if lot['bid_count'] is not None else ''}",
             f"- Photo count: {lot['photo_count']}",
-            f"- Category: {clean(category.get('fullCategory') or category.get('categoryName'))}",
+            f"- Category: {category_text(category)}",
             f"- Lot page: {lot['lot_url']}",
             "",
         ]
