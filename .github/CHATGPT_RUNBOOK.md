@@ -111,6 +111,10 @@ Past Bids v2.1 adds two routine-use protections:
 The output must distinguish broader visible-source counts from scoped exported/enriched lot counts so a targeted run is not incorrectly compared against an All Auctions total.
 
 
+### v2.1.1 final validation — 2026-09-24
+
+A full `ALL` validation run captured 121 of 121 visible Past Bids across 2 pages, exported all 121 scoped lots, and populated `Your Max` for all 121 with zero missing values. Detail enrichment succeeded for 121 of 121 lots with zero final failures and zero realized-price mismatches. The retry logic was exercised in real data: five lots required a second attempt after an initial iframe-load or detail-DOM timeout and then succeeded. The four lots that were missing max bids in the prior v2 run also returned valid max bids on this pass. This validates the retry/incomplete-render handling. Normal routine use should remain auction-scoped; `ALL` is mainly for historical/backfill runs.
+
 ### v2 validation result — 2026-09-24
 
 A real Past Bids v2 run against the Past 3 Months / All Auctions view captured 121 of 121 lots across 2 pages with no duplicate lot IDs and no detail-page realized-price mismatches. Individual `Your Max` values were captured for 117 of 121 lots. Three lot-detail pages timed out during iframe loading; one additional lot returned no max value even though the detail frame was marked loaded. This confirms the enrichment approach works, but routine use should add retry handling for detail failures and should support auction-scoped runs so old auctions are not repeatedly revisited.
