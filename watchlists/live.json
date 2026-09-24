@@ -1,0 +1,1270 @@
+{
+  "schemaVersion": "1.0",
+  "updater": "Pioneer HiBid Watchlist Bid Updater",
+  "updaterVersion": "1.0.0",
+  "checkedAt": "2026-09-24T15:21:51Z",
+  "sourceWatchlist": {
+    "path": "watchlists/latest.json",
+    "exportedAt": "2026-09-23T17:25:50.563Z",
+    "reportedLotCount": 133,
+    "capturedLotCount": 133,
+    "sha256": "e0e77134e23970c58c6746be6ccfb195ff621656e4819e6cd9abe29549f8ccef"
+  },
+  "summary": {
+    "trackedLots": 133,
+    "retrievedLots": 1,
+    "missingLots": 132,
+    "activeLots": 1,
+    "closedLots": 0,
+    "changedLotsSincePreviousCheck": 1,
+    "invalidSourceRows": 0
+  },
+  "changes": [
+    {
+      "hibidLotId": "323034431",
+      "lotNumber": "939",
+      "title": "Way Rite & Hanson 25lb Kitchen & Mercantile Scales",
+      "auctionId": "779190",
+      "fields": {
+        "highBid": {
+          "from": 0,
+          "to": 2.0
+        },
+        "bidCount": {
+          "from": 0,
+          "to": 1
+        }
+      }
+    }
+  ],
+  "missingLotIds": [
+    "321408163",
+    "321408185",
+    "321408186",
+    "321408270",
+    "321408280",
+    "321408300",
+    "321408355",
+    "321408356",
+    "321408357",
+    "321408368",
+    "321408373",
+    "321408375",
+    "321408390",
+    "321408412",
+    "321408414",
+    "321408472",
+    "321408473",
+    "321408474",
+    "321408498",
+    "321408535",
+    "321408536",
+    "321408540",
+    "321408557",
+    "321408559",
+    "321408576",
+    "321408578",
+    "321408591",
+    "321408592",
+    "321408600",
+    "321408609",
+    "321408611",
+    "321408670",
+    "321408700",
+    "321408715",
+    "321408716",
+    "321408730",
+    "321408749",
+    "321408755",
+    "321408759",
+    "321408769",
+    "321408777",
+    "321408779",
+    "321408781",
+    "321408782",
+    "321408783",
+    "321408784",
+    "321408786",
+    "321408790",
+    "321408799",
+    "321408800",
+    "321408801",
+    "321408802",
+    "321408823",
+    "321408827",
+    "321408838",
+    "321408855",
+    "321408862",
+    "321408863",
+    "321409118",
+    "321409119",
+    "321409123",
+    "321409133",
+    "321409138",
+    "321409139",
+    "321409141",
+    "321409143",
+    "321409144",
+    "321409145",
+    "321409146",
+    "321409147",
+    "321409152",
+    "321409160",
+    "321409162",
+    "321409163",
+    "321409164",
+    "321409165",
+    "321409172",
+    "321409177",
+    "321409180",
+    "321409181",
+    "321409182",
+    "321409183",
+    "321409184",
+    "321409185",
+    "321409186",
+    "321409195",
+    "321409208",
+    "321409255",
+    "321409256",
+    "321409257",
+    "321409258",
+    "321409259",
+    "321409278",
+    "321409284",
+    "321409318",
+    "321409319",
+    "321409330",
+    "321409332",
+    "321409335",
+    "321409336",
+    "321409342",
+    "321409350",
+    "321409433",
+    "321409438",
+    "321409439",
+    "321409458",
+    "321409480",
+    "321409481",
+    "321409484",
+    "321409489",
+    "321409501",
+    "321409502",
+    "321409505",
+    "321409527",
+    "321409529",
+    "321409530",
+    "321409532",
+    "321409539",
+    "321409540",
+    "321409541",
+    "321409544",
+    "321409545",
+    "321409546",
+    "321409547",
+    "321409548",
+    "321409550",
+    "321409551",
+    "321409552",
+    "321409558",
+    "321409581",
+    "321409586",
+    "321409594"
+  ],
+  "lots": [
+    {
+      "hibidLotId": "321408163",
+      "highBid": 21,
+      "bidCount": 15,
+      "nextBid": 22,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408185",
+      "highBid": 7,
+      "bidCount": 6,
+      "nextBid": 8,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408186",
+      "highBid": 25,
+      "bidCount": 15,
+      "nextBid": 26,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408270",
+      "highBid": 6,
+      "bidCount": 4,
+      "nextBid": 7,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408280",
+      "highBid": 11,
+      "bidCount": 9,
+      "nextBid": 12,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408300",
+      "highBid": 9,
+      "bidCount": 5,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408355",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408356",
+      "highBid": 19,
+      "bidCount": 10,
+      "nextBid": 20,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408357",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408368",
+      "highBid": 9,
+      "bidCount": 8,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408373",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408375",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408390",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408412",
+      "highBid": 16,
+      "bidCount": 5,
+      "nextBid": 17,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408414",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408472",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408473",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408474",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408498",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408535",
+      "highBid": 10,
+      "bidCount": 5,
+      "nextBid": 11,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408536",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408540",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408557",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408559",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408576",
+      "highBid": 5,
+      "bidCount": 3,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408578",
+      "highBid": 17,
+      "bidCount": 13,
+      "nextBid": 18,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408591",
+      "highBid": 7,
+      "bidCount": 6,
+      "nextBid": 8,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408592",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408600",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408609",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408611",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408670",
+      "highBid": 16,
+      "bidCount": 7,
+      "nextBid": 17,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408700",
+      "highBid": 4,
+      "bidCount": 2,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408715",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408716",
+      "highBid": 8,
+      "bidCount": 7,
+      "nextBid": 9,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408730",
+      "highBid": 6,
+      "bidCount": 4,
+      "nextBid": 7,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408749",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408755",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408759",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408769",
+      "highBid": 7,
+      "bidCount": 5,
+      "nextBid": 8,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408777",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408779",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408781",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408782",
+      "highBid": 3,
+      "bidCount": 3,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408783",
+      "highBid": 9,
+      "bidCount": 5,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408784",
+      "highBid": 6,
+      "bidCount": 4,
+      "nextBid": 7,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408786",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408790",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408799",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408800",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408801",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408802",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408823",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408827",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408838",
+      "highBid": 13,
+      "bidCount": 5,
+      "nextBid": 14,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408855",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408862",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321408863",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409118",
+      "highBid": 15,
+      "bidCount": 7,
+      "nextBid": 16,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409119",
+      "highBid": 14,
+      "bidCount": 7,
+      "nextBid": 15,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409123",
+      "highBid": 6,
+      "bidCount": 3,
+      "nextBid": 7,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409133",
+      "highBid": 7,
+      "bidCount": 6,
+      "nextBid": 8,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409138",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409139",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409141",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409143",
+      "highBid": 6,
+      "bidCount": 4,
+      "nextBid": 7,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409144",
+      "highBid": 15,
+      "bidCount": 9,
+      "nextBid": 16,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409145",
+      "highBid": 14,
+      "bidCount": 9,
+      "nextBid": 15,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409146",
+      "highBid": 12,
+      "bidCount": 11,
+      "nextBid": 13,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409147",
+      "highBid": 8,
+      "bidCount": 7,
+      "nextBid": 9,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409152",
+      "highBid": 18,
+      "bidCount": 11,
+      "nextBid": 19,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409160",
+      "highBid": 10,
+      "bidCount": 7,
+      "nextBid": 11,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409162",
+      "highBid": 41,
+      "bidCount": 16,
+      "nextBid": 42,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409163",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409164",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409165",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409172",
+      "highBid": 17,
+      "bidCount": 16,
+      "nextBid": 18,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409177",
+      "highBid": 21,
+      "bidCount": 8,
+      "nextBid": 22,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409180",
+      "highBid": 21,
+      "bidCount": 8,
+      "nextBid": 22,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409181",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409182",
+      "highBid": 10,
+      "bidCount": 3,
+      "nextBid": 11,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409183",
+      "highBid": 21,
+      "bidCount": 9,
+      "nextBid": 22,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409184",
+      "highBid": 9,
+      "bidCount": 4,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409185",
+      "highBid": 26,
+      "bidCount": 9,
+      "nextBid": 27,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409186",
+      "highBid": 17,
+      "bidCount": 9,
+      "nextBid": 18,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409195",
+      "highBid": 9,
+      "bidCount": 5,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409208",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409255",
+      "highBid": 7,
+      "bidCount": 5,
+      "nextBid": 8,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409256",
+      "highBid": 9,
+      "bidCount": 8,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409257",
+      "highBid": 9,
+      "bidCount": 8,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409258",
+      "highBid": 6,
+      "bidCount": 5,
+      "nextBid": 7,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409259",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409278",
+      "highBid": 12,
+      "bidCount": 9,
+      "nextBid": 13,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409284",
+      "highBid": 9,
+      "bidCount": 5,
+      "nextBid": 10,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409318",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409319",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409330",
+      "highBid": 8,
+      "bidCount": 5,
+      "nextBid": 9,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409332",
+      "highBid": 22,
+      "bidCount": 8,
+      "nextBid": 23,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409335",
+      "highBid": 16,
+      "bidCount": 11,
+      "nextBid": 17,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409336",
+      "highBid": 26,
+      "bidCount": 14,
+      "nextBid": 27,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "323034431",
+      "highBid": 2.0,
+      "bidCount": 1,
+      "nextBid": 3.0,
+      "itemId": 185783,
+      "lotNumber": "939",
+      "title": "Way Rite & Hanson 25lb Kitchen & Mercantile Scales",
+      "status": "OPEN",
+      "timeLeft": "6d  9h  15m  ",
+      "timeLeftSeconds": 551758.043,
+      "isClosed": false,
+      "isLive": false,
+      "priceRealized": 0,
+      "reserveSatisfied": true,
+      "currency": "USD",
+      "auctionId": "779190",
+      "auctionName": "Living Estate of Patricia Freed",
+      "auctionClose": "2026-09-30T18:00:00",
+      "auctioneer": "Pioneer Auction Service",
+      "lotUrl": "https://hibid.com/lot/323034431",
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "ok",
+      "sourceSnapshotHighBid": 0,
+      "sourceSnapshotBidCount": 0,
+      "sourceSnapshotNextBid": 2,
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "highBid": {
+          "from": 0,
+          "to": 2.0
+        },
+        "bidCount": {
+          "from": 0,
+          "to": 1
+        }
+      }
+    },
+    {
+      "hibidLotId": "321409342",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409350",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409433",
+      "highBid": 15,
+      "bidCount": 5,
+      "nextBid": 16,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409438",
+      "highBid": 5,
+      "bidCount": 4,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409439",
+      "highBid": 10,
+      "bidCount": 6,
+      "nextBid": 11,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409458",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409480",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409481",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409484",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409489",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409501",
+      "highBid": 5,
+      "bidCount": 3,
+      "nextBid": 6,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409502",
+      "highBid": 17,
+      "bidCount": 10,
+      "nextBid": 18,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409505",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409527",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409529",
+      "highBid": 12,
+      "bidCount": 8,
+      "nextBid": 13,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409530",
+      "highBid": 31,
+      "bidCount": 14,
+      "nextBid": 32,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409532",
+      "highBid": 13,
+      "bidCount": 12,
+      "nextBid": 14,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409539",
+      "highBid": 4,
+      "bidCount": 2,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409540",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409541",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409544",
+      "highBid": 3,
+      "bidCount": 2,
+      "nextBid": 4,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409545",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409546",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409547",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409548",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409550",
+      "highBid": 4,
+      "bidCount": 3,
+      "nextBid": 5,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409551",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409552",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409558",
+      "highBid": 2,
+      "bidCount": 1,
+      "nextBid": 3,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409581",
+      "highBid": 0,
+      "bidCount": 0,
+      "nextBid": 2,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409586",
+      "highBid": 12,
+      "bidCount": 8,
+      "nextBid": 13,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    },
+    {
+      "hibidLotId": "321409594",
+      "highBid": 52,
+      "bidCount": 13,
+      "nextBid": 53,
+      "checkedAt": "2026-09-24T15:21:51Z",
+      "retrievalStatus": "missing-from-public-query"
+    }
+  ]
+}
