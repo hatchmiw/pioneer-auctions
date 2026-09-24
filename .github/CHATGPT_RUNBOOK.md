@@ -95,6 +95,11 @@ As of 2026-09-24, watchlist exporter v4 passed a 2-of-2 one-page test. It is **n
 
 ## Past Bids exporter
 
+### Scope behavior
+
+The current v2 pass may traverse every lot visible under the active Past Bids filters (for example, All Auctions within the selected time range). That is acceptable for validation, but future routine runs should support limiting enrichment to the auction(s) actually needed rather than revisiting every recent auction. Preferred future behavior is to respect a selected HiBid auction filter or an explicitly supplied auction ID, while retaining an all-auctions mode for historical/backfill work.
+
+
 Past Bids v1 was validated on 2026-09-24:
 
 - 121 of 121 lots captured;
