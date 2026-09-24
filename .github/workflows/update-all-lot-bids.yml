@@ -1,0 +1,87 @@
+name: Update All Pioneer Lot Bids
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions uses UTC; the script decides which auctions are due
+    # (hourly before closing day, every 10 minutes on closing day).
+    - cron: "*/10 * * * *"
+  push:
+    paths:
+      - "scripts/update_all_lot_bids.py"
+      - ".github/workflows/update-all-lot-bids.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pioneer-all-lot-bid-updater
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install HiBid client
+        run: python -m pip install --upgrade curl_cffi
+
+      - name: Refresh all due auction lots
+        run: python scripts/update_all_lot_bids.py
+
+      - name: Commit new live bid files
+        shell: bash
+        run: |
+          git add -A auctions/*/live.json watchlists/live.json
+          if git diff --cached --quiet; then
+            echo "No new live bid updates to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh Pioneer all-lot bid state"
+
+          for attempt in 1 2 3; do
+            echo "Synchronizing with main (attempt $attempt/3)..."
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict; aborting rather than overriding another update." >&2
+              git rebase --abort
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Main changed during push; retrying..."
+            sleep 5
+          done
+
+          echo "Failed to push updated bids after 3 attempts." >&2
+          exit 1
+
+      - name: Summary
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
+              f.write("## Pioneer all-lot bid refresh\n\n")
+              for path in sorted(Path("auctions").glob("*/live.json")):
+                  data = json.loads(path.read_text())
+                  s = data.get("summary", {})
+                  f.write(f"- Auction {path.parent.name}: {s.get('trackedLots')} lots, "
+                          f"{s.get('activeLots')} active, {s.get('closedLots')} closed, "
+                          f"last checked {data.get('checkedAt')}\n")
+          PY
