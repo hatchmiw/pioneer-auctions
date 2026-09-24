@@ -479,6 +479,7 @@ def main() -> int:
     now = now_utc_dt()
     refreshed: list[tuple[int, dict]] = []
     skipped: list[tuple[int, str]] = []
+    detail_failures = 0
 
     for auction_id in auction_ids:
         live_path = AUCTIONS_DIR / str(auction_id) / "live.json"
@@ -486,7 +487,8 @@ def main() -> int:
         try:
             details = auction_details(session, auction_id)
         except Exception as exc:
-            print(f"WARNING: auction {auction_id}: could not load auction details: {exc}", file=sys.stderr)
+            print(f"ERROR: auction {auction_id}: could not load auction details: {exc}", file=sys.stderr)
+            detail_failures += 1
             continue
 
         due, reason, interval = due_reason(details, previous, now)
@@ -502,8 +504,8 @@ def main() -> int:
             print(f"ERROR: auction {auction_id}: lot refresh failed: {exc}", file=sys.stderr)
             return 1
 
-        if not lots and reported_total:
-            print(f"ERROR: auction {auction_id}: HiBid reported {reported_total} lots but returned none", file=sys.stderr)
+        if len(lots) < reported_total:
+            print(f"ERROR: auction {auction_id}: fetched {len(lots)}/{reported_total} lots; preserving prior live file", file=sys.stderr)
             return 1
 
         live = build_live(auction_id, details, lots, reported_total, previous)
@@ -526,11 +528,11 @@ def main() -> int:
             if isinstance(lot, dict) and lot.get("hibidLotId") is not None:
                 all_lots[str(lot["hibidLotId"])] = lot
 
-    if all_lots:
+    if refreshed and all_lots:
         refresh_watchlist_compatibility(all_lots, newest_checked)
 
     print(f"Done. Refreshed {len(refreshed)} auction(s); skipped {len(skipped)}.")
-    return 0
+    return 1 if detail_failures else 0
 
 
 if __name__ == "__main__":
