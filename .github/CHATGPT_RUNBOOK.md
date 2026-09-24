@@ -101,6 +101,11 @@ As of 2026-09-24, watchlist exporter v4 passed a 2-of-2 one-page test. It is **n
 
 ## Past Bids exporter
 
+### Status: Complete
+
+Past Bids exporter v2.1.1 was validated successfully and explicitly closed by the user on 2026-09-24. Reopen only if a future need or HiBid change requires modification.
+
+
 ### v2.1 procedure — scoped enrichment + retries
 
 Past Bids v2.1 adds two routine-use protections:
