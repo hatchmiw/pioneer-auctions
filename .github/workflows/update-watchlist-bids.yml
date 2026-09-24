@@ -2,8 +2,6 @@ name: Update Watchlist Bids
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/15 * * * *"
   push:
     paths:
       - "watchlists/latest.json"
