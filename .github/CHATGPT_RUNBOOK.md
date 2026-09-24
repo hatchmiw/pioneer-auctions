@@ -80,6 +80,12 @@ For auctions using the current artifact-based workflow:
 4. If the available tools cannot turn an artifact image into a vision input, explicitly report that tooling gap. Do not substitute filenames/URLs for visual inspection.
 5. Do not create a duplicate permanent archive as a workaround.
 
+## Bookmarklet packaging rule
+
+When converting JavaScript into a one-line `javascript:` bookmarklet, never leave JavaScript `//` line comments in the source before whitespace/newline flattening. A flattened line comment will comment out the remainder of the bookmarklet and can make it appear to do nothing. Use block comments, a proper minifier, or otherwise preserve safe statement boundaries. Validate both the readable source and the generated bookmarklet payload with a JavaScript parser before distributing an installer.
+
+Past Bids v2.1 hit this exact packaging failure on 2026-09-24; v2.1.1 corrected it without changing exporter logic.
+
 ## HiBid watchlist exporter
 
 The watchlist exporter should:
