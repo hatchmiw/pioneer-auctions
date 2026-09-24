@@ -41,7 +41,7 @@ jobs:
       - name: Commit new live bid files
         shell: bash
         run: |
-          git add -A auctions/*/live.json watchlists/live.json
+          git add -A -- auctions watchlists/live.json
           if git diff --cached --quiet; then
             echo "No new live bid updates to commit."
             exit 0
