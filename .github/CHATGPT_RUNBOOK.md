@@ -95,6 +95,16 @@ As of 2026-09-24, watchlist exporter v4 passed a 2-of-2 one-page test. It is **n
 
 ## Past Bids exporter
 
+### v2.1 procedure — scoped enrichment + retries
+
+Past Bids v2.1 adds two routine-use protections:
+
+1. **Auction scoping.** If a specific auction is selected in the HiBid Past Bids auction dropdown, enrich/export only that auction. If HiBid is still on All Auctions, ask the user to choose the newest visible auction, enter a specific HiBid auction ID, or explicitly choose ALL. Capturing the visible Past Bids tiles may still include a broader result set, but detail-page enrichment should only visit the scoped auction unless ALL was requested.
+2. **Detail retries.** A lot-detail load is not successful merely because the outer Angular lot container exists. At least one expected detail field (Your Max, Price Realized, or bid status) must render. Failed or incomplete detail pages are retried up to two additional times with a short backoff. Record per-attempt timing/error diagnostics.
+
+The output must distinguish broader visible-source counts from scoped exported/enriched lot counts so a targeted run is not incorrectly compared against an All Auctions total.
+
+
 ### v2 validation result — 2026-09-24
 
 A real Past Bids v2 run against the Past 3 Months / All Auctions view captured 121 of 121 lots across 2 pages with no duplicate lot IDs and no detail-page realized-price mismatches. Individual `Your Max` values were captured for 117 of 121 lots. Three lot-detail pages timed out during iframe loading; one additional lot returned no max value even though the detail frame was marked loaded. This confirms the enrichment approach works, but routine use should add retry handling for detail failures and should support auction-scoped runs so old auctions are not repeatedly revisited.
