@@ -95,6 +95,11 @@ As of 2026-09-24, watchlist exporter v4 passed a 2-of-2 one-page test. It is **n
 
 ## Past Bids exporter
 
+### v2 validation result — 2026-09-24
+
+A real Past Bids v2 run against the Past 3 Months / All Auctions view captured 121 of 121 lots across 2 pages with no duplicate lot IDs and no detail-page realized-price mismatches. Individual `Your Max` values were captured for 117 of 121 lots. Three lot-detail pages timed out during iframe loading; one additional lot returned no max value even though the detail frame was marked loaded. This confirms the enrichment approach works, but routine use should add retry handling for detail failures and should support auction-scoped runs so old auctions are not repeatedly revisited.
+
+
 ### Scope behavior
 
 The current v2 pass may traverse every lot visible under the active Past Bids filters (for example, All Auctions within the selected time range). That is acceptable for validation, but future routine runs should support limiting enrichment to the auction(s) actually needed rather than revisiting every recent auction. Preferred future behavior is to respect a selected HiBid auction filter or an explicitly supplied auction ID, while retaining an all-auctions mode for historical/backfill work.
