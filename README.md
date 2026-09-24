@@ -21,6 +21,14 @@ Public working repository for Pioneer Auction Service / HiBid auction research.
 
 HiBid timestamps without an explicit timezone are interpreted as `America/Detroit`, the Pioneer auction timezone. GitHub Actions schedules may run late; cleanup is not guaranteed to occur at the exact expiration minute. GitHub caps artifact retention at 90 days, so photos for an auction more than 90 days away may expire early and should be refreshed closer to the closing date.
 
+## Live watchlist bid updates
+
+`watchlists/latest.json` is the current tracked-lot snapshot exported from the authenticated Pioneer/HiBid Watch List. A separate **Update Watchlist Bids** GitHub Action runs every 15 minutes and writes public current lot state to `watchlists/live.json`.
+
+The live file includes current high bid, next bid, bid count, time remaining, open/closed state, auction metadata, and changes since the prior check. It is intended for ChatGPT/watchlist review so bid decisions can use recently refreshed prices without manually re-entering every bid.
+
+Updating `watchlists/latest.json` changes which lots the scheduled updater follows. The updater uses public HiBid lot data only and stores no HiBid password, buyer token, max bid, or bidding credential.
+
 ## Troubleshooting workflows
 
 - **Export HiBid auction:** metadata-only export and commit.
