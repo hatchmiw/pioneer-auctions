@@ -13,6 +13,10 @@ At the start of any Pioneer Auction review, analysis, debugging, or automation c
 
 The purpose of this file is to prevent cross-chat loss of non-obvious tool procedures.
 
+## Runbook maintenance rule
+
+Treat this runbook as a living project document. Whenever a Pioneer Auction procedure, storage layout, scraper behavior, validation rule, GitHub retrieval method, or automation workflow materially changes, update this file in the same work session so future chats inherit the current procedure. Do not leave known procedural changes only in conversation memory.
+
 ## Repository role
 
 GitHub is the source of truth for Pioneer auction data and archived/mirrored auction photos. Do not create duplicate persistent photo archives just so ChatGPT can inspect images.
