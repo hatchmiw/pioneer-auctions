@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "updater": "Pioneer HiBid Watchlist Bid Updater",
   "updaterVersion": "1.0.0",
-  "checkedAt": "2026-09-24T15:23:45Z",
+  "checkedAt": "2026-09-24T15:38:47Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -16,10 +16,35 @@
     "missingLots": 0,
     "activeLots": 2,
     "closedLots": 0,
-    "changedLotsSincePreviousCheck": 0,
+    "changedLotsSincePreviousCheck": 2,
     "invalidSourceRows": 0
   },
-  "changes": [],
+  "changes": [
+    {
+      "hibidLotId": "322874070",
+      "lotNumber": "321",
+      "title": "JCPenney 4 In One Stereo System W/Speakers",
+      "auctionId": "779190",
+      "fields": {
+        "timeLeftSeconds": {
+          "from": 545444.803,
+          "to": 544542.603
+        }
+      }
+    },
+    {
+      "hibidLotId": "323218949",
+      "lotNumber": "1282",
+      "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
+      "auctionId": "779190",
+      "fields": {
+        "timeLeftSeconds": {
+          "from": 555094.803,
+          "to": 554192.603
+        }
+      }
+    }
+  ],
   "missingLotIds": [],
   "lots": [
     {
@@ -36,8 +61,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
       "status": "OPEN",
-      "timeLeft": "6d  7h  30m  ",
-      "timeLeftSeconds": 545444.803,
+      "timeLeft": "6d  7h  15m  ",
+      "timeLeftSeconds": 544542.603,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -48,13 +73,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-24T15:23:45Z",
+      "checkedAt": "2026-09-24T15:38:47Z",
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 3,
       "sourceSnapshotBidCount": 2,
       "sourceSnapshotNextBid": 4,
-      "changedSincePreviousCheck": false,
-      "changedFields": {}
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": 545444.803,
+          "to": 544542.603
+        }
+      }
     },
     {
       "lotNumber": "1282",
@@ -70,8 +100,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "6d  10h  11m  ",
-      "timeLeftSeconds": 555094.803,
+      "timeLeft": "6d  9h  56m  ",
+      "timeLeftSeconds": 554192.603,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -82,13 +112,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-24T15:23:45Z",
+      "checkedAt": "2026-09-24T15:38:47Z",
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 0,
       "sourceSnapshotBidCount": 0,
       "sourceSnapshotNextBid": 2,
-      "changedSincePreviousCheck": false,
-      "changedFields": {}
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": 555094.803,
+          "to": 554192.603
+        }
+      }
     }
   ]
 }
