@@ -107,7 +107,10 @@ Important limitation/extension:
 
 - The Past Bids tile page does not expose each lot's individual `Your Max` amount.
 - The lot-detail page **does** expose it. Example: Lot 147 shows `Your Max 20.00 USD`.
-- Therefore, enriching Past Bids with per-lot max bids requires reading each relevant lot-detail page (or another verified source that exposes the field).
+- Past Bids exporter v2 was built on 2026-09-24 to preserve the validated v1 paging logic, then load each captured lot-detail page in hidden same-origin iframes (3 concurrent) and read `.lot-bid-max`.
+- v2 records `yourMaxBid`, `yourMaxBidCurrency`, detail-page diagnostics, and realized-price mismatches. It does not guess on failed detail loads.
+- v2 is **not validated yet**; it must be tested against the 121-lot Past Bids set (or another real set) before being considered complete.
+- Individual bid count remains unavailable in the supplied Past Bids/detail markup and should remain null unless a verified source is found.
 - Do not guess max bids from realized prices or status.
 
 ## Lot-detail HTML
