@@ -72,12 +72,25 @@ This procedure was verified on 2026-09-24: ChatGPT correctly received and viewed
 
 ### GitHub Actions photo artifacts
 
-For auctions using the current artifact-based workflow:
+**Status: Complete / monitor for regressions.**
+
+The current artifact-based path was directly validated on 2026-09-24 using auction **779190**:
+
+1. Read `auctions/779190/photo-batches.json`.
+2. Identified Lot **321** in artifact `pioneer-779190-photos-0301-0400`.
+3. Retrieved that artifact from successful **Run Pioneer Auction** workflow run **35807889904**.
+4. Downloaded artifact ID **10728226954** as a ZIP.
+5. Extracted actual lot images `321/01.jpg`, `321/02.jpg`, and `321/03.jpg`.
+6. Forwarded the extracted JPGs to vision and visually verified the JCPenney stereo/turntable/cassette/eight-track unit and speakers, including the visible JCPenney branding.
+
+This proves the current end-to-end path `photo-batches.json -> Actions artifact -> ZIP -> lot JPG bytes -> vision` works. Treat photo access as closed unless a future GitHub/Actions/tooling change breaks it.
+
+Operating procedure remains:
 
 1. Read `photo-batches.json` to identify the artifact containing the requested lot.
-2. Retrieve the relevant GitHub Actions artifact through the GitHub connector.
-3. Inspect only the needed lot photos from that artifact.
-4. If the available tools cannot turn an artifact image into a vision input, explicitly report that tooling gap. Do not substitute filenames/URLs for visual inspection.
+2. Retrieve only the relevant GitHub Actions artifact.
+3. Extract and inspect only the needed lot photos.
+4. Never substitute filenames, URLs, manifests, or metadata for actual visual inspection.
 5. Do not create a duplicate permanent archive as a workaround.
 
 ## Bookmarklet packaging rule
