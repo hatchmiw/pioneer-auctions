@@ -1,4 +1,5 @@
 name: Update All Pioneer Lot Bids
+# Initial all-lot refresh trigger: a push to this workflow starts the same refresh job.
 
 on:
   workflow_dispatch:
