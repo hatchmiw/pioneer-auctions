@@ -148,7 +148,7 @@ Important limitation/extension:
 - The lot-detail page **does** expose it. Example: Lot 147 shows `Your Max 20.00 USD`.
 - Past Bids exporter v2 was built on 2026-09-24 to preserve the validated v1 paging logic, then load each captured lot-detail page in hidden same-origin iframes (3 concurrent) and read `.lot-bid-max`.
 - v2 records `yourMaxBid`, `yourMaxBidCurrency`, detail-page diagnostics, and realized-price mismatches. It does not guess on failed detail loads.
-- v2 is **not validated yet**; it must be tested against the 121-lot Past Bids set (or another real set) before being considered complete.
+- v2.1.1 is the validated current version; see the final validation section above.
 - Individual bid count remains unavailable in the supplied Past Bids/detail markup and should remain null unless a verified source is found.
 - Do not guess max bids from realized prices or status.
 
@@ -163,11 +163,34 @@ When using rendered HiBid lot-detail HTML:
 
 The lot-detail HTML is useful for metadata extraction, but GitHub remains the preferred source for already-mirrored photos.
 
-## Current automation goal
+## Scheduled watchlist bid updater
 
-Build a scheduled process that updates current auction bid prices into GitHub so ChatGPT can review current bid state without the user repeatedly reporting bid changes manually.
+### Status: Implemented, validation in progress
 
-That process should update structured data, not overwrite the photo archive.
+The repository now contains:
+
+- `scripts/update_watchlist_bids.py`
+- `.github/workflows/update-watchlist-bids.yml`
+- `watchlists/latest.json` — authoritative snapshot of which HiBid lots should be tracked
+- `watchlists/live.json` — automatically refreshed public bid/status data for those tracked lots
+
+The GitHub Action runs every 15 minutes, can also be triggered manually, and reruns automatically whenever `watchlists/latest.json`, the updater script, or the workflow itself changes.
+
+### Operating model
+
+1. Use the HiBid Watch List bookmarklet to capture the current watched-lot set.
+2. Put that export into `watchlists/latest.json`.
+3. GitHub Actions queries HiBid's public GraphQL lot data by HiBid lot ID and writes current bid, next bid, bid count, time remaining, open/closed state, auction metadata, and change diagnostics to `watchlists/live.json`.
+4. ChatGPT should read `watchlists/live.json` when reviewing current watchlist pricing. Do not rely on the older bid values embedded in `watchlists/latest.json` once a newer live check exists.
+5. When the user removes/adds lots in HiBid, refresh `watchlists/latest.json`; the next updater run follows the new tracked set.
+
+The updater does not require HiBid credentials because it refreshes public lot state only. It does not expose or change the user's bidding account, max bids, or watchlist membership.
+
+### Initial validation — 2026-09-24
+
+The workflow successfully ran from a repository push and created `watchlists/live.json`. A stale 133-lot historical watchlist showed that most closed/archived lots are not returned by the non-archive public query, but one still-open lot was refreshed correctly. After replacing `watchlists/latest.json` with the current two-lot v4 watchlist snapshot, the next workflow run retrieved **2 of 2** tracked lots with zero missing rows; both were open and their bid values matched the source snapshot at that check.
+
+Keep this task open until at least one normal scheduled run is observed and a real bid change is captured in `changes`, then seek user confirmation before closing it.
 
 ## Validation rule
 
