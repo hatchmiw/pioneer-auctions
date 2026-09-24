@@ -118,6 +118,10 @@ A real Past Bids v2 run against the Past 3 Months / All Auctions view captured 1
 
 ### Scope behavior
 
+### Recommended operating pattern
+
+For the initial historical backfill/validation, running Past Bids v2.1.1 with scope `ALL` is appropriate so the repository has all currently available past-auction bid/max-bid data. After that backfill, normal routine use should scope the exporter to the current/relevant auction only, avoiding repeated detail-page traversal of older auctions.
+
 The current v2 pass may traverse every lot visible under the active Past Bids filters (for example, All Auctions within the selected time range). That is acceptable for validation, but future routine runs should support limiting enrichment to the auction(s) actually needed rather than revisiting every recent auction. Preferred future behavior is to respect a selected HiBid auction filter or an explicitly supplied auction ID, while retaining an all-auctions mode for historical/backfill work.
 
 
