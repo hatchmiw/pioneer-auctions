@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-09-26T17:19:05Z",
+  "checkedAt": "2026-09-26T18:23:28Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -24,21 +24,9 @@
       "title": "JCPenney 4 In One Stereo System W/Speakers",
       "auctionId": "779190",
       "fields": {
-        "highBid": {
-          "from": 3.0,
-          "to": 4.0
-        },
-        "nextBid": {
-          "from": 4.0,
-          "to": 5.0
-        },
-        "bidCount": {
-          "from": 2,
-          "to": 3
-        },
         "timeLeftSeconds": {
-          "from": 369206.07,
-          "to": 365728.41699999996
+          "from": 365728.41699999996,
+          "to": 361865.633
         }
       }
     },
@@ -49,8 +37,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 378852.60699999996,
-          "to": 375374.79
+          "from": 375374.79,
+          "to": 371511.717
         }
       }
     }
@@ -71,8 +59,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
       "status": "OPEN",
-      "timeLeft": "4d  5h  35m  ",
-      "timeLeftSeconds": 365728.41699999996,
+      "timeLeft": "4d  4h  31m  ",
+      "timeLeftSeconds": 361865.633,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -83,24 +71,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-26T17:19:05Z",
+      "checkedAt": "2026-09-26T18:23:28Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
-        "highBid": {
-          "from": 3.0,
-          "to": 4.0
-        },
-        "nextBid": {
-          "from": 4.0,
-          "to": 5.0
-        },
-        "bidCount": {
-          "from": 2,
-          "to": 3
-        },
         "timeLeftSeconds": {
-          "from": 369206.07,
-          "to": 365728.41699999996
+          "from": 365728.41699999996,
+          "to": 361865.633
         }
       },
       "retrievalStatus": "ok",
@@ -122,8 +98,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "4d  8h  16m  ",
-      "timeLeftSeconds": 375374.79,
+      "timeLeft": "4d  7h  11m  ",
+      "timeLeftSeconds": 371511.717,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -134,12 +110,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-26T17:19:05Z",
+      "checkedAt": "2026-09-26T18:23:28Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": 378852.60699999996,
-          "to": 375374.79
+          "from": 375374.79,
+          "to": 371511.717
         }
       },
       "retrievalStatus": "ok",
