@@ -56,7 +56,7 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1186 | Two sets metal shelving | $0 | 20 | reviewed | Two adjustable steel shelving units; larger roughly 70 x 30 x 15 in.; surface rust but straight/complete-looking. |
 | 1187 | Two sets metal shelving | $0 | 20 | reviewed | Two adjustable steel shelving units, roughly 30 in. wide x 12 in. deep; cleaner than 1186 overall. |
 | 1233 | Short railroad-rail sections | $8 | 20 | existing | Fabrication/anvil/weight stock. |
-| 1234 | Heavy solid round steel stock | $2 | 25 | existing | Strong raw-material value if transport manageable. |
+| 1234 | Heavy solid round steel stock | $2 | 15 | revised | Heavy steel slugs/rounds; specialized fabrication or ballast stock rather than general-purpose material. |
 | 1245 | Forged load binder + chain/hooks | $0 | 20 | reviewed | Older lever/load binder plus hook/chain pieces; heavy surface rust. Do not assume certified transport rating. |
 | 1250 | Heavy steel chains | $0 | 20 | reviewed | Three chain assemblies; useful general-purpose steel, but grade/WLL is unverified—do not treat as certified transport chain. |
 | 1275 | Shelf + bins + metal locker | $0 | 15 | existing | Shop storage; better than rough cabinet alternatives. |
