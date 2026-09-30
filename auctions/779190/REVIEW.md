@@ -288,3 +288,75 @@ These are hammer-price ceilings, before buyer premium/tax. They are not automati
 - **1359**: already $5 and low farm/shop priority — remove.
 
 This section supersedes earlier unverified shortlist assumptions where they conflict.
+
+
+## 2026-09-30 full shortlist photo + price checkpoint
+
+Checkpoint basis: live all-lot snapshot 2026-09-30T12:56:56Z (08:56:56 ET). Archived originals from Actions run 35807889904 were reviewed for every working-shortlist lot that had archived images: **96 of 97**. Lot 1193 has no archived originals in the captured photo batches, so its visual condition remains unverified.
+
+This section supersedes earlier title-only assumptions where photographs conflict.
+
+### Material photo corrections
+- **120** — pictured vessel is a small Presto pressure cooker, not a pressure canner. Remove the canning-value thesis; only cheap kitchen-gadget value remains.
+- **319** — no winch appears in any archived photo. Contents are bulbs, surge/power items, tape measure, SpeedOut extractors and miscellaneous electrical items. Remove the hidden-winch thesis.
+- **407** — three weights, chains, pendulum and German musical movement are pictured. Completeness is materially better than the title alone established; operation remains unverified.
+- **575** — Fostoria Tut-style green uranium trophy vase appears visually intact in archived views; tiny rim/chip defects still cannot be excluded from photographs.
+- **691** — Dressel Arlington marking and blue lens are visible; lantern appears substantially complete.
+- **765** — photos do not justify overriding the prior $12 cap; live $52 means REMOVE.
+- **847** — Frigidaire model **FFUH17F2NWA**, manufactured **07/2014**; interior is visually clean. Function is not established.
+- **979** — Bundy II saxophone is cased but visibly aged/tarnished; White's Classic III Plus detector, control box and coil are present. Strong mixed-value lot if either component functions.
+- **980** — actual older Makita 10-inch miter saw; appears substantially complete with age/surface wear.
+- **1029** — tabletop Craftsman 10-inch 1/3-HP bandsaw, visually complete but dusty/untested. Recent auction evidence supports keeping the hard cap conservative rather than using high private asks.
+- **1081** — title overstates the unit. Photo label shows remanufactured DieHard **200A engine start, 40/10/2A charge, 6/12V**, not 275/125A. Reduce cap accordingly.
+- **1127** — substantial specialty mechanical puller/installer components are present; retain at low price.
+- **1130** — old abrasive wheels/discs. Storage history is unknown; do not buy merely because they are cheap.
+- **1132** — not two industrial gas cylinders. Photos show a BernzOmatic-style propane torch/fuel setup, brazing/welding rods and striker. Treat as a small torch/brazing lot.
+- **1145 / 1155** — hitch balls, drawbar/pins and towing hardware are visibly present; retain under prior caps.
+- **1193** — no archived photo evidence. Do not claim visual verification.
+- **1233** — description “Steel Rail Ties” is misleading; photos show short pieces of actual rail, including an approximately 24-inch section. Useful as fabrication/anvil/weight stock.
+- **1234** — very heavy solid round steel stock, roughly 5-inch diameter in the photographed pieces; strong fabrication-stock value at a low hammer price.
+- **1276** — two hand trucks/dollies are pictured; one has a missing/damaged wheel/tire. Current $15 leaves little reason to chase.
+- **1277** — pair of narrow metal loading ramps appears straight in photos; no load rating is visible. Keep conservative cap.
+- **1279** — mesh receiver cargo carrier is present and usable-looking but current $30 exceeds the prior $20 personal-use cap; no chase.
+- **1282–1289** — hand tools are generally complete with serviceable-looking but aged wooden handles. Best values are 1282, 1283, 1284, 1286, 1287 and 1289 while still cheap.
+- **1303 / 1304** — older 20-lb propane cylinders with surface age; certification/valve status is not established. Low priority.
+- **1306** — mixed metal gasoline cans have both utility and some vintage/decor interest; materially more interesting than lot 1305.
+- **1308** — antique walking/horse-style one-bottom plow, not a modern tractor 3-point implement. Remove the tractor-implement utility thesis.
+- **1316** — Huskee Heavy Duty Series 42-inch lawn sweeper appears complete enough to retain; brush/gear function still untested.
+- **1321** — multiple sections/rolls of welded garden wire are pictured; rust/remaining footage should govern final price.
+
+### Current hard-cap corrections / anchors
+Hammer caps unless stated otherwise:
+- 407 $25 untested; up to $50 only if operation is verified.
+- 449 $35.
+- 452 $12.
+- 458 $30.
+- 575 $40; do not use the prior conditional $50 stretch without direct rim/condition verification.
+- 691 $40.
+- 765 REMOVE at current $52.
+- 847 $40 untested; higher only if proven freezing properly.
+- 979 $50 as-is mixed-lot cap.
+- 980 $35 untested.
+- 1015 $15.
+- 1029 **$30 untested** (corrected downward from the later provisional $55 ceiling; comparable auction outcomes support restraint).
+- 1030 $25.
+- 1031 $12.
+- 1052 $25.
+- 1080 $15.
+- 1081 **$20** due actual photographed specification.
+- 1089 $20.
+- 1119 $22 if box contents are complete.
+- 1127 $20.
+- 1145 $12.
+- 1155 $15.
+- 1233 $20.
+- 1234 $25.
+- 1277 $20.
+- 1279 REMOVE / no further bid at $30.
+- 1282 $15.
+- 1287 $10.
+- 1306 $20.
+- 1316 $30.
+- 1321 $10.
+
+Photo review is now complete for all archived-photo shortlist lots. Lot 1193 remains the sole visual-evidence exception.
