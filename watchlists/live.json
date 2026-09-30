@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-09-30T22:48:59Z",
+  "checkedAt": "2026-09-30T22:58:49Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -13,8 +13,8 @@
     "trackedLots": 2,
     "retrievedLots": 2,
     "missingLots": 0,
-    "activeLots": 2,
-    "closedLots": 0,
+    "activeLots": 1,
+    "closedLots": 1,
     "changedLotsSincePreviousCheck": 2
   },
   "changes": [
@@ -24,9 +24,25 @@
       "title": "JCPenney 4 In One Stereo System W/Speakers",
       "auctionId": "779190",
       "fields": {
+        "nextBid": {
+          "from": 12.0,
+          "to": 0
+        },
+        "status": {
+          "from": "OPEN",
+          "to": "CLOSED"
+        },
         "timeLeftSeconds": {
-          "from": 539.533,
-          "to": 334.77299999999997
+          "from": 334.77299999999997,
+          "to": -254.92999999999998
+        },
+        "isClosed": {
+          "from": false,
+          "to": true
+        },
+        "priceRealized": {
+          "from": 0,
+          "to": 11.0
         }
       }
     },
@@ -37,8 +53,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 10189.533,
-          "to": 9980.65
+          "from": 9980.65,
+          "to": 9391.056999999999
         }
       }
     }
@@ -51,19 +67,19 @@
       "hibidLotId": "322874070",
       "highBid": 11.0,
       "bidCount": 7,
-      "nextBid": 12.0,
+      "nextBid": 0,
       "timeRemaining": "6d 8h 41m",
       "url": "https://pioneerauctionservice.hibid.com/lot/322874070/jcpenney-4-in-one-stereo-system-w-speakers",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8431281815&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=uv2AfRdjsQRG2yF%2fZwZBQ16tPhBxtoUg&h=350&w=350",
       "imageMapping": "same-lot-link",
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
-      "status": "OPEN",
-      "timeLeft": "5m  34s",
-      "timeLeftSeconds": 334.77299999999997,
-      "isClosed": false,
+      "status": "CLOSED",
+      "timeLeft": "Bidding Closed",
+      "timeLeftSeconds": -254.92999999999998,
+      "isClosed": true,
       "isLive": false,
-      "priceRealized": 0,
+      "priceRealized": 11.0,
       "reserveSatisfied": true,
       "currency": "USD",
       "auctionId": "779190",
@@ -71,12 +87,28 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T22:48:59Z",
+      "checkedAt": "2026-09-30T22:58:49Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
+        "nextBid": {
+          "from": 12.0,
+          "to": 0
+        },
+        "status": {
+          "from": "OPEN",
+          "to": "CLOSED"
+        },
         "timeLeftSeconds": {
-          "from": 539.533,
-          "to": 334.77299999999997
+          "from": 334.77299999999997,
+          "to": -254.92999999999998
+        },
+        "isClosed": {
+          "from": false,
+          "to": true
+        },
+        "priceRealized": {
+          "from": 0,
+          "to": 11.0
         }
       },
       "retrievalStatus": "ok",
@@ -98,8 +130,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "2h  46m  ",
-      "timeLeftSeconds": 9980.65,
+      "timeLeft": "2h  36m  ",
+      "timeLeftSeconds": 9391.056999999999,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -110,12 +142,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T22:48:59Z",
+      "checkedAt": "2026-09-30T22:58:49Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": 10189.533,
-          "to": 9980.65
+          "from": 9980.65,
+          "to": 9391.056999999999
         }
       },
       "retrievalStatus": "ok",
