@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-09-30T23:41:14Z",
+  "checkedAt": "2026-09-30T23:55:03Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -25,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -2291.12,
-          "to": -2799.4829999999997
+          "from": -2799.4829999999997,
+          "to": -3628.5499999999997
         }
       }
     },
@@ -37,20 +37,20 @@
       "auctionId": "779190",
       "fields": {
         "highBid": {
-          "from": 2.0,
-          "to": 3.0
+          "from": 3.0,
+          "to": 6.0
         },
         "nextBid": {
-          "from": 3.0,
-          "to": 4.0
+          "from": 4.0,
+          "to": 7.0
         },
         "bidCount": {
-          "from": 1,
-          "to": 2
+          "from": 2,
+          "to": 5
         },
         "timeLeftSeconds": {
-          "from": 7358.88,
-          "to": 6846.192999999999
+          "from": 6846.192999999999,
+          "to": 6017.44
         }
       }
     }
@@ -72,7 +72,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -2799.4829999999997,
+      "timeLeftSeconds": -3628.5499999999997,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -83,12 +83,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T23:41:14Z",
+      "checkedAt": "2026-09-30T23:55:03Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -2291.12,
-          "to": -2799.4829999999997
+          "from": -2799.4829999999997,
+          "to": -3628.5499999999997
         }
       },
       "retrievalStatus": "ok",
@@ -100,9 +100,9 @@
       "lotNumber": "1282",
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "hibidLotId": "323218949",
-      "highBid": 3.0,
-      "bidCount": 2,
-      "nextBid": 4.0,
+      "highBid": 6.0,
+      "bidCount": 5,
+      "nextBid": 7.0,
       "timeRemaining": "6d 11h 22m",
       "url": "https://pioneerauctionservice.hibid.com/lot/323218949/2-hand-held-post-hole-diggers--spade-shovel",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8432744724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=pndatSbPKl4RfDwSXVmbdtiKIfm5CZve&h=350&w=350",
@@ -110,8 +110,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "1h  54m  ",
-      "timeLeftSeconds": 6846.192999999999,
+      "timeLeft": "1h  40m  ",
+      "timeLeftSeconds": 6017.44,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -122,24 +122,24 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T23:41:14Z",
+      "checkedAt": "2026-09-30T23:55:03Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "highBid": {
-          "from": 2.0,
-          "to": 3.0
+          "from": 3.0,
+          "to": 6.0
         },
         "nextBid": {
-          "from": 3.0,
-          "to": 4.0
+          "from": 4.0,
+          "to": 7.0
         },
         "bidCount": {
-          "from": 1,
-          "to": 2
+          "from": 2,
+          "to": 5
         },
         "timeLeftSeconds": {
-          "from": 7358.88,
-          "to": 6846.192999999999
+          "from": 6846.192999999999,
+          "to": 6017.44
         }
       },
       "retrievalStatus": "ok",
