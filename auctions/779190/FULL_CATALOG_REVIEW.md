@@ -1,165 +1,125 @@
 # Full Catalog Review — Auction 779190
 
-Updated: 2026-09-29 / 2026-09-30 UTC
+Updated: 2026-09-29/30 ET
 
-## Scope and handoff
+## Verified state
 
-This file records the systematic full-catalog screen requested for personal-use-first buying decisions. It supplements, rather than replaces, the prior Master Review and Bid Board workbooks.
+- Auction: Pioneer Auction Service, Living Estate of Patricia Freed, auction 779190.
+- Archived catalog snapshot: 1,381 entries / 10,244 referenced photos, exported 2026-09-23T01:50:25Z.
+- Live all-lot updater is functioning; live state contains 1,383 lots. The two-count mismatch must be reconciled before final completion.
+- Prior review work was preserved. The existing master review had screened the first 100 catalog entries (through lot 92); this pass resumed at entry 101 / lot 93.
+- Existing Bid Board contains prior researched targets/comps including 449, 458, 575, 691, 1089 and 1282.
+- Catalog entries 101–1,381 have now received a title/description/live-price first-pass screen where metadata exists.
+- Important limitation: a large late-added block beginning around lot 1161 has blank/stale archived titles/photos. Those lots are NOT treated as screened ignores; they require a refreshed catalog/photo export.
 
-- Catalog snapshot: 1,381 permanent catalog entries.
-- Live updater: 1,383 lots currently reported/retrieved; reconcile the two added live lots before final completion.
-- Prior verified detailed handoff: first 100 catalog entries, through lot 92.
-- Current systematic screen: all 1,381 permanent catalog entries screened.
-- Cumulative screened: **1,381 / 1,381 (100%)**. The three live-only additions (838B, 1160B, 1350B) were also reconciled, bringing the live set to 1,383; note that 838B appears to overlap the permanent count structure, so final ID-level reconciliation remains preferable to arithmetic by lot label.
-- Live bid data was functioning during this pass (1,383/1,383 retrieved at 2026-09-30T02:21:51Z).
-- Photo review is selective: surviving lots require original-photo inspection before final bid caps. Do not mark all screened lots as photo-reviewed.
+## Retained personal-use candidates from resumed full-catalog screen
 
-## Screening rules
+These are candidates for photo review/research, not final bid caps.
 
-Personal usefulness outranks resale. Cheap alone is not a reason to retain. Three-phase, difficult transport, incompleteness, repair risk, duplication, and poor liquidity are negative factors. Bid caps are hammer-price caps and must include buyer-premium/tax/repair/transport economics.
+| Lot | Item | First-pass class | Why retained / risk |
+|---|---|---|---|
+| 120 | Pressure canner + Deni ice cream maker | PRICE-DEPENDENT | Canning use; identify canner brand/model and inspect sealing/pressure hardware. |
+| 319 | Bulbs, surge protector, screw extractor, tape, Runva/Runvan winch | GOOD OPPORTUNITY | Shop/vehicle utility; winch identity, capacity, leads/controller and condition need photo verification. |
+| 648 | Veterinary syringes + stethoscopes | PRICE-DEPENDENT | Possible livestock utility; only if equipment is appropriate/usable and condition is acceptable. |
+| 801 | Vintage locks/hardware/oil gun etc. | PRICE-DEPENDENT | Mixed shop hardware; inspect actual contents. |
+| 802 | Drawknife, folding rules, hardware, sockets, headlamp etc. | GOOD OPPORTUNITY | Useful mixed hand-tool lot if photos show decent tools. |
+| 823 | Craftsman sharpening/grinding attachment + misc. | PRICE-DEPENDENT | Shop utility; identify attachment and completeness. |
+| 825 | Electrical/plumbing items and tools | GOOD OPPORTUNITY | Direct renovation/shop fit; needs photo inventory. |
+| 826 | Pipe wrenches | GOOD OPPORTUNITY | Direct plumbing/farm utility; inspect sizes/brands/jaws. |
+| 827–835 | Ball jars/canning jars | PRICE-DEPENDENT | Canning use; value depends on jar count, condition and lid/ring mix. |
+| 833 | Speed Queen washer | PRICE-DEPENDENT | Very low bid; model, age, test status and transport matter. |
+| 836, 847 | Frigidaire freezers | PRICE-DEPENDENT | Farm food storage; only with convincing condition/test evidence. |
+| 850 | LG portable air conditioner | GOOD OPPORTUNITY | Catalog says tested; model/BTU/hoses/window kit matter. |
+| 958 | Electrical repair supplies | PRICE-DEPENDENT | Cheap consumables for property work. |
+| 979 | Selmer Bundy II saxophone + White's Classic III Plus metal detector | SPECULATIVE / RESALE | Unusual two-item value lot; inspect completeness/condition and research detector/sax values. |
+| 980 | Makita 10-inch saw | GOOD OPPORTUNITY | Shop use; identify exact saw/model, guards/fence/accessories, test status. |
+| 982 | B&D sander/polisher + 4.5-inch grinder | PRICE-DEPENDENT | Useful if functional; commodity tools. |
+| 984 | Craftsman reciprocating saw + Deluxe Zipp saw | PRICE-DEPENDENT | Shop/renovation use; inspect condition. |
+| 985 | 1/2-inch electric hammer drill | PRICE-DEPENDENT | Useful corded backup; brand/model critical. |
+| 986 | Craftsman Industrial reciprocating saw | GOOD OPPORTUNITY | Heavy corded shop tool; inspect/test. |
+| 988 | DeWalt drill, 2 batteries, charger | PRICE-DEPENDENT | Battery generation/health determines value. |
+| 990 | Skil jigsaw + heat gun + B&D sander | PRICE-DEPENDENT | Useful mixed shop lot at opening-price territory. |
+| 993 | Two B&D circular saws, tested | PRICE-DEPENDENT | Redundant but cheap usable corded tools. |
+| 994 | Pneumatic paint sprayers | PRICE-DEPENDENT | Shop/farm painting; inspect cups/nozzles. |
+| 996–997 | Hardware organizers with contents | GOOD OPPORTUNITY | Shop organization plus consumables; photo contents matter. |
+| 999–1002 | Sockets/hammers/socket set | GOOD OPPORTUNITY | Basic shop tools if brands/completeness justify pickup. |
+| 1003 | Estwing E3-CA + striking tools | GOOD OPPORTUNITY | Estwing alone can justify a low bid if condition is sound. |
+| 1004–1005, 1012–1013 | Pipe wrenches | GOOD OPPORTUNITY | Plumbing/farm utility; compare sizes/brands and avoid duplicates. |
+| 1015 | 9 C-clamps | GOOD OPPORTUNITY | Fabrication/woodworking utility; inspect sizes/threads. |
+| 1016–1025 | Mixed drill bits, pliers, riveter, levels, masonry bits, hoof nipper, trowels | PRICE-DEPENDENT | Useful consumable/hand-tool lots; select best rather than buy all. |
+| 1028 | Bucket of tools incl. clamp/hacksaws/hand auger | PRICE-DEPENDENT | Mixed utility; photo inventory required. |
+| 1029 | Craftsman 10-inch bandsaw, 1/3 HP | STRONG TARGET | Strong woodworking/shop fit; verify model, table/fence/guards/blade guides and operation. |
+| 1030 | Black Jack trailer jack, 3,000-lb max / 2,000-lb lift | GOOD OPPORTUNITY | Trailer/farm use; inspect mount/gear/handle. |
+| 1031 | Torin Black Jack 2.5-ton floor jack | STRONG TARGET | Automotive/F-250 shop utility; inspect leaks, saddle, casters and lift/hold. |
+| 1038 | Hand-forged log rolling tool | GOOD OPPORTUNITY | Farm/tree work; inspect hook/pivot/handle. |
+| 1042, 1046 | Pry bars/tire irons | GOOD OPPORTUNITY | Direct shop/farm utility at low bids. |
+| 1049, 1049B, 1050 | Wet/dry vacuums | PRICE-DEPENDENT | Shop cleanup; choose best functional unit, do not accumulate all. |
+| 1052 | Two Sotz Monster Mauls | GOOD OPPORTUNITY | Wood/farm use; durable specialty splitters. |
+| 1079 | Platform ladder | GOOD OPPORTUNITY | Property/shop utility; safety/feet/hinges/platform must be sound. |
+| 1080 | Crescent/Lufkin measuring wheel | GOOD OPPORTUNITY | Property layout/fence/building planning. |
+| 1081 | DieHard 275/125A engine-start battery charger | STRONG TARGET | Vehicle/farm utility; verify model, cables/clamps and operation. |
+| 1083 | Hoofing pincers + level + sprayer accessories | PRICE-DEPENDENT | Livestock/property utility. |
+| 1093, 1095–1097 | Rope/staples/tie-downs/paint-extension gear | GOOD OPPORTUNITY | Consumables/property work if clean and cheap. |
+| 1100–1101 | Large hinges; screws/nails | GOOD OPPORTUNITY | Barn/shop/building utility. |
+| 1103 | Manual drain auger + caution light | GOOD OPPORTUNITY | Plumbing/property use; inspect cable condition/length. |
+| 1108 | Tarps | PRICE-DEPENDENT | Farm utility; condition/size matter. |
+| 1112–1117 | Caulk guns, pipe heat cable, locks, plumbing parts | PRICE-DEPENDENT | Renovation consumables. |
+| 1119 | 2-ton hand puller | GOOD OPPORTUNITY | Farm/vehicle/material handling; inspect cable/ratchet/hooks. |
+| 1120 | Stanley levels | GOOD OPPORTUNITY | Construction/shop utility. |
+| 1124–1127 | Hitch pins/hardware, mixed tools, pulley, mechanical puller | GOOD OPPORTUNITY | High utility if complete/sound. |
+| 1128–1141 | Welding helmets/abrasives/extension cords/electrical supplies | GOOD OPPORTUNITY | Strong future-shop fit; select condition/quality rather than blanket-buying. |
+| 1143 | Small-engine parts | PRICE-DEPENDENT | Potential farm equipment spares; identify applicability. |
+| 1145 | Trailer towing hardware | GOOD OPPORTUNITY | Trailer/F-250 utility; inspect ratings/sizes. |
+| 1147–1160 | Automotive/air/towing/grease/fluid service lots | GOOD OPPORTUNITY | Direct vehicle/farm maintenance fit; prioritize durable hardware over old fluids. |
+| 1193 | Stainless dairy/milking buckets + strainer | GOOD OPPORTUNITY | Farm/livestock/food-safe utility; inspect stainless condition and size. |
+| 1194 | Fairbanks Morse platform beam scale | PRICE-DEPENDENT | Farm/shop utility/decor; heavy/transport and accuracy matter. |
+| 1233 | Steel rail ties | PRICE-DEPENDENT | Fabrication/material stock; dimensions/weight/transport needed. |
+| 1234 | Heavy round steel stock | GOOD OPPORTUNITY | Welding/fabrication stock if dimensions and handling are reasonable. |
+| 1275 | Shelf + hardware bins + metal locker | STRONG TARGET | Excellent future-shop storage fit; transport/condition needed. |
+| 1276 | Two metal dollies | PRICE-DEPENDENT | Material handling; one missing tire. |
+| 1277 | Two metal trailer ramps | STRONG TARGET | Trailer/farm loading utility; dimensions, construction and load rating needed. |
+| 1279 | Hitch-mounted metal carrier | GOOD OPPORTUNITY | F-250/farm transport; inspect receiver size, deck/rust. |
+| 1280–1281 | Ladders | PRICE-DEPENDENT | Property use; inspect safety/condition. |
+| 1282 | Two post-hole diggers + spade | STRONG TARGET | Already identified in prior research; direct fencing/farm use. |
+| 1283–1289 | Picks, shovels, brooms, sledge/weed tools, pitchfork/loppers, rakes | GOOD OPPORTUNITY | Direct farm/garden use; consolidate around best lots/condition. |
+| 1292 | Iron Horse II saw horses | GOOD OPPORTUNITY | Construction/shop utility. |
+| 1303–1304 | Propane tanks | PRICE-DEPENDENT | Useful only if dates/condition/ownership are acceptable. |
+| 1305–1307 | Gas cans | PRICE-DEPENDENT | Farm equipment fuel storage; inspect caps/spouts/condition. |
+| 1308 | One-bottom plow | PRICE-DEPENDENT | Potential garden/feed plot use; hitch type/condition/tractor compatibility needed. |
+| 1315 | MTD 22-inch push mower | PRICE-DEPENDENT | Grounds use; only if running/repair economics make sense. |
+| 1316 | Huskee lawn sweeper | GOOD OPPORTUNITY | Grounds/orchard utility if hopper/brushes/gears are sound. |
+| 1320–1321 | Snow/garden fencing | GOOD OPPORTUNITY | Farm/garden temporary fencing use. |
+| 1322–1324 | Large trash bins | GOOD OPPORTUNITY | Shop/barn/feed/storage utility at low bids. |
+| 1326 | Quality Farm & Fleet wagon | GOOD OPPORTUNITY | Garden/farm material handling; inspect bed/wheels/steering. |
+| 1330 | Goose/owl decoys | PRICE-DEPENDENT | Possible garden deterrence; low priority. |
+| 1331–1332 | Garden hoses | PRICE-DEPENDENT | Useful only if not brittle/leaking. |
+| 1354 | Large live trap | GOOD OPPORTUNITY | Farm pest/animal management; inspect trigger/door/mesh. |
+| 1355 | Metal/plastic crates | GOOD OPPORTUNITY | Shop/farm storage. |
+| 1357 | Metal carts | GOOD OPPORTUNITY | Material handling; inspect casters/size. |
+| 1358 | 23-gal bucket + lidded buckets | PRICE-DEPENDENT | Feed/shop storage. |
 
-## Entries 101–250 (lots 93–242)
+## Collectible/resale candidates retained for deeper research
 
-Predominantly kitchenware, household goods, dolls, books and decor. Most are IGNORE for this user's farm/shop priorities.
+Personal-use weighting remains higher. These are only worth pursuing where margin is unusually favorable.
 
-Retain for deeper review:
-- Lot 120 — Deni ice-cream maker + pressure canner. PRICE-DEPENDENT personal-use candidate. Current bid $0 when screened. Identify canner model/size and completeness in photos; gauge/regulator/rack/gasket condition matter. Large Presto canners have materially more utility/value than small pressure cookers.
-- Lot 124 — FoodSaver vacuum sealer + basket. PRICE-DEPENDENT personal-use candidate. Current bid $2 when screened. Photo-check model, sealing strip and included rolls/bags.
-- Lot 155 — two apple peeler/corer/slicers. PRICE-DEPENDENT for orchard/canning use at very low price; current $5.
-- Lots 127–129 oil lamps — already $29–32; no longer obvious personal-use bargains. Collectible value only if maker/model evidence warrants it.
+- Clock group: lots 365, 371, 376, 382, 386–388, 392, 403–408. Original photos/model/movement/completeness must be compared; do not buy the whole run indiscriminately.
+- Glass: prior researched uranium/carnival targets 449, 452, 458, 575 remain preserved. Lots 419, 420, 433 and selected Fenton/Depression glass require price-sensitive review only.
+- Lot 691 railroad lantern remains a prior researched collectible target, but its current live bid must be reconciled against the existing cap.
+- Lot 1089 mixed vintage beehive tail lamps remains a prior researched resale target.
+- Lot 979 saxophone + White's metal detector is a newly retained speculative lot because two independently saleable items may create unusual value.
 
-## Entries 251–350 (lots 243–343)
+## Explicit screening notes
 
-Mostly household/decor. Retain:
-- Lot 319 — bulbs, surge protector, Speed Out screw extractor, 25-ft tape, duct tape, Runvan winch and grounding adapter. GOOD OPPORTUNITY only if the winch is a useful complete unit and wiring/control hardware is present. Current bid $0 when screened. Original photos required.
-- Lot 337 — iridescent green glass swag/pendant lamp. Current bid $110; treat as IGNORE unless photo/market evidence shows exceptional collectible value. It is no longer a low-risk value play.
+- Entries 101–350: overwhelmingly household/decor/dolls/books. No broad recommendation; retained only the specific utility/collectible exceptions above.
+- Entries 351–750: clocks/glass/collectibles dominate. Retained only model-identifiable pieces with plausible margin; personal-use priority remains low.
+- Entries 751–950: primitive/collectible/furniture mix; useful shop/canning/appliance lots begin around 801+.
+- Entries 951–1,160: strongest shop/tool/automotive/property section of the catalog; many candidates retained above.
+- Entries around lots 1161–1273 contain substantial missing archived metadata. This is a data gap, not an IGNORE decision.
+- Entries 1,281–1,381 contain many high-relevance farm/shop/grounds lots and have been screened individually above.
 
-## Entries 351–450 (lots 344–443)
+## Next required work
 
-Clock and carnival-glass concentration. Most ordinary decor remains IGNORE. Retain selected clocks for photo/market triage:
-- Lots 365 and 367 — United horse clocks, currently $11 and $5.
-- Lots 371–383 — mechanical mantel clocks, generally $0–4 at screen time; prioritize maker-marked examples, especially Seth Thomas lot 382 and Sessions lot 383.
-- Lots 386–387 — German anniversary/torsion clocks, $3–4.
-- Lot 388 — Jefferson Golden Hour, current $26. Market evidence found working examples selling roughly $70–$155 online and a recent Michigan HiBid Golden Hour at $60. PRICE-DEPENDENT; condition/function photo verification is essential.
-- Lots 390 and 392 — Waltham 31-day and New Haven 8-day wall clocks, both $2.
-- Lots 403–408 — German/Swiss cuckoo clocks, current $5–12. Untested Black Forest clocks can sell cheaply; retain only those with complete weights, pendulum, chains, bellows/doors and good cases. Lot 407 had already appeared in prior Bid Board research and should not be duplicated blindly.
-
-## Entries 451–550 (lots 444–543)
-
-Large glassware run. Most has low personal utility and should not be accumulated merely because it is cheap.
-
-Prior-research items encountered and preserved:
-- Lot 449 — vintage uranium hand mixer, current $24. Existing prior Bid Board classified BID/resale with $35 hammer cap; do not overwrite without new evidence/photo findings.
-- Lot 452 — Federal Georgian Lovebirds uranium group, current $11. Existing prior Bid Board WATCH cap $12; near cap already.
-- Lot 458 — Hazel Atlas uranium refrigerator dishes + related pieces, current $14. Existing prior Bid Board BID cap $30.
-- Other carnival/Fenton/hen-on-nest lots in this range are not automatically retained; bids already reached $33–64 on several, reducing margin.
-
-## External market checks added in this pass
-
-- Jefferson Golden Hour 580-101 recent sold examples located at $70, $76, $90.19 (runs fast), $129, $149.96 and $150; Michigan HiBid also showed recent Golden Hour results around $53–$60. This supports value in a complete working example but not an aggressive cap before function/condition verification.
-- Presto pressure-canner market varies heavily by capacity/model. Current used asks include roughly $45 for a 16-qt and $80 for a like-new 23-qt private-party example; smaller pressure cookers can be worth much less. Lot 120 therefore needs model identification before a cap.
-
-## Entries 551–850
-
-Mostly collectibles/decor through lot 800. Preserve prior-research lots 575 (Fostoria Tut uranium trophy vase), 691 (railroad lantern), and 765 (Dietz red-globe lantern) rather than redoing prior work. Lot 575 was $8 when screened versus prior $40 cap. Lot 691 was $23; lot 765 had risen to $52, well above the prior $12 WATCH cap and should be removed absent materially different identification.
-
-Useful transition around lots 801–841:
-- 801–802 mixed old hardware/woodworking tools: PRICE-DEPENDENT.
-- 823 tool-sharpening/grinding attachment plus livestock tools: PHOTO REVIEW.
-- 825 electrical/plumbing items/tools: GOOD OPPORTUNITY at $2 if contents are useful.
-- 826 pipe wrenches: GOOD OPPORTUNITY at $0.
-- 827–835 Ball/canning jars: personal-use candidates at low prices; 828 already $7.
-- 832 cream separator: current $53; photo/model/completeness check required before any bid.
-- 833 Speed Queen washer: current $2; STRONG PHOTO/IDENTITY REVIEW because model/age/function can make this unusually useful.
-- 836 Frigidaire freezer: current $2; photo/model/function/transport check.
-- 837–840 shelving/cabinets: useful if condition/dimensions and pickup logistics fit.
-
-## Entries 851–1000
-
-- 847 Frigidaire upright freezer with key: $30; compare against lot 836 before bidding.
-- 850 LG portable air conditioner, stated tested: $2; GOOD OPPORTUNITY pending model/BTU/photo check.
-- 859 Dyson DC24 + DC41 + Haan cleaner: $4; PRICE-DEPENDENT, possible parts/resale value.
-- 939 two 25-lb kitchen/mercantile scales: $2; possible resale/decor but not priority.
-- 946 Pyrex/Anchor Hocking ovenware at $0: only retain if personal kitchen use desired.
-- 958 electrical/plumbing consumables at $0: useful cheap add-on.
-- 979 Selmer Bundy II saxophone + White's Classic III Plus metal detector: $3; unusually interesting value bundle, PHOTO REVIEW + market research.
-- 980 Makita 10-inch saw: $2; STRONG TARGET candidate pending exact saw/model/condition.
-- 982 B&D sander/polisher + 4-1/2 angle grinder: $2; GOOD OPPORTUNITY.
-- 984 Craftsman reciprocating saw + Deluxe Zipp saw: $0; GOOD OPPORTUNITY.
-- 985 1/2-inch electric hammer drill: $0; GOOD OPPORTUNITY.
-- 986 Craftsman Industrial reciprocating saw in case: $2; GOOD OPPORTUNITY.
-- 988 DeWalt battery drill, 2 batteries + charger: $0; PRICE-DEPENDENT; battery platform/age matters.
-- 990 Skil jig saw + heat gun + B&D sander: $0; GOOD OPPORTUNITY.
-- 993 two B&D 7-1/4 circular saws, stated tested: $0; useful backup tools but avoid junk accumulation.
-- 994 pneumatic paint sprayers: $0; PRICE-DEPENDENT.
-- 995 Remington powder-actuated tool + fasteners: $3; construction utility but verify model/condition and applicable handling.
-
-## Entries 1001–1150
-
-This is one of the strongest personal-use sections.
-- 996–997 hardware organizers with contents: $0 each; GOOD OPPORTUNITY.
-- 999 sockets/Allen keys/screwdriver: $2.
-- 1003 Estwing E3-CA roofing/drywall hatchet + striking tools: $2; GOOD OPPORTUNITY.
-- 1008 standard wrenches: $0; 1009 Thorsen socket set $2.
-- 1015 nine C-clamps: $4; STRONG TARGET candidate for fabrication/woodworking.
-- 1016–1025 assorted drill bits, hand tools, squares, blades, hoof nipper, masonry bits and trowels: many $0–2; selective low-price shop buys.
-- 1029 Craftsman 10-inch 1/3-HP band saw: $21; STRONG TARGET pending photo/model/blade-guide/table condition.
-- 1030 Black Jack trailer jack 3,000-lb max / 2,000-lb lift: $8; GOOD OPPORTUNITY.
-- 1031 Torin 2.5-ton floor jack: $0; GOOD OPPORTUNITY if no leak/damage.
-- 1038 hand-forged log rolling tool: $3; farm/wood utility.
-- 1042 pry/tire irons $0; 1046 two large pry bars $0.
-- 1049/1049B/1050 wet-dry vacs $0; choose best one rather than buying all.
-- 1052 two Sotz Monster Mauls: $3; GOOD OPPORTUNITY.
-- 1064 mole/animal traps: $2; farm use.
-- 1079 platform ladder $11; 1080 Lufkin measuring wheel $0; both useful.
-- 1081 DieHard 275/125A engine-start battery charger: $13; STRONG TARGET pending function.
-- 1083 hoof pincers + level + sprayer accessories: $0.
-- 1092 Farmall tractor parts $0; only if identifiable/useful/resalable.
-- 1095 heavy-duty staples $0; 1096 ratchet tie-downs $0; 1097 long paint roller/accessories $0.
-- 1100 large hinges $2; 1101 screws/nails $0; 1103 manual drain auger + caution light $0.
-- 1108 tarps $2; 1110 sanding/electrical tape $0; 1112 caulk guns $0; 1114 pipe heat cable/hose connectors $0.
-- 1119 2-ton hand puller $14; useful but already competitive.
-- 1124 hitch pins/R-clips/cotters $0; 1125 hand tools/tubing cutter/thread inserts $0.
-- 1127 heavy mechanical puller/installer $2; PHOTO REVIEW.
-- 1128 three welding helmets + lens plates $0; useful if lenses/helmets are serviceable.
-- 1130 grinding wheels/discs $0; 1131 HD extension cord/trouble light/power strips $2; 1132 torch cylinders/torch/electrodes $3; 1133 work/drop light + extension cord $0.
-- 1134–1141 electrical testers, wire, cords, reels and trouble lights: mostly $2–4; selectively attractive.
-- 1143 small-engine parts $0; photo review may reveal useful common parts.
-
-## Entries 1151–1300
-
-- 1145 trailer towing hardware $4; 1153 jumper cables $0; 1154 three grease guns $0; 1155 HD towing/tractor hardware $2; 1157 grease + two grease guns $0; 1159 bottle jack/tire-jack kit $0. These are directly useful, subject to condition.
-- 1161–1190 were blank/stale in the permanent snapshot, but live data supplies titles. Important recovered lots include 1172 two gas weed whips $0; 1173 Craftsman blower + chainsaw $0; 1174 compartment shelving $0; 1176 Dyna-Glo kerosene heater $0; 1179 metal shelving + stereo $11; 1181 metal table $0; 1182 two rolling carts $2; 1185 two 8-ft tables $0; 1186–1187 metal shelving $0; 1188 canning pots/jars $6; 1190 table/stool/chairs $0.
-- 1193 two stainless milking buckets + dairy strainer $17: GOOD OPPORTUNITY for farm use if stainless condition is sound.
-- 1194 Fairbanks Morse platform beam scale $0: PRICE-DEPENDENT collectible/farm utility.
-- 1208–1273 likewise had stale/blank permanent titles but live data recovered them. Strong personal-use candidates include 1210 garden fertilizer $7; 1211 garden supplies/soil $0; 1213 two Oster animal clippers $2; 1220 pipe insulation $2; 1223 bulbs/toilet rings/locks $0; 1225 large band-saw blades $0; 1235 windrower teeth + large hooks $0; 1236 roller chains $3; 1239 nuts/bolts/fasteners $0; 1240 chainsaw bars/chains $3; 1242 pipe clamps/brackets/casters $0; 1245 forged load binder + chain hooks $0; 1246 rope/pulley $0; 1247 large extension cords $2; 1248 utility hoses $0; 1249 shop mats $0; 1250 heavy steel chains $0; 1259 dryer vents/door locks $0; 1260 water-heater brass fittings/spigot handles $4; 1261 toilet/PVC/drain parts $0; 1268 Cyclone seeder + garden tools $2; 1269 battery weed sprayer $0.
-- 1274 wood storage cabinets $0; 1275 shelving/bin organizers/metal locker $0; 1276 two dollies $13 (one missing tire); 1277 two metal trailer ramps $9; 1279 hitch carrier $30.
-- 1282 two post-hole diggers + spade remains a prior BID target; current live bid still $0 versus prior $15 cap.
-- 1283 pick axes $2; 1284 shovel group $0; 1286 sledge/weed tools $0; 1287 hoes/pitchfork/loppers $0; 1289 rakes $2; 1292 two Iron Horse II saw horses $2.
-
-## Entries 1301–1381 + live-only lots
-
-- 1303/1304 pairs of propane tanks: $16/$14; potentially useful for camper/farm if certification/condition fit.
-- 1305 five plastic gas cans $0; 1306 three metal + one plastic gas cans $2.
-- 1308 one-bottom plow $2: farm-use PHOTO REVIEW; hitch/type/condition matter.
-- 1315 MTD 22-inch push mower $0; 1316 Huskee lawn sweeper $5.
-- 1320 snow fencing $2; 1321 garden wire fencing $0; 1322–1324 trash bins $0–5.
-- 1326 Quality Farm & Fleet wagon $2; 1327 crate + galvanized bucket $3.
-- 1330 goose/owls decoys $0; 1331/1332 garden hoses $2/$0.
-- 1354 large live trap $3; 1355 crates $0; 1357 metal carts $0; 1358 large bucket + lidded buckets $0; 1359 rack/plant stands $2.
-- Live-only 1350B: lattice, $2 — useful only if dimensions/condition fit a project.
-- Live-only 1160B: Bonus lot 2, $0 — requires live page/photo identification before classification.
-- Live-only 838B: Bonus Lot, $2 — requires identification.
-
-## Full-screen status
-
-**Catalog screening is complete.** Next phase is not another catalog pass: it is (1) original-photo inspection of the strongest retained personal-use/value candidates, (2) model identification and market comps where value is uncertain, (3) current-price reconciliation, and (4) a closing-time-sorted master shortlist with Bargain / Good Buy / Absolute Max hammer guidance.
-
-Priority photo/research queue: 833 Speed Queen washer; 836/847 freezers; 850 LG portable AC; 979 saxophone + White's metal detector; 980 Makita 10-inch saw; 1029 Craftsman band saw; 1030 trailer jack; 1031 floor jack; 1081 DieHard charger; 1127 puller; 1132 torch/welding lot; 1172–1173 gas tools; 1193 dairy buckets/strainer; 1213 Oster animal clippers; 1277 trailer ramps; 1308 one-bottom plow; plus prior shortlist lots 449, 458, 575, 691, 1089 and 1282.
-
-
-## Initial market calibration for priority shop lots
-
-- Lot 1029 Craftsman 10-inch 1/3-HP band saw, current $21: comparable 10-inch 1/3-HP Craftsman examples include a $38 Michigan auction sale, a $60 auction sale (untested, with stand), and current private asks around $90–$100. Preliminary hammer guidance pending photo condition: Bargain <= $30; Good Buy <= $45; provisional Absolute Max $55 if complete and sound. Sources: Biddergy Michigan sale, MaxSold, Craigslist.
-- Lot 1081 DieHard 275/125A engine-start charger, current $13: a comparable 275/125A unit sold at auction for $26 in 2025; working private asks for older DieHard starter/chargers are commonly much higher. Preliminary hammer guidance pending photo/function: Bargain <= $20; Good Buy <= $35; provisional Absolute Max $45 if complete and operational.
-- Lot 979 White's Classic III Plus metal detector bundled with Selmer Bundy II saxophone, current $3: current used asks for the detector alone are about $190–$225. Asking prices are not sold comps, but the bundle has enough margin at the current bid to merit STRONG TARGET/photo inspection. Do not set a final cap until detector coil/control condition and sax completeness are verified.
+1. Refresh/reconcile the catalog so the blank late-added lots and the 1,381 vs 1,383 count mismatch are resolved.
+2. Pull original-resolution photos for retained candidates, prioritizing STRONG TARGET and GOOD OPPORTUNITY lots.
+3. Research exact models/market comps for survivors and assign Bargain / Good Buy / Absolute Max hammer bids.
+4. Reconcile against the latest live bid state and watchlist, then produce the closing-time-sorted master shortlist.
