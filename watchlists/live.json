@@ -1,13 +1,14 @@
 {
-  "schemaVersion": "2.0",
-  "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
-  "updaterVersion": "2.0.0",
-  "checkedAt": "2026-09-30T18:07:30Z",
+  "schemaVersion": "1.0",
+  "updater": "Pioneer HiBid Watchlist Bid Updater",
+  "updaterVersion": "1.0.0",
+  "checkedAt": "2026-09-30T18:24:54Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
     "reportedLotCount": 2,
-    "capturedLotCount": 2
+    "capturedLotCount": 2,
+    "sha256": "b7d9acf47c2812d4a9528e11e3265b732a3fa57297f0d6c1e14bc9ae038e30f9"
   },
   "summary": {
     "trackedLots": 2,
@@ -15,7 +16,8 @@
     "missingLots": 0,
     "activeLots": 2,
     "closedLots": 0,
-    "changedLotsSincePreviousCheck": 2
+    "changedLotsSincePreviousCheck": 2,
+    "invalidSourceRows": 0
   },
   "changes": [
     {
@@ -24,9 +26,21 @@
       "title": "JCPenney 4 In One Stereo System W/Speakers",
       "auctionId": "779190",
       "fields": {
+        "highBid": {
+          "from": 4.0,
+          "to": 5.0
+        },
+        "nextBid": {
+          "from": 5.0,
+          "to": 6.0
+        },
+        "bidCount": {
+          "from": 3,
+          "to": 5
+        },
         "timeLeftSeconds": {
-          "from": 17659.583,
-          "to": 17224.873
+          "from": 17224.873,
+          "to": 16175.873
         }
       }
     },
@@ -37,8 +51,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 27309.583,
-          "to": 26870.51
+          "from": 26870.51,
+          "to": 25825.873
         }
       }
     }
@@ -49,9 +63,9 @@
       "lotNumber": "321",
       "title": "JCPenney 4 In One Stereo System W/Speakers",
       "hibidLotId": "322874070",
-      "highBid": 4.0,
-      "bidCount": 3,
-      "nextBid": 5.0,
+      "highBid": 5.0,
+      "bidCount": 5,
+      "nextBid": 6.0,
       "timeRemaining": "6d 8h 41m",
       "url": "https://pioneerauctionservice.hibid.com/lot/322874070/jcpenney-4-in-one-stereo-system-w-speakers",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8431281815&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=uv2AfRdjsQRG2yF%2fZwZBQ16tPhBxtoUg&h=350&w=350",
@@ -59,8 +73,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
       "status": "OPEN",
-      "timeLeft": "4h  47m  ",
-      "timeLeftSeconds": 17224.873,
+      "timeLeft": "4h  29m  ",
+      "timeLeftSeconds": 16175.873,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -71,18 +85,30 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T18:07:30Z",
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "timeLeftSeconds": {
-          "from": 17659.583,
-          "to": 17224.873
-        }
-      },
+      "checkedAt": "2026-09-30T18:24:54Z",
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 3,
       "sourceSnapshotBidCount": 2,
-      "sourceSnapshotNextBid": 4
+      "sourceSnapshotNextBid": 4,
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "highBid": {
+          "from": 4.0,
+          "to": 5.0
+        },
+        "nextBid": {
+          "from": 5.0,
+          "to": 6.0
+        },
+        "bidCount": {
+          "from": 3,
+          "to": 5
+        },
+        "timeLeftSeconds": {
+          "from": 17224.873,
+          "to": 16175.873
+        }
+      }
     },
     {
       "lotNumber": "1282",
@@ -98,8 +124,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "7h  27m  ",
-      "timeLeftSeconds": 26870.51,
+      "timeLeft": "7h  10m  ",
+      "timeLeftSeconds": 25825.873,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -110,18 +136,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T18:07:30Z",
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "timeLeftSeconds": {
-          "from": 27309.583,
-          "to": 26870.51
-        }
-      },
+      "checkedAt": "2026-09-30T18:24:54Z",
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 0,
       "sourceSnapshotBidCount": 0,
-      "sourceSnapshotNextBid": 2
+      "sourceSnapshotNextBid": 2,
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": 26870.51,
+          "to": 25825.873
+        }
+      }
     }
   ]
 }
