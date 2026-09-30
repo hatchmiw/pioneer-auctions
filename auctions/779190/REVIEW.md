@@ -151,3 +151,140 @@ These lots survived the initial screen and are queued for archived-original-phot
 4. Research realistic used-market/private-party value for lots where the price decision needs it.
 5. Assign the requested final categories and Bargain / Good Buy / Absolute Max hammer guidance.
 6. Maintain the actionable shortlist sorted by close time.
+
+
+---
+
+## 2026-09-30 auction-day photo + price reconciliation (authoritative for today's shortlist)
+
+Live comparison timestamp: **2026-09-30T12:56:56Z (08:56 ET)**. All 97 working-shortlist lot numbers were present in the live all-lot feed.
+
+### Photo-review completion
+
+Archived original-photo artifacts from workflow run **35807889904** were used. **96 of 97** working-shortlist lots had archived photos and every archived photo for those lots was reviewed. **Lot 1193** is the sole exception: the permanent catalog itself reports zero photos, so its condition remains unverified.
+
+Important corrections from the photos:
+- **120**: the Presto vessel is small pressure-cooker size, not a serious canning-size pressure canner; no regulator weight is shown.
+- **319**: no winch appears in any archived photo. The lot is bulbs, surge/cord items, SpeedOut extractors, tape measure and small electrical miscellany. Earlier “hidden winch” rationale is invalid.
+- **407**: three weights, chains, pendulum and German musical movement are pictured; materially more complete than an unknown clock, but operation is still unverified.
+- **575**: trophy vase and two bowls appear intact in the archived views; no obvious chip/crack visible, but small edge flaws cannot be ruled out from photos.
+- **691**: body is clearly marked Dressel/Arlington, with intact-looking blue lens and substantially complete lantern.
+- **847**: Frigidaire model **FFUH17F2NWA**, 16.7-cu-ft class upright freezer; clean interior/shelving and key shown, but no proof it reaches/holds temperature.
+- **977**: no bell is present; this is a No. 2 yoke/mount/bracket group only. Drop the complete-bell value thesis.
+- **979**: Bundy II saxophone appears substantially present in its case and the White's Classic III Plus detector/control/Blue Max 950 coil are pictured. Strong mixed-value candidate, still untested.
+- **1132**: not large welding-gas cylinders; photos show small torch/fuel items plus stick electrodes and striker. Lower-value shop lot.
+- **1233**: actual short rail sections, useful as heavy fabrication/anvil/weight stock.
+- **1234**: very large solid round steel stock; useful raw material but extremely heavy.
+- **1277**: narrow perforated trailer ramps look straight, but no load rating is visible; do not assume automotive capacity.
+- **1308**: old walk-behind/horse-drawn one-bottom plow, not a modern tractor 3-point plow. Mostly antique/project value for this buyer.
+- **1316**: no assembled catcher/hopper is shown in the archive, so completeness is not verified. Do not use the old $30 cap unless the hopper is found.
+- **1130**: old abrasive wheels/discs have unknown age/storage history; do not treat them as desirable consumables.
+
+### Auction-day hammer caps after photo review
+
+These are hammer-price ceilings, before buyer premium/tax. They are not automatic bids.
+
+| Lot | Current | Hammer max | Action / condition gate |
+|---:|---:|---:|---|
+| 124 | $2 | $15 | Keep; complete-looking FoodSaver, low-dollar personal utility |
+| 407 | $7 | $25 | Keep untested; conditional $50 only if function/music confirmed |
+| 449 | $24 | $35 | Keep; complete-looking uranium mixer, limited room |
+| 452 | $11 | $12 | One-dollar room only; no chase |
+| 458 | $25 | $30 | Keep; both lids pictured, limited room |
+| 575 | $10 | $40 | Strong value target; photos support prior cap |
+| 691 | $23 | $40 | Strong value target; Dressel/Arlington marking confirmed |
+| 802 | $0 | $10 | Useful mixed hand-tool/hardware lot |
+| 825 | $2 | $8 | Low-dollar electrical/plumbing utility only |
+| 826 | $0 | $12 | Four old pipe wrenches; rusty but usable-looking |
+| 827 | $2 | $5 | Canning jars/racks only if wanted |
+| 834 | $4 | $8 | Tote of jars; practical, not priority |
+| 835 | $4 | $8 | Tote of jars; practical, not priority |
+| 837 | $0 | $10 | Small metal shelf; only if hauling worthwhile |
+| 838 | $0 | $8 | Shelf + contents; clutter risk |
+| 839 | $0 | $15 | Rough but useful tall cabinet |
+| 840 | $2 | $10 | Worn multi-compartment cabinet |
+| 847 | $30 | $75 | Strong if untested; conditional $125 only if verified freezing/holding temp |
+| 959 | $2 | $8 | Two manual grinders; low priority |
+| 979 | $3 | $75 | STRONG TARGET untested; conditional $125 if detector powers and sax is mechanically serviceable |
+| 980 | $2 | $20 | Keep prior cap; complete-looking older Makita miter saw, untested |
+| 995 | $3 | $10 | Remington tool + fasteners; construction utility |
+| 996 | $0 | $10 | Full-ish hardware organizer; good shop utility |
+| 997 | $2 | $8 | Second organizer; useful but less compelling |
+| 1015 | $4 | $15 | Nine clamps; good shop target |
+| 1029 | $21 | $30 | Keep prior hard max; saw appears complete, operation unknown |
+| 1030 | $13 | $20 | Trailer tongue jack appears complete |
+| 1031 | $0 | $12 | Keep prior cap; must lift and hold |
+| 1046 | $0 | $10 | Two large pry bars; good utility |
+| 1052 | $3 | $15 | Two Monster Mauls; useful farm/wood lot |
+| 1079 | $11 | $20 | Platform ladder; visually sound |
+| 1080 | $0 | $12 | Measuring wheel; clean-looking |
+| 1081 | $13 | $25 | Keep prior cap; cables/clamps/manual shown, function unknown |
+| 1089 | $5 | $20 | Keep prior researched resale cap |
+| 1119 | $14 | $15 | Box-only verification; do not chase beyond next bid |
+| 1124 | $0 | $8 | Hitch pins/clips/clamps/hardware |
+| 1125 | $0 | $5 | Mixed old hand tools; low priority |
+| 1126 | $2 | $8 | Double-sheave pulley + old tools |
+| 1127 | $2 | $8 | Specialty puller set; possible incompleteness |
+| 1128 | $0 | $5 | Old passive welding helmets; backup-only |
+| 1131 | $2 | $10 | Heavy extension cord + trouble light |
+| 1132 | $3 | $8 | Small torch/fuel/electrode lot; lower value than title suggests |
+| 1133 | $0 | $8 | Work/drop lights + cord |
+| 1134 | $2 | $5 | Older electrical parts/tester |
+| 1135 | $2 | $5 | Mixed wire/cords; clutter-heavy |
+| 1136 | $2 | $8 | Cord/electrical utility |
+| 1137 | $2 | $10 | Extension cord/reel; useful if connectors fit |
+| 1138 | $2 | $10 | Heavy cord/reel; useful if connectors fit |
+| 1139 | $2 | $10 | Heavy/specialty cord; verify plug usefulness |
+| 1140 | $3 | $5 | Specialty industrial cable; low priority |
+| 1141 | $4 | $8 | Trouble light + cord + multi-outlet |
+| 1142 | $0 | $6 | Small useful hardware |
+| 1143 | $0 | $3 | Unknown-fit small-engine miscellany |
+| 1145 | $4 | $12 | Keep prior cap; hitch balls/drawbar shown |
+| 1148 | $0 | $10 | Pneumatic DA sander + bits |
+| 1149 | $0 | $8 | Old air hoses/tire/blow tools |
+| 1154 | $0 | $5 | Three old grease guns; low priority |
+| 1155 | $3 | $15 | Keep prior cap; heavy balls/clevis/pins useful |
+| 1157 | $2 | $5 | Old grease guns/grease; low priority |
+| 1159 | $0 | $5 | Small bottle jack; rating/function unverified |
+| 1193 | $18 | $20 | PHOTO UNAVAILABLE; no chase without condition evidence |
+| 1233 | $8 | $20 | Rail sections; fabrication/anvil stock |
+| 1234 | $2 | $15 | Heavy solid round stock; strong material value if transport manageable |
+| 1275 | $0 | $15 | Shelf/locker/organizer storage; better than 1274 |
+| 1277 | $9 | $20 | Keep prior cap; no visible load rating |
+| 1280 | $11 | $15 | Step stool; useful but not special |
+| 1281 | $0 | $5 | Old wood + metal ladders; safety/condition limits value |
+| 1282 | $0 | $15 | Strong personal-use target; prior cap retained |
+| 1283 | $2 | $12 | Three pick axes |
+| 1284 | $0 | $12 | Shovels/scoops; useful farm lot |
+| 1286 | $0 | $10 | Sledge + weed tools |
+| 1287 | $0 | $10 | Keep prior cap; pitchfork/hoes/loppers |
+| 1288 | $2 | $5 | Old scythe/cultivator; low priority |
+| 1289 | $2 | $8 | Rakes; useful but bulky |
+| 1292 | $2 | $12 | Pair folding Iron Horse II sawhorses |
+| 1303 | $16 | $20 | Pair propane cylinders; date/requalification risk |
+| 1304 | $16 | $20 | Pair propane cylinders; date/requalification risk |
+| 1305 | $0 | $10 | Five used plastic gas cans |
+| 1306 | $2 | $15 | Three metal + one plastic gas cans |
+| 1321 | $0 | $10 | Keep prior cap; usable welded-wire fencing |
+| 1326 | $2 | $15 | Farm & Fleet wagon; rusty but intact |
+| 1354 | $3 | $10 | Large live trap; mechanism appears present |
+| 1355 | $0 | $6 | Utility crates |
+| 1357 | $0 | $10 | Two wire carts; wheels appear present |
+
+### Remove / do not chase after photo + price review
+
+- **120**: not the canning-size unit originally hoped for; token bid only if the ice-cream maker is personally wanted.
+- **319**: no winch; prior hidden-value thesis was wrong. Token utility lot only (roughly $5 ceiling).
+- **671**: current $8 already equals prior hard max.
+- **765**: current $52 versus prior $12 max — remove.
+- **828**: $7 already; old jars are not compelling enough versus cheaper jar lots.
+- **977**: yoke/mount only, no bell; current $15 — remove.
+- **1130**: old abrasive wheels with unknown storage history — remove for safety/value.
+- **1274**: rough homemade wood storage; transport is not worth prioritizing.
+- **1276**: $15 for two old dollies, one previously noted with tire issue; buyer already owns a good dolly — remove.
+- **1279**: current $30 versus prior $20 max — remove.
+- **1308**: walk-behind/horse-drawn antique plow, not useful as expected for tractor work; only antique/project interest at <=$5.
+- **1316**: old $30 cap is revoked unless catcher/hopper is confirmed. With no assembled hopper shown, hold to about $10 maximum; replacement hopper economics can erase the bargain.
+- **1359**: already $5 and low farm/shop priority — remove.
+
+This section supersedes earlier unverified shortlist assumptions where they conflict.
