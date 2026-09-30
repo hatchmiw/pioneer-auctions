@@ -156,3 +156,10 @@ This is one of the strongest personal-use sections.
 **Catalog screening is complete.** Next phase is not another catalog pass: it is (1) original-photo inspection of the strongest retained personal-use/value candidates, (2) model identification and market comps where value is uncertain, (3) current-price reconciliation, and (4) a closing-time-sorted master shortlist with Bargain / Good Buy / Absolute Max hammer guidance.
 
 Priority photo/research queue: 833 Speed Queen washer; 836/847 freezers; 850 LG portable AC; 979 saxophone + White's metal detector; 980 Makita 10-inch saw; 1029 Craftsman band saw; 1030 trailer jack; 1031 floor jack; 1081 DieHard charger; 1127 puller; 1132 torch/welding lot; 1172–1173 gas tools; 1193 dairy buckets/strainer; 1213 Oster animal clippers; 1277 trailer ramps; 1308 one-bottom plow; plus prior shortlist lots 449, 458, 575, 691, 1089 and 1282.
+
+
+## Initial market calibration for priority shop lots
+
+- Lot 1029 Craftsman 10-inch 1/3-HP band saw, current $21: comparable 10-inch 1/3-HP Craftsman examples include a $38 Michigan auction sale, a $60 auction sale (untested, with stand), and current private asks around $90–$100. Preliminary hammer guidance pending photo condition: Bargain <= $30; Good Buy <= $45; provisional Absolute Max $55 if complete and sound. Sources: Biddergy Michigan sale, MaxSold, Craigslist.
+- Lot 1081 DieHard 275/125A engine-start charger, current $13: a comparable 275/125A unit sold at auction for $26 in 2025; working private asks for older DieHard starter/chargers are commonly much higher. Preliminary hammer guidance pending photo/function: Bargain <= $20; Good Buy <= $35; provisional Absolute Max $45 if complete and operational.
+- Lot 979 White's Classic III Plus metal detector bundled with Selmer Bundy II saxophone, current $3: current used asks for the detector alone are about $190–$225. Asking prices are not sold comps, but the bundle has enough margin at the current bid to merit STRONG TARGET/photo inspection. Do not set a final cap until detector coil/control condition and sax completeness are verified.
