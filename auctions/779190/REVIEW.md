@@ -9,55 +9,47 @@ Last updated: 2026-09-30 (ET)
 - Current all-lot updater is functioning and now reports **1,383 live lots**.
 - Live additions not present in the permanent catalog: **838B Bonus Lot**, **1160B Bonus lot 2**, **1350B Lattice**.
 - Static lot **1231** is absent from the current live set; treat it as stale/withdrawn unless evidence changes.
-- Existing prior research is preserved. The first 100 catalog entries (through lot 92) were already reviewed in `Pioneer_Auction_Master_Review.xlsx`; the separate 2026-09-24 bid board contains prior sold comps, condition gates and hammer caps for 31 shortlisted lots.
+- Existing prior research was reconciled by auction identity. `Pioneer_Auction_Master_Review.xlsx` belongs to a different Pioneer auction (HiBid lot IDs in the 320585xxx series; Polaris/Farmall/Ski-Doo catalog) and must **not** be used as prior research for auction 779190. The separate `Pioneer_779190_Bid_Board_2026-09-24.xlsx` is valid for auction 779190 and contains prior sold comps, condition gates and hammer caps for 31 shortlisted lots.
 - GitHub Actions photo artifacts from successful run **35807889904** are still available. They are the preferred source for archived original photos; do not re-download those lots from HiBid unnecessarily.
 
 ## Full-catalog screen status
 
-**Initial title/description/current-price screen is complete for the entire 1,381-entry permanent catalog.**
+**Initial title/description/current-price screen is complete for catalog entries 101–1,381. Entries 1–100 are being re-screened directly from auction 779190 after detecting that the older Master Review workbook belonged to another auction.**
 
-The screen resumed at catalog entry 101 / lot 93 and continued through catalog entry 1,381 / lot 2000. Household goods, common decor, low-value dolls/books/glassware, obvious duplicates and generic low-demand items were screened out unless they had a credible personal-use or exceptional-value reason to continue.
+The verified new screen resumed at catalog entry 101 / lot 93 and continued through catalog entry 1,381 / lot 2000. Household goods, common decor, low-value dolls/books/glassware, obvious duplicates and generic low-demand items were screened out unless they had a credible personal-use or exceptional-value reason to continue.
 
 A block from lots 1161–1273 contains many placeholder records. Of 113 lots in that interval, **101 have both no useful title/description and zero archived photos**. Those are not assigned invented values and are classified **IGNORE / unidentified** unless current live-page evidence later identifies them. The photographed exceptions include 1198–1203, 1207–1210, 1233 and 1234.
 
-## Prior established targets to preserve
+## Valid prior auction-779190 research to preserve
 
-These are not newly re-valued here; retain the prior research until the live-price/photo reconciliation pass updates them.
+Use only the auction-specific 2026-09-24 bid board and direct repository evidence for inherited conclusions. Valid prior 779190 targets include:
 
-### Personal/shop/farm
-- 55 — 3-ton cherry picker
-- 57 — Craftsman compound miter saw
-- 61 / 61B / 61D — heavy socket/toolbox groups
-- 62 — Snap-On / Matco socket mix
-- 63 — MAC socket set
-- 72 / 73 — Snap-On swivel impact socket sets
-- 75 — S-K swivel impact sockets
-- 79 / 81 — torque-wrench lots
-- 82 — Snap-On extension / speed wrench / breaker bar
-- 91 — Snap-On flex-head ratchet group
-- 96 / 97 — S-K wrench groups
-- 980 — Makita 10-inch saw
-- 1029 — Craftsman 10-inch bandsaw
-- 1031 — Torin 2.5-ton floor jack
-- 1081 — DieHard 275/125A charger
-- 1145 — trailer towing hardware
-- 1155 — heavy towing / tractor hardware
-- 1277 — metal trailer ramps
-- 1279 — receiver-hitch cargo carrier
-- 1282 — manual post-hole diggers + spade
-- 1287 — hoes / pitchfork / loppers
-- 1316 — Huskee lawn sweeper
-- 1321 — garden wire fencing
+### Personal / capital
+- **2** — Brister TW11 340cc utility vehicle; separate capital budget, condition gate required.
+- **3** — 8-foot utility trailer; separate capital budget, frame/axle/tires/VIN/registration gate.
+- **980** — Makita 10-inch saw.
+- **1029** — Craftsman 10-inch 1/3 HP bandsaw.
+- **1031** — Torin 2.5-ton floor jack.
+- **1081** — DieHard 275/125A wheeled charger.
+- **1145** — trailer towing hardware.
+- **1155** — heavy towing / tractor hardware.
+- **1277** — metal trailer ramps.
+- **1279** — receiver-hitch cargo carrier.
+- **1282** — manual post-hole diggers + spade.
+- **1287** — hoes / pitchfork / loppers.
+- **1316** — Huskee lawn sweeper.
+- **1321** — garden wire fencing.
 
-### Prior resale/value targets
-- 407 — German Black Forest cuckoo clock
-- 449 — uranium-glass hand-crank mixer
-- 452 — Federal Georgian Lovebirds uranium glass
-- 575 — likely Fostoria Tut green uranium trophy vase + bowls
-- 671 — Don Sharkey / John Deere thermometer
-- 691 — Dressel Arlington blue-lens railroad lantern
-- 765 — Dietz red-globe railroad-style lantern
-- 1089 — mixed vintage beehive stop/tail lamps
+### Resale / value
+- **407** — German Black Forest cuckoo clock.
+- **449** — uranium-glass hand-crank mixer.
+- **452** — Federal Georgian Lovebirds uranium glass.
+- **458** — Hazel Atlas uranium refrigerator dishes + sugar/bowl.
+- **575** — likely Fostoria Tut green uranium trophy vase + bowls.
+- **671** — Don Sharkey / John Deere thermometer.
+- **691** — Dressel/railroad lantern candidate.
+- **765** — Dietz red-globe railroad-style lantern.
+- **1089** — mixed vintage beehive stop/tail lamps.
 
 ## Newly retained from the remainder of the full-catalog screen
 
