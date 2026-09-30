@@ -1,14 +1,13 @@
 {
-  "schemaVersion": "1.0",
-  "updater": "Pioneer HiBid Watchlist Bid Updater",
-  "updaterVersion": "1.0.0",
-  "checkedAt": "2026-09-30T23:32:41Z",
+  "schemaVersion": "2.0",
+  "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
+  "updaterVersion": "2.0.0",
+  "checkedAt": "2026-09-30T23:41:14Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
     "reportedLotCount": 2,
-    "capturedLotCount": 2,
-    "sha256": "b7d9acf47c2812d4a9528e11e3265b732a3fa57297f0d6c1e14bc9ae038e30f9"
+    "capturedLotCount": 2
   },
   "summary": {
     "trackedLots": 2,
@@ -16,8 +15,7 @@
     "missingLots": 0,
     "activeLots": 1,
     "closedLots": 1,
-    "changedLotsSincePreviousCheck": 2,
-    "invalidSourceRows": 0
+    "changedLotsSincePreviousCheck": 2
   },
   "changes": [
     {
@@ -27,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -2043.043,
-          "to": -2291.12
+          "from": -2291.12,
+          "to": -2799.4829999999997
         }
       }
     },
@@ -38,9 +36,21 @@
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "auctionId": "779190",
       "fields": {
+        "highBid": {
+          "from": 2.0,
+          "to": 3.0
+        },
+        "nextBid": {
+          "from": 3.0,
+          "to": 4.0
+        },
+        "bidCount": {
+          "from": 1,
+          "to": 2
+        },
         "timeLeftSeconds": {
-          "from": 7602.96,
-          "to": 7358.88
+          "from": 7358.88,
+          "to": 6846.192999999999
         }
       }
     }
@@ -62,7 +72,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -2291.12,
+      "timeLeftSeconds": -2799.4829999999997,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -73,26 +83,26 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T23:32:41Z",
-      "retrievalStatus": "ok",
-      "sourceSnapshotHighBid": 3,
-      "sourceSnapshotBidCount": 2,
-      "sourceSnapshotNextBid": 4,
+      "checkedAt": "2026-09-30T23:41:14Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -2043.043,
-          "to": -2291.12
+          "from": -2291.12,
+          "to": -2799.4829999999997
         }
-      }
+      },
+      "retrievalStatus": "ok",
+      "sourceSnapshotHighBid": 3,
+      "sourceSnapshotBidCount": 2,
+      "sourceSnapshotNextBid": 4
     },
     {
       "lotNumber": "1282",
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "hibidLotId": "323218949",
-      "highBid": 2.0,
-      "bidCount": 1,
-      "nextBid": 3.0,
+      "highBid": 3.0,
+      "bidCount": 2,
+      "nextBid": 4.0,
       "timeRemaining": "6d 11h 22m",
       "url": "https://pioneerauctionservice.hibid.com/lot/323218949/2-hand-held-post-hole-diggers--spade-shovel",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8432744724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=pndatSbPKl4RfDwSXVmbdtiKIfm5CZve&h=350&w=350",
@@ -100,8 +110,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "2h  2m  ",
-      "timeLeftSeconds": 7358.88,
+      "timeLeft": "1h  54m  ",
+      "timeLeftSeconds": 6846.192999999999,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -112,18 +122,30 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T23:32:41Z",
+      "checkedAt": "2026-09-30T23:41:14Z",
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "highBid": {
+          "from": 2.0,
+          "to": 3.0
+        },
+        "nextBid": {
+          "from": 3.0,
+          "to": 4.0
+        },
+        "bidCount": {
+          "from": 1,
+          "to": 2
+        },
+        "timeLeftSeconds": {
+          "from": 7358.88,
+          "to": 6846.192999999999
+        }
+      },
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 0,
       "sourceSnapshotBidCount": 0,
-      "sourceSnapshotNextBid": 2,
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "timeLeftSeconds": {
-          "from": 7602.96,
-          "to": 7358.88
-        }
-      }
+      "sourceSnapshotNextBid": 2
     }
   ]
 }
