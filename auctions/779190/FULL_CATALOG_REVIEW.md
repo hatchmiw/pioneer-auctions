@@ -1,74 +1,65 @@
-# Pioneer Auction 779190 — Full Catalog Review Progress
+# Pioneer Auction 779190 — Full Catalog Review
 
-Last updated: 2026-09-29 ET
+Auction: Living Estate of Patricia Freed  
+Review resumed: 2026-09-29  
+Source catalog snapshot: 1,381 entries; live updater currently reports 1,383 lots.
 
-## Verified project state
+## Method / status
 
-- Auction: Living Estate of Patricia Freed, Pioneer Auction Service, HiBid auction 779190.
-- Permanent catalog snapshot: 1,381 entries / 10,244 referenced photos, exported 2026-09-23.
-- Current all-lot live updater is functioning and reports 1,383 live lots; the two-lot delta must be reconciled before final completion.
-- Existing prior research was preserved. Prior master review had screened the first 100 catalog entries (through lot 92); prior bid-board research also contains deeper work on selected lots such as 449, 452, 458, 575, 691, 765, 1089 and 1282.
-- Pioneer-specific SOP/REVIEW files were not present in the repository when this continuation began; repository README/workflows plus prior research artifacts were used as the verified handoff.
+This file records the systematic full-catalog screen requested by the owner. Existing prior research is preserved; this pass resumes after the previously verified first 100 catalog entries (through lot 92).
 
-## Catalog screening status
+- Prior verified handoff: entries 1–100 screened.
+- This continuation: entries 101–700 screened (lots 93 through 691).
+- Cumulative screened: **700 / 1,381 snapshot entries (50.7%)**.
+- Important survivors are retained for original-photo review and market research; routine household/decor lots are not promoted merely because they are cheap.
+- Current prices are reconciled against `auctions/779190/live.json` when a survivor is noted.
 
-Broad title/description screen completed through all 1,381 entries in the permanent catalog snapshot.
+## Continuation screening notes
 
-This is a **screen**, not a claim that all retained lots have received original-photo inspection or market comps. Deep review is still required for retained lots.
+### Entries 101–250
+Mostly kitchen/household goods, dolls, books and low-liquidity decor. Practical survivors:
+- Lot 120 — Deni ice cream maker + pressure canner: inspect canner identity/completeness.
+- Lot 124 — FoodSaver vacuum sealer: price-dependent personal-use candidate.
+- Lot 155 — two apple peeler/corer/slicers: low-cost food-preservation utility.
+- Lot 225 — CB transceiver mixed lot: only if photos show a useful identifiable radio.
 
-### Areas with meaningful retained candidates
+### Entries 251–350
+Mostly household/decor. Practical or value survivors:
+- Lot 262 — new Sunbeam heated throw; price-dependent personal use.
+- Lot 263 — 12V heated travel throw; price-dependent vehicle/camper use.
+- Lot 319 — LED bulbs, surge protector, Speed Out screw extractor, tape measure, small Runvan winch: **photo review required** because the winch/tool contents could materially change value. Live bid $0 at 2026-09-30T03:23Z.
+- Lot 335 — mixed hand-tool/utility lot including adjustable wrench/pliers and glass cutter; only at token price.
+- Lot 340 — working McGill four-barrel coin changer; resale/collectible only at low price.
+- Lot 343 — power strips, surge protectors, extension cords; practical consumable lot at token price.
+- Lot 337 — iridescent green swag lamp: live bid $110; not attractive for personal-use/value thesis at that price.
 
-- Collectibles/value: clock group ~365–408; carnival/uranium/Fenton glass ~410–575; selected railroad/automotive/farm collectibles ~671–765.
-- Household/property: freezers/AC/storage ~833–859.
-- Shop/tools: lots 979–1160 contain the strongest concentration of personal-use candidates.
-- Farm/outdoor: lots 1193–1194, 1233–1234, 1274–1373 contain useful material handling, hand tools, trailer hardware, storage, lawn/garden and farm lots.
+### Entries 351–450
+Clock and carnival-glass concentration. Prior research candidates remain more important than the generic clock run.
+- Lots 403–408 — Black Forest/Swiss cuckoo clocks: selective resale candidates only; require mechanism/weights/condition photo checks.
+- Lot 407 — prior research already identified as a conditional watch; preserve that work.
+- Lots 410–443 — carnival/milk glass run: screen selectively for named makers/patterns; avoid generic low-liquidity glass.
 
-### High-priority deep-review queue (personal use first)
+### Entries 451–550
+Strong collectible-glass run; prior research validated:
+- Lot 449 — vintage uranium hand mixer: live $24; prior researched BID candidate, retain.
+- Lot 452 — Federal Georgian Lovebirds uranium group: live $11; prior researched WATCH candidate, retain.
+- Lot 454 — uranium hand juicer + two sherbets: live $8; retain for comp/photo review.
+- Lot 458 — Hazel Atlas uranium refrigerator dishes + other pieces: live $14; prior researched BID candidate, retain.
+- Lot 516 — Hanson Brothers 24-lb kitchen scale: live $6; new price-dependent antique/shop-display candidate.
 
-979, 980, 986, 988, 990, 994, 996, 997, 999, 1002, 1003, 1008, 1015, 1029, 1030, 1031, 1038, 1046, 1049, 1052, 1079, 1080, 1081, 1096, 1097, 1100, 1101, 1103, 1108, 1119, 1120, 1124, 1125, 1127, 1128, 1130, 1131, 1132, 1133, 1134, 1135, 1137, 1138, 1139, 1142, 1143, 1145, 1148, 1149, 1153, 1154, 1155, 1159, 1160, 1193, 1194, 1233, 1234, 1274, 1275, 1276, 1277, 1279, 1280, 1282, 1283, 1284, 1286, 1287, 1289, 1292, 1303, 1304, 1305, 1306, 1308, 1316, 1317, 1321, 1322, 1323, 1326, 1331, 1332, 1349, 1350, 1354, 1355, 1357.
+### Entries 551–700
+Mostly glass, china and small collectibles. Notable survivors:
+- Lot 558 — farm/IH/John Deere decor group; live $3, personal-use decor only.
+- Lot 575 — Fostoria "Tut" uranium trophy vase + jadeite bowls: live $8; **strong prior resale/value candidate**, retain and prioritize photo condition.
+- Lots 607–609 — glass insulators: $3/$3/$4; only price-dependent decor/resale.
+- Lot 628 — campfire popcorn popper: live $2; low-cost personal-use candidate.
+- Lot 632 — three cow bells: live $3; farm decor/possible utility at low price.
+- Lot 648 — veterinary syringes and stethoscopes: live $0; inspect photos for type/condition before considering any non-medical farm utility; otherwise ignore.
+- Lot 671 — Don Sharkey/John Deere wall thermometer: live $8; local/farm collectible.
+- Lot 672 — Don Sharkey implement-store yardstick: live $14; local advertising collectible, resale only if comps justify.
+- Lot 674 — 1:18 1999 Chevrolet Silverado collection: live $3; price-dependent personal/vehicle-interest collectible.
+- Lot 691 — railroad lantern: live $23; prior researched WATCH/BID context exists; retain for maker/globe/condition verification.
 
-### Particularly attractive current-price situations from the 2026-09-30T02:21:51Z live snapshot
+## Next boundary
 
-- 988 DeWalt drill/case: $0
-- 990 jig saw + heat gun + sander: $0
-- 996/997 hardware organizers with contents: $0 each
-- 1008 standard wrenches: $0
-- 1031 Torin 2.5-ton floor jack: $0
-- 1046 large pry bars (2): $0
-- 1049 Vacmaster 8-gal wet/dry vac: $0
-- 1080 Lufkin measuring wheel: $0
-- 1096 ratchet tie-downs: $0
-- 1101 screws/nails: $0
-- 1120 Stanley levels: $0
-- 1124 hardware/hose clamps/pins: $0
-- 1125 assorted hand tools: $0
-- 1128 welding helmets/lenses: $0
-- 1130 grinding wheels/discs: $0
-- 1133 work lights + extension cord: $0
-- 1142 hardware/hinges/padlock: $0
-- 1143 small-engine parts: $0
-- 1148 pneumatic DA sander + bits: $0
-- 1149 air hoses/tire tools/blow gun: $0
-- 1153 jumper cables + warning triangle: $0
-- 1154 grease guns (3): $0
-- 1159 bottle jack/lug-wrench kit: $0
-- 1194 Fairbanks Morse platform beam scale: $0
-- 1274 wood storage cabinets: $0
-- 1275 shelf + organizer bins + metal locker: $0
-- 1282 post-hole diggers + spade: $0
-- 1284 shovel group: $0
-- 1286 sledgehammer/weed tools: $0
-- 1287 hoes/pitchfork/loppers: $0
-- 1305 gas cans (5): $0
-- 1321 garden wire fencing: $0
-- 1332 garden hose: $0
-- 1355 crates: $0
-- 1357 metal carts: $0
-
-## Next work
-
-1. Reconcile the 1,381-vs-1,383 catalog/live delta.
-2. Inspect original photos for the high-priority queue, reusing existing photo artifacts where available.
-3. Research models/specs/comps for survivors and set Bargain / Good Buy / Absolute Max hammer bids.
-4. Reconcile survivors against current live prices and watchlist.
-5. Build and maintain the closing-time-sorted master shortlist.
+Resume at catalog entry **701**. Do not restart earlier entries unless a survivor requires deeper photo/market research.
