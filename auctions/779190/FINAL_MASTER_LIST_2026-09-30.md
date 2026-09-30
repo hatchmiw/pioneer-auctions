@@ -92,7 +92,6 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1193 | Two stainless dairy/milking vessels + strainer | $22 | 50 | reviewed | Chore-Boy stainless bucket milker + second dairy vessel/strainer + hose/stainless milking components; substantially stronger lot than the old one-photo assessment. |
 | 1251 | Twin 15-in ceiling lights + towel bar | $2 | 8 | reviewed | Boxed Patriot Lighting twin 15-in. flush-mount lights + Lenape 18-in. towel bar; only if style/use fits. |
 | 1293 | Sprinklers incl. copper lighthouse sprinkler | $0 | 8 | reviewed | Old sprinkler, decorative copper/brass sprinkler and Wagner DeckMate system; low-priority yard/tool lot. |
-| 14 | Sauder cabinet/table extension | $3 | 10 | reviewed | All current photos reviewed. Cheap storage/work surface only if hauling makes sense. |
 
 ## Collectible / resale exceptions
 
@@ -109,6 +108,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 
 | Lot | Item | Current | Reason |
 |---:|---|---:|---|
+| 14 | Sauder cabinet/table extension | $3 | Removed from watchlist at owner request. |
 | 703 | Fulton cast-iron rivet press (auction title is wrong) | $2 | Removed from watchlist at owner request. |
 | 996 | Hardware organizer + contents | $2 | Removed from watchlist at owner request. |
 | 1081 | DieHard wheeled charger | $43 | Removed; already over cap and no longer an active target. |
