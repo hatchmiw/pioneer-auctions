@@ -61,7 +61,6 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1284 | Spade + three scoop shovels | $0 | 12 | existing | Farm/shop utility. |
 | 1285 | Three push brooms | $0 | 8 | reviewed | Three used but serviceable-looking long-handled push brooms; token-money utility buy. |
 | 1287 | Hoes + pitchfork + loppers | $0 | 10 | existing | Farm/garden utility. |
-| 1289 | Four leaf + two landscape rakes | $2 | 12 | existing | Farm/garden utility. |
 | 1292 | Two Iron Horse II sawhorses | $2 | 15 | existing | Shop utility. |
 | 1305 | Five plastic gas cans | $2 | 15 | existing | Practical utility if caps/spouts are usable. |
 | 1306 | Three metal + one plastic gas can | $2 | 20 | existing | Utility first; vintage interest is secondary. |
@@ -80,12 +79,8 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 840 | 4-door cabinet | $3 | 20 | existing | Useful storage. |
 | 1011 | Schumacher power converter | $0 | 10 | reviewed | Schumacher 410W power inverter; older low-output inverter, so keep cheap. |
 | 1079 | Platform ladder | $17 | 20 | existing | Useful but bidding already $11. |
-| 1119 | 2-ton hand puller | $18 | 20 | existing | Current price already near cap. |
 | 1131 | Heavy extension cord + trouble light | $2 | 10 | existing | Useful if cord is sound. |
 | 1133 | Retractable/drop lights + cord | $0 | 8 | existing | Utility only. |
-| 1137 | Extension cord on reel | $2 | 10 | existing | Utility; verify connectors. |
-| 1138 | Heavy cord/reel | $2 | 10 | existing | Utility; verify connectors. |
-| 1139 | Heavy/specialty cord | $2 | 10 | existing | Utility only if plug configuration is useful. |
 | 1157 | Grease + two grease guns | $2 | 8 | existing | Only if it adds useful capability. |
 | 1162 | Meilink safe | $3 | 50 | reviewed | Meilink safe is shown open with clean interior and handwritten combination instructions present; heavy/awkward pickup still limits cap. |
 | 1181 | Metal table | $0 | 10 | reviewed | Metal table; current photos reviewed, basic shop utility only. |
@@ -108,6 +103,12 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 
 | Lot | Item | Current | Reason |
 |---:|---|---:|---|
+| 1119 | 2-ton hand puller | $18 | Removed from active watchlist at owner request. |
+| 1137 | Extension cord on reel | $2 | Removed from active watchlist at owner request. |
+| 1138 | Heavy cord/reel | $2 | Removed from active watchlist at owner request. |
+| 1139 | Heavy/specialty cord | $2 | Removed from active watchlist at owner request. |
+| 1278 | 2 Wooden Trailer Ramps | $2 | Removed from consideration at owner request. |
+| 1289 | Four leaf + two landscape rakes | $2 | Removed from active watchlist at owner request. |
 | 14 | Sauder cabinet/table extension | $3 | Removed from watchlist at owner request. |
 | 703 | Fulton cast-iron rivet press (auction title is wrong) | $2 | Removed from watchlist at owner request. |
 | 996 | Hardware organizer + contents | $2 | Removed from watchlist at owner request. |
