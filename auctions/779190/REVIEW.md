@@ -14,9 +14,9 @@ Last updated: 2026-09-30 (ET)
 
 ## Full-catalog screen status
 
-**Initial title/description/current-price screen is complete for catalog entries 101–1,381. Entries 1–100 are being re-screened directly from auction 779190 after detecting that the older Master Review workbook belonged to another auction.**
+**Initial title/description/current-price screen is complete for the entire 1,381-entry permanent catalog.**
 
-The verified new screen resumed at catalog entry 101 / lot 93 and continued through catalog entry 1,381 / lot 2000. Household goods, common decor, low-value dolls/books/glassware, obvious duplicates and generic low-demand items were screened out unless they had a credible personal-use or exceptional-value reason to continue.
+Catalog entries 1–100 were re-screened directly from auction 779190 after detecting that the older Master Review workbook belonged to another auction. Entries 101–1,381 were screened directly from the repository catalog and current live state. Household goods, common decor, low-value dolls/books/glassware, obvious duplicates and generic low-demand items were screened out unless they had a credible personal-use or exceptional-value reason to continue.
 
 A block from lots 1161–1273 contains many placeholder records. Of 113 lots in that interval, **101 have both no useful title/description and zero archived photos**. Those are not assigned invented values and are classified **IGNORE / unidentified** unless current live-page evidence later identifies them. The photographed exceptions include 1198–1203, 1207–1210, 1233 and 1234.
 
@@ -25,8 +25,8 @@ A block from lots 1161–1273 contains many placeholder records. Of 113 lots in 
 Use only the auction-specific 2026-09-24 bid board and direct repository evidence for inherited conclusions. Valid prior 779190 targets include:
 
 ### Personal / capital
-- **2** — Brister TW11 340cc utility vehicle; separate capital budget, condition gate required.
-- **3** — 8-foot utility trailer; separate capital budget, frame/axle/tires/VIN/registration gate.
+- **2** — Brister TW11 340cc utility vehicle; prior hard max $1,050. Current live bid $1,700 at the 2026-09-30 02:21Z refresh, so it is now **OVER MAX / IGNORE** absent a major change in verified condition/value.
+- **3** — 8-foot utility trailer; prior hard max $250. Current live bid $425 at the same refresh, so it is now **OVER MAX / IGNORE**.
 - **980** — Makita 10-inch saw.
 - **1029** — Craftsman 10-inch 1/3 HP bandsaw.
 - **1031** — Torin 2.5-ton floor jack.
@@ -50,6 +50,14 @@ Use only the auction-specific 2026-09-24 bid board and direct repository evidenc
 - **691** — Dressel/railroad lantern candidate.
 - **765** — Dietz red-globe railroad-style lantern.
 - **1089** — mixed vintage beehive stop/tail lamps.
+
+
+### Actual catalog entries 1–100 — retained notes
+- **20** — cross-cut buck saw, current $4: PRICE-DEPENDENT personal/farm hand-tool candidate; inspect condition only if still cheap.
+- **58** — Falkenstein glass/bronze flower lamps, current $3: prior auction-779190 research already found damaged shades; resale margin is weak, so IGNORE unless nearly free.
+- **60** — Elgin National Watch Works sterling spoon (13 g stated) + silverplate, current $15: metal content is too small to justify chasing without a collectible-premium case.
+- **68** — two hand-crank nut/spice grinders, current $3: low-priority personal/decorative only.
+- **91** — Pyrex Spring Blossom casserole, current $21: recognizable collectible, but current price reduces the bargain case; no personal priority.
 
 ## Newly retained from the remainder of the full-catalog screen
 
