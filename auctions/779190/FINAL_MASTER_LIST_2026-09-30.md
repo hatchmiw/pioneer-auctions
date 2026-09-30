@@ -12,7 +12,7 @@ Auction terms in catalog: **10% buyer premium with cash/check**. Caps below are 
 - Overlap: 22 lots.
 - Watchlist-only additions: 34 lots.
 - This file is the controlling master list for tonight. It intentionally removes many collectible/decor lots from active attention.
-- Existing caps are inherited from TODAY_SHORTLIST_2026-09-30.md unless explicitly marked provisional/adjusted.
+- Existing caps were inherited from TODAY_SHORTLIST_2026-09-30.md where appropriate; all late-added provisional caps have now been resolved from the refreshed photo review.
 - The late-added/watchlist-only lots listed below have now received a current-photo review; their caps are no longer placeholders.
 
 ## Photo-review truth / correction
@@ -160,5 +160,5 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 2. Do not raise a cap merely because earlier targets were lost; freed budget is not a reason to overpay.
 3. Priority 2 lots are fillers/opportunistic buys, not substitutes for losing Priority 1 lots.
 4. Collectible exceptions get bought only when the margin is obvious enough to justify photographing, listing, storing and shipping them.
-5. Treat every provisional cap as a ceiling, not a target. If photos/fit/function are weak, stop lower.
+5. Treat every cap as a ceiling, not a target. If fit/function cannot be verified, stop lower.
 6. Recheck live.json immediately before each closing block because soft-close bidding can change both price and close time. The consolidated comparison above used live.json checked at 2026-09-30T18:45:46Z.
