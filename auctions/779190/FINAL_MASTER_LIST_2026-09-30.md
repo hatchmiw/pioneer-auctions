@@ -36,18 +36,13 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 979 | Bundy II sax + White's Classic III Plus detector | $5 | 100 | existing | Mixed-value exception; detector gives practical/resale value. Untested. |
 | 980 | Makita 10-in miter saw | $2 | 20 | existing | Older but complete-looking; personal shop use. |
 | 994 | Pneumatic paint sprayers | $0 | 10 | reviewed | Sears + Speedy pneumatic spray guns; current photos reviewed. Useful only if clean/serviceable. |
-| 996 | Hardware organizer + contents | $2 | 12 | existing | Strong low-dollar shop utility. |
 | 1003 | Estwing E3-CA roofing/drywall hatchet | $2 | 15 | reviewed | Estwing E3-CA roofing/drywall hatchet; complete-looking quality hand tool. |
 | 1015 | Nine C-clamps | $4 | 20 | existing | Strong shop utility. |
 | 1031 | Torin 2.5-ton floor jack | $0 | 12 | existing | Must lift and hold; otherwise rebuild/project only. |
 | 1046 | Two large pry bars | $2 | 15 | existing | Straightforward shop/farm utility. |
 | 1052 | Two Sotz Monster Mauls | $3 | 50 | existing | Strong personal-use/value target. |
 | 1080 | Crescent/Lufkin measuring wheel | $2 | 15 | existing | Clean-looking; useful property/farm layout tool. |
-| 1124 | Hitch pins/clips/clamps/hardware | $0 | 8 | existing | Consumable farm/trailer hardware. |
-| 1127 | HD puller/installer assortment | $2 | 15 | existing | Useful specialty mechanical tools if components are sufficient. |
-| 1145 | Trailer towing hardware | $4 | 12 | existing | Useful towing hardware. |
 | 1147 | Oil-filter wrenches/filters/coolant tester | $0 | 8 | reviewed | Oil-filter wrenches/filters/coolant tester; value the reusable tools because filter fitment is uncertain. |
-| 1148 | Pneumatic DA sander + bits | $0 | 15 | existing | Useful shop tool; condition unknown. |
 | 1155 | HD towing / tractor hardware | $3 | 15 | existing | Useful farm/trailer hardware. |
 | 1172 | Two gas weed whips | $0 | 10 | reviewed | Two older gas weed whips; complete-looking but untested project value only. |
 | 1173 | Craftsman blower + chainsaw | $2 | 25 | reviewed | Craftsman chainsaw + power blower; both substantially complete, old and untested. |
@@ -72,8 +67,6 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1306 | Three metal + one plastic gas can | $2 | 20 | existing | Utility first; vintage interest is secondary. |
 | 1315 | MTD 22-in push mower | $2 | 20 | reviewed | MTD 22-in. high-wheel mower, substantially complete; $20 normal ceiling, up to $25 only if compression/free blade rotation can be verified. |
 | 1316 | Huskee 42-in lawn sweeper | $7 | 30 | existing | Brushes visible; verify hopper/completeness before stretching. |
-| 1321 | Garden wire fencing | $0 | 10 | existing | Direct farm/garden use. |
-| 1326 | Farm & Fleet red wagon | $3 | 15 | existing | Worn but useful. |
 | 1354 | Large live trap | $3 | 15 | existing | Mechanism appears present; practical farm use. |
 
 ## Priority 2 — useful only if they stay cheap
@@ -81,14 +74,12 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | Lot | Item | Current | Hammer max | Cap status | Why / condition gate |
 |---:|---|---:|---:|---|---|
 | 124 | FoodSaver vacuum sealer | $2 | 15 | existing | Useful if wanted; not a must-buy. |
-| 703 | Fulton cast-iron rivet press (auction title is wrong) | $2 | 5 | reviewed | All 6 archived photos rechecked: Fulton rivet/eyelet press, not a hand plane. Small resale/utility upside only. |
 | 802 | Drawknife + sockets/hand tools | $2 | 15 | existing | Useful mixed tool lot. |
 | 826 | Pipe wrenches | $0 | 20 | existing | Serviceable-looking old wrenches. |
 | 837 | Metal shelf | $0 | 10 | existing | Cheap storage if hauling is worth it. |
 | 840 | 4-door cabinet | $2 | 20 | existing | Useful storage. |
 | 1011 | Schumacher power converter | $0 | 10 | reviewed | Schumacher 410W power inverter; older low-output inverter, so keep cheap. |
 | 1079 | Platform ladder | $13 | 20 | existing | Useful but bidding already $11. |
-| 1081 | DieHard wheeled charger | $37 | 20 | OVER MAX | Current bid is above the corrected $20 cap; do not chase. |
 | 1119 | 2-ton hand puller | $18 | 20 | existing | Current price already near cap. |
 | 1131 | Heavy extension cord + trouble light | $2 | 10 | existing | Useful if cord is sound. |
 | 1133 | Retractable/drop lights + cord | $0 | 8 | existing | Utility only. |
@@ -118,6 +109,15 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 
 | Lot | Item | Current | Reason |
 |---:|---|---:|---|
+| 703 | Fulton cast-iron rivet press (auction title is wrong) | $2 | Removed from watchlist at owner request. |
+| 996 | Hardware organizer + contents | $2 | Removed from watchlist at owner request. |
+| 1081 | DieHard wheeled charger | $37 | Removed; already over cap and no longer an active target. |
+| 1124 | Hitch pins/clips/clamps/hardware | $0 | Removed from watchlist at owner request. |
+| 1127 | HD puller/installer assortment | $2 | Removed from watchlist at owner request; no further photo review needed. |
+| 1145 | Trailer towing hardware | $4 | Removed from watchlist at owner request. |
+| 1148 | Pneumatic DA sander + bits | $0 | Removed; condition judged too rough. |
+| 1321 | Garden wire fencing | $0 | Removed; fencing condition judged junk. |
+| 1326 | Farm & Fleet red wagon | $3 | Removed; considered a kids' toy rather than a useful farm target. |
 | 1149 | Air hoses/tire/blow tools | $0 | Removed: air hose is visibly cracked/deteriorated. |
 | 839 | 5-door cabinet | $0 | Removed from watchlist at owner request. |
 | 3 | 8-ft utility trailer | $425 | Prior $250 max; live bidding far above it. |
