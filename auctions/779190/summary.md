@@ -1,12 +1,12 @@
 # Pioneer / HiBid Auction 779190
 
 - Auction: Living Estate of Patricia Freed
-- Retrieved: 2026-09-23T01:50:25Z
-- Lots reported by HiBid: 1381
-- Lots retrieved: 1381
-- Photos found: 10244
+- Retrieved: 2026-09-30T17:04:17Z
+- Lots reported by HiBid: 1383
+- Lots retrieved: 1383
+- Photos found: 10871
 - Auctioneer: Pioneer Auction Service
-- Auction close: 2026-09-30T19:00:00
+- Auction close: 2026-09-30T18:00:00
 
 ---
 
@@ -31,9 +31,9 @@
 ## Lot 1A — Kessler Arms Model 300 12Ga. Bolt Action
 
 - HiBid lot ID: 322873415
-- Current bid: 17.0 USD
+- Current bid: 41.0 USD
 - Price realized: 0 USD
-- Bid count: 9
+- Bid count: 19
 - Photo count: 7
 - Category: Sporting Goods - Firearms / Weapons - Shotguns | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322873415
@@ -55,9 +55,9 @@
 ## Lot 1B — JC Higgins Model 58314 16GA Bolt Action
 
 - HiBid lot ID: 322873418
-- Current bid: 17.0 USD
+- Current bid: 51.0 USD
 - Price realized: 0 USD
-- Bid count: 7
+- Bid count: 16
 - Photo count: 12
 - Category: Sporting Goods - Firearms / Weapons - Shotguns | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322873418
@@ -82,9 +82,9 @@
 ## Lot 1C — Iver Johnson 12Ga Single Barrel
 
 - HiBid lot ID: 322873421
-- Current bid: 4.0 USD
+- Current bid: 58.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 33
 - Photo count: 13
 - Category: Sporting Goods - Firearms / Weapons - Shotguns | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322873421
@@ -110,9 +110,9 @@
 ## Lot 1D — Thompson Center 45 Cal. Black Powder
 
 - HiBid lot ID: 322873424
-- Current bid: 4.0 USD
+- Current bid: 60.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 28
 - Photo count: 13
 - Category: Sporting Goods - Firearms / Weapons - Black Powder / Muzzleloader / Percussion | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322873424
@@ -140,9 +140,9 @@
 ## Lot 1E — Industry Brand carabiner Air Rifle
 
 - HiBid lot ID: 322873427
-- Current bid: 6.0 USD
+- Current bid: 35.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 12
 - Photo count: 9
 - Category: Sporting Goods - Firearms / Weapons - Airsoft / Paintball / Pellet / BB Guns | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322873427
@@ -164,9 +164,9 @@
 ## Lot 2 — Brister’s Trail Wagon 340cc
 
 - HiBid lot ID: 322873431
-- Current bid: 550.0 USD
+- Current bid: 1950.0 USD
 - Price realized: 0 USD
-- Bid count: 16
+- Bid count: 40
 - Photo count: 20
 - Category: Construction & Farm - Harvest Equipment - Gravity Wagons | Construction & Farm - Harvest Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/322873431
@@ -201,9 +201,9 @@
 ## Lot 3 — 8ft Utility Trailer
 
 - HiBid lot ID: 322873433
-- Current bid: 120.0 USD
+- Current bid: 425.0 USD
 - Price realized: 0 USD
-- Bid count: 13
+- Bid count: 24
 - Photo count: 6
 - Category: Construction & Farm - Trailers - Utility / Light Duty Trailers (up to 7,500 lbs) - Flat | Construction & Farm - Trailers - Utility / Light Duty Trailers (up to 7,500 lbs) | Construction & Farm - Trailers | Construction & Farm
 - Lot page: https://hibid.com/lot/322873433
@@ -222,9 +222,9 @@
 ## Lot 4 — Leather Pocket Pool Table
 
 - HiBid lot ID: 322873434
-- Current bid: 0.0 USD
+- Current bid: 325.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 31
 - Photo count: 5
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/322873434
@@ -244,9 +244,9 @@
 ## Lot 5 — Curved Glass Etched Light-Up China Cabinet
 
 - HiBid lot ID: 322873435
-- Current bid: 2.0 USD
+- Current bid: 51.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 11
 - Photo count: 11
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873435
@@ -270,9 +270,9 @@
 ## Lot 6 — Dry Wash Stand
 
 - HiBid lot ID: 322873436
-- Current bid: 2.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 8
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Antique Furniture | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873436
@@ -296,9 +296,9 @@
 ## Lot 7 — Display Cabinet
 
 - HiBid lot ID: 322873437
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 8
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873437
@@ -321,9 +321,9 @@
 ## Lot 8 — The Quality Line China Hutch
 
 - HiBid lot ID: 322873438
-- Current bid: 2.0 USD
+- Current bid: 30.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 20
 - Photo count: 10
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873438
@@ -348,9 +348,9 @@
 ## Lot 9 — 1930’s Emerson Tube Radio
 
 - HiBid lot ID: 322873439
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Radios | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873439
@@ -370,9 +370,9 @@
 ## Lot 10 — Mid Century Ringer Box Phone
 
 - HiBid lot ID: 322873440
-- Current bid: 2.0 USD
+- Current bid: 51.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 15
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Phones | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873440
@@ -392,9 +392,9 @@
 ## Lot 11 — Curved Glass Curio Cabinet w/ Wheat Design
 
 - HiBid lot ID: 322873441
-- Current bid: 2.0 USD
+- Current bid: 30.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 12
 - Photo count: 9
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873441
@@ -418,9 +418,9 @@
 ## Lot 12 — Pine Entertainment Cabinet
 
 - HiBid lot ID: 322873442
-- Current bid: 0.0 USD
+- Current bid: 46.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 7
 - Category: Furniture - Entertainment Centers / TV Stands | Furniture
 - Lot page: https://hibid.com/lot/322873442
@@ -440,9 +440,9 @@
 ## Lot 13 — Green Bakers Rack
 
 - HiBid lot ID: 322873443
-- Current bid: 2.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 11
 - Photo count: 8
 - Category: Business & Industrial - Business / Retail - Racks / Shelving | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322873443
@@ -463,9 +463,9 @@
 ## Lot 14 — Sauder Cabinet w/ Table Top Extension
 
 - HiBid lot ID: 322873444
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 12
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873444
@@ -492,9 +492,9 @@
 ## Lot 15 — Oak Book Cabinet
 
 - HiBid lot ID: 322873445
-- Current bid: 3.0 USD
+- Current bid: 75.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 40
 - Photo count: 10
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873445
@@ -517,9 +517,9 @@
 ## Lot 16 — Light up Curio Cabinet
 
 - HiBid lot ID: 322873446
-- Current bid: 2.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 8
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873446
@@ -540,9 +540,9 @@
 ## Lot 17 — Black Three Bulb Light
 
 - HiBid lot ID: 322873447
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Lighting - Light Bulbs | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873447
@@ -589,9 +589,9 @@
 ## Lot 19 — Kenmore Progressive 360 Vacuum
 
 - HiBid lot ID: 322873449
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaning Equipment | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322873449
@@ -612,9 +612,9 @@
 ## Lot 20 — Cross Cut Buck Saw
 
 - HiBid lot ID: 322873450
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/322873450
@@ -632,9 +632,9 @@
 ## Lot 21 — Children’s Yolk
 
 - HiBid lot ID: 322873451
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 6
 - Category: Construction & Farm - Horse Drawn Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/322873451
@@ -653,9 +653,9 @@
 ## Lot 22 — Q.H. Lighting Marble Base Floor Chandelier Lamp
 
 - HiBid lot ID: 322873452
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873452
@@ -681,9 +681,9 @@
 ## Lot 23 — Roll Top Desk
 
 - HiBid lot ID: 322873453
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Furniture - Desks / Home Office | Furniture
 - Lot page: https://hibid.com/lot/322873453
@@ -706,9 +706,9 @@
 ## Lot 24 — Black Side Table
 
 - HiBid lot ID: 322873454
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 8
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322873454
@@ -753,9 +753,9 @@
 ## Lot 26 — Solid Oak Writing Desk
 
 - HiBid lot ID: 322873456
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 6
 - Category: Furniture - Desks / Home Office | Furniture
 - Lot page: https://hibid.com/lot/322873456
@@ -774,9 +774,9 @@
 ## Lot 27 — Broyhill China Hutch
 
 - HiBid lot ID: 322873457
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322873457
@@ -829,9 +829,9 @@
 ## Lot 29 — Bassett Tall Boy Dresser
 
 - HiBid lot ID: 322873459
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Furniture - Dressers / Wardrobes / Armoires | Furniture
 - Lot page: https://hibid.com/lot/322873459
@@ -854,9 +854,9 @@
 ## Lot 30 — 6 Drawer Dresser
 
 - HiBid lot ID: 322873460
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Furniture - Dressers / Wardrobes / Armoires | Furniture
 - Lot page: https://hibid.com/lot/322873460
@@ -877,9 +877,9 @@
 ## Lot 31 — Wardrobe
 
 - HiBid lot ID: 322873461
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 7
 - Category: Furniture - Dressers / Wardrobes / Armoires | Furniture
 - Lot page: https://hibid.com/lot/322873461
@@ -899,9 +899,9 @@
 ## Lot 32 — Dresser w/ Mirror
 
 - HiBid lot ID: 322873462
-- Current bid: 0.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 11
 - Photo count: 14
 - Category: Furniture - Dressers / Wardrobes / Armoires | Furniture
 - Lot page: https://hibid.com/lot/322873462
@@ -928,9 +928,9 @@
 ## Lot 33 — Telephone Stand
 
 - HiBid lot ID: 322873463
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322873463
@@ -949,9 +949,9 @@
 ## Lot 34 — Oak Swivel Desk Chair
 
 - HiBid lot ID: 322873464
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 7
 - Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/322873464
@@ -971,9 +971,9 @@
 ## Lot 35 — Boat Shelf
 
 - HiBid lot ID: 322873465
-- Current bid: 2.0 USD
+- Current bid: 29.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 19
 - Photo count: 5
 - Category: Business & Industrial - Business / Retail - Racks / Shelving | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322873465
@@ -991,9 +991,9 @@
 ## Lot 36 — Antique Dresser with Mirror
 
 - HiBid lot ID: 322873466
-- Current bid: 0.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 9
 - Category: Antiques & Collectibles - Antiques - Antique Furniture | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873466
@@ -1039,9 +1039,9 @@
 ## Lot 38 — Electric Heat Fireplace
 
 - HiBid lot ID: 322873468
-- Current bid: 2.0 USD
+- Current bid: 14.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 12
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Appliances - Heating / Air Conditioning | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873468
@@ -1086,9 +1086,9 @@
 ## Lot 40 — Side Table with Magazine Racks
 
 - HiBid lot ID: 322873470
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 9
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322873470
@@ -1110,9 +1110,9 @@
 ## Lot 41 — Drop Leaf Table w/ Chairs
 
 - HiBid lot ID: 322873471
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Furniture - Dining Room Sets | Furniture
 - Lot page: https://hibid.com/lot/322873471
@@ -1137,9 +1137,9 @@
 ## Lot 42 — 19th Century Victorian Triangle Corner Table
 
 - HiBid lot ID: 322873472
-- Current bid: 2.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 7
 - Photo count: 7
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322873472
@@ -1159,9 +1159,9 @@
 ## Lot 43 — Barometer, corner Wall Shelf, wall Hanger Decor
 
 - HiBid lot ID: 322873473
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873473
@@ -1185,9 +1185,9 @@
 ## Lot 43B — Mount Shasta By Robert Wood Print
 
 - HiBid lot ID: 322873474
-- Current bid: 2.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 5
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873474
@@ -1205,9 +1205,9 @@
 ## Lot 44 — Golden Oval Victorian Style Mirror, Winter Print
 
 - HiBid lot ID: 322873475
-- Current bid: 4.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 6
 - Photo count: 12
 - Category: Furniture - Mirrors | Furniture
 - Lot page: https://hibid.com/lot/322873475
@@ -1259,9 +1259,9 @@
 ## Lot 46 — Chunky Antique Frames
 
 - HiBid lot ID: 322873477
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 3
 - Photo count: 11
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873477
@@ -1285,9 +1285,9 @@
 ## Lot 47 — McCall’s "Anna" Magazine Poster
 
 - HiBid lot ID: 322873478
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Art - Posters | Art
 - Lot page: https://hibid.com/lot/322873478
@@ -1337,9 +1337,9 @@
 ## Lot 49 — Jesus the Good Shepherd Print , Lord Prayer Plaque
 
 - HiBid lot ID: 322873480
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873480
@@ -1366,9 +1366,9 @@
 ## Lot 50 — Felt Paintings from Mexico
 
 - HiBid lot ID: 322873481
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Art - Paintings | Art
 - Lot page: https://hibid.com/lot/322873481
@@ -1394,9 +1394,9 @@
 ## Lot 51 — 48 x 24 Landscaping Prints
 
 - HiBid lot ID: 322873482
-- Current bid: 2.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 7
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873482
@@ -1416,9 +1416,9 @@
 ## Lot 52 — Golden & Wood Framed Girl Prints,
 
 - HiBid lot ID: 322873483
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 17
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873483
@@ -1448,9 +1448,9 @@
 ## Lot 53 — Broken Fences Farm ,Fireman ,Mountain Prints
 
 - HiBid lot ID: 322873484
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 15
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873484
@@ -1480,9 +1480,9 @@
 ## Lot 54 — Brandy Wine Farm Print, First Snow Print,
 
 - HiBid lot ID: 322873485
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873485
@@ -1512,9 +1512,9 @@
 ## Lot 55 — Angel, Jesus Shepherd prints, Penn Color Book
 
 - HiBid lot ID: 322873486
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873486
@@ -1543,9 +1543,9 @@
 ## Lot 55B — Hurricane Lamp
 
 - HiBid lot ID: 322873487
-- Current bid: 2.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 9
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873487
@@ -1586,9 +1586,9 @@
 ## Lot 57 — John Wayne Touch Lamp
 
 - HiBid lot ID: 322873489
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873489
@@ -1605,9 +1605,9 @@
 ## Lot 58 — (2) Falkenstein Glass Bronze Flower Lamps
 
 - HiBid lot ID: 322873490
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873490
@@ -1626,9 +1626,9 @@
 ## Lot 59 — Gone with the Wind Hurricane Lamp
 
 - HiBid lot ID: 322873491
-- Current bid: 11.0 USD
+- Current bid: 32.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 12
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873491
@@ -1646,9 +1646,9 @@
 ## Lot 60 — Elgin National Watch Works Sterling Spoon, Oxford
 
 - HiBid lot ID: 322873492
-- Current bid: 2.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873492
@@ -1672,9 +1672,9 @@
 ## Lot 61 — Assortment of Stainless Steel Cutlery
 
 - HiBid lot ID: 322873493
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873493
@@ -1691,9 +1691,9 @@
 ## Lot 62 — Plated Bud Vase, Teapot Clock, Silver Tone Dish
 
 - HiBid lot ID: 322873494
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873494
@@ -1718,9 +1718,9 @@
 ## Lot 63 — Farberware Silverware Gold Tone Silverware In A
 
 - HiBid lot ID: 322873495
-- Current bid: 2.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 8
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873495
@@ -1742,9 +1742,9 @@
 ## Lot 64 — Ceramic Serving Bowl,,White Soup Tureen
 
 - HiBid lot ID: 322873496
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873496
@@ -1768,9 +1768,9 @@
 ## Lot 65 — Assorted Silverware, Silver Lighting Cleaning Plat
 
 - HiBid lot ID: 322873497
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873497
@@ -1793,9 +1793,9 @@
 ## Lot 66 — National Double Tested Silverplate Silverware
 
 - HiBid lot ID: 322873498
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873498
@@ -1843,9 +1843,9 @@
 ## Lot 68 — Glass Jar Hand Crank Nut & Spice Grinders {2}
 
 - HiBid lot ID: 322873500
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873500
@@ -1864,9 +1864,9 @@
 ## Lot 68B — Ceramic Reindeer Cookie Jar
 
 - HiBid lot ID: 322873501
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873501
@@ -1886,9 +1886,9 @@
 ## Lot 69 — McDonald's Collectable Glasses & Mugs, Kids Cups
 
 - HiBid lot ID: 322873502
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873502
@@ -1907,9 +1907,9 @@
 ## Lot 70 — Amber Textured Glass Beer Mugs, Ceramic Mugs
 
 - HiBid lot ID: 322873503
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873503
@@ -1950,9 +1950,9 @@
 ## Lot 72 — Blue Glass Tumblers, Juice & Rocks Glasses
 
 - HiBid lot ID: 322873505
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873505
@@ -1971,9 +1971,9 @@
 ## Lot 73 — Holiday Lanterns, Holiday Mugs, Wire-Bail Jar.
 
 - HiBid lot ID: 322873506
-- Current bid: 3.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 5
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873506
@@ -2014,9 +2014,9 @@
 ## Lot 75 — Peach Motif Salt/Pepper & Napkin Holder, Serving
 
 - HiBid lot ID: 322873508
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873508
@@ -2038,9 +2038,9 @@
 ## Lot 76 — Johnson Bros Ceramic Platter, Colonial Co Platter
 
 - HiBid lot ID: 322873509
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873509
@@ -2063,9 +2063,9 @@
 ## Lot 77 — Clear Glass Baking Dishes (3)
 
 - HiBid lot ID: 322873510
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873510
@@ -2111,9 +2111,9 @@
 ## Lot 79 — Glass Drinkware, Souvenir Mug, Shot Glasses
 
 - HiBid lot ID: 322873512
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873512
@@ -2133,9 +2133,9 @@
 ## Lot 80 — Stoneware Canister Jar Home & Garden Party
 
 - HiBid lot ID: 322873513
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Stoneware / Pfaltzgraff /Earthenware | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873513
@@ -2157,9 +2157,9 @@
 ## Lot 81 — Flordia Ashtrays, Cut Glass Decanter W/Marbles
 
 - HiBid lot ID: 322873514
-- Current bid: 6.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 5
+- Bid count: 11
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873514
@@ -2180,9 +2180,9 @@
 ## Lot 82 — Napco Cookies All Over Ceramic Cookie Jar
 
 - HiBid lot ID: 322873515
-- Current bid: 0.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873515
@@ -2252,9 +2252,9 @@
 ## Lot 85 — White Ceramic Chef-Themed Jar, Salt & Pepper Shake
 
 - HiBid lot ID: 322873518
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873518
@@ -2276,9 +2276,9 @@
 ## Lot 86 — Ceramic Rooster Cookie Jar
 
 - HiBid lot ID: 322873519
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873519
@@ -2325,9 +2325,9 @@
 ## Lot 88 — Non-stick Copper Colored Frying Pans, Red Copper
 
 - HiBid lot ID: 322873521
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873521
@@ -2396,9 +2396,9 @@
 ## Lot 91 — Pyrex Spring Blossom Casserole Dish
 
 - HiBid lot ID: 322873524
-- Current bid: 8.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 9
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873524
@@ -2420,9 +2420,9 @@
 ## Lot 92 — Riverdale Plate, Aluminum Lazy Susan, Cheese Tray
 
 - HiBid lot ID: 322873525
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873525
@@ -2450,9 +2450,9 @@
 ## Lot 93 — Corelle Spring Blossom Green Assorted Dishes
 
 - HiBid lot ID: 322873526
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 15
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873526
@@ -2482,9 +2482,9 @@
 ## Lot 94 — Porcelain Covered Serving Dish, Ceramic Serving
 
 - HiBid lot ID: 322873527
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873527
@@ -2509,9 +2509,9 @@
 ## Lot 95 — Corning Ware Casserole Dishes, Pyrex Dish
 
 - HiBid lot ID: 322873528
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873528
@@ -2537,9 +2537,9 @@
 ## Lot 96 — Baking Pans, Muffin Tins, Bread Pans & More
 
 - HiBid lot ID: 322873529
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873529
@@ -2597,9 +2597,9 @@
 ## Lot 98 — Pink Pyrex Bowl, Anchor Hocking Casserole Dish
 
 - HiBid lot ID: 322873531
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 13
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873531
@@ -2627,9 +2627,9 @@
 ## Lot 99 — Brown Glazed Stoneware Divided Dish & Crock
 
 - HiBid lot ID: 322873532
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873532
@@ -2677,9 +2677,9 @@
 ## Lot 101 — Blue Speckled Enamelware Pan & Cups, Tea Kettle
 
 - HiBid lot ID: 322873534
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873534
@@ -2701,9 +2701,9 @@
 ## Lot 102 — Cuisinart Advantage Ceramic Knives W/Blade Gaurds
 
 - HiBid lot ID: 322873535
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 3
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873535
@@ -2721,9 +2721,9 @@
 ## Lot 103 — Assorted Kitchen Utensils, Recipe Holder
 
 - HiBid lot ID: 322873536
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873536
@@ -2741,9 +2741,9 @@
 ## Lot 104 — Tupperware Hourglass Salt & Pepper In A Stand,
 
 - HiBid lot ID: 322873537
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873537
@@ -2792,9 +2792,9 @@
 ## Lot 107 — Correlle Blossoms In Lace Plates ,Salad Plates,
 
 - HiBid lot ID: 322873539
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873539
@@ -2818,9 +2818,9 @@
 ## Lot 108 — Capriware Ceramic Kitchen Canisters Fruit Motifs
 
 - HiBid lot ID: 322873540
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873540
@@ -2842,9 +2842,9 @@
 ## Lot 109 — JC Penny Ceramic Canisters Brass Colored Metal
 
 - HiBid lot ID: 322873541
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873541
@@ -2865,9 +2865,9 @@
 ## Lot 110 — Meat Mincer/Grinder(2), Slice O Matic Slicer
 
 - HiBid lot ID: 322873542
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Business & Industrial - Restaurant / Food Industry - Meat Slicers | Business & Industrial - Restaurant / Food Industry | Business & Industrial
 - Lot page: https://hibid.com/lot/322873542
@@ -2911,9 +2911,9 @@
 ## Lot 112 — Nutcrackers (2), Painted Eggs(2)
 
 - HiBid lot ID: 322873544
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873544
@@ -2984,9 +2984,9 @@
 ## Lot 115 — Tupperware Butter Dish, Kitchen Scale, Toothpick
 
 - HiBid lot ID: 322873547
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873547
@@ -3054,9 +3054,9 @@
 ## Lot 118 — Ronco Showtime Rotisserie & BBQ
 
 - HiBid lot ID: 322873550
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873550
@@ -3078,9 +3078,9 @@
 ## Lot 119 — Nuwave Pro Infrared Cooking System
 
 - HiBid lot ID: 322873551
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873551
@@ -3124,9 +3124,9 @@
 ## Lot 121 — Stainless Steel Electric Deep Fryer
 
 - HiBid lot ID: 322873553
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873553
@@ -3166,9 +3166,9 @@
 ## Lot 123 — Pampered Chef Cookie Press, Spring Form Pans
 
 - HiBid lot ID: 322873555
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873555
@@ -3193,9 +3193,9 @@
 ## Lot 124 — FoodSaver Vacuum Sealing Solution, Metal Basket
 
 - HiBid lot ID: 322873556
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873556
@@ -3259,9 +3259,9 @@
 ## Lot 127 — Glass Oil Lamps W/Chimneys and Metal Burners(3)
 
 - HiBid lot ID: 322873559
-- Current bid: 2.0 USD
+- Current bid: 32.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 12
 - Photo count: 3
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873559
@@ -3277,9 +3277,9 @@
 ## Lot 128 — Metal & Glass Oil Lamps W/Chimneys (3)
 
 - HiBid lot ID: 322873560
-- Current bid: 2.0 USD
+- Current bid: 32.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 13
 - Photo count: 3
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873560
@@ -3295,9 +3295,9 @@
 ## Lot 129 — Hand-Painted Milk Glass Oil Lamp W/Brass Burner
 
 - HiBid lot ID: 322873561
-- Current bid: 2.0 USD
+- Current bid: 32.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 12
 - Photo count: 3
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873561
@@ -3315,9 +3315,9 @@
 ## Lot 130 — Portable Boombox W/CD Player & Cassette Player
 
 - HiBid lot ID: 322873562
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Radios | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873562
@@ -3337,9 +3337,9 @@
 ## Lot 131 — Amethyst Glass Fairy Lamp,24% Lead Crystal Lamp
 
 - HiBid lot ID: 322873563
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873563
@@ -3379,9 +3379,9 @@
 ## Lot 133 — Frying Pan W/Lid, Covered Oval Roaster, Pan
 
 - HiBid lot ID: 322873565
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873565
@@ -3424,9 +3424,9 @@
 ## Lot 135 — Kenmore Electric Food Slicer, Stainless Pot W/Lid
 
 - HiBid lot ID: 322873567
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873567
@@ -3445,9 +3445,9 @@
 ## Lot 136 — 2 Tier Spice Rack, Revolving Spice Carousel
 
 - HiBid lot ID: 322873568
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873568
@@ -3466,9 +3466,9 @@
 ## Lot 137 — Rooster Glass Cutting Board, Pro Smart Slicer
 
 - HiBid lot ID: 322873569
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873569
@@ -3488,9 +3488,9 @@
 ## Lot 138 — Copper Scale Scoop, Enamel Wash Basin
 
 - HiBid lot ID: 322873570
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873570
@@ -3511,9 +3511,9 @@
 ## Lot 139 — McCoy Pottery Ovenware Mixing Bowl
 
 - HiBid lot ID: 322873571
-- Current bid: 2.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 9
 - Photo count: 5
 - Category: Art - Pottery / Ceramics | Art
 - Lot page: https://hibid.com/lot/322873571
@@ -3601,9 +3601,9 @@
 ## Lot 143 — Frosted Drinking Glasses W/Antique Cars(4)
 
 - HiBid lot ID: 322873575
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873575
@@ -3620,9 +3620,9 @@
 ## Lot 144 — McDonalds Great Muppet Caper & Looney Tunes
 
 - HiBid lot ID: 322873576
-- Current bid: 2.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873576
@@ -3685,9 +3685,9 @@
 ## Lot 147 — 1970'S Holly Hobbie Coca-Cola Christmas Glasses
 
 - HiBid lot ID: 322873579
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873579
@@ -3707,9 +3707,9 @@
 ## Lot 148 — White Milk Glass Decor Items
 
 - HiBid lot ID: 322873580
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873580
@@ -3730,9 +3730,9 @@
 ## Lot 149 — Silver-Plated Bread Dish,Solid Brass Ashtray, Door
 
 - HiBid lot ID: 322873581
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873581
@@ -3758,9 +3758,9 @@
 ## Lot 150 — Polaroid Automatic 103 Land Camera In A Case
 
 - HiBid lot ID: 322873582
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Computers & Electronics - Cameras & Camera Accessories - Cameras | Computers & Electronics - Cameras & Camera Accessories | Computers & Electronics
 - Lot page: https://hibid.com/lot/322873582
@@ -3780,9 +3780,9 @@
 ## Lot 151 — Crock-Pot 6-Qt Programmable Stainless Steel Slow
 
 - HiBid lot ID: 322873583
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873583
@@ -3830,9 +3830,9 @@
 ## Lot 153 — Mushroom Pattern Ceramic Planter, Horse Bookend,
 
 - HiBid lot ID: 322873585
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Decorative - Planters | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873585
@@ -3855,9 +3855,9 @@
 ## Lot 154 — Panasonic Cordless Phone System, Aiwa Clock Radio
 
 - HiBid lot ID: 322873586
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Phones | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873586
@@ -3881,9 +3881,9 @@
 ## Lot 155 — Apple Peeler Corer Slicer (2)
 
 - HiBid lot ID: 322873587
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873587
@@ -3902,9 +3902,9 @@
 ## Lot 156 — Pampered Chef Parchment Paper, Paper Lunch Sacks
 
 - HiBid lot ID: 322873588
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873588
@@ -3925,9 +3925,9 @@
 ## Lot 157 — Lasko 20IN 3 Speed Box Fan, AeroSpeed Box Fan
 
 - HiBid lot ID: 322873589
-- Current bid: 3.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 3
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873589
@@ -3945,9 +3945,9 @@
 ## Lot 158 — Green Crochet Blanket, Various Towels and Hand
 
 - HiBid lot ID: 322873590
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873590
@@ -3966,9 +3966,9 @@
 ## Lot 159 — Various Towels, Table Placemats
 
 - HiBid lot ID: 322873591
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873591
@@ -4032,9 +4032,9 @@
 ## Lot 162 — Doll Size Wood and Wicker Chairs(4)
 
 - HiBid lot ID: 322873594
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 16
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873594
@@ -4156,9 +4156,9 @@
 ## Lot 167 — Cabbage Patch Kids Doll,Hasbro Baby Wanna Walk Dol
 
 - HiBid lot ID: 322873599
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873599
@@ -4179,9 +4179,9 @@
 ## Lot 168 — Cabbage Patch Kids Dolls (2)
 
 - HiBid lot ID: 322873600
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873600
@@ -4337,9 +4337,9 @@
 ## Lot 175 — Rosie Doll, Little Miss April Doll, Danbury Mint D
 
 - HiBid lot ID: 322873607
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873607
@@ -4359,9 +4359,9 @@
 ## Lot 176 — GrannyWorld African American Grandmother Doll & Mo
 
 - HiBid lot ID: 322873608
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873608
@@ -4489,9 +4489,9 @@
 ## Lot 182 — Miniature Doll Sized Red Metal Tricycle
 
 - HiBid lot ID: 322873614
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 5
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873614
@@ -4554,9 +4554,9 @@
 ## Lot 185 — Marilyn Monroe Fashion Doll In The Original Box
 
 - HiBid lot ID: 322873617
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873617
@@ -4577,9 +4577,9 @@
 ## Lot 186 — Barbie's New In The Box (2)
 
 - HiBid lot ID: 322873618
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 7
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322873618
@@ -4640,9 +4640,9 @@
 ## Lot 189 — Puzzles, Greeting Cards, Skip-Bo Card Game
 
 - HiBid lot ID: 322873621
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Toys - Games | Toys
 - Lot page: https://hibid.com/lot/322873621
@@ -4662,9 +4662,9 @@
 ## Lot 190 — Puzzles 1000PC (5), 550PC (1)
 
 - HiBid lot ID: 322873622
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 3
 - Category: Toys - Games | Toys
 - Lot page: https://hibid.com/lot/322873622
@@ -4680,9 +4680,9 @@
 ## Lot 191 — Winter Tealight Lamps(2), Mini Nativity Figurines
 
 - HiBid lot ID: 322873623
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873623
@@ -4704,9 +4704,9 @@
 ## Lot 192 — Winter Wonderland Enchanted Carnival Decor
 
 - HiBid lot ID: 322873624
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873624
@@ -4750,9 +4750,9 @@
 ## Lot 194 — Glass Storage Canister Full Of Buttons, Tin of
 
 - HiBid lot ID: 322873626
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873626
@@ -4822,9 +4822,9 @@
 ## Lot 197 — Shark Steam Cleaner In A Bag W/Attachments, Iron
 
 - HiBid lot ID: 322873629
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaning Equipment | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322873629
@@ -4892,9 +4892,9 @@
 ## Lot 200 — Country CD's, Soundesign AM/FM Radio, CD Holder
 
 - HiBid lot ID: 322873632
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Music - CDs / Records / Cassettes | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873632
@@ -4939,9 +4939,9 @@
 ## Lot 202 — The Spirit Of Kewpies Porcelain Cherubic Figurine
 
 - HiBid lot ID: 322873634
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873634
@@ -4959,9 +4959,9 @@
 ## Lot 203 — Earth Breeze Laundry Sheets, Plink, Wood Shelf
 
 - HiBid lot ID: 322873635
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873635
@@ -4986,9 +4986,9 @@
 ## Lot 204 — Wahl Dog Clippers(2), Smart Swab, Dog Brush
 
 - HiBid lot ID: 322873636
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Pet Food & Supplies | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873636
@@ -5027,9 +5027,9 @@
 ## Lot 206 — Wet Shaving Gear, Ceramic Shaving Mugs, Lather Bow
 
 - HiBid lot ID: 322873638
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873638
@@ -5051,9 +5051,9 @@
 ## Lot 207 — Braun Series 3 Electric Shaver, Blow Dryer 1500W
 
 - HiBid lot ID: 322873639
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873639
@@ -5073,9 +5073,9 @@
 ## Lot 208 — Floral Oval Pictures, Harvest Broom, Apple Napkin
 
 - HiBid lot ID: 322873640
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873640
@@ -5117,9 +5117,9 @@
 ## Lot 210 — Bath Mat(New), Wood Tissue Box Cover, Insoles
 
 - HiBid lot ID: 322873642
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873642
@@ -5162,9 +5162,9 @@
 ## Lot 212 — Acrylic Paint Color Assortment & Brushes
 
 - HiBid lot ID: 322873644
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Home Goods & Decor - Art & Craft Supplies | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873644
@@ -5224,9 +5224,9 @@
 ## Lot 215 — Paperback Romantic Suspense Novels
 
 - HiBid lot ID: 322873647
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873647
@@ -5250,9 +5250,9 @@
 ## Lot 216 — Paperback Books- Popular Fiction, Romance & Drama
 
 - HiBid lot ID: 322873648
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873648
@@ -5294,9 +5294,9 @@
 ## Lot 218 — Assortment of Fiction Novels
 
 - HiBid lot ID: 322873650
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Fiction Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873650
@@ -5344,9 +5344,9 @@
 ## Lot 220 — Romance & Fiction Paperback Novels
 
 - HiBid lot ID: 322873652
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873652
@@ -5432,9 +5432,9 @@
 ## Lot 224 — Cookbook Assortment
 
 - HiBid lot ID: 322873656
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873656
@@ -5519,9 +5519,9 @@
 ## Lot 228 — Hard and Softcover Cookbooks
 
 - HiBid lot ID: 322873660
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873660
@@ -5581,9 +5581,9 @@
 ## Lot 231 — Albums, Elvis Christmas Album, 45's Records
 
 - HiBid lot ID: 322873663
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Music - CDs / Records / Cassettes | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873663
@@ -5605,9 +5605,9 @@
 ## Lot 231B — Records
 
 - HiBid lot ID: 322873664
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Music - CDs / Records / Cassettes | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873664
@@ -5651,9 +5651,9 @@
 ## Lot 233 — CD's & 8 Tracks In A Case
 
 - HiBid lot ID: 322873702
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Music - CDs / Records / Cassettes | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873702
@@ -5793,9 +5793,9 @@
 ## Lot 239 — Microfiber Duster, Table Runner, Nylon Scarves, Ha
 
 - HiBid lot ID: 322873736
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873736
@@ -5816,9 +5816,9 @@
 ## Lot 240 — Table Runners, Crocheted Doilies, Handkerchiefs
 
 - HiBid lot ID: 322873743
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873743
@@ -5839,9 +5839,9 @@
 ## Lot 241 — Household Cleaning and Maintenance Products
 
 - HiBid lot ID: 322873748
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaners / Cleaning Supplies | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322873748
@@ -5862,9 +5862,9 @@
 ## Lot 242 — Fabric Tablecloths(3), Round Lace Tablecloth,
 
 - HiBid lot ID: 322873778
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873778
@@ -5906,9 +5906,9 @@
 ## Lot 244 — 4-Pronged Mobility Quad Cane, Wooden Canes (3)
 
 - HiBid lot ID: 322873783
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Business & Industrial - Medical Supplies / Lab Equipment | Business & Industrial
 - Lot page: https://hibid.com/lot/322873783
@@ -5988,9 +5988,9 @@
 ## Lot 249 — Resin Fairy Figure Climbing A Metal Flower Stem, F
 
 - HiBid lot ID: 322873805
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873805
@@ -6037,9 +6037,9 @@
 ## Lot 251 — Disney Minnie Mouse Desk Telephone, Green Rotary P
 
 - HiBid lot ID: 322873817
-- Current bid: 2.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Phones | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322873817
@@ -6061,9 +6061,9 @@
 ## Lot 252 — Winter Scene Tapestry W/Deer, Curtain Valence, Tab
 
 - HiBid lot ID: 322873820
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873820
@@ -6157,9 +6157,9 @@
 ## Lot 256 — Assorted Picture Frames Wood, Metal, Many Sizes
 
 - HiBid lot ID: 322873871
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873871
@@ -6200,9 +6200,9 @@
 ## Lot 258 — Framed Art Prints, Ceramic Shoe,Gold Tone Music B
 
 - HiBid lot ID: 322873876
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 8
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873876
@@ -6245,9 +6245,9 @@
 ## Lot 260 — Praying Children Wall Art Prints In Ornate Cast Me
 
 - HiBid lot ID: 322873882
-- Current bid: 6.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 5
+- Bid count: 7
 - Photo count: 9
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322873882
@@ -6292,9 +6292,9 @@
 ## Lot 262 — Sunbeam Fleece Heated Throw New
 
 - HiBid lot ID: 322873886
-- Current bid: 3.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 5
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873886
@@ -6313,9 +6313,9 @@
 ## Lot 263 — 12V Heated Travel Throw
 
 - HiBid lot ID: 322873906
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873906
@@ -6334,9 +6334,9 @@
 ## Lot 264 — Hitachi VHS Video Camcorder In Orginal Case W/Manu
 
 - HiBid lot ID: 322873909
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Computers & Electronics - Consumer Electronics - Camcorders | Computers & Electronics - Consumer Electronics | Computers & Electronics
 - Lot page: https://hibid.com/lot/322873909
@@ -6357,9 +6357,9 @@
 ## Lot 265 — Chair Back Massager, ResMed AirSence CPap Machines
 
 - HiBid lot ID: 322873912
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Business & Industrial - Medical Supplies / Lab Equipment | Business & Industrial
 - Lot page: https://hibid.com/lot/322873912
@@ -6381,9 +6381,9 @@
 ## Lot 266 — Various Belts, Sweatshirts(2), Bike Rally
 
 - HiBid lot ID: 322873915
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 11
 - Category: Fashion - Men's Clothing - Tops | Fashion - Men's Clothing | Fashion
 - Lot page: https://hibid.com/lot/322873915
@@ -6409,9 +6409,9 @@
 ## Lot 267 — Hearth Rug, Small Apron, Doilies
 
 - HiBid lot ID: 322873918
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873918
@@ -6430,9 +6430,9 @@
 ## Lot 268 — Lace Table Cloths, Handmade Slippers(2)
 
 - HiBid lot ID: 322873921
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873921
@@ -6450,9 +6450,9 @@
 ## Lot 269 — Hand Sewn Pillow Cases
 
 - HiBid lot ID: 322873925
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873925
@@ -6471,9 +6471,9 @@
 ## Lot 270 — Cloud Leather Slippers(7), Ladies Shoes,Purse
 
 - HiBid lot ID: 322873928
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Fashion - Women's Shoes - Slippers | Fashion - Women's Shoes | Fashion
 - Lot page: https://hibid.com/lot/322873928
@@ -6495,9 +6495,9 @@
 ## Lot 271 — Fabric Table Cloths, White Lightweight Fabric
 
 - HiBid lot ID: 322873932
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Business & Industrial - Restaurant / Food Industry - Linens / Table Covers | Business & Industrial - Restaurant / Food Industry | Business & Industrial
 - Lot page: https://hibid.com/lot/322873932
@@ -6516,9 +6516,9 @@
 ## Lot 272 — Multicorored Plaid Pattern Table Cloth, Blue & Whi
 
 - HiBid lot ID: 322873936
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Linens / Curtains | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873936
@@ -6626,9 +6626,9 @@
 ## Lot 277 — Ceramic Horse Head Bookends, Horseshoe Shaped Trin
 
 - HiBid lot ID: 322873984
-- Current bid: 2.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 8
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322873984
@@ -6675,9 +6675,9 @@
 ## Lot 279 — Wood Fork & Spoon Wall Decor, Key Shaped Keyholder
 
 - HiBid lot ID: 322873994
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322873994
@@ -6699,9 +6699,9 @@
 ## Lot 280 — Coral Specimen Beach Decor, Sea Shells, Vases(4)
 
 - HiBid lot ID: 322874000
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874000
@@ -6746,9 +6746,9 @@
 ## Lot 282 — Conair Shiatsu Neck Massager, Infra-red Massager
 
 - HiBid lot ID: 322874008
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874008
@@ -6770,9 +6770,9 @@
 ## Lot 283 — Cedar Trinket Box, Wood Jewerly Box, Wood Tissue C
 
 - HiBid lot ID: 322874032
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874032
@@ -6798,9 +6798,9 @@
 ## Lot 284 — Ceramic Planters(6), Wicker Baskets, Faux Flowers
 
 - HiBid lot ID: 322874033
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Planters | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874033
@@ -6819,9 +6819,9 @@
 ## Lot 285 — Handled Ceramic Ewer, Grey Patterned Vase W/Faux
 
 - HiBid lot ID: 322874034
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874034
@@ -6866,9 +6866,9 @@
 ## Lot 287 — Folk Art Shelf Sitter Cow Doll, Wood Sitting Cow F
 
 - HiBid lot ID: 322874036
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874036
@@ -6889,9 +6889,9 @@
 ## Lot 288 — Ceramic and Porcelain Animal Figurines(6)
 
 - HiBid lot ID: 322874037
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874037
@@ -6911,9 +6911,9 @@
 ## Lot 289 — Ceramic and Porcelain Souvenir & Decorative Hand B
 
 - HiBid lot ID: 322874038
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874038
@@ -6932,9 +6932,9 @@
 ## Lot 290 — Glass Basket & Hand Bells(3), Bells(2)
 
 - HiBid lot ID: 322874039
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874039
@@ -7023,9 +7023,9 @@
 ## Lot 294 — Porcelain Mantel Clock, Blue /WFigurinehite
 
 - HiBid lot ID: 322874043
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874043
@@ -7070,9 +7070,9 @@
 ## Lot 296 — Waxwel Paraffin Heat Treatment Bath
 
 - HiBid lot ID: 322874045
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874045
@@ -7091,9 +7091,9 @@
 ## Lot 297 — Decorative Glass Vases(2), With Faux Flowers
 
 - HiBid lot ID: 322874046
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Blue Glass | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874046
@@ -7112,9 +7112,9 @@
 ## Lot 298 — Avocado Green Hobnail Swung Vase, Amethyst Vase
 
 - HiBid lot ID: 322874047
-- Current bid: 17.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 8
+- Bid count: 9
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874047
@@ -7173,9 +7173,9 @@
 ## Lot 301 — Framed Artwork,Wooden Mouse Figurine, Liberty Bell
 
 - HiBid lot ID: 322874050
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322874050
@@ -7270,9 +7270,9 @@
 ## Lot 305 — Hand Painted Ceramic Angel Figurines(5)
 
 - HiBid lot ID: 322874054
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874054
@@ -7290,9 +7290,9 @@
 ## Lot 306 — Rooster Themed Decor Items
 
 - HiBid lot ID: 322874055
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874055
@@ -7317,9 +7317,9 @@
 ## Lot 307 — Stuffed Bears
 
 - HiBid lot ID: 322874056
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/322874056
@@ -7409,9 +7409,9 @@
 ## Lot 311 — Celluloid Baby Doll Wearing A Crochet Dress, Sling
 
 - HiBid lot ID: 322874060
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322874060
@@ -7456,9 +7456,9 @@
 ## Lot 313 — Clear Art Glass Figurines (4)
 
 - HiBid lot ID: 322874062
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Art - Glass Art | Art
 - Lot page: https://hibid.com/lot/322874062
@@ -7478,9 +7478,9 @@
 ## Lot 314 — White Ceramic Cat Figurines(7),Cactus Piece
 
 - HiBid lot ID: 322874063
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874063
@@ -7499,9 +7499,9 @@
 ## Lot 315 — A&W Root Beer Glassware- Heavy Mugs(2), Tumbler
 
 - HiBid lot ID: 322874064
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874064
@@ -7518,9 +7518,9 @@
 ## Lot 316 — Metal Candle Lantern, Ceramic Pig Figurines(3)
 
 - HiBid lot ID: 322874065
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874065
@@ -7563,9 +7563,9 @@
 ## Lot 318 — Oster Gentle Paws Trimmer,,Dog Bed, Container W/Li
 
 - HiBid lot ID: 322874067
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Pet Food & Supplies | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874067
@@ -7607,9 +7607,9 @@
 ## Lot 320 — Magnavox DVD Player W/Remote and AV Cables
 
 - HiBid lot ID: 322874069
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Computers & Electronics - Consumer Electronics - Blu-ray / DVD Players | Computers & Electronics - Consumer Electronics | Computers & Electronics
 - Lot page: https://hibid.com/lot/322874069
@@ -7626,9 +7626,9 @@
 ## Lot 321 — JCPenney 4 In One Stereo System W/Speakers
 
 - HiBid lot ID: 322874070
-- Current bid: 3.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 3
 - Photo count: 8
 - Category: Computers & Electronics - Consumer Electronics - Home Audio - Speakers | Computers & Electronics - Consumer Electronics - Home Audio | Computers & Electronics - Consumer Electronics | Computers & Electronics
 - Lot page: https://hibid.com/lot/322874070
@@ -7651,9 +7651,9 @@
 ## Lot 322 — Kodak Party Flash II Instant Film Camera
 
 - HiBid lot ID: 322874071
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Computers & Electronics - Cameras & Camera Accessories - Cameras | Computers & Electronics - Cameras & Camera Accessories | Computers & Electronics
 - Lot page: https://hibid.com/lot/322874071
@@ -7671,9 +7671,9 @@
 ## Lot 323 — Samsung VCR, VHS Video Cassette Player/Recorder
 
 - HiBid lot ID: 322874072
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Music - CDs / Records / Cassettes | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874072
@@ -7694,9 +7694,9 @@
 ## Lot 324 — Plastic Toy Police Motorcycle
 
 - HiBid lot ID: 322874073
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874073
@@ -7744,9 +7744,9 @@
 ## Lot 326 — Chruch Candle Lantern, Brass Tropical Angelfish
 
 - HiBid lot ID: 322874075
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874075
@@ -7767,9 +7767,9 @@
 ## Lot 327 — Ceramic Owls,Lighthouse Souvenir, Glass Ashtray
 
 - HiBid lot ID: 322874076
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874076
@@ -7791,9 +7791,9 @@
 ## Lot 328 — Avon Garden Girl Sweet Honesty Cologne Bottles
 
 - HiBid lot ID: 322874077
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874077
@@ -7905,9 +7905,9 @@
 ## Lot 333 — Decorative Plates,Bells,Trinket Tray, Figurines, S
 
 - HiBid lot ID: 322874082
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874082
@@ -7929,9 +7929,9 @@
 ## Lot 334 — Glass Fruit/Veggies In A Wicker Basket
 
 - HiBid lot ID: 322874083
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874083
@@ -7996,9 +7996,9 @@
 ## Lot 337 — Iridescent Green Glass Swag or Pendant Lamp
 
 - HiBid lot ID: 322874086
-- Current bid: 26.0 USD
+- Current bid: 130.0 USD
 - Price realized: 0 USD
-- Bid count: 7
+- Bid count: 26
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874086
@@ -8042,9 +8042,9 @@
 ## Lot 339 — Jim Beam 1909 Thomas Flyer 'Flyabout' Decanter
 
 - HiBid lot ID: 322874088
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874088
@@ -8070,9 +8070,9 @@
 ## Lot 340 — McGill High Speed 4-Barrel Coin Changer- Works,Coi
 
 - HiBid lot ID: 322874089
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874089
@@ -8118,9 +8118,9 @@
 ## Lot 342 — Ceramic Banks(2), Ceramic Figurines, Cruet
 
 - HiBid lot ID: 322874091
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874091
@@ -8165,9 +8165,9 @@
 ## Lot 344 — ASUS Wireless Router, Extension Cords, Mini Radio
 
 - HiBid lot ID: 322874093
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 16
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/322874093
@@ -8223,9 +8223,9 @@
 ## Lot 346 — Wooden Smoking Stand Set W/Glass Ashtray
 
 - HiBid lot ID: 322874095
-- Current bid: 0.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874095
@@ -8272,9 +8272,9 @@
 ## Lot 348 — Wooden Wall-Hanging Curio Cabinet, 3-Tier Tea Cup
 
 - HiBid lot ID: 322874097
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 14
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322874097
@@ -8303,9 +8303,9 @@
 ## Lot 349 — Rubbermaid Storage Drawers, Basket
 
 - HiBid lot ID: 322874098
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874098
@@ -8330,9 +8330,9 @@
 ## Lot 350 — Small Wooden Storage Chest Dome Top Drawer Insert
 
 - HiBid lot ID: 322874099
-- Current bid: 0.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 13
 - Photo count: 9
 - Category: Furniture - Trunks / Chests | Furniture
 - Lot page: https://hibid.com/lot/322874099
@@ -8354,9 +8354,9 @@
 ## Lot 351 — 1970 Libbey Apollo 13 "Safe Return" Glasses (4)
 
 - HiBid lot ID: 322874100
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874100
@@ -8374,9 +8374,9 @@
 ## Lot 352 — Avon Wild Country- Wild Turkey & Quail Decanters
 
 - HiBid lot ID: 322874101
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874101
@@ -8398,9 +8398,9 @@
 ## Lot 353 — Ceramic Dutch Boy & Girl Kissing Figurines
 
 - HiBid lot ID: 322874102
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874102
@@ -8419,9 +8419,9 @@
 ## Lot 354 — Walt Disney Mickey & Minnie Mouse Figurines
 
 - HiBid lot ID: 322874103
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874103
@@ -8442,9 +8442,9 @@
 ## Lot 355 — Ceramic Cat & Dog Figurines, Ceramic Peacock Figur
 
 - HiBid lot ID: 322874104
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 22
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874104
@@ -8516,9 +8516,9 @@
 ## Lot 357 — Wacky Bobbleheads- Austin Powers & Dr. Evil
 
 - HiBid lot ID: 322874106
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Toys - Action Figures | Toys
 - Lot page: https://hibid.com/lot/322874106
@@ -8620,9 +8620,9 @@
 ## Lot 361 — Bisque Porcelain Figurines, Farmer Couple, Romanti
 
 - HiBid lot ID: 322874110
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874110
@@ -8787,9 +8787,9 @@
 ## Lot 365 — United Self Starting Brass Horse with Clock
 
 - HiBid lot ID: 322874114
-- Current bid: 10.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 6
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874114
@@ -8838,9 +8838,9 @@
 ## Lot 367 — United Self Starting Horse Clock, Fan,
 
 - HiBid lot ID: 322874116
-- Current bid: 4.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 4
 - Photo count: 16
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874116
@@ -8871,9 +8871,9 @@
 ## Lot 368 — Porcelain Cow Clock
 
 - HiBid lot ID: 322874117
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874117
@@ -8891,9 +8891,9 @@
 ## Lot 369 — Howard Miller Wall Clock, Heart Wall Self/Sconce
 
 - HiBid lot ID: 322874118
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Antiques - Clocks - Wall | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874118
@@ -8916,9 +8916,9 @@
 ## Lot 370 — Clock Parts
 
 - HiBid lot ID: 322874119
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874119
@@ -8938,9 +8938,9 @@
 ## Lot 371 — Chime Mantel Clock
 
 - HiBid lot ID: 322874120
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 20
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874120
@@ -9000,9 +9000,9 @@
 ## Lot 373 — Wooden Mechanical Mantel/Shelf Clock W/Pendulum
 
 - HiBid lot ID: 322874122
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Clocks - Wall | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874122
@@ -9024,9 +9024,9 @@
 ## Lot 374 — 31-Day Wind-Up Mantel Clock
 
 - HiBid lot ID: 322874123
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874123
@@ -9049,9 +9049,9 @@
 ## Lot 375 — Alaron 31-Day Mantel Clock
 
 - HiBid lot ID: 322874124
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874124
@@ -9075,9 +9075,9 @@
 ## Lot 376 — Gingerbread Style Mantel Clock
 
 - HiBid lot ID: 322874125
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Clocks - Mantle | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874125
@@ -9103,9 +9103,9 @@
 ## Lot 377 — Mantel ClockBlack Wooden Case W/Faux Red Marble Co
 
 - HiBid lot ID: 322874126
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874126
@@ -9131,9 +9131,9 @@
 ## Lot 378 — Mantel Clock Ebonized Finish Decorative Pillars
 
 - HiBid lot ID: 322874127
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874127
@@ -9160,9 +9160,9 @@
 ## Lot 379 — United Clock Black Electric Mantle Clock
 
 - HiBid lot ID: 322874128
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Clocks - Mantle | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874128
@@ -9186,9 +9186,9 @@
 ## Lot 380 — Ebonized Wood Mantel Clock-Pillars Need Repair
 
 - HiBid lot ID: 322874129
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874129
@@ -9211,9 +9211,9 @@
 ## Lot 381 — Zeno 31-Day Mantel Clock
 
 - HiBid lot ID: 322874130
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874130
@@ -9239,9 +9239,9 @@
 ## Lot 382 — Seth Thomas Mantel Clock
 
 - HiBid lot ID: 322874131
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874131
@@ -9265,9 +9265,9 @@
 ## Lot 383 — Session Mantel Clock
 
 - HiBid lot ID: 322874132
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874132
@@ -9292,9 +9292,9 @@
 ## Lot 384 — D&A Quartz Westminster Chime Mantel Clock
 
 - HiBid lot ID: 322874133
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Clocks - Mantle | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874133
@@ -9340,9 +9340,9 @@
 ## Lot 386 — German 400-Day Clock
 
 - HiBid lot ID: 322874135
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874135
@@ -9365,9 +9365,9 @@
 ## Lot 387 — Mindi Brass Mantel Clock
 
 - HiBid lot ID: 322874136
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Antiques & Collectibles - Antiques - Clocks - Mantle | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874136
@@ -9391,9 +9391,9 @@
 ## Lot 388 — 1950-60’s Jefferson Golden Hour Clock
 
 - HiBid lot ID: 322874137
-- Current bid: 0.0 USD
+- Current bid: 26.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 11
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874137
@@ -9415,9 +9415,9 @@
 ## Lot 389 — Copper United Carriage Mantel Clock
 
 - HiBid lot ID: 322874138
-- Current bid: 3.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 5
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874138
@@ -9440,9 +9440,9 @@
 ## Lot 390 — Waltham 31-Day Wind-Uo Wall Clock
 
 - HiBid lot ID: 322874139
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Antiques & Collectibles - Antiques - Clocks - Wall | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874139
@@ -9463,9 +9463,9 @@
 ## Lot 391 — D&A Regulator Wall Mantel
 
 - HiBid lot ID: 322874140
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874140
@@ -9488,9 +9488,9 @@
 ## Lot 392 — New Haven 8-Day Wind-Up Wall Clock
 
 - HiBid lot ID: 322874141
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 12
 - Category: Antiques & Collectibles - Antiques - Clocks - Wall | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874141
@@ -9538,9 +9538,9 @@
 ## Lot 394 — Daniel Dakota Quartz Wall Clock
 
 - HiBid lot ID: 322874143
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874143
@@ -9560,9 +9560,9 @@
 ## Lot 395 — Ingraham Quartz Wall Clock
 
 - HiBid lot ID: 322874144
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874144
@@ -9580,9 +9580,9 @@
 ## Lot 396 — Daniel Dakota Regulator Wall Clock
 
 - HiBid lot ID: 322874145
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874145
@@ -9602,9 +9602,9 @@
 ## Lot 397 — Elgin Regular Wall Mantel
 
 - HiBid lot ID: 322874146
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 13
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874146
@@ -9652,9 +9652,9 @@
 ## Lot 399 — Elgin Regulator Westminster Chime Quartz Wall
 
 - HiBid lot ID: 322874148
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874148
@@ -9673,9 +9673,9 @@
 ## Lot 400 — Xenon 31 Day Mechanical Wind-Up Clock
 
 - HiBid lot ID: 322874149
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874149
@@ -9698,9 +9698,9 @@
 ## Lot 401 — Wall Clocks, Live Laugh Love & Bird Songs
 
 - HiBid lot ID: 322874150
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874150
@@ -9721,9 +9721,9 @@
 ## Lot 402 — Plastic Trivet Clock , Mid Century Wall Clock
 
 - HiBid lot ID: 322874151
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Antiques - Clocks - Wall | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874151
@@ -9746,9 +9746,9 @@
 ## Lot 403 — German Black Forest Cuckoo Clock
 
 - HiBid lot ID: 322874152
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Clocks - Cuckoo | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874152
@@ -9772,9 +9772,9 @@
 ## Lot 404 — German Black Forest Cuckoo Clock
 
 - HiBid lot ID: 322874153
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Clocks - Cuckoo | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874153
@@ -9798,9 +9798,9 @@
 ## Lot 405 — German Black Forest Cuckoo Clock
 
 - HiBid lot ID: 322874154
-- Current bid: 7.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 13
 - Category: Antiques & Collectibles - Antiques - Clocks - Cuckoo | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874154
@@ -9826,9 +9826,9 @@
 ## Lot 406 — German Black Forest Cuckoo Clock
 
 - HiBid lot ID: 322874155
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Clocks - Cuckoo | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874155
@@ -9852,9 +9852,9 @@
 ## Lot 407 — German Black Forest Cuckoo Clock
 
 - HiBid lot ID: 322874156
-- Current bid: 2.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 18
 - Category: Antiques & Collectibles - Antiques - Clocks - Cuckoo | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874156
@@ -9885,9 +9885,9 @@
 ## Lot 408 — Swiss CouCou Clock
 
 - HiBid lot ID: 322874157
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 16
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874157
@@ -9916,9 +9916,9 @@
 ## Lot 409 — 70’s Cypress Live Edge Wood Clock
 
 - HiBid lot ID: 322874158
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874158
@@ -9938,9 +9938,9 @@
 ## Lot 410 — Carnival Blue Turquoise bowl, compote.
 
 - HiBid lot ID: 322874159
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 20
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874159
@@ -9975,9 +9975,9 @@
 ## Lot 411 — Carnival Blue Turquoise Glass, Sugar and creamer
 
 - HiBid lot ID: 322874160
-- Current bid: 2.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 19
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874160
@@ -10011,9 +10011,9 @@
 ## Lot 412 — Carnival Glass Blue Turquoise pitcher, 12 goblets
 
 - HiBid lot ID: 322874161
-- Current bid: 3.0 USD
+- Current bid: 56.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874161
@@ -10038,9 +10038,9 @@
 ## Lot 413 — Le Smith Valtec Tree Star Amethyst Pitcher
 
 - HiBid lot ID: 322874162
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874162
@@ -10066,9 +10066,9 @@
 ## Lot 414 — Imperial Carnival Glass Beaded Block Marigold Oval
 
 - HiBid lot ID: 322874163
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 16
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874163
@@ -10099,9 +10099,9 @@
 ## Lot 415 — Carnival glass, Large grape clusters containing
 
 - HiBid lot ID: 322874164
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 16
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874164
@@ -10132,9 +10132,9 @@
 ## Lot 416 — Anchor Hocking Jeanette Glass Optic Marigold glass
 
 - HiBid lot ID: 322874165
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874165
@@ -10188,9 +10188,9 @@
 ## Lot 418 — Orange and Amethyst Carnival Glass Bowl
 
 - HiBid lot ID: 322874167
-- Current bid: 9.0 USD
+- Current bid: 18.0 USD
 - Price realized: 0 USD
-- Bid count: 6
+- Bid count: 10
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874167
@@ -10216,9 +10216,9 @@
 ## Lot 419 — Fenton Black Amethyst Carnival Glass Marie C
 
 - HiBid lot ID: 322874168
-- Current bid: 0.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 23
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874168
@@ -10256,9 +10256,9 @@
 ## Lot 420 — Indiana Glass Iridescent Blue Grape Canister
 
 - HiBid lot ID: 322874169
-- Current bid: 2.0 USD
+- Current bid: 20.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 8
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Blue Glass | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874169
@@ -10301,9 +10301,9 @@
 ## Lot 422 — Indiana Glass Marigold Iridescent Grape Goblets
 
 - HiBid lot ID: 322874171
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874171
@@ -10323,9 +10323,9 @@
 ## Lot 423 — Imperial Glass Iridescent Orange Rose Luster Bowl
 
 - HiBid lot ID: 322874172
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 16
 - Category: Art - Glass Art | Art
 - Lot page: https://hibid.com/lot/322874172
@@ -10356,9 +10356,9 @@
 ## Lot 424 — EPAG Imperial Carnival Iridescent Marigold base
 
 - HiBid lot ID: 322874173
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874173
@@ -10384,9 +10384,9 @@
 ## Lot 425 — Indiana Carnival Glass Colony Harvest Iridescent
 
 - HiBid lot ID: 322874174
-- Current bid: 2.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874174
@@ -10412,9 +10412,9 @@
 ## Lot 426 — Marigold Blackberry Spray Carnival Glass Ruffle
 
 - HiBid lot ID: 322874175
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874175
@@ -10439,9 +10439,9 @@
 ## Lot 427 — Liberty Bell Jar Bicentennial Limited Issue
 
 - HiBid lot ID: 322874176
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874176
@@ -10461,9 +10461,9 @@
 ## Lot 428 — Imperial Glass Marigold Rose Pattern Fluted Bowl
 
 - HiBid lot ID: 322874177
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874177
@@ -10517,9 +10517,9 @@
 ## Lot 430 — Amber orange Whirling star small compote
 
 - HiBid lot ID: 322874179
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874179
@@ -10547,9 +10547,9 @@
 ## Lot 431 — Marigold Iridescent Carnival leaf dish with 2
 
 - HiBid lot ID: 322874180
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 17
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874180
@@ -10581,9 +10581,9 @@
 ## Lot 432 — Indiana Glass Iridescent Marigold Pitcher
 
 - HiBid lot ID: 322874181
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874181
@@ -10608,9 +10608,9 @@
 ## Lot 433 — Indiana Glass Marigold Kings Crown Compotes
 
 - HiBid lot ID: 322874182
-- Current bid: 2.0 USD
+- Current bid: 31.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 10
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Glassware / Kitchenware | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874182
@@ -10637,9 +10637,9 @@
 ## Lot 434 — Anchor Hocking White Milk Glass gold rimmed
 
 - HiBid lot ID: 322874183
-- Current bid: 2.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 7
 - Photo count: 13
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874183
@@ -10667,9 +10667,9 @@
 ## Lot 435 — White Enamel Refrigerator containers glass lids
 
 - HiBid lot ID: 322874184
-- Current bid: 2.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 18
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874184
@@ -10750,9 +10750,9 @@
 ## Lot 438 — Fenton Milk glass Silver Rimmed and Handled
 
 - HiBid lot ID: 322874187
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874187
@@ -10772,9 +10772,9 @@
 ## Lot 439 — FENTON Silver Crest Basket Milk Glass Ruffle
 
 - HiBid lot ID: 322874188
-- Current bid: 2.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874188
@@ -10799,9 +10799,9 @@
 ## Lot 440 — Fenton Silver Crested Milk glass ruffled bowl
 
 - HiBid lot ID: 322874189
-- Current bid: 0.0 USD
+- Current bid: 19.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874189
@@ -10826,9 +10826,9 @@
 ## Lot 441 — Federal Glass iridescent milk glass beer steins
 
 - HiBid lot ID: 322874190
-- Current bid: 2.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874190
@@ -10878,9 +10878,9 @@
 ## Lot 443 — Westmoreland Milk glass Berries lidded candy dish
 
 - HiBid lot ID: 322874192
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874192
@@ -10934,9 +10934,9 @@
 ## Lot 445 — Pink Depression Glass Ware
 
 - HiBid lot ID: 322874194
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874194
@@ -10990,9 +10990,9 @@
 ## Lot 447 — Indiana Frosted Pink Satin Umbrella trinket bowl
 
 - HiBid lot ID: 322874196
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Antiques & Collectibles - Collectibles - Glassware / Kitchenware | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874196
@@ -11021,9 +11021,9 @@
 ## Lot 448 — Pink Depression Glass, Open Floral open candy
 
 - HiBid lot ID: 322874197
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874197
@@ -11048,9 +11048,9 @@
 ## Lot 449 — Vintage Uranium Hand mixer era 1920’s
 
 - HiBid lot ID: 322874198
-- Current bid: 8.0 USD
+- Current bid: 24.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 12
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874198
@@ -11069,9 +11069,9 @@
 ## Lot 450 — Green Jadeite Depression Style Glass Salt &
 
 - HiBid lot ID: 322874199
-- Current bid: 3.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 7
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Salt and Pepper Shakers | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874199
@@ -11092,9 +11092,9 @@
 ## Lot 451 — Hazel Atlas Old Florentine #1 dinner plate
 
 - HiBid lot ID: 322874200
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874200
@@ -11120,9 +11120,9 @@
 ## Lot 452 — Federal Glass Uranium Georgian Lovebirds
 
 - HiBid lot ID: 322874201
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874201
@@ -11146,9 +11146,9 @@
 ## Lot 453 — Fire King Jadite Plate and (3) coffee cup saucers
 
 - HiBid lot ID: 322874202
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874202
@@ -11168,9 +11168,9 @@
 ## Lot 454 — Antique Uranium Hand Juicer, (2) Sherbert dishes
 
 - HiBid lot ID: 322874203
-- Current bid: 2.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874203
@@ -11191,9 +11191,9 @@
 ## Lot 455 — Uranium plates, two are 2 handled, one etched
 
 - HiBid lot ID: 322874204
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Decorative - Plates | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874204
@@ -11214,9 +11214,9 @@
 ## Lot 456 — Uranium swirled plate, (3) coffee coffee cups
 
 - HiBid lot ID: 322874205
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874205
@@ -11237,9 +11237,9 @@
 ## Lot 457 — Hazel Atlas Uranium bowl, Sherbet bowl, cup
 
 - HiBid lot ID: 322874206
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874206
@@ -11265,9 +11265,9 @@
 ## Lot 458 — Uranium Hazel Atlas Refrigerator dishes lidded
 
 - HiBid lot ID: 322874207
-- Current bid: 0.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 10
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874207
@@ -11290,9 +11290,9 @@
 ## Lot 459 — Ceramic Hen on a nest Soup Tureen no handle
 
 - HiBid lot ID: 322874208
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874208
@@ -11310,9 +11310,9 @@
 ## Lot 460 — Indiana glass Green Chicken on nest bowl
 
 - HiBid lot ID: 322874209
-- Current bid: 28.0 USD
+- Current bid: 52.0 USD
 - Price realized: 0 USD
-- Bid count: 8
+- Bid count: 15
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874209
@@ -11333,9 +11333,9 @@
 ## Lot 461 — White Milk Glass Chicken on nest candy dish
 
 - HiBid lot ID: 322874210
-- Current bid: 6.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 7
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874210
@@ -11362,9 +11362,9 @@
 ## Lot 462 — Fenton basket base with nesting Chicken
 
 - HiBid lot ID: 322874211
-- Current bid: 20.0 USD
+- Current bid: 36.0 USD
 - Price realized: 0 USD
-- Bid count: 8
+- Bid count: 13
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874211
@@ -11387,9 +11387,9 @@
 ## Lot 463 — Carnival Glass Turquoise Blue Nesting Chicken
 
 - HiBid lot ID: 322874212
-- Current bid: 31.0 USD
+- Current bid: 56.0 USD
 - Price realized: 0 USD
-- Bid count: 8
+- Bid count: 18
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874212
@@ -11410,9 +11410,9 @@
 ## Lot 464 — Carnival glass Iridescent Marigold Nesting Chicken
 
 - HiBid lot ID: 322874213
-- Current bid: 27.0 USD
+- Current bid: 60.0 USD
 - Price realized: 0 USD
-- Bid count: 6
+- Bid count: 18
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874213
@@ -11432,9 +11432,9 @@
 ## Lot 465 — Degenhart Marine Blue Mini Hen On Nest
 
 - HiBid lot ID: 322874214
-- Current bid: 5.0 USD
+- Current bid: 34.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 19
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874214
@@ -11462,9 +11462,9 @@
 ## Lot 466 — Fenton Colonial Blue Glass Ruffled Thumbprint
 
 - HiBid lot ID: 322874215
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Blue Glass | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874215
@@ -11490,9 +11490,9 @@
 ## Lot 467 — Iridescent Blue Carnival Glass Indiana Grape
 
 - HiBid lot ID: 322874216
-- Current bid: 2.0 USD
+- Current bid: 14.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Blue Glass | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874216
@@ -11516,9 +11516,9 @@
 ## Lot 468 — Dresdens Cornucopia vase
 
 - HiBid lot ID: 322874217
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874217
@@ -11539,9 +11539,9 @@
 ## Lot 469 — Fenton Milk Glass Cat Face Slupper
 
 - HiBid lot ID: 322874218
-- Current bid: 4.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 6
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874218
@@ -11571,9 +11571,9 @@
 ## Lot 470 — Fenton Amber Gold Slippers (2) , Amber Slipper
 
 - HiBid lot ID: 322874219
-- Current bid: 2.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 5
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874219
@@ -11599,9 +11599,9 @@
 ## Lot 471 — Green Fenton Glass Shoe Daisy and Button, and Boot
 
 - HiBid lot ID: 322874220
-- Current bid: 3.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 5
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874220
@@ -11624,9 +11624,9 @@
 ## Lot 472 — Ruby Red Diamond Point Fairy Lamp
 
 - HiBid lot ID: 322874221
-- Current bid: 45.0 USD
+- Current bid: 65.0 USD
 - Price realized: 0 USD
-- Bid count: 9
+- Bid count: 20
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Lighting - Lamps | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874221
@@ -11644,9 +11644,9 @@
 ## Lot 473 — Avon Ruby Red Salt and Pepper Shakers
 
 - HiBid lot ID: 322874222
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874222
@@ -11672,9 +11672,9 @@
 ## Lot 474 — 1837-1887 GOLDEN AMBER THE QUEENS JUBILEE BUTTER
 
 - HiBid lot ID: 322874223
-- Current bid: 2.0 USD
+- Current bid: 41.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 8
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874223
@@ -11778,9 +11778,9 @@
 ## Lot 478 — Green Thumbprint Ruffled compotes (2)
 
 - HiBid lot ID: 322874227
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874227
@@ -11805,9 +11805,9 @@
 ## Lot 479 — 1960s Miniature Oil Lamp Hong Kong Flash Colors
 
 - HiBid lot ID: 322874228
-- Current bid: 2.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 9
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874228
@@ -11831,9 +11831,9 @@
 ## Lot 480 — Sunkist Milkglass juicer, (2) Clear Juicers
 
 - HiBid lot ID: 322874229
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874229
@@ -11856,9 +11856,9 @@
 ## Lot 481 — Homer Laughlin Cream platter, Floral platters
 
 - HiBid lot ID: 322874230
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874230
@@ -11884,9 +11884,9 @@
 ## Lot 482 — Indiana glass green octagon lidded dish
 
 - HiBid lot ID: 322874231
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874231
@@ -12164,9 +12164,9 @@
 ## Lot 492 — Silver plated with red velvet trinket box etched
 
 - HiBid lot ID: 322874241
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874241
@@ -12248,9 +12248,9 @@
 ## Lot 495 — Shirley Temple Pitcher, Blue Mount Vernon plate
 
 - HiBid lot ID: 322874244
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874244
@@ -12309,9 +12309,9 @@
 ## Lot 497 — Anchor Hocking Fire-King Rainbow Collection, Blue
 
 - HiBid lot ID: 322874246
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874246
@@ -12335,9 +12335,9 @@
 ## Lot 498 — 1986 Raised Hummel plate, Crystal votive lamps (2)
 
 - HiBid lot ID: 322874247
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 14
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874247
@@ -12420,9 +12420,9 @@
 ## Lot 501 — Northwood Glass leaf and beads iridescent blue top
 
 - HiBid lot ID: 322874250
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874250
@@ -12782,9 +12782,9 @@
 ## Lot 513 — Lead Crystal cut glass canisters
 
 - HiBid lot ID: 322874263
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874263
@@ -12811,9 +12811,9 @@
 ## Lot 514 — Crystal Glass Butter/Cheese covered dishes
 
 - HiBid lot ID: 322874264
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874264
@@ -12840,9 +12840,9 @@
 ## Lot 515 — Hammered Silver Plate Creamer Pitcher Footed
 
 - HiBid lot ID: 322874265
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874265
@@ -12867,9 +12867,9 @@
 ## Lot 516 — Antique Hanson Brothers 24 LB Kitchen Scale
 
 - HiBid lot ID: 322874266
-- Current bid: 2.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 9
 - Photo count: 6
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874266
@@ -12888,9 +12888,9 @@
 ## Lot 517 — Cameo Black Diamond Point Glassware
 
 - HiBid lot ID: 322874267
-- Current bid: 0.0 USD
+- Current bid: 19.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 14
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874267
@@ -12944,9 +12944,9 @@
 ## Lot 520 — Japanese Moriage Teapot, Gibson Gold Brown teapot
 
 - HiBid lot ID: 322874269
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 17
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874269
@@ -12978,9 +12978,9 @@
 ## Lot 521 — China teacups, Gravy Boat with saucer,
 
 - HiBid lot ID: 322874270
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 21
 - Category: Antiques & Collectibles - Collectibles - China / Lenox Dinnerware | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874270
@@ -13048,9 +13048,9 @@
 ## Lot 523 — Japanese moriage hand Painted teapot
 
 - HiBid lot ID: 322874272
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874272
@@ -13076,9 +13076,9 @@
 ## Lot 524 — Porcelain bells, Decorative Shoes, Trinket boxes
 
 - HiBid lot ID: 322874273
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874273
@@ -13101,9 +13101,9 @@
 ## Lot 525 — Porcelain and China Boot collection
 
 - HiBid lot ID: 322874274
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874274
@@ -13129,9 +13129,9 @@
 ## Lot 526 — China Dishes
 
 - HiBid lot ID: 322874275
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874275
@@ -13219,9 +13219,9 @@
 ## Lot 529 — German Porcelain pink ruffled gold trim bowl
 
 - HiBid lot ID: 322874278
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874278
@@ -13419,9 +13419,9 @@
 ## Lot 536 — Assorted China plates, Bowls, Tea Cups Saucers
 
 - HiBid lot ID: 322874285
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874285
@@ -13443,9 +13443,9 @@
 ## Lot 537 — Japanese Black Teapot Rooster with Chick on top
 
 - HiBid lot ID: 322874286
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874286
@@ -13490,9 +13490,9 @@
 ## Lot 539 — Wall Pocket Tea Kettle With Pot Holder Hooks Red
 
 - HiBid lot ID: 322874288
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874288
@@ -13539,9 +13539,9 @@
 ## Lot 541 — German China delicate floral teacups (2)
 
 - HiBid lot ID: 322874290
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874290
@@ -13559,9 +13559,9 @@
 ## Lot 542 — Mid century, yellow and 22k gold creamer and
 
 - HiBid lot ID: 322874291
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874291
@@ -13585,9 +13585,9 @@
 ## Lot 543 — Violet Teapot, Girl planter
 
 - HiBid lot ID: 322874292
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874292
@@ -13615,9 +13615,9 @@
 ## Lot 544 — Blenko Crackle glass decanter, Relpo Blue Daisy
 
 - HiBid lot ID: 322874293
-- Current bid: 13.0 USD
+- Current bid: 58.0 USD
 - Price realized: 0 USD
-- Bid count: 7
+- Bid count: 22
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874293
@@ -13643,9 +13643,9 @@
 ## Lot 545 — Household Institute China plates and cup saucers
 
 - HiBid lot ID: 322874294
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874294
@@ -13704,9 +13704,9 @@
 ## Lot 547 — Diana Pottery Teapot, Creamer and Sugar set
 
 - HiBid lot ID: 322874296
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874296
@@ -13729,9 +13729,9 @@
 ## Lot 548 — Milk Glass grapes candy dish, Ruby Red Saucers
 
 - HiBid lot ID: 322874297
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874297
@@ -13844,9 +13844,9 @@
 ## Lot 552 — Lochs of Scotland White and Blue covered bowl
 
 - HiBid lot ID: 322874301
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874301
@@ -13873,9 +13873,9 @@
 ## Lot 553 — Locks of Scotland Coffee pot, Teapot
 
 - HiBid lot ID: 322874302
-- Current bid: 2.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 7
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874302
@@ -13931,9 +13931,9 @@
 ## Lot 555 — Gone Fix a Flower Teapot and Cream and Sugar by
 
 - HiBid lot ID: 322874304
-- Current bid: 2.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874304
@@ -13980,9 +13980,9 @@
 ## Lot 557 — Cut glass salt and pepper shakers, Votive cup
 
 - HiBid lot ID: 322874306
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874306
@@ -14002,9 +14002,9 @@
 ## Lot 558 — Life is better on the Farm plaster wall hanging
 
 - HiBid lot ID: 322874307
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874307
@@ -14027,9 +14027,9 @@
 ## Lot 559 — Honeycomb Bee salt and pepper shakers
 
 - HiBid lot ID: 322874308
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874308
@@ -14054,9 +14054,9 @@
 ## Lot 560 — Salt and Pepper Shaker sets
 
 - HiBid lot ID: 322874309
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874309
@@ -14079,9 +14079,9 @@
 ## Lot 561 — Mother hen with her two chicks, salt and pepper
 
 - HiBid lot ID: 322874310
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874310
@@ -14102,9 +14102,9 @@
 ## Lot 562 — Plated Metal salt and pepper shakers (2)
 
 - HiBid lot ID: 322874311
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874311
@@ -14133,9 +14133,9 @@
 ## Lot 563 — Salt and Pepper Shakers
 
 - HiBid lot ID: 322874312
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874312
@@ -14182,9 +14182,9 @@
 ## Lot 565 — Spice rack with jars, Hand crank egg beater
 
 - HiBid lot ID: 322874314
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874314
@@ -14208,9 +14208,9 @@
 ## Lot 566 — Salt and Pepper shakers
 
 - HiBid lot ID: 322874315
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874315
@@ -14233,9 +14233,9 @@
 ## Lot 567 — Wooden spice rack with tins, Wooden Rolling Pin
 
 - HiBid lot ID: 322874316
-- Current bid: 2.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 7
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874316
@@ -14255,9 +14255,9 @@
 ## Lot 568 — Metal Hand Sifters (2), Wooden Rolling pin
 
 - HiBid lot ID: 322874317
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874317
@@ -14313,9 +14313,9 @@
 ## Lot 570 — Ruby Red fluted bowl, Green Hobnail votive holder
 
 - HiBid lot ID: 322874319
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874319
@@ -14391,9 +14391,9 @@
 ## Lot 573 — Japanese Gray Fine China Lilies and Butterflies
 
 - HiBid lot ID: 322874322
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874322
@@ -14442,9 +14442,9 @@
 ## Lot 575 — Fostoria "Tut" Green Uranium Trophy Vase
 
 - HiBid lot ID: 322874324
-- Current bid: 4.0 USD
+- Current bid: 19.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 12
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874324
@@ -14510,9 +14510,9 @@
 ## Lot 578 — Happy Birthday Teacup, Creamer and sugar
 
 - HiBid lot ID: 322874327
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874327
@@ -14580,9 +14580,9 @@
 ## Lot 581 — Victorian China creamer and sugar bowl
 
 - HiBid lot ID: 322874330
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874330
@@ -14600,9 +14600,9 @@
 ## Lot 582 — Japanese vase bird with floral
 
 - HiBid lot ID: 322874331
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874331
@@ -14658,9 +14658,9 @@
 ## Lot 585 — EP Zinc Grape Vine Sugar and Creamer Set
 
 - HiBid lot ID: 322874334
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874334
@@ -14704,9 +14704,9 @@
 ## Lot 586B — Hobnail Votive Candle
 
 - HiBid lot ID: 322874336
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874336
@@ -14729,9 +14729,9 @@
 ## Lot 587 — Porcelain Pitcher(2) Bells(2)
 
 - HiBid lot ID: 322874337
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874337
@@ -14756,9 +14756,9 @@
 ## Lot 588 — Cobalt Blue Oil Lamp
 
 - HiBid lot ID: 322874338
-- Current bid: 3.0 USD
+- Current bid: 14.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 7
 - Photo count: 6
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874338
@@ -14797,9 +14797,9 @@
 ## Lot 590 — Milk Glass Salt and Pepper Shaker
 
 - HiBid lot ID: 322874340
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874340
@@ -14816,9 +14816,9 @@
 ## Lot 591 — Mustache Cups(2)
 
 - HiBid lot ID: 322874341
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874341
@@ -14858,9 +14858,9 @@
 ## Lot 593 — Pink Ruffled Bud Vase, Lady Head Vase Planter
 
 - HiBid lot ID: 322874343
-- Current bid: 0.0 USD
+- Current bid: 22.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 18
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874343
@@ -14978,9 +14978,9 @@
 ## Lot 598 — Porcelain Bud Vase, Duck Planter
 
 - HiBid lot ID: 322874348
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874348
@@ -15002,9 +15002,9 @@
 ## Lot 599 — Enoch Wedgewood Countryside Pattern, Tea Cups(4)
 
 - HiBid lot ID: 322874349
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874349
@@ -15085,9 +15085,9 @@
 ## Lot 602 — Trinket Boxes
 
 - HiBid lot ID: 322874352
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874352
@@ -15112,9 +15112,9 @@
 ## Lot 603 — Bicentennial Glass Plates 1776, Miniature
 
 - HiBid lot ID: 322874353
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Decorative - Plates | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874353
@@ -15144,9 +15144,9 @@
 ## Lot 604 — Metal Sailing Ship
 
 - HiBid lot ID: 322874354
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322874354
@@ -15165,9 +15165,9 @@
 ## Lot 605 — Stanford Sebring Pottery Duck & Bowl
 
 - HiBid lot ID: 322874355
-- Current bid: 0.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 12
 - Category: Art - Pottery / Ceramics | Art
 - Lot page: https://hibid.com/lot/322874355
@@ -15192,9 +15192,9 @@
 ## Lot 606 — Sip ‘ N Strip Fantasy Glasses (4)
 
 - HiBid lot ID: 322874356
-- Current bid: 20.0 USD
+- Current bid: 26.0 USD
 - Price realized: 0 USD
-- Bid count: 11
+- Bid count: 12
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874356
@@ -15212,9 +15212,9 @@
 ## Lot 607 — Glass Insulators (4)
 
 - HiBid lot ID: 322874357
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874357
@@ -15232,9 +15232,9 @@
 ## Lot 608 — Glass Insulators (4)
 
 - HiBid lot ID: 322874358
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874358
@@ -15253,9 +15253,9 @@
 ## Lot 609 — Clear Glass Insulators(3)
 
 - HiBid lot ID: 322874359
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874359
@@ -15303,9 +15303,9 @@
 ## Lot 611 — Sliver-Plated on Copper Silent Butler
 
 - HiBid lot ID: 322874361
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874361
@@ -15333,9 +15333,9 @@
 ## Lot 612 — Knick Knack Display Shelf, Metal Flower Can, Oil
 
 - HiBid lot ID: 322874362
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 7
 - Category: Business & Industrial - Business / Retail - Displays / Display Cases | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322874362
@@ -15357,9 +15357,9 @@
 ## Lot 613 — Floral Vases (6)
 
 - HiBid lot ID: 322874363
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874363
@@ -15387,9 +15387,9 @@
 ## Lot 614 — Pedestal Decorative Bird Bath, Jeannette Powered
 
 - HiBid lot ID: 322874364
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/322874364
@@ -15418,9 +15418,9 @@
 ## Lot 615 — Decorative Carousel Music Boxes (3)
 
 - HiBid lot ID: 322874365
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874365
@@ -15445,9 +15445,9 @@
 ## Lot 616 — Decorative Musical Box(2)
 
 - HiBid lot ID: 322874366
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874366
@@ -15495,9 +15495,9 @@
 ## Lot 618 — Decorative Ceramic Garden Gnomes(5)
 
 - HiBid lot ID: 322874368
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 4
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/322874368
@@ -15514,9 +15514,9 @@
 ## Lot 618B — Glass Bottle and Plastic Bottles w/ Contents
 
 - HiBid lot ID: 322874369
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874369
@@ -15539,9 +15539,9 @@
 ## Lot 619 — Bottle Opener, Bud Vase, Candle Holder
 
 - HiBid lot ID: 322874370
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874370
@@ -15566,9 +15566,9 @@
 ## Lot 620 — Jacques Seeds Cup
 
 - HiBid lot ID: 322874371
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874371
@@ -15587,9 +15587,9 @@
 ## Lot 621 — Miniature Wooden Spinning Wheel
 
 - HiBid lot ID: 322874372
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Antiques - Antique Furniture | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874372
@@ -15611,9 +15611,9 @@
 ## Lot 622 — Brass Greek Warrior in Chariot & Bullock Cart
 
 - HiBid lot ID: 322874373
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322874373
@@ -15637,9 +15637,9 @@
 ## Lot 623 — Ford Model T Musical Liquor Decanter
 
 - HiBid lot ID: 322874374
-- Current bid: 0.0 USD
+- Current bid: 18.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874374
@@ -15660,9 +15660,9 @@
 ## Lot 624 — Cat Figurines (5)
 
 - HiBid lot ID: 322874375
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874375
@@ -15682,9 +15682,9 @@
 ## Lot 625 — Ceramic Figurines (2) Boat
 
 - HiBid lot ID: 322874376
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874376
@@ -15708,9 +15708,9 @@
 ## Lot 626 — Long Footed Planter, Double-Handle Bud Vase(2)
 
 - HiBid lot ID: 322874377
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874377
@@ -15734,9 +15734,9 @@
 ## Lot 627 — Coke Drinking Glass, Coca-Cola Tin, Toothpick
 
 - HiBid lot ID: 322874378
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 22
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874378
@@ -15773,9 +15773,9 @@
 ## Lot 628 — Campfire Popcorn Popper
 
 - HiBid lot ID: 322874379
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874379
@@ -15812,9 +15812,9 @@
 ## Lot 630 — Brass Small Loving Birds Cup Vases(2) Mini Pitcher
 
 - HiBid lot ID: 322874381
-- Current bid: 2.0 USD
+- Current bid: 14.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 7
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874381
@@ -15838,9 +15838,9 @@
 ## Lot 631 — Armillary Sphere Globe
 
 - HiBid lot ID: 322874382
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Antiques & Collectibles - Antiques - Maps / Globes | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874382
@@ -15858,9 +15858,9 @@
 ## Lot 632 — Cow Bells (3)
 
 - HiBid lot ID: 322874383
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874383
@@ -15878,9 +15878,9 @@
 ## Lot 633 — Brass Pocket Balance
 
 - HiBid lot ID: 322874384
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874384
@@ -15898,9 +15898,9 @@
 ## Lot 634 — Brass Bells(2)
 
 - HiBid lot ID: 322874385
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874385
@@ -15917,9 +15917,9 @@
 ## Lot 635 — Cigarette Tabacco Tin (4)
 
 - HiBid lot ID: 322874386
-- Current bid: 2.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874386
@@ -15937,9 +15937,9 @@
 ## Lot 636 — Double Roller Pasta Cutter, Mini Sifters, Steamer
 
 - HiBid lot ID: 322874387
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874387
@@ -15964,9 +15964,9 @@
 ## Lot 637 — Cigarette Tobacco Tins (4)
 
 - HiBid lot ID: 322874388
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Tobacciana / Lighters / Tobacco Pipes | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874388
@@ -15983,9 +15983,9 @@
 ## Lot 638 — Rolls-Royce Radiator-Shaped Musical Liquor
 
 - HiBid lot ID: 322874389
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874389
@@ -16007,9 +16007,9 @@
 ## Lot 639 — Red Lantern (2)
 
 - HiBid lot ID: 322874390
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 13
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874390
@@ -16035,9 +16035,9 @@
 ## Lot 640 — Cast Iron Decorative Kitchen Utensils (4)
 
 - HiBid lot ID: 322874391
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874391
@@ -16054,9 +16054,9 @@
 ## Lot 641 — Yellow Metal Matchbox Holder, Letter Opener
 
 - HiBid lot ID: 322874392
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874392
@@ -16103,9 +16103,9 @@
 ## Lot 643 — Cast Iron Owl Wall-Mount Hook, Letter Opener
 
 - HiBid lot ID: 322874394
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874394
@@ -16127,9 +16127,9 @@
 ## Lot 644 — Salt and Pepper Shaker
 
 - HiBid lot ID: 322874395
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874395
@@ -16146,9 +16146,9 @@
 ## Lot 645 — Cast Iron Nutcracker
 
 - HiBid lot ID: 322874396
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874396
@@ -16190,9 +16190,9 @@
 ## Lot 647 — Amberina Glass Hobnail Toothpick Holder
 
 - HiBid lot ID: 322874398
-- Current bid: 4.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 5
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874398
@@ -16241,9 +16241,9 @@
 ## Lot 649 — Trinket Jewelry Boxes
 
 - HiBid lot ID: 322874400
-- Current bid: 3.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 3
 - Photo count: 15
 - Category: Jewelry, Watches & Gemstones - Jewelry - Fashion / Costume | Jewelry, Watches & Gemstones - Jewelry | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874400
@@ -16300,9 +16300,9 @@
 ## Lot 651 — Brass Bells (3)
 
 - HiBid lot ID: 322874402
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874402
@@ -16319,9 +16319,9 @@
 ## Lot 652 — Celluloid Button W/Portrait " The Robey Mfg Co"
 
 - HiBid lot ID: 322874403
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Militaria & War Collectibles - World War II | Antiques & Collectibles - Militaria & War Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874403
@@ -16367,9 +16367,9 @@
 ## Lot 654 — Tin Spices, Cigarette Tabacco Tin
 
 - HiBid lot ID: 322874405
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874405
@@ -16389,9 +16389,9 @@
 ## Lot 655 — Yankee Drummer Coffee House Sign
 
 - HiBid lot ID: 322874406
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Signs | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874406
@@ -16410,9 +16410,9 @@
 ## Lot 656 — Mama’s Kosher Kitchen Wall Sign
 
 - HiBid lot ID: 322874407
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Signs | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874407
@@ -16460,9 +16460,9 @@
 ## Lot 658 — 1977 Grandma Franklin Tray(2)
 
 - HiBid lot ID: 322874409
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874409
@@ -16480,9 +16480,9 @@
 ## Lot 659 — Metal Dragon Head For Walking Can & Brass Cat
 
 - HiBid lot ID: 322874410
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322874410
@@ -16504,9 +16504,9 @@
 ## Lot 660 — Solid Brass Musical Horse, Horses Figurines
 
 - HiBid lot ID: 322874411
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874411
@@ -16528,9 +16528,9 @@
 ## Lot 661 — Brass Unicorn Statue(2)
 
 - HiBid lot ID: 322874412
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 8
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322874412
@@ -16551,9 +16551,9 @@
 ## Lot 662 — Elephant Figurines
 
 - HiBid lot ID: 322874413
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874413
@@ -16576,9 +16576,9 @@
 ## Lot 663 — Spelter Clock Topper, Brass Horse Figurine
 
 - HiBid lot ID: 322874414
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874414
@@ -16604,9 +16604,9 @@
 ## Lot 664 — Solid Brass Animals (5)
 
 - HiBid lot ID: 322874415
-- Current bid: 10.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 8
+- Bid count: 10
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874415
@@ -16631,9 +16631,9 @@
 ## Lot 665 — Clown Figurines (4)
 
 - HiBid lot ID: 322874416
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874416
@@ -16651,9 +16651,9 @@
 ## Lot 666 — Mammy Ceramic Salt & Pepper Shaker
 
 - HiBid lot ID: 322874417
-- Current bid: 2.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874417
@@ -16671,9 +16671,9 @@
 ## Lot 667 — Manny Salt and Pepper Shakers
 
 - HiBid lot ID: 322874418
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874418
@@ -16691,9 +16691,9 @@
 ## Lot 668 — Pappy Bells (2)
 
 - HiBid lot ID: 322874419
-- Current bid: 3.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 7
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874419
@@ -16712,9 +16712,9 @@
 ## Lot 669 — Cast Iron Mammy Coin Bank
 
 - HiBid lot ID: 322874420
-- Current bid: 4.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 3
+- Bid count: 17
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874420
@@ -16761,9 +16761,9 @@
 ## Lot 671 — Don Sharkey, John Deere Wall Thermometer
 
 - HiBid lot ID: 322874422
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874422
@@ -16782,9 +16782,9 @@
 ## Lot 672 — Don Sharkey Implement Store Yard Stick
 
 - HiBid lot ID: 322874423
-- Current bid: 2.0 USD
+- Current bid: 20.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 15
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874423
@@ -16803,9 +16803,9 @@
 ## Lot 673 — The Perfectscope Stereoscope Viewer
 
 - HiBid lot ID: 322874424
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Computers & Electronics - Cameras & Camera Accessories - Vintage Cameras | Computers & Electronics - Cameras & Camera Accessories | Computers & Electronics
 - Lot page: https://hibid.com/lot/322874424
@@ -16827,9 +16827,9 @@
 ## Lot 674 — 1:18 1999 Chevrolet Silverado Collection
 
 - HiBid lot ID: 322874425
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874425
@@ -16851,9 +16851,9 @@
 ## Lot 675 — Small Jewelry Box
 
 - HiBid lot ID: 322874426
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 7
 - Category: Jewelry, Watches & Gemstones - Jewelry - Fashion / Costume | Jewelry, Watches & Gemstones - Jewelry | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874426
@@ -16899,9 +16899,9 @@
 ## Lot 677 — Geneva Women’s Watches (2)
 
 - HiBid lot ID: 322874428
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Jewelry, Watches & Gemstones - Watches - Women's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874428
@@ -16924,9 +16924,9 @@
 ## Lot 678 — Women’s Watches (5)
 
 - HiBid lot ID: 322874429
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 22
 - Category: Jewelry, Watches & Gemstones - Watches - Women's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874429
@@ -16961,9 +16961,9 @@
 ## Lot 679 — Pocket Watches (3)
 
 - HiBid lot ID: 322874430
-- Current bid: 0.0 USD
+- Current bid: 26.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 10
 - Photo count: 15
 - Category: Jewelry, Watches & Gemstones - Watches - Pocket Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874430
@@ -16991,9 +16991,9 @@
 ## Lot 680 — Phinney-Walker Alarm Clock w/ UV Reacting Dials
 
 - HiBid lot ID: 322874431
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Home Goods & Decor - Home Goods - Clocks | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874431
@@ -17023,9 +17023,9 @@
 ## Lot 681 — Men’s Watches w/ UV Glowing Dials (4) Total (7)
 
 - HiBid lot ID: 322874432
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 29
 - Category: Jewelry, Watches & Gemstones - Watches - Men's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874432
@@ -17069,9 +17069,9 @@
 ## Lot 682 — Men’s Watches (8)
 
 - HiBid lot ID: 322874433
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 15
 - Category: Jewelry, Watches & Gemstones - Watches - Men's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874433
@@ -17101,9 +17101,9 @@
 ## Lot 683 — Men’s Watches (8)
 
 - HiBid lot ID: 322874434
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 31
 - Category: Jewelry, Watches & Gemstones - Watches - Men's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874434
@@ -17147,9 +17147,9 @@
 ## Lot 684 — Women’s Holiday & Butterfly Pin, Dax Hand Watch
 
 - HiBid lot ID: 322874435
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Jewelry, Watches & Gemstones - Watches - Women's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874435
@@ -17170,9 +17170,9 @@
 ## Lot 685 — Watch Pieces
 
 - HiBid lot ID: 322874436
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Jewelry, Watches & Gemstones - Watches - Parts / Tools / Accessories | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874436
@@ -17190,9 +17190,9 @@
 ## Lot 686 — Women’s Watches (8)
 
 - HiBid lot ID: 322874437
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 30
 - Category: Jewelry, Watches & Gemstones - Watches - Women's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874437
@@ -17235,9 +17235,9 @@
 ## Lot 687 — Men’s and Women’s Watches (10)
 
 - HiBid lot ID: 322874438
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Jewelry, Watches & Gemstones - Watches - Women's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874438
@@ -17261,9 +17261,9 @@
 ## Lot 688 — Women Watches (5)
 
 - HiBid lot ID: 322874439
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Jewelry, Watches & Gemstones - Watches - Women's Watches | Jewelry, Watches & Gemstones - Watches | Jewelry, Watches & Gemstones
 - Lot page: https://hibid.com/lot/322874439
@@ -17290,9 +17290,9 @@
 ## Lot 689 — Wooden Manual Hand-Crank Coffee Grinder
 
 - HiBid lot ID: 322874440
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874440
@@ -17313,9 +17313,9 @@
 ## Lot 690 — Hand-Crank Coffee Grinder
 
 - HiBid lot ID: 322874441
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874441
@@ -17335,9 +17335,9 @@
 ## Lot 691 — Railroad Lantern
 
 - HiBid lot ID: 322874442
-- Current bid: 2.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 17
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Railroad | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874442
@@ -17359,9 +17359,9 @@
 ## Lot 692 — NECA Planet of The Apes 2001 Attar Bust Statue
 
 - HiBid lot ID: 322874443
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 9
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322874443
@@ -17383,9 +17383,9 @@
 ## Lot 693 — Indian Chief Busy
 
 - HiBid lot ID: 322874444
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/322874444
@@ -17404,9 +17404,9 @@
 ## Lot 694 — Sad Iron w/ Wooden Detached Handle
 
 - HiBid lot ID: 322874445
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874445
@@ -17425,9 +17425,9 @@
 ## Lot 695 — Sad Iron w/ Wooden Detached Handle
 
 - HiBid lot ID: 322874446
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874446
@@ -17447,9 +17447,9 @@
 ## Lot 696 — Sad Iron
 
 - HiBid lot ID: 322874447
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874447
@@ -17469,9 +17469,9 @@
 ## Lot 697 — Sad Iron
 
 - HiBid lot ID: 322874448
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874448
@@ -17491,9 +17491,9 @@
 ## Lot 698 — Brookville Sad Iron w/ Wooden Detachable Handle
 
 - HiBid lot ID: 322874449
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874449
@@ -17513,9 +17513,9 @@
 ## Lot 699 — Cast Iron Tea Kettle
 
 - HiBid lot ID: 322874450
-- Current bid: 2.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874450
@@ -17534,9 +17534,9 @@
 ## Lot 700 — Carousel Gumball Machine Glass Globe Cast Metal
 
 - HiBid lot ID: 322874451
-- Current bid: 2.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 9
 - Photo count: 6
 - Category: Business & Industrial - Restaurant / Food Industry - Vending Machines | Business & Industrial - Restaurant / Food Industry | Business & Industrial
 - Lot page: https://hibid.com/lot/322874451
@@ -17557,9 +17557,9 @@
 ## Lot 701 — Gumball Machine Glasss Globe and Cast Metal Base
 
 - HiBid lot ID: 322874452
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 6
 - Category: Business & Industrial - Restaurant / Food Industry - Vending Machines | Business & Industrial - Restaurant / Food Industry | Business & Industrial
 - Lot page: https://hibid.com/lot/322874452
@@ -17578,9 +17578,9 @@
 ## Lot 702 — Cast Iron Wall Mounted Hand-Crank Coffee And Spice
 
 - HiBid lot ID: 322874453
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874453
@@ -17604,9 +17604,9 @@
 ## Lot 703 — Metal Hand Plane
 
 - HiBid lot ID: 322874454
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/322874454
@@ -17627,9 +17627,9 @@
 ## Lot 704 — Cast Iron Flatbed Truck Toy W/Open Lattice Cargo
 
 - HiBid lot ID: 322874455
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874455
@@ -17653,9 +17653,9 @@
 ## Lot 705 — Cast Iron Ford Model T Delivery Van or Sedan
 
 - HiBid lot ID: 322874456
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874456
@@ -17677,9 +17677,9 @@
 ## Lot 706 — Cast Iron Toy Sedan Car
 
 - HiBid lot ID: 322874457
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874457
@@ -17725,9 +17725,9 @@
 ## Lot 708 — Miniature Cast Iron Coffee Grinder Figurine W/Hand
 
 - HiBid lot ID: 322874459
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Cast Iron | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874459
@@ -17749,9 +17749,9 @@
 ## Lot 709 — Cast Iron Horse-Drawn Fire Pumper Wagon Toy
 
 - HiBid lot ID: 322874460
-- Current bid: 3.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 3
 - Photo count: 6
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874460
@@ -17772,9 +17772,9 @@
 ## Lot 710 — Cast Iron Horse-Drawn Patrol Wagon Toy
 
 - HiBid lot ID: 322874461
-- Current bid: 3.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 4
 - Photo count: 8
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874461
@@ -17795,9 +17795,9 @@
 ## Lot 711 — Cast Iron Horse-Drawn Classic Circus Wagon Toy
 
 - HiBid lot ID: 322874462
-- Current bid: 3.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 4
 - Photo count: 8
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874462
@@ -17818,9 +17818,9 @@
 ## Lot 712 — Cast Iron "Overland Circus" Wagon Toy
 
 - HiBid lot ID: 322874463
-- Current bid: 3.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 3
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874463
@@ -17868,9 +17868,9 @@
 ## Lot 714 — Cast Iron Horse-Drawn Beer Wagon Set
 
 - HiBid lot ID: 322874465
-- Current bid: 3.0 USD
+- Current bid: 31.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 7
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874465
@@ -17890,9 +17890,9 @@
 ## Lot 715 — Cast Iron Horse-Drawn Fresh Milk Wagon Toy
 
 - HiBid lot ID: 322874466
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874466
@@ -17912,9 +17912,9 @@
 ## Lot 716 — Cast Iron Horse-Drawn Purelake Ice Delivery Wagon
 
 - HiBid lot ID: 322874467
-- Current bid: 3.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 14
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874467
@@ -17943,9 +17943,9 @@
 ## Lot 717 — Cast Iron Horse-Drawn Beer Wagon Toy
 
 - HiBid lot ID: 322874468
-- Current bid: 3.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 8
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874468
@@ -17966,9 +17966,9 @@
 ## Lot 718 — Cast Iron Coca-Cola Horse-Drawn Delivery Wagon
 
 - HiBid lot ID: 322874469
-- Current bid: 3.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 6
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874469
@@ -18046,9 +18046,9 @@
 ## Lot 721 — Bank Of Alma Car Coin Bank, Die-cast Car Coin Bank
 
 - HiBid lot ID: 322874472
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Die Cast Collectible Cars | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874472
@@ -18072,9 +18072,9 @@
 ## Lot 722 — Chemical Bank and Trust Midland, Mi Coin Bank
 
 - HiBid lot ID: 322874473
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874473
@@ -18121,9 +18121,9 @@
 ## Lot 724 — Die-cast Miniature Novelty Pencil Sharpeners
 
 - HiBid lot ID: 322874475
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874475
@@ -18182,9 +18182,9 @@
 ## Lot 727 — Coca-Cola 1999 Holiday Classic Carrier W/53 Corvet
 
 - HiBid lot ID: 322874478
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874478
@@ -18316,9 +18316,9 @@
 ## Lot 732 — 1:18 Die-cast 1994 Pontiac Trans Am, Die-cast Cars
 
 - HiBid lot ID: 322874483
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874483
@@ -18365,9 +18365,9 @@
 ## Lot 734 — Corvette Die-cast Model Cars (4)
 
 - HiBid lot ID: 322874485
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 9
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874485
@@ -18523,9 +18523,9 @@
 ## Lot 740 — Looney Tunes Cards, Die-cast Cars & Pencil Sharpen
 
 - HiBid lot ID: 322874491
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874491
@@ -18547,9 +18547,9 @@
 ## Lot 741 — Die-cast Farm Toy Tractors (2)
 
 - HiBid lot ID: 322874492
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 16
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874492
@@ -18580,9 +18580,9 @@
 ## Lot 742 — McCormick-Deering Cast Iron Toy Tractor
 
 - HiBid lot ID: 322874493
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 8
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874493
@@ -18603,9 +18603,9 @@
 ## Lot 743 — Farmall Collector Metal Sign, International Licens
 
 - HiBid lot ID: 322874494
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Signs | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874494
@@ -18627,9 +18627,9 @@
 ## Lot 744 — ERTL Farm Tractor Set, Farmall Toothpick Dispenser
 
 - HiBid lot ID: 322874495
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874495
@@ -18651,9 +18651,9 @@
 ## Lot 745 — John Deer Pictures & Die-cast ERTL Tractor
 
 - HiBid lot ID: 322874496
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874496
@@ -18700,9 +18700,9 @@
 ## Lot 747 — Hockey Collectors Trading Cards & Album
 
 - HiBid lot ID: 322874498
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Sports Cards / Memorabilia - Hockey Trading Cards | Antiques & Collectibles - Collectibles - Sports Cards / Memorabilia | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874498
@@ -18722,9 +18722,9 @@
 ## Lot 748 — Oval Metal Serving Tray W/Tractor,Tin Mugs(2)
 
 - HiBid lot ID: 322874499
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874499
@@ -18748,9 +18748,9 @@
 ## Lot 749 — Die-cast Cars, Trucks & Vans (46)
 
 - HiBid lot ID: 322874500
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874500
@@ -18770,9 +18770,9 @@
 ## Lot 750 — Die-cast Metal Vehicles,Road Champs Mini Monster
 
 - HiBid lot ID: 322874501
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874501
@@ -18794,9 +18794,9 @@
 ## Lot 751 — Hot Wheels, Die-cast Mini Cars & Trucks(8)
 
 - HiBid lot ID: 322874502
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 8
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874502
@@ -18862,9 +18862,9 @@
 ## Lot 754 — Corn cob pipe with amber colored stem (used)
 
 - HiBid lot ID: 322874505
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Tobacciana / Lighters / Tobacco Pipes | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874505
@@ -18901,9 +18901,9 @@
 ## Lot 756 — Brass & Copper Spittoon (2), brass Cauldron (2)
 
 - HiBid lot ID: 322874507
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874507
@@ -18924,9 +18924,9 @@
 ## Lot 757 — Cast Iron (flat irons 3)
 
 - HiBid lot ID: 322874508
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874508
@@ -18942,9 +18942,9 @@
 ## Lot 758 — Cast Iron Flat Irons (3)
 
 - HiBid lot ID: 322874509
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874509
@@ -18962,9 +18962,9 @@
 ## Lot 759 — Vintage Tin cans
 
 - HiBid lot ID: 322874510
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Advertising | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874510
@@ -18981,9 +18981,9 @@
 ## Lot 760 — Vintage Glass Bottles (5)
 
 - HiBid lot ID: 322874511
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874511
@@ -19020,9 +19020,9 @@
 ## Lot 762 — Glass insulators Aqua colored (3)
 
 - HiBid lot ID: 322874513
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874513
@@ -19042,9 +19042,9 @@
 ## Lot 763 — Antique Cast Iron hand Crank apple peeler
 
 - HiBid lot ID: 322874514
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874514
@@ -19063,9 +19063,9 @@
 ## Lot 764 — Kerosene Hurricane Lantern- Dietz #50
 
 - HiBid lot ID: 322874515
-- Current bid: 2.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 9
 - Photo count: 6
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874515
@@ -19084,9 +19084,9 @@
 ## Lot 765 — 1923 Dietz Red globe Railroad Lantern
 
 - HiBid lot ID: 322874516
-- Current bid: 3.0 USD
+- Current bid: 52.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 14
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Railroad | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874516
@@ -19172,9 +19172,9 @@
 ## Lot 769 — Cast Iron hanging balance beam scale & Hog Scraper
 
 - HiBid lot ID: 322874520
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874520
@@ -19193,9 +19193,9 @@
 ## Lot 770 — Clydesdale horses-ceramic, brass horses, Big
 
 - HiBid lot ID: 322874521
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874521
@@ -19261,9 +19261,9 @@
 ## Lot 773 — Ceramic Ducks (3), Resin Squirrels (2)
 
 - HiBid lot ID: 322874524
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874524
@@ -19291,9 +19291,9 @@
 ## Lot 774 — Oven Proof ceramic Pitcher, green glass bowl &
 
 - HiBid lot ID: 322874525
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874525
@@ -19426,9 +19426,9 @@
 ## Lot 779 — Butcher block knife holder, pencil sharpener,
 
 - HiBid lot ID: 322874530
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874530
@@ -19451,9 +19451,9 @@
 ## Lot 780 — Vintage white milk glass hobnail pitcher,
 
 - HiBid lot ID: 322874531
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Pitchers / Decanters | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874531
@@ -19477,9 +19477,9 @@
 ## Lot 781 — Avon Vintage Variety of Decorative shaped bottles
 
 - HiBid lot ID: 322874532
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874532
@@ -19497,9 +19497,9 @@
 ## Lot 782 — Variety selection of different ball caps
 
 - HiBid lot ID: 322874533
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Fashion - Men's Accessories | Fashion
 - Lot page: https://hibid.com/lot/322874533
@@ -19575,9 +19575,9 @@
 ## Lot 786 — Hou Shiueh self cooking pistol crossbow
 
 - HiBid lot ID: 322874537
-- Current bid: 2.0 USD
+- Current bid: 14.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 8
 - Photo count: 8
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/322874537
@@ -19598,9 +19598,9 @@
 ## Lot 787 — U.S. Military- style combat bayonet (WW2)
 
 - HiBid lot ID: 322874538
-- Current bid: 2.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 5
 - Category: Sporting Goods - Firearms / Weapons - Knives / Blades | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874538
@@ -19618,9 +19618,9 @@
 ## Lot 788 — Pocket knives (variety), vintage metal
 
 - HiBid lot ID: 322874539
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 5
 - Category: Sporting Goods - Firearms / Weapons - Knives / Blades | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874539
@@ -19640,9 +19640,9 @@
 ## Lot 789 — Carton of premium BB's, box of 410 3" shells
 
 - HiBid lot ID: 322874540
-- Current bid: 6.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 13
 - Photo count: 8
 - Category: Sporting Goods - Firearms / Weapons - Ammunition | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874540
@@ -19663,9 +19663,9 @@
 ## Lot 790 — Air pistol Guns (2) & some lead pellets
 
 - HiBid lot ID: 322874541
-- Current bid: 3.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 5
 - Photo count: 8
 - Category: Sporting Goods - Firearms / Weapons - Airsoft / Paintball / Pellet / BB Guns | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874541
@@ -19723,9 +19723,9 @@
 ## Lot 793 — Binoculars (2), black powder (cannot ship)
 
 - HiBid lot ID: 322874544
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/322874544
@@ -19748,9 +19748,9 @@
 ## Lot 794 — Savage rifle scope (4×15), Pocket & hunting
 
 - HiBid lot ID: 322874545
-- Current bid: 0.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 9
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/322874545
@@ -19774,9 +19774,9 @@
 ## Lot 795 — Pocket knives (6)
 
 - HiBid lot ID: 322874546
-- Current bid: 2.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 3
 - Photo count: 4
 - Category: Sporting Goods - Firearms / Weapons - Knives / Blades | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874546
@@ -19793,9 +19793,9 @@
 ## Lot 796 — Big Game Butcher knife awr with case, hunting
 
 - HiBid lot ID: 322874547
-- Current bid: 0.0 USD
+- Current bid: 14.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 10
 - Photo count: 10
 - Category: Sporting Goods - Firearms / Weapons - Knives / Blades | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874547
@@ -19820,9 +19820,9 @@
 ## Lot 797 — Hoppe's gun cleaning kit, muzzleloading black
 
 - HiBid lot ID: 322874548
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Sporting Goods - Firearms / Weapons - Black Powder / Muzzleloader / Percussion | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/322874548
@@ -19844,9 +19844,9 @@
 ## Lot 798 — Regular Checkers/Chinese Checkers with chips
 
 - HiBid lot ID: 322874549
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Toys - Games | Toys
 - Lot page: https://hibid.com/lot/322874549
@@ -19895,9 +19895,9 @@
 ## Lot 800 — Vintage Peek a Babe kids organ (battery operated)
 
 - HiBid lot ID: 322874551
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/322874551
@@ -19916,9 +19916,9 @@
 ## Lot 801 — Vintage door locks, Paddle locks, leather sewing
 
 - HiBid lot ID: 322874552
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/322874552
@@ -20009,9 +20009,9 @@
 ## Lot 805 — Display Hutch
 
 - HiBid lot ID: 322874556
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322874556
@@ -20083,9 +20083,9 @@
 ## Lot 808 — German Victorian- At the well painting,
 
 - HiBid lot ID: 322874559
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Art - Paintings | Art
 - Lot page: https://hibid.com/lot/322874559
@@ -20108,9 +20108,9 @@
 ## Lot 809 — Print of the Last Supper
 
 - HiBid lot ID: 322874560
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Art - Prints / Lithographs | Art
 - Lot page: https://hibid.com/lot/322874560
@@ -20129,9 +20129,9 @@
 ## Lot 810 — Aerial Framed Painting
 
 - HiBid lot ID: 322874561
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Art - Paintings | Art
 - Lot page: https://hibid.com/lot/322874561
@@ -20150,9 +20150,9 @@
 ## Lot 811 — Vintage folding end table
 
 - HiBid lot ID: 322874562
-- Current bid: 2.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 7
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322874562
@@ -20209,9 +20209,9 @@
 ## Lot 814 — Blue Recliner Chair
 
 - HiBid lot ID: 322874565
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/322874565
@@ -20230,9 +20230,9 @@
 ## Lot 815 — Dark Brown Metal Folding Chairs (4)
 
 - HiBid lot ID: 322874566
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/322874566
@@ -20250,9 +20250,9 @@
 ## Lot 816 — Metal Folding Chairs (7)
 
 - HiBid lot ID: 322874567
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/322874567
@@ -20269,9 +20269,9 @@
 ## Lot 817 — Oak Washstand
 
 - HiBid lot ID: 322874568
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Antique Furniture | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874568
@@ -20291,9 +20291,9 @@
 ## Lot 818 — End Table, Folding Chair
 
 - HiBid lot ID: 322874569
-- Current bid: 0.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 11
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322874569
@@ -20339,9 +20339,9 @@
 ## Lot 820 — Console Table
 
 - HiBid lot ID: 322874571
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/322874571
@@ -20360,9 +20360,9 @@
 ## Lot 821 — Gun Cabinet
 
 - HiBid lot ID: 322874572
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322874572
@@ -20382,9 +20382,9 @@
 ## Lot 822 — Four-Stack Barrister Bookcase
 
 - HiBid lot ID: 322874573
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Furniture - Bookshelves | Furniture
 - Lot page: https://hibid.com/lot/322874573
@@ -20431,9 +20431,9 @@
 ## Lot 824 — Vintage manual insecticide powder duster, oil
 
 - HiBid lot ID: 322874575
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874575
@@ -20459,9 +20459,9 @@
 ## Lot 825 — Electric & plumbing items, tools
 
 - HiBid lot ID: 322874576
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Lawn & Garden - Tools/Hand held items - Mixed Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/322874576
@@ -20505,9 +20505,9 @@
 ## Lot 827 — Ball Jars & water bath rack
 
 - HiBid lot ID: 322874578
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874578
@@ -20529,9 +20529,9 @@
 ## Lot 828 — Ball Jars
 
 - HiBid lot ID: 322874579
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874579
@@ -20591,9 +20591,9 @@
 ## Lot 831 — Croquet Set
 
 - HiBid lot ID: 322874582
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/322874582
@@ -20611,9 +20611,9 @@
 ## Lot 832 — Cream Separator
 
 - HiBid lot ID: 322874583
-- Current bid: 2.0 USD
+- Current bid: 53.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874583
@@ -20635,9 +20635,9 @@
 ## Lot 833 — Speed Queen Washer
 
 - HiBid lot ID: 322874584
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Appliances - Washer / Dryers | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874584
@@ -20656,9 +20656,9 @@
 ## Lot 834 — Tote with Canning Jars
 
 - HiBid lot ID: 322874585
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874585
@@ -20674,9 +20674,9 @@
 ## Lot 835 — Tote W/Canning Jars
 
 - HiBid lot ID: 322874586
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874586
@@ -20695,9 +20695,9 @@
 ## Lot 836 — Frigidaire Freezer
 
 - HiBid lot ID: 322874587
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Appliances - Refrigerators / Freezers | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874587
@@ -20755,6 +20755,25 @@
 
 ---
 
+## Lot 838B — Bonus Lot
+
+- HiBid lot ID: 323343396
+- Current bid: 2.0 USD
+- Price realized: 0 USD
+- Bid count: 1
+- Photo count: 4
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
+- Lot page: https://hibid.com/lot/323343396
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433248633&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=6qE%2fR1Tj7f3rOa3daCEFFcCZJzt10HbL)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433248634&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=6qE%2fR1Tj7f0RWy0IA3A642xlwZG0DfuP)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433248631&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=6qE%2fR1Tj7f0CD8ALazOsKrJTaVYnmxco)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433248632&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=6qE%2fR1Tj7f38r3IVFPfhgFfmMJzNjBmr)
+
+---
+
 ## Lot 839 — 5 door cabinet with shelves
 
 - HiBid lot ID: 322874590
@@ -20781,9 +20800,9 @@
 ## Lot 840 — 4 door cabinet with shelves
 
 - HiBid lot ID: 322874591
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322874591
@@ -20801,9 +20820,9 @@
 ## Lot 841 — Hat racks (2)
 
 - HiBid lot ID: 322874592
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Business & Industrial - Business / Retail - Racks / Shelving | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322874592
@@ -20932,9 +20951,9 @@
 ## Lot 847 — Frigidaire upright freezer (with key)
 
 - HiBid lot ID: 322874598
-- Current bid: 0.0 USD
+- Current bid: 30.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Appliances - Refrigerators / Freezers | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874598
@@ -20955,9 +20974,9 @@
 ## Lot 848 — Primo water drinking units hot and cold
 
 - HiBid lot ID: 322874599
-- Current bid: 0.0 USD
+- Current bid: 27.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 11
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874599
@@ -20974,9 +20993,9 @@
 ## Lot 849 — PRIMO Water Dispenser
 
 - HiBid lot ID: 322874600
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874600
@@ -20993,9 +21012,9 @@
 ## Lot 850 — LG Portable Air Conditioner
 
 - HiBid lot ID: 322874601
-- Current bid: 0.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 12
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Appliances - Heating / Air Conditioning | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874601
@@ -21017,9 +21036,9 @@
 ## Lot 851 — Window Air Conditioner
 
 - HiBid lot ID: 322874602
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Appliances - Heating / Air Conditioning | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874602
@@ -21056,9 +21075,9 @@
 ## Lot 853 — Antique Trunk
 
 - HiBid lot ID: 322874604
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 9
 - Category: Furniture - Trunks / Chests | Furniture
 - Lot page: https://hibid.com/lot/322874604
@@ -21125,9 +21144,9 @@
 ## Lot 856 — Handmade Cedar wardrobe
 
 - HiBid lot ID: 322874607
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 8
 - Category: Furniture - Dressers / Wardrobes / Armoires | Furniture
 - Lot page: https://hibid.com/lot/322874607
@@ -21167,9 +21186,9 @@
 ## Lot 858 — Decorative Chest & Sideboard Cabinet, Decks of Car
 
 - HiBid lot ID: 322874609
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/322874609
@@ -21194,9 +21213,9 @@
 ## Lot 859 — DYSON DC 24, DC 41 Vaccum cleaner, HAAN Carpet
 
 - HiBid lot ID: 322874610
-- Current bid: 0.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 7
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaning Equipment | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322874610
@@ -21284,9 +21303,9 @@
 ## Lot 863 — Floral crosses & Wreaths
 
 - HiBid lot ID: 322874614
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874614
@@ -21391,9 +21410,9 @@
 ## Lot 868 — Bissell Deep Steam Multi Purpose Cleaner
 
 - HiBid lot ID: 322874619
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaning Equipment | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/322874619
@@ -21434,9 +21453,9 @@
 ## Lot 870 — Pfaltzgraff Village Pattern Stoneware Dishes
 
 - HiBid lot ID: 322874621
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 15
 - Category: Antiques & Collectibles - Collectibles - Stoneware / Pfaltzgraff /Earthenware | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874621
@@ -21808,9 +21827,9 @@
 ## Lot 887 — Cookbook Assortment, Garden Problem Solver Book
 
 - HiBid lot ID: 322874638
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874638
@@ -21872,9 +21891,9 @@
 ## Lot 891 — Oil Lamps Chimney & Globe Style Shades (2)
 
 - HiBid lot ID: 322874642
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874642
@@ -21913,9 +21932,9 @@
 ## Lot 893 — Clear Glass Oil Lamp W/Chimney's(3)
 
 - HiBid lot ID: 322874645
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Antiques & Collectibles - Antiques - Antique Lamps | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874645
@@ -21931,9 +21950,9 @@
 ## Lot 894 — Brass& Crystal Candlestick Holders W/Marble Bases
 
 - HiBid lot ID: 322874647
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874647
@@ -21951,9 +21970,9 @@
 ## Lot 895 — Santa Claus Cookie Jar, Candle Holders (2)
 
 - HiBid lot ID: 322874649
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874649
@@ -21970,9 +21989,9 @@
 ## Lot 896 — Ceramic Teapot, Mustache Mug,Crackle Glass Vase
 
 - HiBid lot ID: 322874650
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874650
@@ -21990,9 +22009,9 @@
 ## Lot 897 — Vanity Dresser Set ,Hand & Tabletop Mirrors
 
 - HiBid lot ID: 322874652
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/322874652
@@ -22032,9 +22051,9 @@
 ## Lot 899 — Cherished Teddies Miniature Nativity Collection
 
 - HiBid lot ID: 322874655
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/322874655
@@ -22051,9 +22070,9 @@
 ## Lot 900 — Angel Candle Holder, Christmas Angel Doll
 
 - HiBid lot ID: 322874656
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Toys - Dolls | Toys
 - Lot page: https://hibid.com/lot/322874656
@@ -22115,9 +22134,9 @@
 ## Lot 903 — Teddy Babies Figurines, Cherished Teddies
 
 - HiBid lot ID: 323034345
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034345
@@ -22180,9 +22199,9 @@
 ## Lot 906 — Farm Design Seat Cushions (2)
 
 - HiBid lot ID: 323034348
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034348
@@ -22239,9 +22258,9 @@
 ## Lot 909 — Scholaropod Dino, Uncle Samosaurus Dino Figures
 
 - HiBid lot ID: 323034351
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Action Figures | Toys
 - Lot page: https://hibid.com/lot/323034351
@@ -22258,9 +22277,9 @@
 ## Lot 910 — Peacock Figurine, Console Bowl, Rooster Figurines
 
 - HiBid lot ID: 323034353
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034353
@@ -22370,9 +22389,9 @@
 ## Lot 915 — 4th Generation TY Beanies Animals (10)
 
 - HiBid lot ID: 323034369
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034369
@@ -22437,9 +22456,9 @@
 ## Lot 918 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034374
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034374
@@ -22458,9 +22477,9 @@
 ## Lot 919 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034376
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034376
@@ -22479,9 +22498,9 @@
 ## Lot 920 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034378
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034378
@@ -22501,9 +22520,9 @@
 ## Lot 921 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034388
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034388
@@ -22523,9 +22542,9 @@
 ## Lot 922 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034390
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034390
@@ -22545,9 +22564,9 @@
 ## Lot 923 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034391
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034391
@@ -22566,9 +22585,9 @@
 ## Lot 924 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034393
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034393
@@ -22587,9 +22606,9 @@
 ## Lot 925 — 4th Generation TY Beanies (11)
 
 - HiBid lot ID: 323034395
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034395
@@ -22631,9 +22650,9 @@
 ## Lot 927 — 4th Generation TY Beanies (10)
 
 - HiBid lot ID: 323034399
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034399
@@ -22652,9 +22671,9 @@
 ## Lot 928 — Walt Disney 7 Dwarfs Stuffed Plushies
 
 - HiBid lot ID: 323034401
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 4
 - Category: Toys - Bears / Stuffed Animals | Toys
 - Lot page: https://hibid.com/lot/323034401
@@ -22671,9 +22690,9 @@
 ## Lot 929 — Green Glass Waffle Pattern Shakers(2), Spool Shape
 
 - HiBid lot ID: 323034402
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034402
@@ -22694,9 +22713,9 @@
 ## Lot 930 — Chalkware Fruit Plaques, Ceramic Quail Figurines
 
 - HiBid lot ID: 323034404
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034404
@@ -22840,9 +22859,9 @@
 ## Lot 937 — Green Glass Moon & Stars Pattern Footed Bowl, Tall
 
 - HiBid lot ID: 323034429
-- Current bid: 0.0 USD
+- Current bid: 41.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 14
 - Photo count: 9
 - Category: Antiques & Collectibles - Collectibles - Decorative - Bowls | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034429
@@ -22866,9 +22885,9 @@
 ## Lot 938 — I.H., Pioneer, B&W Co-op Baseball Caps & More
 
 - HiBid lot ID: 323034430
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Fashion - Men's Clothing - Tops | Fashion - Men's Clothing | Fashion
 - Lot page: https://hibid.com/lot/323034430
@@ -22893,9 +22912,9 @@
 ## Lot 939 — Way Rite & Hanson 25lb Kitchen & Mercantile Scales
 
 - HiBid lot ID: 323034431
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Scales / Hoists | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034431
@@ -22918,9 +22937,9 @@
 ## Lot 940 — Wooden and Glass Washboard, Van Atten's Outdoor 68
 
 - HiBid lot ID: 323034432
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034432
@@ -22943,9 +22962,9 @@
 ## Lot 941 — Deshler Mail Box Cylindrical Galvanized Tube
 
 - HiBid lot ID: 323034433
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034433
@@ -22966,9 +22985,9 @@
 ## Lot 942 — Republic Truck Emblem
 
 - HiBid lot ID: 323034435
-- Current bid: 2.0 USD
+- Current bid: 93.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 6
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Automobilia | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034435
@@ -23006,9 +23025,9 @@
 ## Lot 945 — The Old Curiosity Shop Green Transferware Dishes
 
 - HiBid lot ID: 323034442
-- Current bid: 0.0 USD
+- Current bid: 65.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 30
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034442
@@ -23081,9 +23100,9 @@
 ## Lot 948 — Noritake China Dinnerware-Crestmont Pattern
 
 - HiBid lot ID: 323034448
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 19
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034448
@@ -23140,9 +23159,9 @@
 ## Lot 951 — Ceramic and Porcelain Figurines
 
 - HiBid lot ID: 323034457
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034457
@@ -23162,9 +23181,9 @@
 ## Lot 952 — Corning Ware Blue Cornflower Menuette Skillets
 
 - HiBid lot ID: 323034459
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034459
@@ -23211,9 +23230,9 @@
 ## Lot 954 — Woven Wood Picnic/Pie Basket , Charles Cookies Tin
 
 - HiBid lot ID: 323034463
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034463
@@ -23239,9 +23258,9 @@
 ## Lot 955 — Wooden Wall Mounted Spice Rack W/Jars, Wall Shelf
 
 - HiBid lot ID: 323034464
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034464
@@ -23291,9 +23310,9 @@
 ## Lot 957 — Pyrex Glass Removable Handle, Lantern Battery Opt
 
 - HiBid lot ID: 323034468
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034468
@@ -23342,9 +23361,9 @@
 ## Lot 959 — Manual Cast Iron or Metal Meat Grinders
 
 - HiBid lot ID: 323034470
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034470
@@ -23365,9 +23384,9 @@
 ## Lot 960 — Caravan Spinning Serving Tray, Rolling Pins,Slicer
 
 - HiBid lot ID: 323034471
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034471
@@ -23391,9 +23410,9 @@
 ## Lot 961 — 15In Baking Stone, Kitchen Aide Stainless 4 1/2 QT
 
 - HiBid lot ID: 323034476
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034476
@@ -23438,9 +23457,9 @@
 ## Lot 963 — Stoneware Cookie Jar from the 1970's
 
 - HiBid lot ID: 323034480
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034480
@@ -23457,9 +23476,9 @@
 ## Lot 964 — Fisher Price Toys, Tupperware Shape O Sorter Toy
 
 - HiBid lot ID: 323034482
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/323034482
@@ -23483,9 +23502,9 @@
 ## Lot 965 — Little Tikes Toddle Fire Truck, Tonka Fire Truck
 
 - HiBid lot ID: 323034484
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/323034484
@@ -23522,9 +23541,9 @@
 ## Lot 967 — Toy Vehicles and Action Figure,Daisy Air Pistol
 
 - HiBid lot ID: 323034488
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Sporting Goods - Firearms / Weapons - Airsoft / Paintball / Pellet / BB Guns | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/323034488
@@ -23545,9 +23564,9 @@
 ## Lot 968 — Blow Mold Piggy Bank, Alexander's Star 3D Puzzle
 
 - HiBid lot ID: 323034489
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034489
@@ -23614,10 +23633,10 @@
 ## Lot 971 — Cathy Multi Panel Comic Print Umbrella
 
 - HiBid lot ID: 323034492
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 4
+- Bid count: 2
+- Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034492
 
@@ -23625,10 +23644,14 @@
 
 **Photos:**
 
-- [Photo 1](https://cdn.hibid.com/img.axd?id=8432553644&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=p%2fpNzG2aPrR%2bOOtFHwrKJMUYLmY1QL5b)
-- [Photo 2](https://cdn.hibid.com/img.axd?id=8432553668&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=p%2fpNzG2aPrT89t1mdrvhzcYE%2fHZEcpNU)
-- [Photo 3](https://cdn.hibid.com/img.axd?id=8432553679&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=p%2fpNzG2aPrRys7kXYzTYz3Pz4D5tf%2fsU)
-- [Photo 4](https://cdn.hibid.com/img.axd?id=8432553670&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=p%2fpNzG2aPrSoD1vSw4UAykcJtjCMxmK5)
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8436726967&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VVi0IeN6GDJCoujbikOZyuPpjePGJU4g)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8436726978&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VVi0IeN6GDLawbUZlImnkxED4v%2fTAYu9)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8436726966&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VVi0IeN6GDKo4vpjPKHGAFcItALHgsnJ)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8436726974&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VVi0IeN6GDI2wRA4BASMDqSvUXZDMqMK)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8436726997&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VVi0IeN6GDIzffsIQ2oxuvtjXlUaWt06)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8436727021&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1M2jU%2fuEZoKj5AUYNsJJc%2bYCWel9kYob)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8436726998&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VVi0IeN6GDIXPOCEfooHd2%2bXIvlkHInT)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8436727012&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1M2jU%2fuEZoJaLM7pgG%2fcbaGX6WkbAVwL)
 
 ---
 
@@ -23658,9 +23681,9 @@
 ## Lot 973 — 30-06 Springfield Shells, Hunting Cushions, H
 
 - HiBid lot ID: 323034495
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/323034495
@@ -23688,9 +23711,9 @@
 ## Lot 974 — Live Edge Wood Slab Wall Clocks(2)
 
 - HiBid lot ID: 323034497
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Antiques - Clocks - Wall | Antiques & Collectibles - Antiques - Clocks | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034497
@@ -23710,9 +23733,9 @@
 ## Lot 975 — Unfinished Live Edge Wood Pieces (2)
 
 - HiBid lot ID: 323034499
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 3
 - Category: Construction & Farm - Building Supplies - Lumber | Construction & Farm - Building Supplies | Construction & Farm
 - Lot page: https://hibid.com/lot/323034499
@@ -23728,9 +23751,9 @@
 ## Lot 976 — Clear Glass Barrel Shaped Jar Wire Bail & Wood Han
 
 - HiBid lot ID: 323034500
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034500
@@ -23749,9 +23772,9 @@
 ## Lot 977 — Bell No.2 Cast Iron Bell Yoke or Mounting Bracket
 
 - HiBid lot ID: 323034502
-- Current bid: 0.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034502
@@ -23772,9 +23795,9 @@
 ## Lot 978 — Cross Cut Saw Blade
 
 - HiBid lot ID: 323034504
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034504
@@ -23790,9 +23813,9 @@
 ## Lot 979 — Selmer Bundy II Saxophone In A Case, Metal Detecto
 
 - HiBid lot ID: 323034506
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 12
 - Category: Home Goods & Decor - Home Goods - Musical Instruments | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034506
@@ -23819,9 +23842,9 @@
 ## Lot 979B — Bonus Lot
 
 - HiBid lot ID: 323218633
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218633
@@ -23841,9 +23864,9 @@
 ## Lot 980 — Makita 10" Saw
 
 - HiBid lot ID: 323034508
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034508
@@ -23893,9 +23916,9 @@
 ## Lot 982 — Black & Decker Electric Sander/Polisher & Grinder
 
 - HiBid lot ID: 323034513
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 18
 - Category: Lawn & Garden - Tools/Hand held items - Power Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034513
@@ -24016,9 +24039,9 @@
 ## Lot 986 — Craftsman Industrial Reciprocating Saw in Case
 
 - HiBid lot ID: 323034519
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034519
@@ -24091,9 +24114,9 @@
 ## Lot 989 — Pro-Tech 10" Buffer/ Polisher, Skil 3/8” Drill
 
 - HiBid lot ID: 323034526
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Lawn & Garden - Tools/Hand held items - Power Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034526
@@ -24266,9 +24289,9 @@
 ## Lot 995 — Remington Power Actuated Tool
 
 - HiBid lot ID: 323034546
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 12
 - Category: Lawn & Garden - Tools/Hand held items - Power Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034546
@@ -24316,9 +24339,9 @@
 ## Lot 997 — Hardware Organizer and contents
 
 - HiBid lot ID: 323034548
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034548
@@ -24336,9 +24359,9 @@
 ## Lot 998 — Plano tackle box and contents
 
 - HiBid lot ID: 323034549
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Sporting Goods - Fishing | Sporting Goods
 - Lot page: https://hibid.com/lot/323034549
@@ -24360,9 +24383,9 @@
 ## Lot 999 — Sockets, Allen wrenches, Pistol Grip screwdriver
 
 - HiBid lot ID: 323034550
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 14
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034550
@@ -24389,9 +24412,9 @@
 ## Lot 1000 — Ball ping hammers, Hammers (2)
 
 - HiBid lot ID: 323034551
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034551
@@ -24409,9 +24432,9 @@
 ## Lot 1001 — Hammers, Rubber Mallet, Ball ping Hammer
 
 - HiBid lot ID: 323034557
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034557
@@ -24430,9 +24453,9 @@
 ## Lot 1002 — Socket set
 
 - HiBid lot ID: 323034559
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034559
@@ -24452,9 +24475,9 @@
 ## Lot 1003 — Estwing E3-CA shingle roofing / drywall hatchet
 
 - HiBid lot ID: 323034560
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034560
@@ -24473,9 +24496,9 @@
 ## Lot 1004 — Vintage Pipe wrenches
 
 - HiBid lot ID: 323034561
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034561
@@ -24492,9 +24515,9 @@
 ## Lot 1005 — Vintage Pipe wrenches
 
 - HiBid lot ID: 323034562
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034562
@@ -24555,9 +24578,9 @@
 ## Lot 1008 — Standard Wrenches
 
 - HiBid lot ID: 323034565
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034565
@@ -24577,9 +24600,9 @@
 ## Lot 1009 — Tin bucket wedges, Thorsen socket set
 
 - HiBid lot ID: 323034566
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034566
@@ -24653,9 +24676,9 @@
 ## Lot 1012 — Pipe wrenches
 
 - HiBid lot ID: 323034569
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034569
@@ -24672,9 +24695,9 @@
 ## Lot 1013 — Vintage Pipe wrenches
 
 - HiBid lot ID: 323034570
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034570
@@ -24717,9 +24740,9 @@
 ## Lot 1015 — C Clamps (9)
 
 - HiBid lot ID: 323034572
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 10
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034572
@@ -24793,9 +24816,9 @@
 ## Lot 1018 — Hand Riveter, Wrenches, Rubber mallet
 
 - HiBid lot ID: 323034575
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034575
@@ -24839,9 +24862,9 @@
 ## Lot 1020 — Circular saw blades,
 
 - HiBid lot ID: 323034577
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034577
@@ -24861,9 +24884,9 @@
 ## Lot 1021 — Crescent wrenches, Pliers
 
 - HiBid lot ID: 323034578
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034578
@@ -24932,9 +24955,9 @@
 ## Lot 1024 — Vintage tools, Hoof nipper, Hand crank drill
 
 - HiBid lot ID: 323034581
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034581
@@ -24958,9 +24981,9 @@
 ## Lot 1025 — Steel trowels wood handles, Steel file
 
 - HiBid lot ID: 323034582
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034582
@@ -24975,12 +24998,12 @@
 
 ---
 
-## Lot 1026 — Vinly Floor Tiles
+## Lot 1026 — Vinyl Floor Tiles
 
 - HiBid lot ID: 323034583
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Building Supplies - Flooring | Construction & Farm - Building Supplies | Construction & Farm
 - Lot page: https://hibid.com/lot/323034583
@@ -24999,9 +25022,9 @@
 ## Lot 1027 — (2) Full one gallon jugs of deck wash
 
 - HiBid lot ID: 323034584
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaners / Cleaning Supplies | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323034584
@@ -25017,9 +25040,9 @@
 ## Lot 1028 — 5 gallon bucket with assorted toils
 
 - HiBid lot ID: 323034585
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Lawn & Garden - Tools/Hand held items - Mixed Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034585
@@ -25047,9 +25070,9 @@
 ## Lot 1029 — Sear Craftsman 10 in Band saw, 1/3 HP
 
 - HiBid lot ID: 323034586
-- Current bid: 0.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 7
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034586
@@ -25069,9 +25092,9 @@
 ## Lot 1030 — Black Jack Trailer Hitch, 3000lbs max capacity
 
 - HiBid lot ID: 323034587
-- Current bid: 0.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Jacks | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034587
@@ -25159,9 +25182,9 @@
 ## Lot 1034 — Air pump fan - has been tested
 
 - HiBid lot ID: 323034591
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Small Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034591
@@ -25181,9 +25204,9 @@
 ## Lot 1035 — Go Clean Household Wet/Dry Vac- has been tested
 
 - HiBid lot ID: 323034592
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Business & Industrial - Business / Retail - Janitorial - Cleaning Equipment | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323034592
@@ -25243,9 +25266,9 @@
 ## Lot 1038 — Hand Forged Log Rolling tool
 
 - HiBid lot ID: 323034595
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 5
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034595
@@ -25263,9 +25286,9 @@
 ## Lot 1039 — Vintage Ice Block Tongs-cast iron
 
 - HiBid lot ID: 323034596
-- Current bid: 0.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 4
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034596
@@ -25282,9 +25305,9 @@
 ## Lot 1040 — Cast Iron Wishbone shape ice block tongs
 
 - HiBid lot ID: 323034597
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 4
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034597
@@ -25301,9 +25324,9 @@
 ## Lot 1041 — Cast iron Ice Block tongs
 
 - HiBid lot ID: 323034598
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034598
@@ -25339,9 +25362,9 @@
 ## Lot 1043 — Small cast iron ice block tongs
 
 - HiBid lot ID: 323034600
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034600
@@ -25378,9 +25401,9 @@
 ## Lot 1045 — Wooden and iron smaller horse mule hames
 
 - HiBid lot ID: 323034602
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Construction & Farm - Horse Drawn Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/323034602
@@ -25415,9 +25438,9 @@
 ## Lot 1047 — Antique Cross Buck bow saws (2)
 
 - HiBid lot ID: 323034604
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034604
@@ -25437,9 +25460,9 @@
 ## Lot 1048 — Lineman Pole Climbing Spikes (2)
 
 - HiBid lot ID: 323034605
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Railroad | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034605
@@ -25570,9 +25593,9 @@
 ## Lot 1052 — Sotz Monster Mauls for splitting (2)
 
 - HiBid lot ID: 323034609
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034609
@@ -25589,9 +25612,9 @@
 ## Lot 1053 — Cast iron welcome bells, Eagle missing head
 
 - HiBid lot ID: 323034610
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034610
@@ -25614,9 +25637,9 @@
 ## Lot 1054 — Ortho Sticky fly traps, Am-Tech hand clippers
 
 - HiBid lot ID: 323034611
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/323034611
@@ -25684,9 +25707,9 @@
 ## Lot 1057 — Handpainted hooks, wooden cutting board
 
 - HiBid lot ID: 323034614
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034614
@@ -25709,9 +25732,9 @@
 ## Lot 1058 — Metal and Wood Birdhouses
 
 - HiBid lot ID: 323034615
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 13
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034615
@@ -25737,9 +25760,9 @@
 ## Lot 1059 — Large ceramic frog, Solar Butterfly but no solar
 
 - HiBid lot ID: 323034616
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Lighting - Outdoor Lighting | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034616
@@ -25826,9 +25849,9 @@
 ## Lot 1063 — Motorcycle Helmets
 
 - HiBid lot ID: 323034620
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323034620
@@ -25848,9 +25871,9 @@
 ## Lot 1064 — Mole and Animal traps
 
 - HiBid lot ID: 323034621
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/323034621
@@ -25897,9 +25920,9 @@
 ## Lot 1066 — Horse Shoes
 
 - HiBid lot ID: 323034623
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323034623
@@ -25921,9 +25944,9 @@
 ## Lot 1067 — Horse Shoes (3Sets)
 
 - HiBid lot ID: 323034624
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 6
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323034624
@@ -25942,9 +25965,9 @@
 ## Lot 1068 — Machetes (2)
 
 - HiBid lot ID: 323034625
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 8
 - Category: Sporting Goods - Firearms / Weapons - Knives / Blades | Sporting Goods - Firearms / Weapons | Sporting Goods
 - Lot page: https://hibid.com/lot/323034625
@@ -26005,9 +26028,9 @@
 ## Lot 1071 — Armstrong Rose Floor Tiles
 
 - HiBid lot ID: 323034628
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Construction & Farm - Building Supplies - Flooring | Construction & Farm - Building Supplies | Construction & Farm
 - Lot page: https://hibid.com/lot/323034628
@@ -26025,9 +26048,9 @@
 ## Lot 1072 — Weathervane
 
 - HiBid lot ID: 323034629
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 5
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034629
@@ -26065,9 +26088,9 @@
 ## Lot 1074 — Storage Wicker Baskets , large one is covered
 
 - HiBid lot ID: 323034631
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034631
@@ -26086,12 +26109,12 @@
 
 ---
 
-## Lot 1075 — wooden slat bushel baskets, basket full of
+## Lot 1075 — Wooden slat bushel baskets, basket full of
 
 - HiBid lot ID: 323034632
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034632
@@ -26184,9 +26207,9 @@
 ## Lot 1079 — Platform ladder
 
 - HiBid lot ID: 323034636
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Ladders / Scaffolding | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034636
@@ -26225,9 +26248,9 @@
 ## Lot 1081 — Die Hard Battery Charger 275/125 amp engine
 
 - HiBid lot ID: 323034643
-- Current bid: 0.0 USD
+- Current bid: 33.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 12
 - Photo count: 11
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034643
@@ -26305,9 +26328,9 @@
 ## Lot 1084 — Ford lights, Wheel cap
 
 - HiBid lot ID: 323034649
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 13
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034649
@@ -26333,9 +26356,9 @@
 ## Lot 1085 — Metal measuring Jugs used for oil
 
 - HiBid lot ID: 323034651
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Gas / Oil | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034651
@@ -26358,9 +26381,9 @@
 ## Lot 1086 — Hard hat, Electrical boards
 
 - HiBid lot ID: 323034652
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034652
@@ -26430,9 +26453,9 @@
 ## Lot 1089 — 1920s beehive-style stop and tail lights
 
 - HiBid lot ID: 323034655
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034655
@@ -26472,9 +26495,9 @@
 ## Lot 1091 — Pennzoil 10w-40 oil, 1/2 full, liquid wrench spray
 
 - HiBid lot ID: 323034657
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034657
@@ -26543,9 +26566,9 @@
 ## Lot 1094 — Metal oil funnel, air filter, in dash am/ fm car
 
 - HiBid lot ID: 323034660
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 12
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034660
@@ -26593,9 +26616,9 @@
 ## Lot 1096 — Rachet Tie downs, Measuring tape
 
 - HiBid lot ID: 323034662
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Tiedowns / Binders | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034662
@@ -26672,9 +26695,9 @@
 ## Lot 1099 — Metal Signs, Keep out, Farmer Family, Spending
 
 - HiBid lot ID: 323034665
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 10
 - Category: Antiques & Collectibles - Collectibles - Signs | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034665
@@ -26699,9 +26722,9 @@
 ## Lot 1100 — Large Hinges
 
 - HiBid lot ID: 323034666
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034666
@@ -26743,9 +26766,9 @@
 ## Lot 1102 — Handcut Horse Shelf Decorations
 
 - HiBid lot ID: 323034668
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034668
@@ -26883,9 +26906,9 @@
 ## Lot 1108 — Tarps
 
 - HiBid lot ID: 323034674
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Sporting Goods - Camping | Sporting Goods
 - Lot page: https://hibid.com/lot/323034674
@@ -27135,9 +27158,9 @@
 ## Lot 1119 — 2 Ton Hand Puller
 
 - HiBid lot ID: 323034685
-- Current bid: 0.0 USD
+- Current bid: 18.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 6
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034685
@@ -27178,9 +27201,9 @@
 ## Lot 1121 — Hand Saws (5)
 
 - HiBid lot ID: 323034687
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034687
@@ -27220,9 +27243,9 @@
 ## Lot 1123 — Metal Hardware,Washers, Brackets, Small Fasteners
 
 - HiBid lot ID: 323034689
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034689
@@ -27288,9 +27311,9 @@
 ## Lot 1126 — Primitive Hand Tools, Double Sheave Metal Pulley
 
 - HiBid lot ID: 323034692
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034692
@@ -27314,9 +27337,9 @@
 ## Lot 1127 — HD Mechanical Puller and Installer Tool
 
 - HiBid lot ID: 323034693
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034693
@@ -27369,9 +27392,9 @@
 ## Lot 1129 — Coarse Sanding Belt, Sandpaper Assortment
 
 - HiBid lot ID: 323034695
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034695
@@ -27414,9 +27437,9 @@
 ## Lot 1131 — Yellow HD Extension Cord, Metal Shop Trouble
 
 - HiBid lot ID: 323034697
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034697
@@ -27439,9 +27462,9 @@
 ## Lot 1132 — Pro Gas Cylinder W/Torch(2),Stick Electrodes,
 
 - HiBid lot ID: 323034698
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Welding Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034698
@@ -27486,9 +27509,9 @@
 ## Lot 1134 — Electrical Box,Range Outlet,Electrical Tester
 
 - HiBid lot ID: 323034700
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034700
@@ -27513,9 +27536,9 @@
 ## Lot 1135 — Electrical Wire, Misc. Cords, Electrical Hardware
 
 - HiBid lot ID: 323034701
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034701
@@ -27538,9 +27561,9 @@
 ## Lot 1136 — Portable Fluorescent Work Light, 3Prong 30 Amp
 
 - HiBid lot ID: 323034702
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Home Goods & Decor - Lighting | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034702
@@ -27563,9 +27586,9 @@
 ## Lot 1137 — Orange Extension Cord On A Reel, Black Power Cord
 
 - HiBid lot ID: 323034703
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034703
@@ -27583,9 +27606,9 @@
 ## Lot 1138 — Orange Extension Cord On A Reel, HD Black
 
 - HiBid lot ID: 323034704
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034704
@@ -27608,9 +27631,9 @@
 ## Lot 1139 — HD Electrical Extension Cord, 4 Prong Appliance
 
 - HiBid lot ID: 323034705
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034705
@@ -27631,9 +27654,9 @@
 ## Lot 1140 — Replacement Cable For Industrial Automation, HD
 
 - HiBid lot ID: 323034706
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034706
@@ -27655,9 +27678,9 @@
 ## Lot 1141 — Trouble light, Orange Extension Cord,Multi-Outlet
 
 - HiBid lot ID: 323034707
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034707
@@ -27677,9 +27700,9 @@
 ## Lot 1142 — Aluminum Nails,Screws,Padlock W/Key, Hinges
 
 - HiBid lot ID: 323034708
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034708
@@ -27722,9 +27745,9 @@
 ## Lot 1144 — Handheld Metal Oil Cans & Pump Oilers
 
 - HiBid lot ID: 323034710
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Gas / Oil | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034710
@@ -27744,9 +27767,9 @@
 ## Lot 1145 — Trailer Towing Hardware
 
 - HiBid lot ID: 323034711
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 9
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034711
@@ -27768,9 +27791,9 @@
 ## Lot 1146 — Michigan License Plates 1928-2009
 
 - HiBid lot ID: 323034712
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Automobilia | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034712
@@ -27889,9 +27912,9 @@
 ## Lot 1151 — Automotive Fluid And Oil Change Accessories
 
 - HiBid lot ID: 323034717
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034717
@@ -27969,9 +27992,9 @@
 ## Lot 1155 — HD Towing and Tractor Hardware
 
 - HiBid lot ID: 323034721
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034721
@@ -28014,9 +28037,9 @@
 ## Lot 1157 — MP2 Lithium Grease, Manual Grease Guns(2)
 
 - HiBid lot ID: 323034723
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034723
@@ -28033,9 +28056,9 @@
 ## Lot 1158 — WD 40,Motor Oil, Tire Sealant,Brake Fluid,
 
 - HiBid lot ID: 323034724
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034724
@@ -28082,9 +28105,9 @@
 ## Lot 1160 — RV & Marine Antifreeze, RainX 2 N 1 Fluid,
 
 - HiBid lot ID: 323034726
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034726
@@ -28100,401 +28123,780 @@
 
 ---
 
-## Lot 1161 — - no description -
+## Lot 1160B — Bonus lot 2
+
+- HiBid lot ID: 323343397
+- Current bid: 0.0 USD
+- Price realized: 0 USD
+- Bid count: 0
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
+- Lot page: https://hibid.com/lot/323343397
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249163&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYC5I7J9HZ%2fJNQfWmaKexHRh)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249173&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYDznB%2fjuY0UBDMw1ZgSbZk6)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249174&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYCFO%2bXNn9F9fL1cbdcrfKGd)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249175&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYAFwjcgIgPebv7mePl8xoL0)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249195&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYDhJIrdvbrIfQApC7xv%2fQlw)
+
+---
+
+## Lot 1161 — Noah’s Ark wall hanging, little boy ( handmade)
 
 - HiBid lot ID: 323034727
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034727
 
+**Description:** * Livestock Compress and Bandage 22x18
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249199&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYA4jd5ytuI3uByVlJmy0Nji)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249208&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXN%2fuFP5o%2f5xaaoR%2fEwNyPn3)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249206&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXOETNSVMAZZ2Dbtb2fLncp9)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249198&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=H4NkKC5WZYCFiO0SjiUSFOXMN2IJ%2fK9T)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249201&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXNeFn5lDGiR0Ov%2fsHhXWE9f)
+
 ---
 
-## Lot 1162 — - no description -
+## Lot 1162 — Meilink safe
 
 - HiBid lot ID: 323034728
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 5
+- Category: Business & Industrial - Business / Retail - Security / Surveillance - Professional | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323034728
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249204&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXOw0LDEeDNJZ6a9Gm0lmzQn)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249203&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXMR6ZBb2LTXEej0cFjgRUrk)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249229&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXN1tlIm9lbWHR7P9aNz2E%2fr)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249238&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXPqjD91Dg%2fGynFPYZ1zFvzL)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249245&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXPCzww6QOnGPlqxMtUGEHSn)
+
 ---
 
-## Lot 1163 — - no description -
+## Lot 1163 — Essick Humidifier, Carpet Squares, yard decoration
 
 - HiBid lot ID: 323034729
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 8
+- Category: Home Goods & Decor - Home Goods - Carpet / Rugs | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034729
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249230&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXPmVMmR1CKgLLULN2wqz3S%2b)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249240&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXMy3nYjnZx3oGbSQ9YQppCb)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249227&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXMBROLbk08zKu2ykqbAV4AO)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249246&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXOK9SR9cVgkfEK9lJXcs92v)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249242&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXP53h4ANrAPPHW43hW4Svfa)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249241&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXOPfvxQT1TbXsGnzeXVXc5M)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249260&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXP4vatRh7aGpVXOby2vrAhb)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433249265&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXMSs9BmOp2ylKeO1SchKGot)
+
 ---
 
-## Lot 1164 — - no description -
+## Lot 1164 — Day fan vintage radio, glass square painting
 
 - HiBid lot ID: 323034730
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 5
+- Category: Art - Paintings | Art
 - Lot page: https://hibid.com/lot/323034730
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249282&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXPXBDgvk%2ffd8dkFzoomehZp)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249284&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXML4IGjZw6G%2bO4ASRReM7%2bO)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249293&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXPwGoN%2b1Ip88yDEppCZ%2bLgm)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249291&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXO36wLx5UmNnE7iyRIW2EpY)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249283&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXOD%2fHY4mB3qoNbb0f0m0PaM)
+
 ---
 
-## Lot 1165 — - no description -
+## Lot 1165 — Office chair
 
 - HiBid lot ID: 323034731
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 4
+- Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/323034731
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249290&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXP3qDxwmdvH7YesyjkEI1Iv)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249292&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=n987xfOjHXMmbbOkRAHMgQZnfLMT9Ktr)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249327&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvgOYSvvTP%2fgF36rtmStctMS)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249321&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvglu%2fPY5R1bL0rRZ7dd6Aex)
+
 ---
 
-## Lot 1166 — - no description -
+## Lot 1166 — Turtle Solar Light, Wall Butterflies
 
 - HiBid lot ID: 323034732
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 4
+- Photo count: 7
+- Category: Home Goods & Decor - Home Goods - Lighting - Outdoor Lighting | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034732
+
+**Description:** * Cast Iron Shoe Horn
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249324&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvh4w7SutCrw0BHA4ueh0BHd)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249312&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvjCx6PpdRyUN%2f5sGueKYA9h)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249316&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyviZ7XiAI%2fnCs2Ar6ckUZR%2fS)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249320&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvjIA1%2bTzspKaAmdbYI%2fO9jS)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249326&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvi9JtM7W45Gzp2wsHr3APiW)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249310&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvgjYwA1XAZR5XGh7z23MvYK)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249346&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhMu%2bSV3mPJVyd7LU5nS%2fHK)
 
 ---
 
-## Lot 1167 — - no description -
+## Lot 1167 — Plastic Standing Frame, Basket
 
 - HiBid lot ID: 323034733
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 3
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034733
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249361&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhuBaMV2EsQsJNvLVQGV4w0)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249344&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvj1g9eeoZjK05QDSiRXj6q%2f)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249360&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhYJAhxbcBdPZtKP5Dner9i)
 
 ---
 
-## Lot 1168 — - no description -
+## Lot 1168 — Artificial Flowers, Vase
 
 - HiBid lot ID: 323034734
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034734
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249358&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvixQ2c2Vhicezpx3a2c4yJu)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249345&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyviyT%2bGL2DIhc8dCz0bszxVd)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249357&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyviCe6IjFBpTfkKri2qVeLuQ)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249372&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvj%2f8fOU8JFCqJhCR9L0FUJR)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249369&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvjEgW8AbRnT%2fRCNY5flJS5A)
+
 ---
 
-## Lot 1169 — - no description -
+## Lot 1169 — Eastlake Style Wooden Table
 
 - HiBid lot ID: 323034735
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 6
+- Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/323034735
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249371&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvh0zWF2foydmBswUcyZQ7bi)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249389&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyviBXtqGL%2b4SJwd8vN69HMUX)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249370&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhER2weJZp0OtDRXXaI9kRE)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249392&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhFtdEVfj2HI%2fpl7hM8PbUF)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249390&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvgF4F%2f7Wq4n2R8tFseJK%2bva)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249387&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvh9ryky7FxS72VBoF1%2f%2fZU4)
 
 ---
 
-## Lot 1170 — - no description -
+## Lot 1170 — Teeter FitSpine Inversion Table
 
 - HiBid lot ID: 323034736
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323034736
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249394&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvg6IGb6woF%2bE9n%2fyMCKviul)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249393&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyviMkPY7JVLkk%2bNVtrh5QtPE)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249386&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvgrUNvPNhX4izAa6YU515zg)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249391&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhb5YDAILxEaujCsjeaDTb9)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249388&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9tB9v5agyvhUu%2fy4X%2bbXOaRKadNiXuGL)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249413&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtub19PbjTF%2bYasWQuLUibA8)
+
 ---
 
-## Lot 1171 — - no description -
+## Lot 1171 — Bed Frame
 
 - HiBid lot ID: 323034737
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 9
+- Category: Furniture - Beds / Bedroom Sets | Furniture
 - Lot page: https://hibid.com/lot/323034737
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249412&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtvhp%2f30c3C%2fcxTVhq%2f8Q4m1)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249416&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtt7S8lPJkhTXAG10mKy9CcW)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249410&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtu7hB6I1M1TfEgSNWfGdItI)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249411&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtvVq%2bGHTTOg%2bMIeX5CyqmtJ)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249418&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtsDGeZBZ7FJz0oL2CTwM%2be9)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249417&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtuRrAZEvmEOec7wj9H6hJvi)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249430&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKts%2f%2f74cK3cz%2fv8T7MW%2fS3dQ)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433249419&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtuivJpIJas2V320fKF%2b53Z%2b)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433249443&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKturtWDadsw8xj0zkFltwj3O)
 
 ---
 
-## Lot 1172 — - no description -
+## Lot 1172 — Gas Weed whips (2), 540 Supreme, Murray
 
 - HiBid lot ID: 323034738
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 13
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034738
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204220&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2nu6ySvRRL2naVoH0GAN5c4)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204237&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2kTq%2f2qbZMMcmDs6b4LqFJu)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204216&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2kVRKCzSCdyEHsas2pAKqBp)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204227&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2lg%2f%2bWvW%2fnfR5hI%2fmx8NaA7)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204238&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2m84DjYFoveQHq%2bjpwbixLE)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204219&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2lan7OcRd7OIY7cKA4EosX4)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204235&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2l6lPixOB7q7Q010yKWuuoH)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204250&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2mBV111gGHSvSo0%2fUaIf2yY)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204249&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2nRShgn1AVwOqlkGjJpdrP4)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204241&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2lk86UGaXqz6iV12lqaCb86)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433204247&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2npVNCPbDCD4GHgoXIg0tyF)
+- [Photo 12](https://cdn.hibid.com/img.axd?id=8433204260&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2nSGcii5AZd3Fnf6KroTG98)
+- [Photo 13](https://cdn.hibid.com/img.axd?id=8433204269&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2k9a9ik53aRtoIvJh5sU7jD)
 
 ---
 
-## Lot 1173 — - no description -
+## Lot 1173 — Craftsman Power Blower, Craftsman Chainsaw
 
 - HiBid lot ID: 323034739
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 9
+- Category: Lawn & Garden - Outdoor Power Equipment - Chainsaws | Lawn & Garden - Outdoor Power Equipment | Lawn & Garden
 - Lot page: https://hibid.com/lot/323034739
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204275&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2mZS3ztT%2fIQ6%2bS55jyZjSRl)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204267&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2nsA04WZR3ddDzZCubSYMaY)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204262&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2lI1isP9sAd26Q4k8j9eK80)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204270&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2l9755L4uz88DENLXASeUX0)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204268&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2mtjIs88TLLoBCt1fmj%2bZeR)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204280&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2noNUVYnykdpOSekH%2bmJpds)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204281&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2meoeq%2bULbW0WXV23yLLH6R)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204293&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nEmqd6A9V2nXnuyFWQ15aC8ttNAyFbda)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204308&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMq0M02tFX4CFB9V7EO0tkpm)
 
 ---
 
-## Lot 1174 — - no description -
+## Lot 1174 — Metal Compartment Shelves, Plastic drawer set
 
 - HiBid lot ID: 323034740
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 11
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034740
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204304&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMq%2bYdcHg%2fOpnhODIVeWG7V8)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204319&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMpciN%2bBnB58YxmbCEy7lCaj)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204311&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqq8SY6ghLQAagkqxwrJOqJ)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204314&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMquoIZAhl938AkrC%2b3LGs5O)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204306&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMoQq5uqZS4wSr92kgH7busa)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204303&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqz%2fp1L9eidiERrHDvPLtZi)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204316&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqPkVgC5sVPy7KFJb%2bDZ%2fWl)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204330&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMpmimwl7VhxUZNkGdetbgdM)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204335&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqsEaurosAHf6L6lDiJ45DC)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204344&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMoOaW07Udq%2bPTNidA%2bETlRq)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433204328&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMq44v54RoW%2f4x6Q%2fatz%2f65c)
+
 ---
 
-## Lot 1175 — - no description -
+## Lot 1175 — Wooden chairs (3)
 
 - HiBid lot ID: 323034741
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 13
+- Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/323034741
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204355&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMp3tcosO1R4Inja1SwxOFsh)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204337&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMrStiy8Q8gNPTA0hgEKRfle)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204356&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMpfBYBiVe9zj2G8tvQa3pVg)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204354&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMpTVVk5BoMS%2fvpXmcQiWood)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204360&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMrkSol1vJyf3AmnAQM9VBdy)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204347&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMrNOaRdqa0br8UxQckIi2AL)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204364&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqm3n5l1niPQMMAVOAodVZ1)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204385&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMpiBon2HRuxCiJCqFwuul3Y)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204384&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMr2MpDbqrPj4V%2bupvIkyNJv)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204366&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqJ9K6ozwWRz6MLO2urmAOE)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433204388&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMrvorfTcolQCUZSg0kBQ34s)
+- [Photo 12](https://cdn.hibid.com/img.axd?id=8433204400&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFgHOnwqcPDfNSDN1ReZjdj)
+- [Photo 13](https://cdn.hibid.com/img.axd?id=8433204397&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMq%2bGmdc954t%2fxpk%2brxAkGpp)
 
 ---
 
-## Lot 1176 — - no description -
+## Lot 1176 — Dyna-Glo portable convection kerosene heater
 
 - HiBid lot ID: 323034742
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Appliances - Heating / Air Conditioning | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034742
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204399&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqTROGai9c9Ib86XwSAj0Ba)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204380&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMq8GQ6FZx5rlUyMqj8B%2bH8c)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204390&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMp94oBs3SclJQN%2fVDIXcBnf)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204396&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bsdwx6VIYMqTit3buPZcVuYqAVNBq4gI)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204419&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFZg4KWWdqi%2fz0Y%2fN76dfhv)
 
 ---
 
-## Lot 1177 — - no description -
+## Lot 1177 — Wooden tables (2(
 
 - HiBid lot ID: 323034743
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 11
+- Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/323034743
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204410&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFxzUiHMKVKC35F44bmIS1S)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204425&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylEEOQmbqbBzrTkroFzTkxXz)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204408&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylGMk8lKZtCyUvi%2bcJ13fhI0)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204414&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFN1bVJZ%2fZ%2fhcZnWe5W%2fgof)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204422&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylHunD2%2fKuQK24AFcO0VOu%2bC)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204437&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylEyw0Q5EYAOkwLlbl3HW9gg)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204426&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylG2s6%2fHWO5OeQnyYvLEwCYT)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204464&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylH9yaffkqNFicsWJ6UTEmUh)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204461&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylGK00fLKz5%2fprYqWt8fjADH)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204440&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylEaE37q5oDbaWE8KKRJ9sjs)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433204457&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFGSGJN6pZDgMUuJvyH2lQE)
+
 ---
 
-## Lot 1178 — - no description -
+## Lot 1178 — Bosch Dishwasher * unsure working condition
 
 - HiBid lot ID: 323034744
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 9
+- Category: Home Goods & Decor - Home Goods - Appliances - Dishwashers | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034744
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204442&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFWFtuI4i%2fJ16%2fynFA3WIZa)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204465&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFNtp7aK9V5LWDZBGOYfDKI)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204470&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFjWjSUhKJWLhzQRNOHLFmj)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204471&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylEwyG21AUfOb%2bLA9wb9nqge)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204455&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylGn3oCcU%2fAcIMYmdAF6Bu8w)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204494&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylHENnkYIph3soxQUKx%2bobEv)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204477&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFDplB%2fquRat%2bT3pBYf3tjB)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204472&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylEJF%2fWpsLlWSt3SARQ08oWc)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204490&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylHCiDlEgaDQbSkQICzdXwo%2f)
+
 ---
 
-## Lot 1179 — - no description -
+## Lot 1179 — Metal shelving, RCA 5 disc stereo system
 
 - HiBid lot ID: 323034745
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 4
+- Photo count: 10
+- Category: Antiques & Collectibles - Collectibles - Radios | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034745
 
+**Description:** * Emerson Stereo system
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204504&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRa7wIc9tSFKimf1So0vKIg)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204497&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylFCbrLz2bltalqKZinoi5lV)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204489&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylHc%2bpTA1GJ%2bd47noH8z8X6H)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204509&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRC2JT%2fTbwhijOKr2gs7g6i)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204491&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OECcC6rSylGT9xCMCLCapHrUddDCGAH2)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204500&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQPkWrI8DPt3SZjsY4LyCUl)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204521&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRMLAMpm03p6PnXiKNcdDtu)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204530&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRBsu4f1XYBwXjTHMp1uYeH)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204522&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRcY4z4bIT9PK6B47%2fUkoJZ)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204539&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQTvEwrw5uzgg2pUdPUvVBtT)
+
 ---
 
-## Lot 1180 — - no description -
+## Lot 1180 — Char-Griller Flat Iron 4 Burner
 
 - HiBid lot ID: 323034746
-- Current bid: 0.0 USD
+- Current bid: 31.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 9
+- Photo count: 12
+- Category: Home Goods & Decor - Home Goods - Grills | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034746
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204538&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQoCnrtcsRqHadKksQtBSW9)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204526&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQMyevLz8alW3eOewEww0l1)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204535&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQNFUiHuoxHtLofr2yv32gx)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204548&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRR3PerApc0uwjS8fajFXnY)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204537&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQS6Amj9AwHAlmJL9dhWY3kq)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204546&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQTG7wX%2bzcO7vlcSGdJtJY9T)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204573&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQ%2fakPZCn1b7YG8QFXGk5Sq)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204554&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQSvW22HHyJ1zOCIgDD4yckE)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204567&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRpExlPD0vsTExj48lVq0SE)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204552&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQB2oAM6%2bA3D0y7J56O2tJ3)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433204575&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQSZWTmyT7wgxGk10SXZiF%2bv)
+- [Photo 12](https://cdn.hibid.com/img.axd?id=8433204566&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQROWO%2bCWhYErUvYMtijYHlI)
 
 ---
 
-## Lot 1181 — - no description -
+## Lot 1181 — Metal Table
 
 - HiBid lot ID: 323034747
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/323034747
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204571&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQSLAowZf9YUVoz%2fAw%2bYXVrU)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204582&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRZPz29b43EbNTNQsMA%2bDvu)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204570&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQtofbqBmp5U%2fWCjovz2eRk)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204583&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQTlX8M%2fZ8XtozVumcbWlmnl)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204604&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqJmbgtzVPK4MRck3DdNMlSw)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204586&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQTfj56YqNtneHFzH7ZABSrD)
+
 ---
 
-## Lot 1182 — - no description -
+## Lot 1182 — Metal rolling carts (2)
 
 - HiBid lot ID: 323034748
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 13
+- Category: Business & Industrial - Business / Retail - Carts / Baskets | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323034748
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204601&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqKRuQ5w3jcTPU03CAAMrmOu)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204615&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqIhGhYELeVukyEwV5VEV2bj)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204598&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQRwpOMFwc2ZoB2zR1ygH5Yf)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204610&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqIvdcEffUg4WJotnE5PEW1w)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204596&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQWnGCYTYrSUgtBbTWUGS9d)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204613&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqIGhKxfmizVHLOAyx6t2zdX)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204597&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x1eH5iS0zQQbOVycI58Ewr1aO8G2PHo0)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204611&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqLMJXr7JOg4Hh59l%2fFtsxXi)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204628&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqI%2b1L1Xign0vyYt3%2fBHkN6Z)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204652&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqKBWx5VOzfoSzaYzkKeYcAo)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433204635&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqLER%2bKGJE%2bW5fE%2fqeaoqMA9)
+- [Photo 12](https://cdn.hibid.com/img.axd?id=8433204651&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqJHbQ6yMROTAcOadQgOIc1k)
+- [Photo 13](https://cdn.hibid.com/img.axd?id=8433204631&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqKD%2bOcHSF%2fAlAOGPdZN%2fert)
+
 ---
 
-## Lot 1183 — - no description -
+## Lot 1183 — 6 ft folding Table
 
 - HiBid lot ID: 323034749
-- Current bid: 0.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 7
+- Photo count: 5
+- Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/323034749
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204658&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqJ%2bn%2bkXDjn1dn6k%2f2LS6BDW)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204646&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqIiogDqnkCmQMttWKrFE%2fzv)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204665&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqKf3l3iXo4ezUAMK9scrP33)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204644&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqJpOzoB4OdXufHeLc%2bL%2bhpE)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204667&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqLKw8qWyOBnHEwBd4rwf1cY)
 
 ---
 
-## Lot 1184 — - no description -
+## Lot 1184 — Kitchen table with 2 leaves
 
 - HiBid lot ID: 323034750
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/323034750
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204666&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqK5You%2fhzGpWmwqVKkp6cPX)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204675&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqKOV%2blQzHczQ5%2bpdhTJ%2ba70)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204683&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqIPoz8qmneOUXlRJNkUf4ix)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204681&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqI8FE7ha%2flnXGJXYGQs4Ejy)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204684&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqI3Xc%2fKiIq2baAz%2bPzXkMHL)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204685&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqIXsZoETSayGGfwh0lBccMB)
 
 ---
 
-## Lot 1185 — - no description -
+## Lot 1185 — 8 ft tables (2)
 
 - HiBid lot ID: 323034751
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Furniture - Tables | Furniture
 - Lot page: https://hibid.com/lot/323034751
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204690&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqLIukte7zDQB%2fa8uEeIhZX6)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204695&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqLvdfsDiLUy4gaQV3ACqa1m)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204679&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WEQi%2f4OLeqJNLW5SDrYOQxMkKMmZwPei)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204707&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yYUkRLLyBGzQ5dpsBrGRfme)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204722&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yZaCaJq6b%2b3miv8pydk0aO%2b)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204708&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yZkL0emSbrbUsdEMrB2w2OD)
 
 ---
 
-## Lot 1186 — - no description -
+## Lot 1186 — -Metal shelving (2) sets
 
 - HiBid lot ID: 323034752
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 10
+- Category: Business & Industrial - Business / Retail - Racks / Shelving | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323034752
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204714&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yYuoa4ZLKQ4FSIvpWdvUkv8)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204723&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yba1fdU6qLBtfGgPs7YiKT5)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204712&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yY0el5s9trJnOPeLpxHBlKL)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204731&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yZl0CyvTNcD68Q93PW%2f9r5g)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204736&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8ybJvh8OMj9i4dWogLkNnh3p)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204725&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yYF3V3J0YDSx6ltwapUuNJ3)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433204737&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yYG8pMU3zsBvo72oVpkOBZ5)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433204756&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yYAzPPYxx6bjpwTyLs0NKiR)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433204740&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yYE9XKZz%2fytzf3VZZveI7PR)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433204753&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=boWE4UQK8yY58U3UamVMbhvSSDq8dA1v)
 
 ---
 
-## Lot 1187 — - no description -
+## Lot 1187 — Metal Shelves, (2) sets
 
 - HiBid lot ID: 323034753
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 11
+- Category: Construction & Farm - Shop / Warehouse - Racks / Shelves | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034753
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249460&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKttOK7MuEv3ROGqYraM2fNaN)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249459&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtstm1xtb21lYr9JZyQJ4bKZ)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249474&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtucsFy2odyM4Ds%2fsWP%2fRAlD)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249470&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtvLFiSEsoPHV%2fzZMs63aBT0)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249468&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtsG8tG2RqxfUMHCGd6BznUQ)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249458&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKttzbUPpa7wXTIsdHEISRcQx)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249471&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKttRS3gFk6BGl4KPllWtV7cN)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433249469&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKts5M8OjC6S3s1i3JGFs%2bS2M)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433249473&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtvkChcndB7yvo5M2pMnJKMS)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433249480&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtuMJaOq7KzaWWTGbhtzze6M)
+- [Photo 11](https://cdn.hibid.com/img.axd?id=8433249498&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtulYFT94Hs%2fcQTBQdJqNOUA)
+
 ---
 
-## Lot 1188 — - no description -
+## Lot 1188 — Enamel Pots w/Canning Jars
 
 - HiBid lot ID: 323034754
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 6
+- Photo count: 9
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034754
 
+**Description:** Pots do NOT have lids
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249496&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKttGKKi0DZRZTmQ3GV3p9v82)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249481&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtuXqQLmUPpO2QfVZewfOOr0)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249497&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtsAOEy40Gihe1d%2bRtDSeC0z)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249500&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJogsM0%2bgDDu0i%2bHlBSHE75%2f)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249499&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=d07VcaEcKtvtl%2bZCdCxqwFnbRSA5CeYz)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249501&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJpJctVXDE4QR8EDl91DtAZ4)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249509&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJqLk76qhyZCGjpoeTfIuDCx)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433249508&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrQ14D1WdnAxPerUIOGy4Hq)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433249536&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrMWNRPOghSsm7Zk5gcM1Ow)
+
 ---
 
-## Lot 1189 — - no description -
+## Lot 1189 — Tote w/ Canning Jars, Rings for Jars
 
 - HiBid lot ID: 323034755
-- Current bid: 0.0 USD
+- Current bid: 25.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 10
+- Photo count: 4
+- Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034755
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249523&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrJXguvKxAYs68IpwLJZ6HV)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249525&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJoVBQfa2BISAcbvY%2f4KHyLm)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249532&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrnFUfw7iJO%2fhhoYKcuXWRW)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249535&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJpxsSy9gdRDPZfCQIX3CJuP)
 
 ---
 
-## Lot 1190 — - no description -
+## Lot 1190 — Folding Table, Metal Stool, Folding Chairs
 
 - HiBid lot ID: 323034756
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/323034756
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249524&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJqs5DQoiogFjrD9cJMlMD6q)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249534&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJoYY4FROSXq47OZBYhfahC6)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249531&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJqX4z2bhrhSCsJI5WkC3cKl)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249545&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJr5Zg6C5%2fJeqcRPAqCscO2s)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249548&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJo8ppTcZ%2bphll1XYL1yoJGy)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249561&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJpnAmcA02wxI%2bd27gXY3a4K)
 
 ---
 
 ## Lot 1191 — De’Longhi Oil Filled Radiator Space Heater
 
 - HiBid lot ID: 323034757
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 1
+- Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Appliances - Heating / Air Conditioning | Home Goods & Decor - Home Goods - Appliances | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034757
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249546&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJqqV9zCZWQ1%2f1y4Z5aejuDm)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249563&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJp%2fWA7QVEln8n0wPHUcQBgK)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249547&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJp1yQyANOWC7WBkh8WvF5xE)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249572&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrzYWhYuyU61WUc4FLCOH5J)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249559&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJry9gG1WnyNjQh%2ff%2bqnXna%2f)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249573&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJp7xODegxryqg9yVM7jMx25)
 
 ---
 
 ## Lot 1192 — Cast Iron Fireplace Tool Set w/Stand
 
 - HiBid lot ID: 323034758
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 1
+- Photo count: 4
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034758
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249564&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJqQFGL%2bXS4wIZm8EzRmmPt1)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249571&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrMX5CEQV0kDAe7rYc6H3qL)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249593&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrHyrJY2oosuRMjuM%2fPSzZ6)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249574&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJoy0E5%2b9qRmX6R8Qu7wo0vr)
 
 ---
 
 ## Lot 1193 — Stainless Steel Milking Buckets (2)
 
 - HiBid lot ID: 323034759
-- Current bid: 0.0 USD
+- Current bid: 20.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 17
+- Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323034759
 
 **Description:** Top Mounted Dairy Strainer Funnel
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249597&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrIHzJpiUxlMqftDuxWx6%2fd)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249595&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJr0aY7syHdhIVeurzn1Dd1m)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249598&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrzn5E3ohsHHXAyGw0TTYpR)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249592&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrNH1eMAM%2fbISv%2bKH%2fZ1jkE)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249591&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJokPddef2A7JL3J0UVNaepf)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249599&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=fpDc%2b%2b%2b1RJrMXUYFpGMZ17XI72F%2b99b2)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249610&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTmWBCAEwPcMo2chroBdy%2bI)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433249612&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAyST3DB7iYB7EY%2f5GMmXH4yKy)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433249608&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQMezgsWa5n6LPfhVudXGgy)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433249617&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQiXArouIZq487u82EmH3d2)
 
 ---
 
@@ -28504,60 +28906,96 @@
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
+- Photo count: 7
 - Category: Construction & Farm - Shop / Warehouse - Scales / Hoists | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034760
 
 **Description:** Fairbanks Morse Tag
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249611&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQHPTndyewwNKOkzvnj4n8A)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249609&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTi8Ydtuff%2bgVc23D7vuSpq)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249618&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQ4TFhX9PIUGXPevkFhm74h)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249633&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQikT5cZBNSBdGmJBnubTm0)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249629&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySRMxosPnMGbkoeWgHy8EP0D)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249631&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySRsOBt5z9CAojFSMLtQZWyO)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249648&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQJaL%2fQCwpcOBUNnC6Wnq%2b0)
 
 ---
 
 ## Lot 1195 — Two Tone Glazed Stoneware Butter Churn Crock
 
 - HiBid lot ID: 323034761
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 10
+- Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034761
 
 **Description:** Complete with A Lid and Dasher Handle
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249630&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTcWBboq2VBoG74aLI2zr%2b2)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249634&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTLSmmAqWrInWVeqYlCSkmE)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249649&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTUSL%2frh1jyRVMoebwImcJe)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249635&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySSG1lHuaqBcL9jzP0P1UpBo)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249660&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQBDLJM%2bhip1GCL5C%2bgeCKd)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249663&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySR%2bWWaXpk0rNE%2fL9p6sjW83)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249647&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySStI%2fwHIqKG9RJhOYb9GDN4)
 
 ---
 
 ## Lot 1196 — 5 Gallon Two Tone Stoneware Crock W/Cork
 
 - HiBid lot ID: 323034762
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 4
+- Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034762
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249659&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySToBVMuUnFyzZFCR%2fILWyIy)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249662&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySR1ZpSIc0suBfBT7HJkT14D)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249677&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQ5vNAMy6epGFJH8yNp%2fqBy)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249675&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTlaAXgNDVaaA4GyW1%2fBICv)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249661&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTgdRighEeuH1TN4TbkD%2fXf)
 
 ---
 
 ## Lot 1197 — Cream Colored Stoneware Jug Rounded Shoulder
 
 - HiBid lot ID: 323034763
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 4
+- Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034763
 
 **Description:** Single Side Handle
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249674&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQiyKY%2bubaG5db6LJDyxGcH)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249689&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySR5nZqvYtCH%2b6V1Dg9VowPS)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249676&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySQ5%2bAAVhplSiz9kxQu0FU5a)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249683&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySTq4Y97jPnVs0UMhpwisgtl)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249688&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KTq7fvCAySRqUEx%2fLpwgFSQ7jZm2YIcP)
 
 ---
 
 ## Lot 1198 — Stoneware Jugs(2)
 
 - HiBid lot ID: 323034764
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034764
@@ -28581,9 +29019,9 @@
 ## Lot 1199 — Stoneware Jugs(2)
 
 - HiBid lot ID: 323034765
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034765
@@ -28607,9 +29045,9 @@
 ## Lot 1200 — Two Tone Stoneware Jugs (2)
 
 - HiBid lot ID: 323034766
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 12
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034766
@@ -28634,9 +29072,9 @@
 ## Lot 1201 — Two Tone Stoneware Jugs (2)
 
 - HiBid lot ID: 323034767
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 11
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034767
@@ -28660,9 +29098,9 @@
 ## Lot 1202 — Two Tone Stoneware Jugs (2)
 
 - HiBid lot ID: 323034768
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 13
 - Category: Antiques & Collectibles - Collectibles - Decorative - Vases / Jars | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034768
@@ -28688,9 +29126,9 @@
 ## Lot 1203 — Two Tone Brown/Cream Glazed Stoneware Crock
 
 - HiBid lot ID: 323034769
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034769
@@ -28710,42 +29148,69 @@
 ## Lot 1204 — Two Tone Stoneware Crock By Star Stoneware
 
 - HiBid lot ID: 323034770
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 5
+- Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034770
 
 **Description:** Company of Crooksville, Ohio With The Blue Star Logo
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249701&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qaZIh6sqFp%2f554l%2fnKwdz%2fp)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249700&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qbvcNQnlD%2fgC0woiarTCOHZ)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249708&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qaWz%2fK5jeoD8NBqPII7IpYm)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249705&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qbnO0%2bIJTfT2r2NBi0WcJ6y)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249702&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZ21PXKhNLeALUH2hSrnAfV)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249704&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZWwtjvv5yWcSet6ChUeQ7P)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249732&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qau4%2f59c4nliR0x9Z0RnFFy)
 
 ---
 
 ## Lot 1205 — Bamboo or Cane Fishing Poles & GreenTackle Box
 
 - HiBid lot ID: 323034771
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 1
+- Photo count: 7
 - Category: Sporting Goods - Fishing | Sporting Goods
 - Lot page: https://hibid.com/lot/323034771
 
 **Description:** Fishing Gear, Spool Of Line, Small Package Of Lures, Fishing Reels
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249723&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qYikHjDdTe%2bJEmBLf2iW75x)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249736&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qaYE7W4nZfWi49rlcQZiPOi)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249733&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZqj2Gde86P6YN9uB84h0mf)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249738&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qb1bKY2K0LHL27ygsUAyq0X)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qaJ4a5oKWPW9FVaXXLEuDmf)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249734&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qYni%2fzj8Q7qS2K8sM02q7dU)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249739&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qYbTv6BdE0yuOZiATtEcQm5)
 
 ---
 
 ## Lot 1206 — 48 In Fiber Optic Color Changing Christmas Tree
 
 - HiBid lot ID: 323034772
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
+- Bid count: 1
+- Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Decorative - Ornaments | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323034772
 
 **Description:** In the box
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249742&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qbumi%2b6DR7NqvMRSEyqOyEK)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249741&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZPFut5MNL%2f4aXQmuakmvaS)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249752&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZVQJq4JB3VRD%2baLvD1R3P0)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249753&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qaDxou0k7TO9%2bFN59Rbv%2b%2bm)
 
 ---
 
@@ -28770,15 +29235,17 @@
 
 ---
 
-## Lot 1208 — - no description -
+## Lot 1208 — Car Washing & Waxing Supplies
 
 - HiBid lot ID: 323034774
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034774
+
+**Description:** Armor All Vinyl & Leather Cleaner Interior Cleaner
 
 **Photos:**
 
@@ -28791,15 +29258,17 @@
 
 ---
 
-## Lot 1209 — - no description -
+## Lot 1209 — Automotive Care Products & Gap Filler
 
 - HiBid lot ID: 323034775
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 4
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323034775
+
+**Description:** Glass Wipes Seafoam Multi Purpose Lubricant Fuel Injector & Carb Cleaner Carb Choke Cleaner Sta-Bil Fuel Stabilizer Preston’s Belt Dressing Oil Conditioner Gas Treatment
 
 **Photos:**
 
@@ -28810,15 +29279,17 @@
 
 ---
 
-## Lot 1210 — .
+## Lot 1210 — .Garden Products - Moracle Gro, Tree & Shrub Feed
 
 - HiBid lot ID: 323218874
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 4
-- Category: Home Goods & Decor - Home Goods - Movies | Home Goods & Decor - Home Goods | Home Goods & Decor
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218874
+
+**Description:** Ortho Products, Seven, Dacopil,Ros N Bloom, Plant
 
 **Photos:**
 
@@ -28829,276 +29300,455 @@
 
 ---
 
-## Lot 1211 — - no description -
+## Lot 1211 — Gardening Items, Garden Bags, Garden soil
 
 - HiBid lot ID: 323218876
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 7
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218876
 
+**Description:** * small garden hand tools
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249751&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZdKbFR24egSonoRf4usB0T)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249755&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qbCuJFiCTpnp48FYHkhpX2D)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249759&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qbA63nrCCfS3g19b8Yusuq%2b)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249773&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZPxu0zgY%2fTm5BTfR2Qc9hE)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249783&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qa1Jy%2f57e%2bcs6Gpd6aWdzew)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249788&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qaMQDsTcWv7LAFTGJS4rccu)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249781&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZ4PJZ3btM4132wRMwzy0ZB)
+
 ---
 
-## Lot 1212 — - no description -
+## Lot 1212 — Backyard Bug Control, Bug Spray, Yard and garden
 
 - HiBid lot ID: 323218877
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 4
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218877
 
+**Description:** sprays
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249782&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qZPlJpm5y7UitJw4DMxUITY)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249785&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qYFeC0aQjbMDfLk%2boYqTtu2)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249786&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qY8VMXdl1v64lvypMtTueLz)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249772&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=197DyTtT3qbd%2fXU%2bB94yA43iPYj1oapY)
+
 ---
 
-## Lot 1213 — - no description -
+## Lot 1213 — Oster Animal Clippers (2)
 
 - HiBid lot ID: 323218878
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 2
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Pet Food & Supplies | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218878
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204812&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2fT05NFNuWLFgsoJmAzSJGy)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204805&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn29J4c9CMNjKfGftL3d6PiTM)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204815&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn29sBtS%2bwZPJWUdvrSElmjF1)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204801&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn28pH6j6328iaOLg8q4%2fFd5m)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204824&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bkxKbplz0033biRCbc4UYk)
 
 ---
 
-## Lot 1214 — - no description -
+## Lot 1214 — Yard Solar Lights (6)
 
 - HiBid lot ID: 323218879
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Home Goods & Decor - Home Goods - Lighting - Outdoor Lighting | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218879
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204819&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bnGI7C7gIT%2fkHI9zWZxamU)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204816&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2fmbq0Fb2euYHN91%2bJuQ7nB)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204822&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bOkl6daSxpelw2BYmypQYO)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204845&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2byiw1Cbd%2bJdondgRwfs24A)
+
 ---
 
-## Lot 1215 — - no description -
+## Lot 1215 — Cascade, Deck and Fence Cleaner, Windex
 
 - HiBid lot ID: 323218880
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 5
+- Category: Business & Industrial - Business / Retail - Janitorial - Cleaners / Cleaning Supplies | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323218880
+
+**Description:** * Ivory soap and Drano
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204853&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2b%2fCQyzizeLBvp3HJue%2f%2b6o)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204836&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn29bzuWcFge4hm%2bRXM77POAH)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204855&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn28j4oXZ%2bovxspUGSbPNQXV2)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204835&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bBsLTlEo%2bhvEHKpAfpgjfL)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204852&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bxGnN92MvFPUzRg4aZhdhz)
 
 ---
 
-## Lot 1216 — - no description -
+## Lot 1216 — Cleaners, Iron out, Comet, Now Cleaner
 
 - HiBid lot ID: 323218881
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Business & Industrial - Business / Retail - Janitorial - Cleaners / Cleaning Supplies | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323218881
 
+**Description:** * Bissel cleaners and much more
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204849&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2b5pxoR%2fjBKuJfn%2fTFK9Y9K)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204872&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn29vIhSmItQ8dfnMuX91OS2K)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204851&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn29WxVCVYkzVDlT3Tgk%2f%2fFL8)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204863&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2fMyqxCDPAgZu7tE6tHO30u)
+
 ---
 
-## Lot 1217 — - no description -
+## Lot 1217 — Red Plate shelf with hooks
 
 - HiBid lot ID: 323218882
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218882
+
+**Description:** * wooden wall decorations
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204874&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2fQ2Qm5M1GNAYmS6RSi8lzm)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204885&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bWfdPUwBF2eg6A8jlBT1df)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204870&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn28DVMf%2bbrUy3aW3uhFUPxxq)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204880&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn29sGwjEjeBMVvNrM4xCRD1r)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204864&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bvH79ADdVhWv3F47ad8l4F)
 
 ---
 
-## Lot 1218 — - no description -
+## Lot 1218 — Christmas Decorations, Snowman Thermometer
 
 - HiBid lot ID: 323218883
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Antiques & Collectibles - Collectibles - Decorative - Ornaments | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218883
 
+**Description:** * Cardboard cutout Nativity set
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204897&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2fY4MuBJbJlTrJY%2brEZJ5JR)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204888&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn2%2bUrxG3Qz%2bYtsRYpxU4TyKJ)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204895&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn28IjZuVFqPwfmVzCQuCJtiY)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204912&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExFu8TMYypoRLZiZjyhSrMZ)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204901&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEwIfNJX6HXPtpHNI9jPC9R6)
+
 ---
 
-## Lot 1219 — - no description -
+## Lot 1219 — Stinger Outdoor Insect Control
 
 - HiBid lot ID: 323218884
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 4
+- Photo count: 3
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218884
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204893&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DQsYreKQn28FqwQ0XRZrOfAaTNG%2fced6)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204920&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEyC5c%2bAb3DPcoH4uVfPuSwg)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204915&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEwR%2fZSVlxXRq6hjbFyLk%2bJ%2b)
+
 ---
 
-## Lot 1220 — - no description -
+## Lot 1220 — Pipe Insulation, Easy Cover tape
 
 - HiBid lot ID: 323218885
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 2
+- Photo count: 3
+- Category: Construction & Farm - Shop / Warehouse - Pipe Bending / Threading | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218885
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204925&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEwNgavSocVk3ci3UyWcwL3o)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204924&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEwVyw4S0iH2uywYwWBDP5ty)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204921&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExWTLPdfULMx2DFXldo0dfN)
 
 ---
 
-## Lot 1221 — - no description -
+## Lot 1221 — Steel Wool bags
 
 - HiBid lot ID: 323218886
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218886
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204918&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEyTKcwskxV7lj%2fVdVWa4Qjj)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204961&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEw%2ffPFIk29%2fZ6mnepnhoHfg)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204940&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEwGn3YTl%2bGj3W6VRYk79W20)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204966&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExYpGMXfypq%2bUggB3VmGQ7t)
 
 ---
 
-## Lot 1222 — - no description -
+## Lot 1222 — Wallpaper primer, Kiltz, Paint,
 
 - HiBid lot ID: 323218887
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Construction & Farm - Shop / Warehouse - Painting | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218887
+
+**Description:** * Thompson Water Seal
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204964&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEyaT3oyXmgkyAzdRNHA0EIU)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204944&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEzs%2fe91sCv9SnMXPKGHPVxN)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204959&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExbb9C%2bfPjIn3UX8RbiW%2fsG)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433204951&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExex3s5zw6Mio2D%2bKuiVLfV)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433204960&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEx%2bQ5K7CHDYaBe%2fajvw%2bnu9)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204981&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEzYCzikrKmLTGmIHfrX97dw)
 
 ---
 
-## Lot 1223 — - no description -
+## Lot 1223 — Lightbulbs, Toliet Bowl Rings, Locks and more
 
 - HiBid lot ID: 323218888
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Home Goods & Decor - Home Goods - Lighting - Light Bulbs | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218888
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433204983&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEwJLErFRTYKp2xzYK2nMMw2)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433204995&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbEyXOmyf9VrOT94fnm3OCKi6)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433204980&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExJmoVNwC2JRoG%2bH2kn7qCE)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205003&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUhbDzJeqvTLROIHpe7%2bmrZS)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205009&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUiPdYbOGR9OElecCvWsZFgq)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433204989&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=etV7Q2AbbExemm1eNrKPVkIqiv1lyCSg)
 
 ---
 
-## Lot 1224 — - no description -
+## Lot 1224 — Good Gone, Paint thinner, Floor cleaner
 
 - HiBid lot ID: 323218889
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Construction & Farm - Shop / Warehouse - Painting | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218889
+
+**Description:** * Paint remover and more
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205001&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUgKts0tV%2bal7DQQaynp7duH)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205012&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUi1ogzZt3av1S4EqwPS8K%2fA)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205044&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjMZVJ6oS0QkyFHwpku7%2ffZ)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205014&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUg7XOOwVghkVQPMu1%2fXuryA)
 
 ---
 
-## Lot 1225 — - no description -
+## Lot 1225 — Large Band Saw blades
 
 - HiBid lot ID: 323218890
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Construction & Farm - Shop / Warehouse - Saws / Drills | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218890
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205032&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjppE6I5yMOZ4FjNN4ILOVM)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205047&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjFWpJDM0%2bJmIlh3OFDEweO)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205029&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjyfVm0nFJPL1vj5fYw6j3b)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205038&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjRU22mCC3VTVAbTfQNHr5p)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205031&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUgvoglBQsMUUZnDMI1wcyht)
 
 ---
 
-## Lot 1226 — - no description -
+## Lot 1226 — Cast iron pressure regulator
 
 - HiBid lot ID: 323218891
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218891
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205056&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUh5qCYqAOjPT7cODfizgHNt)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205065&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjwRT4%2bo4ms438eFXid2JQE)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205060&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUgmvqopmkEt7CXYTM6IcYb3)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205070&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjhZ7kHZKXwFZnoNkOyozJ9)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205054&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUgytxfUPdZ%2fnEprl45Droel)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205076&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUiD9z0upuXx5i2HmImnbOCR)
+
 ---
 
-## Lot 1227 — - no description -
+## Lot 1227 — Atlas Flag Corporation of America Flag
 
 - HiBid lot ID: 323218892
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 4
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218892
 
+**Description:** * in wonderful condition
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205071&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUhEFIPQH3hG9%2fUUJsUy%2bRXW)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205082&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUi6DAMtVsjLgbFXf%2bhZEDtL)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205064&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUhSa3%2fI8BevqBqDjvOfaaxF)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205089&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUg7F0pn0%2bhWl75uX3DkdJqr)
+
 ---
 
-## Lot 1228 — - no description -
+## Lot 1228 — Older Grooming Tools, Curry combs
 
 - HiBid lot ID: 323218893
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 6
+- Category: Construction & Farm - Livestock Equipment - Handling Equipment | Construction & Farm - Livestock Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/323218893
 
+**Description:** * Horsehair brush
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205083&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUhgovvVBSSSVWyx5eJPMKVj)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205100&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOStbWAUsWQW%2bfD1bH5DcvAYJ)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205085&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUhfNDngAt9Wlo6PMeUXufqb)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205112&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSufFVP9hPV56Jk3pap3XRts)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205111&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsHNU7pVHvMRt9%2f2pNwNtVX)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205098&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1VMzxKbzyUjRf1PkDahY19XCAyfC%2bhPV)
+
 ---
 
-## Lot 1229 — - no description -
+## Lot 1229 — Vanflex Skateboard, Tennis Rackets
 
 - HiBid lot ID: 323218894
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 7
+- Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Outdoor Games & Sports Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323218894
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205104&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsU7sKREH%2bp6U%2faDeECpYeU)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205105&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSvoYi3hZFHp%2bvlLjBf2nphg)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205110&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSvZx1Kbc%2bCttBr2a2PFcEBA)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205127&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSu59jF%2foBxu1eg50yGCt42r)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205141&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOStg1SoQ4zTuI0Ezydyza2KJ)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205132&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOStin0W9NTrgH8Js38pKFP2x)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433205149&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSukurS72DEMufgNJmCsEQh9)
 
 ---
 
-## Lot 1230 — - no description -
+## Lot 1230 — Porcelain Hospital Bed Pan
 
 - HiBid lot ID: 323218895
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 7
+- Category: Business & Industrial - Medical Supplies / Lab Equipment | Business & Industrial
 - Lot page: https://hibid.com/lot/323218895
 
----
+**Photos:**
 
-## Lot 1231 — - no description -
-
-- HiBid lot ID: 323218896
-- Current bid: 0.0 USD
-- Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
-- Lot page: https://hibid.com/lot/323218896
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205142&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsQ9H9zSQsUwQ3x9S%2fLfSLX)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205157&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsaxURP0CdGXTprc7wRB1jY)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205150&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsty3u9d6XfzRuRGHNrVRuX)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205161&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOStTkCC8rWjykZ1CN1TJdbMo)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205145&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsTjw1N0%2bu1gJ%2f6N4UYBySi)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205155&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSuKHwoumP0sfXBfcur%2bGGMA)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433205171&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSu4nGp99SdG2riplgJIBJiX)
 
 ---
 
-## Lot 1232 — - no description -
+## Lot 1232 — Large Picnic Basket with cups and plates
 
 - HiBid lot ID: 323218897
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 8
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218897
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205165&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOStL46OFGQloFcPKo2fKekju)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205172&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSsMUoSu6ff6Xi4Jgga2cA35)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205186&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSu9N6SzQY3oxhZEKQ6aF6js)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205180&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSv7bFcBACH%2f4Idc9KMbiUzD)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205192&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOStixQVT6AshSj90QohuzV%2fS)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205177&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSuag5SnE9Vdle3q8f%2bhUgwW)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433205188&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=EWz51aRsOSs1AH5K%2fUf9H2bwNzbnsdCP)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433205211&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXweM%2bDiJhIt%2f4mkghcVEDI)
 
 ---
 
 ## Lot 1233 — Steel Rail Ties
 
 - HiBid lot ID: 323218898
-- Current bid: 0.0 USD
+- Current bid: 8.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218898
@@ -29117,9 +29767,9 @@
 ## Lot 1234 — Heavy Round Steel Stock
 
 - HiBid lot ID: 323218899
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Home Goods & Decor - Home Goods - Other Items - Other
 - Lot page: https://hibid.com/lot/323218899
@@ -29135,471 +29785,813 @@
 
 ---
 
-## Lot 1235 — - no description -
+## Lot 1235 — Teeth replacements for wind rowers, large hooks
 
 - HiBid lot ID: 323218900
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 6
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218900
 
+**Description:** * Exhaust cover for tractor
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205220&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLWqghk0CowgKDAXUI7E5EWw)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205219&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLV2nXm8sH5VIO0GGI7RiRRW)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205204&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLVwB903oCXZFx7HdZJmheGA)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205201&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLUMdX3V64i8TbI%2f6Gc%2bUNYi)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205207&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXLOLbnZsxn4dK0ms6vSCse)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205203&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXZXmjBJE5c9TooanPT6f7b)
+
 ---
 
-## Lot 1236 — - no description -
+## Lot 1236 — Roller Chains
 
 - HiBid lot ID: 323218901
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 3
+- Photo count: 4
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218901
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205234&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLV4%2fy0xApxqnw55qRbEwyF9)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205242&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXZ5gzp6C%2bbKa6KNOvGQbnZ)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205237&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLWpyzeO5Efuu6xC7oSLNQWG)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205253&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLVWkc3CeYgSaFtYIQMP%2fr6w)
+
 ---
 
-## Lot 1237 — - no description -
+## Lot 1237 — Coleman Catalyic Heater and (4) heater tops
 
 - HiBid lot ID: 323218903
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 8
+- Category: Sporting Goods - Camping | Sporting Goods
 - Lot page: https://hibid.com/lot/323218903
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205248&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLUxZ2NVKTJV13Bn5TNzqXRP)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205236&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXfrsU094m85PyMxTdMpzjF)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205249&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLUM1BO2%2fz752lC%2bIUOug%2bRs)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205270&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLUEGxCnCAVWk79%2bUarJRQNt)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205250&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLWXFuI0Uk6cJA1Ru5bFFLqE)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205262&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXmxbQHL4es1pVCqvV9oRRe)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433205284&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLVeTNsD8T0%2fBTVb1VPKTQUO)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433205264&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLWpzw9J9yfJHJZaj0Ncd%2fR9)
+
 ---
 
-## Lot 1238 — - no description -
+## Lot 1238 — Wooden and steel trowels
 
 - HiBid lot ID: 323218904
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 4
+- Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218904
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205291&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLUDPmUEcemiS9%2faX%2fkNy9mE)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205298&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLUTtU57GZ0Tn1dmp97W2Gwy)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205282&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLVfQBnlvGXB%2bWYc4swVBeb7)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205299&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLXULRb1erYuWgLn0b1jN9sW)
 
 ---
 
-## Lot 1239 — - no description -
+## Lot 1239 — Nuts and Bolts, Fastners, Bolts and more
 
 - HiBid lot ID: 323218905
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 10
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218905
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205295&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLVGjOIXRyPaBZQ42to9IRDE)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205290&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=Mk4IBfwXxLVCSDp%2fJw1o%2f4as8rBQH2tX)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205337&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRwfOJUDcAdl8Q0qXephQNJ)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205333&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelSN3Bj9QZvdEnKdmiI1e%2fI%2f)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205315&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelTb77JXCzaeu2MLnHKzZAHm)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205319&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelTBNwusIr38KAWHTQ7Plned)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433205336&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRwxIzaDClc96miXGIbhyCR)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433205320&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelQW3R9TgLrrpCCyeW4gr0ep)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433205321&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRE%2bqiQv61uXNKjMTqgS2s%2b)
+- [Photo 10](https://cdn.hibid.com/img.axd?id=8433205312&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelQgkS33NOJq4TbWnQ6%2f6498)
+
 ---
 
-## Lot 1240 — - no description -
+## Lot 1240 — Chainsaw guide bars, saw chains
 
 - HiBid lot ID: 323218906
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 2
+- Photo count: 6
+- Category: Lawn & Garden - Outdoor Power Equipment - Chainsaws | Lawn & Garden - Outdoor Power Equipment | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218906
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205356&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelQ0GN3NErRBd%2fg3ce09o%2boY)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205346&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRGFeAdTkg9t21iuDRK6tgO)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205342&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelSNRmnOMZrzsTX11GHKHh7Q)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205354&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRsIsSSGLTEcB2cWb9x92Pg)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205361&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRYYCoM8v8iDca4lO5zUxn2)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205344&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelQjibJ8OoMz5X%2fc7ZNiQUG%2f)
+
 ---
 
-## Lot 1241 — - no description -
+## Lot 1241 — Mower Blades 46"
 
 - HiBid lot ID: 323218907
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 3
+- Category: Lawn & Garden - Outdoor Power Equipment - Lawn Mowers - Walk-Behind | Lawn & Garden - Outdoor Power Equipment - Lawn Mowers | Lawn & Garden - Outdoor Power Equipment | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218907
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205360&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRL4h1%2bKRxu%2fMJsGKetyMUn)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205367&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelS4pvzuVrG37akm%2b7vB456j)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205378&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelTWXnmWgSkpc5hmXc84oyOR)
 
 ---
 
-## Lot 1242 — - no description -
+## Lot 1242 — Pipe clamps, Mini kits, Brackets, Casters
 
 - HiBid lot ID: 323218908
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218908
+
+**Description:** * large door hinge and more
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205389&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelR1%2f6zL1yZ7g30dV%2br2dla9)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205373&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelS6vlXAdflcqCmhkublWU0S)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205372&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelQidisyKg%2fMkiGSU1jOYrKq)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205388&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRsXRzXWQSySXlpn07KEfXN)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205391&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KU7VNEgFelRQuo7Q7JzZzyIaSxzYCbTq)
 
 ---
 
-## Lot 1243 — - no description -
+## Lot 1243 — Outboard motor stern bracket and clamp assembly
 
 - HiBid lot ID: 323218909
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218909
+
+**Description:** (2)
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433205401&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wBTM2JCG%2bwIYWb5GrjuLUagjngDYv6SN)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433205404&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wBTM2JCG%2bwJgz8fbAf8BqMQhUy0Iuj8V)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433205417&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wBTM2JCG%2bwK7JSO%2f%2buga0MsY%2bHO4WZTY)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433205418&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wBTM2JCG%2bwKkSRiACYKwVw4ZbgxCt59O)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433205425&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wBTM2JCG%2bwKbgNQM1qtWr%2fjM2HUT0PQE)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433205428&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wBTM2JCG%2bwKIKl%2b7JIdGDsjxFH3RigqI)
 
 ---
 
-## Lot 1244 — - no description -
+## Lot 1244 — Voltage Regulator, Chalk line reel, Antenna wire
 
 - HiBid lot ID: 323218910
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218910
+
+**Description:** * Antenna
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249842&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZwbUNS280KbbxMK0e54l%2f4a)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249843&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZy6pMbQMos9jNjrCiQypoov)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249865&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZzWM8v8EPGXtcRkX5mMLBsf)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249866&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZyVLCkrT45ROVZXmUZzjhaJ)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249858&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZzE6TFcTsdlulJjyEG94WK%2b)
 
 ---
 
-## Lot 1245 — - no description -
+## Lot 1245 — Forged steel load Binder, Utility hook in chains
 
 - HiBid lot ID: 323218911
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Construction & Farm - Shop / Warehouse - Tiedowns / Binders | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218911
+
+**Description:** (2)
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249870&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZyNxQ%2fs%2b%2fU6u3e%2b30IwSd7z)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249867&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZybAWzGEKOGGkC4ScZCLYkf)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249857&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZwmhoCOOqPLDBGhqj6LDufd)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249863&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZyU1BPPlvDxQL7pUiqD5nbc)
 
 ---
 
-## Lot 1246 — - no description -
+## Lot 1246 — Rope and Pulley system
 
 - HiBid lot ID: 323218912
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 7
+- Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218912
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249864&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZy3ylyOPZacTlKKo914c6kk)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249881&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZypGVVh%2fivvMGooS%2bskzxwS)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249888&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZx72sYE%2bafZW9SPciGDqLaB)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249889&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZy6W%2bIeB9oN%2bz6vzLH7I0Yn)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249890&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZyzBr%2byG9PrwyxVTyRwjPES)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433249880&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZwTYloC2n5xKM1zjcJtuvQp)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433249882&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZyST4CXT4jWXrEp1KzJX3UJ)
+
 ---
 
-## Lot 1247 — - no description -
+## Lot 1247 — - Orange and Black large extension cords
 
 - HiBid lot ID: 323218913
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 4
+- Category: Construction & Farm - Shop / Warehouse - Electrical | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218913
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249892&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=8mVun2rNkZyJfqs76UC26aXVLtJBOkp3)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249908&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3Ufnq7PlDcvWyV4CgefA6S2)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249907&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3WaOuEZUje3JyFAE%2b9Aq6MX)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249923&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3UzpwIWkGA1H3JXSu59HxEC)
 
 ---
 
-## Lot 1248 — - no description -
+## Lot 1248 — Rubber Utility hoses
 
 - HiBid lot ID: 323218914
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 3
+- Category: Construction & Farm - Shop / Warehouse - Hoses | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218914
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249906&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3U7E3%2fcM%2bIVpfMYM8RmowDb)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249925&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3XoYbIOtHn8qfiBaNaIccrG)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249927&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3X6pC80xezXdabzXS9i0EKb)
 
 ---
 
-## Lot 1249 — - no description -
+## Lot 1249 — Shop mats
 
 - HiBid lot ID: 323218915
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Carpet / Rugs | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218915
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249919&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3WUXCQWsHnTfBBu9mdX38rA)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249922&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3XCfi%2fyFxxyy2IeA9BkpF0%2b)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249921&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3VFEzPEYa3ZA2LpPtM1yO3O)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249918&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3Xc7JQyu98ZSFXa0IsHoEJa)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249941&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3VsiOQGmIChAb8b5aOKsNk9)
 
 ---
 
-## Lot 1250 — - no description -
+## Lot 1250 — Heavy steel chains
 
 - HiBid lot ID: 323218917
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Construction & Farm - Shop / Warehouse - Tiedowns / Binders | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218917
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249950&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3XXuPfRyznUQqxs4qMYuQP9)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249944&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3XEl4h%2ba5vG3PXY%2fznAoMYB)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249942&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3Vabj4iCaQyVaL7aP8UU0xx)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249943&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3Uj97Db3CS3bRuRzHCVG14e)
 
 ---
 
-## Lot 1251 — - no description -
+## Lot 1251 — Twin pack 15" ceiling lights, 18" Towel Bar set
 
 - HiBid lot ID: 323218918
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Lighting - Fixtures / Sconces | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218918
+
+**Description:** Ceiling lights are not a set. One is correct with box description, one is white
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249953&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3V0%2btb%2bH17xmWOGyGMdv7qa)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249961&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3XUg%2f%2fb9Y6cBbRdsnObnRAR)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249964&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3UIwUGohCGyYh1kxPDZyTke)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249949&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3VL4tUH7yLUlevsLEyvsWxH)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249962&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3U6%2fKz0mo14ijBNaKp0xsPO)
 
 ---
 
-## Lot 1252 — - no description -
+## Lot 1252 — Porch Lights (2)
 
 - HiBid lot ID: 323218919
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Lighting - Outdoor Lighting | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218919
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249978&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3WJM%2bzS4iJqnwB%2bftWAUStj)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433249975&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3XPO%2fHpp%2fPglvh7ws2s%2fhJj)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433249980&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3V3udEbPiSe6hdOb%2brixWI2)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433249988&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3V3Ze8irCi6wM33aivIej0X)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433249976&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3WJpmSYgP6RATLA0d%2b%2feJGv)
 
 ---
 
-## Lot 1253 — - no description -
+## Lot 1253 — College Books, English, Mangement, Economics
 
 - HiBid lot ID: 323218920
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 2
+- Category: Antiques & Collectibles - Collectibles - Books | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218920
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433249977&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=UQBUat44i3Um0KsCeOg40C%2bXQYq7z1eD)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250023&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fe8j1a7e5Xdf3xMwtrG0E9o)
 
 ---
 
-## Lot 1254 — - no description -
+## Lot 1254 — Ceiling and Wall lights
 
 - HiBid lot ID: 323218921
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Home Goods & Decor - Home Goods - Lighting - Fixtures / Sconces | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218921
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250009&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feUJkJGGmkpCbo3DiIQHuGP)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250016&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feifHz6hSujnoO8FZ6GRmjT)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250015&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2ffj1PmNODPzIIplnvCIo6Pn)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250008&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feG5p1P1dlhSaTjSXd44Oel)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250007&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fduesaPsr5dcUuwe%2bfQpopp)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250017&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2ffR5otNVYHcEUhm%2bmGvGWJ6)
 
 ---
 
-## Lot 1255 — - no description -
+## Lot 1255 — Harbor Breeze 42" Cheshire Ceiling Fan and light
 
 - HiBid lot ID: 323218922
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 4
+- Category: Home Goods & Decor - Home Goods - Lighting - Ceiling Fans | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218922
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250034&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fdlPuoshWYL3vjpX486H59W)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250020&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fexM%2fEzWfvtqYNBf06zl6Zb)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250014&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fe85uBM6mO2ke7plPI9z8HG)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250032&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feICjEXsBB6njMp7utOC2pK)
 
 ---
 
-## Lot 1256 — - no description -
+## Lot 1256 — Wall Candle Holders (2), Polished Brass Ceiling
 
 - HiBid lot ID: 323218923
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 7
+- Category: Home Goods & Decor - Home Goods - Lighting - Fixtures / Sconces | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218923
 
+**Description:** Globes(do not match globes on outside of box)(2)
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250043&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2ffSnbkEOGXQ%2fOGpINhGWADb)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250031&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fcAItS9ZW9Fx1olA6p1%2fm2Y)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250033&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feXspGTKRGkiTf5BZjw1GgX)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250057&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fc%2b0jD%2bDjQF1%2fD%2fRd1sYBwN)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250044&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fexoeK36Hzpbh8jodehvAI7)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250059&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fd6xVXZoUcNz3plxWhiUF%2bG)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433250049&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fdrFl6Y6qHaSzoS8g6Scc77)
+
 ---
 
-## Lot 1257 — - no description -
+## Lot 1257 — The Sherpa Poncho Blanket, 84x58
 
 - HiBid lot ID: 323218924
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 3
+- Category: Home Goods & Decor - Home Goods - Bed / Bath Items | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218924
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250058&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fcPasG7OBCXY05puLDtu7J3)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250091&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2ff%2bdlHiR5BDS66KYNg9GRvq)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250090&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feBaWM5eez8TMjYz0g%2b6jTM)
 
 ---
 
-## Lot 1258 — - no description -
+## Lot 1258 — Edgemaster Painter guide, Auto Vacuum Cleaner
 
 - HiBid lot ID: 323218925
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 6
+- Category: Business & Industrial - Business / Retail - Janitorial - Cleaning Equipment | Business & Industrial - Business / Retail - Janitorial | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323218925
+
+**Description:** * Holmes heater
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250078&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fc9FyRHjna0qZOmGmhQO%2fXU)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250076&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2ffUuZ6jFNyMVWLjIwfii65b)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250077&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fcvZ4FiLObWb5dE9eaxGc1q)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250084&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fe%2fLRkyGfDqhSG8lxadiKDD)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250075&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2fegerFsetdhJ5FhubsRUmC9)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250088&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=x0fED0%2f5p%2feWOzZ9wNgr50xFthbeJPzr)
 
 ---
 
-## Lot 1259 — - no description -
+## Lot 1259 — Dryer vents, Tubular Doors locks
 
 - HiBid lot ID: 323218926
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 8
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218926
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250107&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf4L%2bJiDgi5Ow0VpxPeX8n8E)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250108&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf7uzdYoS%2fhLSVEettk0Tlzy)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250111&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf60t3yfivlr9p4d0ncziByP)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250109&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf4XersVlX9BAFiUUaWLtwSu)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250106&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf5MF1m98ACo5g9z4U9s3RJG)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250122&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf62lNC1n6Cu9wf18%2f0n4W2P)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433250110&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf5V04DRzjQtZbarM9HM8krP)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433250116&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf7OQVsZzZvdyijaXREz4YqV)
+
 ---
 
-## Lot 1260 — - no description -
+## Lot 1260 — Brass fitting for hot water heater, Spigot handles
 
 - HiBid lot ID: 323218927
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 5
+- Photo count: 4
+- Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218927
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250133&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf6UVv1jIk8f0yFp3PAbVzt4)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250118&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf41xunQYA0pIzEqwsf%2bvJA1)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250134&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf4wXasyRwRwzCenWtR%2byGiZ)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250159&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf59pxHZnRR%2b89OLFmrWcegQ)
 
 ---
 
-## Lot 1261 — - no description -
+## Lot 1261 — Toliet Repair Kit, PVC piping, drains, sink drain
 
 - HiBid lot ID: 323218928
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Construction & Farm - Building Supplies - Plumbing | Construction & Farm - Building Supplies | Construction & Farm
 - Lot page: https://hibid.com/lot/323218928
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250132&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf4L%2fVm3vCcWpzuISzP7EZSz)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250154&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf68Yp5Y2x0bZwY%2b9tJR8vFa)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250152&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf5oODEPgTIc%2bMM0Yo5x325E)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250157&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf4qhXOfUy9VTbpm0DUl%2bJZ%2f)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250153&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf6%2bHy%2bbHVlAmYwqMYjsxFD6)
 
 ---
 
-## Lot 1262 — - no description -
+## Lot 1262 — Garden edging, Hummingbird feeders
 
 - HiBid lot ID: 323218929
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218929
+
+**Description:** * Shelf bracket
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250155&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf7lPfPUswLRTwRWXfYJtFC%2b)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250158&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=sdqNNd2FQf4eoTbX4JAzqbu95xpj3Cq2)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250292&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHHR%2bQSEWyqCU0J2%2byKIW5%2b9)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250284&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHHgGSOIAaawIvLwiuUXA4Ag)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250282&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHGn%2fOl7Dv4GtisCxm%2fFE9mw)
 
 ---
 
-## Lot 1263 — - no description -
+## Lot 1263 — Plant Feeders, wooden butterflies, basket
 
 - HiBid lot ID: 323218930
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 8
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218930
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250281&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHH5ZMT2IQ%2f38sNgZiBf%2ba0%2f)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250296&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHH2e05u%2fu8cVEmQx0kE0d%2bn)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250283&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHErCfjvVrSo5W4gad5V74v8)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250293&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHGKMKI%2bqQgpGuNl7HVOmN4e)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250307&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQW3%2fUkG7dUSBm9tY0T%2fdri)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250309&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sRhNjDNwsqZ7ItCL9H0pDvA)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433250295&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YpO25tHKTHGf4q8rfDjNRc2pXfFyZ8ar)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433250308&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sT9x1Tg51oZMneFDxZbYKL1)
 
 ---
 
-## Lot 1264 — - no description -
+## Lot 1264 — Solar lights (2( large ones
 
 - HiBid lot ID: 323218931
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Lighting - Outdoor Lighting | Home Goods & Decor - Home Goods - Lighting | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218931
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250327&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sSkbHiD3GN4ICmC0KLpI6yG)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250310&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sTzE1Jljsn%2fTU19xyPc9zaw)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250331&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sSuwp1JscnwHEmyFXpPat17)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250336&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sSmAYPZi7E4rYQt3o0USVzW)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250329&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQQQmzPk9j2L6bHY4DX6rkC)
 
 ---
 
-## Lot 1265 — - no description -
+## Lot 1265 — Frog sprinkler, ceramic frog and planter
 
 - HiBid lot ID: 323218932
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Antiques & Collectibles - Collectibles - Decorative - Planters | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218932
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250340&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sRLUNJXBZcloUYjBGPrwrGG)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250338&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQy4YhkR8IDfSXqtmDaf2Mm)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250339&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQY5vg4ylgCwUmQ%2b3%2fNmK4s)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250337&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sROv4z%2fWtwQHYwhHL9J%2bObh)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250363&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sTccTcLIUDVcx0Buy98m8l5)
+
 ---
 
-## Lot 1266 — - no description -
+## Lot 1266 — Ceramic Yard Dwarfs (2)
 
 - HiBid lot ID: 323218933
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 2
+- Photo count: 4
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218933
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250359&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQnzytQ3dAtTZvSzOkeD1%2bQ)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250357&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQ314OhPTkXJ1mzXN23ICkk)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250358&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sR1sEZlSICfv5V3y4tYysNF)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250368&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sTFCGuHSUjLPr2%2bHy8t4B3Q)
 
 ---
 
-## Lot 1267 — - no description -
+## Lot 1267 — Ceramic Angel, Small Concrete Dog, Large Shell
 
 - HiBid lot ID: 323218934
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/323218934
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250364&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQG%2fetvSwjITjl8ku6eTn7d)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250382&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sRtVOS3OsrbzKjUsKUt%2bvff)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250395&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sQa%2bYWdzL9H7oTqubGvZ4Tf)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250385&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sRcYMx9FhsGVXyilfvwfebO)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250386&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sRScjdGXSk8xfCAX%2fBYiUHH)
+
 ---
 
-## Lot 1268 — - no description -
+## Lot 1268 — Cyclone Seeder, Small Garden tools
 
 - HiBid lot ID: 323218935
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 1
+- Photo count: 4
+- Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218935
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250384&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sTl5IXis846SwJBRM4PTUwI)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250383&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sRn6RC5Xt0YmWiJIIFb2Aku)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250398&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tGggD95S4sSkyVdB26WBd4eiytds1bXv)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250401&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ6SAmBzJiupN4QKh1w7zDG6)
 
 ---
 
-## Lot 1269 — - no description -
+## Lot 1269 — Power Shot Battery Operated Sprayer for weeds
 
 - HiBid lot ID: 323218936
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 3
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218936
 
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250400&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5mNvwb08wh2ub6WAS%2fdv%2fO)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250403&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ4j5fIgJXxptTZK%2fy0KAD8X)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250431&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ7rxeaE2dJAI8jjeWkrI0m9)
+
 ---
 
-## Lot 1270 — - no description -
+## Lot 1270 — Stepping stone kits (3)
 
 - HiBid lot ID: 323218937
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 9
+- Photo count: 4
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218937
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250433&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ69dnc%2fHFVGfFqaVJ6xCHYV)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250424&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ6w2DgfBkSJcbwH8ZMG0tdQ)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250439&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5VePJ3VE4qALZjE6M6fdlH)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250425&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ4GqfBdw3idpTLw7o20vusW)
 
 ---
 
-## Lot 1271 — - no description -
+## Lot 1271 — Garden Decorations, hose and more
 
 - HiBid lot ID: 323218938
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 9
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218938
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250436&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ6amHuyBi5RRGXdU%2bQPWGIE)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250435&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ6vGwei%2fWDzBi4pFVDyx9B3)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250475&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ4A738ivUS4MfDH%2bmi3jSel)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250473&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ535fjuvuOPno13ZJJaDdw%2b)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250455&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ6zroXRe9iiEO6uuFZhYto9)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250454&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ62rkXZId9O%2bfOxYg7pk822)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433250453&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5w0yKMEWTV%2fy2ZomyKESu7)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433250472&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5NZwavtRukt3oJxG8ZT%2f1U)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433250484&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5uIdefzX%2f3Glmj91IOq335)
 
 ---
 
-## Lot 1272 — - no description -
+## Lot 1272 — White hanging metal basket , black stand
 
 - HiBid lot ID: 323218939
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Photo count: 5
+- Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218939
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250483&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ7%2bbVMkt%2b45UwkfSxV6eLsA)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250468&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5IBCoXHRD5UZVd8VBiipdG)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250482&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ5RiuqNNudQ69EbaLo2x%2fWN)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250505&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDs59TJB%2bsiUZmV16RspZ62F)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250485&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qqbZp1tX%2fZ72ZwpCanfPRI6vdkE%2f0UDZ)
 
 ---
 
-## Lot 1273 — - no description -
+## Lot 1273 — Weider Pro 4900 multi-station home gym system.
 
 - HiBid lot ID: 323218940
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
-- Photo count: 0
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Bid count: 3
+- Photo count: 9
+- Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Fitness & Exercise Equipment | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323218940
+
+**Description:** * Ab Lounge Sport
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250511&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDvYcq%2f6Mbxuf%2bSd5tPSukvF)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250502&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDuQlj%2fwV3O26k9VRiMowz3a)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250507&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDtRiFdrVKfbGhyQzRc1RjDS)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250504&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDt2gBdDLcpjKKOoRDpMjwYy)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250506&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDsfcUb1zfo1apiS%2fRuaeNkC)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250503&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDuJV3cxYACWH9A4SEEG2J%2f%2f)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433250500&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDuoL%2bGJlnQ1XFHDZgsPcWvC)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433250540&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDsb3orbJIJFiBZuREkMnZOr)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433250548&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDsBfvoxVoc1F55ufQn5I4CM)
 
 ---
 
@@ -29609,19 +30601,21 @@
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 7
+- Photo count: 9
 - Category: Furniture - Cabinets | Furniture
 - Lot page: https://hibid.com/lot/323218941
 
 **Photos:**
 
-- [Photo 1](https://cdn.hibid.com/img.axd?id=8432744399&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=jlvXV%2ftXjdQMwiECQGiApG3RKpgN0VPo)
-- [Photo 2](https://cdn.hibid.com/img.axd?id=8432744435&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lDDLNJV7P0QkhPbZRZ%2f28x66tfqk3Tot)
-- [Photo 3](https://cdn.hibid.com/img.axd?id=8432744420&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lDDLNJV7P0Tw8DneEBRi9LLEAvwK19Ch)
-- [Photo 4](https://cdn.hibid.com/img.axd?id=8432744432&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lDDLNJV7P0QaJiYQufMAQ7wevip7gFQh)
-- [Photo 5](https://cdn.hibid.com/img.axd?id=8432744436&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lDDLNJV7P0REsLSKMs9E6%2b8f5iFyjySU)
-- [Photo 6](https://cdn.hibid.com/img.axd?id=8432744434&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lDDLNJV7P0RoCWBiKy66OvSvVW6Gxrn0)
-- [Photo 7](https://cdn.hibid.com/img.axd?id=8432744437&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lDDLNJV7P0SEGiOnHl1AAXgfC%2ftNAF4E)
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8433250547&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDuihCMC3t3ow5uAy7LCL%2fQA)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8433250537&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDvXOSVs4fFiyPxJNt9FOj1Q)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8433250539&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDtNwFCa0BijMz7b76qzUlVY)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8433250545&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDtz9nN%2b%2fj%2bcG9AuDA8d8pvI)
+- [Photo 5](https://cdn.hibid.com/img.axd?id=8433250543&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDtvK6dKhSwOOp%2b%2fHLipFUv1)
+- [Photo 6](https://cdn.hibid.com/img.axd?id=8433250555&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDvT2PRCqJMSBpIM%2fk54HuCt)
+- [Photo 7](https://cdn.hibid.com/img.axd?id=8433250557&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDvclmtWeI6W9MvjokQZcEtW)
+- [Photo 8](https://cdn.hibid.com/img.axd?id=8433250554&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDvE0akFDAgvCY55o90ohLOv)
+- [Photo 9](https://cdn.hibid.com/img.axd?id=8433250542&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=nWrQV%2fGSgDvG0eUZ1kMZ%2bJdI3Xg%2fSXSc)
 
 ---
 
@@ -29651,9 +30645,9 @@
 ## Lot 1276 — 2 Metal Dollies
 
 - HiBid lot ID: 323218943
-- Current bid: 0.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 11
 - Photo count: 4
 - Category: Business & Industrial - Business / Retail - Carts / Baskets | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323218943
@@ -29672,9 +30666,9 @@
 ## Lot 1277 — 2 Metal Trailer Ramps
 
 - HiBid lot ID: 323218944
-- Current bid: 0.0 USD
+- Current bid: 9.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 8
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218944
@@ -29710,9 +30704,9 @@
 ## Lot 1279 — Tow Hitch Metal Carrier
 
 - HiBid lot ID: 323218946
-- Current bid: 0.0 USD
+- Current bid: 30.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 5
 - Category: Construction & Farm - Shop / Warehouse - Automotive | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218946
@@ -29730,9 +30724,9 @@
 ## Lot 1280 — Skinny Mini 3 Step Stool, Aluminum Extending
 
 - HiBid lot ID: 323218947
-- Current bid: 0.0 USD
+- Current bid: 24.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 6
 - Category: Construction & Farm - Shop / Warehouse - Ladders / Scaffolding | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218947
@@ -29773,9 +30767,9 @@
 ## Lot 1282 — 2 Hand Held Post Hole Diggers, Spade Shovel
 
 - HiBid lot ID: 323218949
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218949
@@ -29792,9 +30786,9 @@
 ## Lot 1283 — Pick Axes(3)
 
 - HiBid lot ID: 323218950
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218950
@@ -29896,9 +30890,9 @@
 ## Lot 1288 — Scythe, Hand Cultivator
 
 - HiBid lot ID: 323218955
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218955
@@ -29915,9 +30909,9 @@
 ## Lot 1289 — 4 Leaf Rakes, 2 Landscape Rakes
 
 - HiBid lot ID: 323218956
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Lawn & Garden - Tools/Hand held items - Hand Tools | Lawn & Garden - Tools/Hand held items | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218956
@@ -29942,10 +30936,10 @@
 
 **Photos:**
 
-- [Photo 1](https://cdn.hibid.com/img.axd?id=8432744915&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kufXHFj2MVEklX8AQAA1OYY9mU%2fy%2fTkI)
-- [Photo 2](https://cdn.hibid.com/img.axd?id=8432744939&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kufXHFj2MVHvdmHGPLfPgq8uQf0sYHdm)
-- [Photo 3](https://cdn.hibid.com/img.axd?id=8432744938&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kufXHFj2MVFASQnMDutyNDqFGfr%2b6NnY)
-- [Photo 4](https://cdn.hibid.com/img.axd?id=8432744966&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kufXHFj2MVH%2bjPhajRx0D2HuTfEByai2)
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8436727876&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=3UpsvL9WhshdhYL0vnR6c8YyLDekugS%2f)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8436727908&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wSThmJKy81DJr7C9UqaA1QU%2feO8UDmxS)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8436727886&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=3UpsvL9WhshSGV19El3obk2Cgdq9CTf4)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8436727896&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=3UpsvL9Whsgp%2bGjrpjWeeAlSJ7Oy9SuP)
 
 ---
 
@@ -29955,23 +30949,24 @@
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
-- Photo count: 2
+- Photo count: 3
 - Category: Business & Industrial - Medical Supplies / Lab Equipment | Business & Industrial
 - Lot page: https://hibid.com/lot/323218959
 
 **Photos:**
 
-- [Photo 1](https://cdn.hibid.com/img.axd?id=8432744964&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kufXHFj2MVFz0yfvaTjhuX0PCl6a6xSc)
-- [Photo 2](https://cdn.hibid.com/img.axd?id=8432744967&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kufXHFj2MVHY792RlP%2bfhXp8CyqfQxtv)
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8436727906&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wSThmJKy81Ac89xiQeF3qAvvre%2f0Y191)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8436727885&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=3UpsvL9WhsgCbFYAwUEh88bWcvGOxSJk)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8436727902&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wSThmJKy81AfGjVRr1cSI1sZ0c46nB95)
 
 ---
 
 ## Lot 1292 — Iron Horse II Saw Horses(2)
 
 - HiBid lot ID: 323218960
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Workbenches / Tables | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218960
@@ -30010,9 +31005,9 @@
 ## Lot 1294 — Wooden Outdoor Yard Decor
 
 - HiBid lot ID: 323218962
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218962
@@ -30052,9 +31047,9 @@
 ## Lot 1296 — Outdoor Lawn Chairs(9)
 
 - HiBid lot ID: 323218964
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Furniture - Deck / Patio | Furniture
 - Lot page: https://hibid.com/lot/323218964
@@ -30072,9 +31067,9 @@
 ## Lot 1297 — Flexible Flyer Wooden and Metal Sled
 
 - HiBid lot ID: 323218965
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Bicycles, Scooters & More | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323218965
@@ -30092,9 +31087,9 @@
 ## Lot 1298 — Shepherds Hooks, Weather Vane(no top)
 
 - HiBid lot ID: 323218966
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218966
@@ -30112,9 +31107,9 @@
 ## Lot 1299 — Plastic Hanging Flower Baskets with Tote
 
 - HiBid lot ID: 323218967
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218967
@@ -30130,9 +31125,9 @@
 ## Lot 1300 — Plastic Flower Baskets and Pots with Tote
 
 - HiBid lot ID: 323218968
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Decorative - Planters | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218968
@@ -30148,9 +31143,9 @@
 ## Lot 1301 — Various Flower Pots
 
 - HiBid lot ID: 323218969
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 4
 - Category: Antiques & Collectibles - Collectibles - Decorative - Planters | Antiques & Collectibles - Collectibles - Decorative | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218969
@@ -30187,9 +31182,9 @@
 ## Lot 1303 — 2 Propane Tanks
 
 - HiBid lot ID: 323218971
-- Current bid: 0.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 15
 - Photo count: 4
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218971
@@ -30206,9 +31201,9 @@
 ## Lot 1304 — 2 Propane Tanks
 
 - HiBid lot ID: 323218972
-- Current bid: 0.0 USD
+- Current bid: 16.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 15
 - Photo count: 4
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218972
@@ -30244,9 +31239,9 @@
 ## Lot 1306 — 3 Metal Gas Cans, 1 Plastic Gas Can
 
 - HiBid lot ID: 323218974
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Gas / Oil | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218974
@@ -30265,9 +31260,9 @@
 ## Lot 1307 — 2-2.5 Gallon Plastic Gas Cans, 1 Small Gas Can
 
 - HiBid lot ID: 323218975
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Antiques & Collectibles - Collectibles - Gas / Oil | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218975
@@ -30283,9 +31278,9 @@
 ## Lot 1308 — One Bottom Plow
 
 - HiBid lot ID: 323218976
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Construction & Farm - Tillage Equipment - Plows | Construction & Farm - Tillage Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/323218976
@@ -30304,9 +31299,9 @@
 ## Lot 1309 — Vintage Plow
 
 - HiBid lot ID: 323218977
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Antiques & Collectibles - Antiques - Antique Tools | Antiques & Collectibles - Antiques | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323218977
@@ -30324,9 +31319,9 @@
 ## Lot 1310 — Metal Vintage Plow
 
 - HiBid lot ID: 323218978
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 5
 - Category: Construction & Farm - Tillage Equipment - Plows | Construction & Farm - Tillage Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/323218978
@@ -30344,9 +31339,9 @@
 ## Lot 1311 — Old Push Behind Lawn Mower
 
 - HiBid lot ID: 323218979
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Lawn & Garden - Outdoor Power Equipment - Lawn Mowers - Walk-Behind | Lawn & Garden - Outdoor Power Equipment - Lawn Mowers | Lawn & Garden - Outdoor Power Equipment | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218979
@@ -30365,9 +31360,9 @@
 ## Lot 1312 — 2 Metal Wheels
 
 - HiBid lot ID: 323218980
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218980
@@ -30385,9 +31380,9 @@
 ## Lot 1313 — 5 Small Metal Wheels
 
 - HiBid lot ID: 323218981
-- Current bid: 0.0 USD
+- Current bid: 6.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 4
 - Category: Construction & Farm - Shop / Warehouse - Parts / Accessories | Construction & Farm - Shop / Warehouse | Construction & Farm
 - Lot page: https://hibid.com/lot/323218981
@@ -30425,9 +31420,9 @@
 ## Lot 1315 — MTD 22" Yard Machine Push Mower
 
 - HiBid lot ID: 323218983
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Lawn & Garden - Outdoor Power Equipment - Lawn Mowers - Walk-Behind | Lawn & Garden - Outdoor Power Equipment - Lawn Mowers | Lawn & Garden - Outdoor Power Equipment | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218983
@@ -30446,9 +31441,9 @@
 ## Lot 1316 — Huskee Lawn Sweeper
 
 - HiBid lot ID: 323218984
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 5
 - Category: Construction & Farm - Turf Equipment - Blowers, Sweepers & Vacuums | Construction & Farm - Turf Equipment | Construction & Farm
 - Lot page: https://hibid.com/lot/323218984
@@ -30466,9 +31461,9 @@
 ## Lot 1317 — Orange Plastic Wheel Barrow
 
 - HiBid lot ID: 323218985
-- Current bid: 0.0 USD
+- Current bid: 20.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 13
 - Photo count: 7
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218985
@@ -30488,9 +31483,9 @@
 ## Lot 1318 — Grey Plastic Wheel Barrow
 
 - HiBid lot ID: 323218986
-- Current bid: 0.0 USD
+- Current bid: 21.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 13
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218986
@@ -30509,9 +31504,9 @@
 ## Lot 1319 — Garden Pond Basin and plastic Rocks steps
 
 - HiBid lot ID: 323218987
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 7
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218987
@@ -30531,9 +31526,9 @@
 ## Lot 1320 — Orange Plastic Snow Fencing
 
 - HiBid lot ID: 323218988
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 3
 - Category: Construction & Farm - Building Supplies - Fencing | Construction & Farm - Building Supplies | Construction & Farm
 - Lot page: https://hibid.com/lot/323218988
@@ -30571,9 +31566,9 @@
 ## Lot 1322 — Hyper a tough 45 Gal Trash Bin, Plastic Trash Bin
 
 - HiBid lot ID: 323218990
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 8
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218990
@@ -30594,9 +31589,9 @@
 ## Lot 1323 — Toter 64 Gal Trash Bin
 
 - HiBid lot ID: 323218991
-- Current bid: 0.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 7
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218991
@@ -30660,9 +31655,9 @@
 ## Lot 1326 — Quality Farm & Fleet Red Wagon
 
 - HiBid lot ID: 323218994
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Toys - Vintage / Antique Toys | Toys
 - Lot page: https://hibid.com/lot/323218994
@@ -30680,9 +31675,9 @@
 ## Lot 1327 — Wooden Crate, Galvanized Bucket
 
 - HiBid lot ID: 323218995
-- Current bid: 0.0 USD
+- Current bid: 4.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 4
 - Photo count: 15
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323218995
@@ -30710,9 +31705,9 @@
 ## Lot 1328 — White & Blue Cement Bird Bath
 
 - HiBid lot ID: 323218996
-- Current bid: 2.0 USD
+- Current bid: 31.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 22
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218996
@@ -30731,9 +31726,9 @@
 ## Lot 1329 — Cement Bird Bath
 
 - HiBid lot ID: 323218997
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218997
@@ -30778,9 +31773,9 @@
 ## Lot 1331 — Black Garden Hose
 
 - HiBid lot ID: 323218999
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
 - Category: Lawn & Garden - Lawn / Garden | Lawn & Garden
 - Lot page: https://hibid.com/lot/323218999
@@ -30819,9 +31814,9 @@
 ## Lot 1333 — Cement Jesus Statue, Porcelain Mary Statue
 
 - HiBid lot ID: 323219001
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/323219001
@@ -30842,9 +31837,9 @@
 ## Lot 1334 — Ceramic Kissing Dutch Boy & Girl (Pink/Blue)
 
 - HiBid lot ID: 323219002
-- Current bid: 0.0 USD
+- Current bid: 31.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 7
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323219002
@@ -30864,9 +31859,9 @@
 ## Lot 1335 — Kissing Dutch Boy & Girl (Blue/Yellow)
 
 - HiBid lot ID: 323219003
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 8
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323219003
@@ -30889,9 +31884,9 @@
 ## Lot 1336 — Cement Children Telling a Secret in the Garden
 
 - HiBid lot ID: 323219004
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219004
@@ -30910,9 +31905,9 @@
 ## Lot 1337 — Cement Lawn Jockey Lantern, Plastic Lawn Jockey
 
 - HiBid lot ID: 323219005
-- Current bid: 0.0 USD
+- Current bid: 51.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 9
 - Photo count: 11
 - Category: Art - Sculptures / Carvings / Statues | Art
 - Lot page: https://hibid.com/lot/323219005
@@ -30969,9 +31964,9 @@
 ## Lot 1339 — Cement Pelican & Seahorse, Resin Frog& G. Parents
 
 - HiBid lot ID: 323219007
-- Current bid: 2.0 USD
+- Current bid: 5.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 4
 - Photo count: 16
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323219007
@@ -31000,9 +31995,9 @@
 ## Lot 1340 — Cement Urns and Cylinders
 
 - HiBid lot ID: 323219008
-- Current bid: 0.0 USD
+- Current bid: 13.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 10
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219008
@@ -31050,9 +32045,9 @@
 ## Lot 1342 — Schwinn Typhoon Men’s Bike
 
 - HiBid lot ID: 323219010
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 7
 - Photo count: 8
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Bicycles, Scooters & More | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323219010
@@ -31121,9 +32116,9 @@
 ## Lot 1345 — Huffy Cranbrook Woman’s Bike
 
 - HiBid lot ID: 323219013
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 9
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Bicycles, Scooters & More | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323219013
@@ -31145,9 +32140,9 @@
 ## Lot 1346 — Blue Woman’s bike
 
 - HiBid lot ID: 323219014
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Sporting Goods - Sporting Goods / Outdoor Recreation - Bicycles, Scooters & More | Sporting Goods - Sporting Goods / Outdoor Recreation | Sporting Goods
 - Lot page: https://hibid.com/lot/323219014
@@ -31218,9 +32213,9 @@
 ## Lot 1349 — Taupe Picnic Table w/ 6 chairs (new)
 
 - HiBid lot ID: 323219017
-- Current bid: 0.0 USD
+- Current bid: 34.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 10
 - Photo count: 12
 - Category: Furniture - Deck / Patio | Furniture
 - Lot page: https://hibid.com/lot/323219017
@@ -31245,9 +32240,9 @@
 ## Lot 1350 — Lifetime 8ft Plastic Picnic Table
 
 - HiBid lot ID: 323219019
-- Current bid: 2.0 USD
+- Current bid: 31.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 24
 - Photo count: 10
 - Category: Furniture - Deck / Patio | Furniture
 - Lot page: https://hibid.com/lot/323219019
@@ -31267,12 +32262,33 @@
 
 ---
 
+## Lot 1350B — Lattice
+
+- HiBid lot ID: 324224608
+- Current bid: 2.0 USD
+- Price realized: 0 USD
+- Bid count: 1
+- Photo count: 4
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
+- Lot page: https://hibid.com/lot/324224608
+
+**Description:** 2- Wooden 1- Plastic
+
+**Photos:**
+
+- [Photo 1](https://cdn.hibid.com/img.axd?id=8436728085&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=mghR5SA0uPKwIDLPl1Lvt3mntfxoQn4s)
+- [Photo 2](https://cdn.hibid.com/img.axd?id=8436728092&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=mghR5SA0uPLGoOfGnBo8EYZ8rqOl%2bBJS)
+- [Photo 3](https://cdn.hibid.com/img.axd?id=8436728083&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=mghR5SA0uPI%2fBWAIvAf4906gZnbP0Lew)
+- [Photo 4](https://cdn.hibid.com/img.axd?id=8436728105&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=KFVBe9vXjBZM2x3lkSuf6qCz1blCpypX)
+
+---
+
 ## Lot 1351 — Horse Weather vane,
 
 - HiBid lot ID: 323219020
-- Current bid: 2.0 USD
+- Current bid: 50.0 USD
 - Price realized: 0 USD
-- Bid count: 2
+- Bid count: 11
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219020
@@ -31293,9 +32309,9 @@
 ## Lot 1352 — Black Milk Can with lid
 
 - HiBid lot ID: 323219021
-- Current bid: 0.0 USD
+- Current bid: 20.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 16
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323219021
@@ -31313,9 +32329,9 @@
 ## Lot 1353 — Blue Milk Can with lid
 
 - HiBid lot ID: 323219022
-- Current bid: 0.0 USD
+- Current bid: 38.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 25
 - Photo count: 5
 - Category: Antiques & Collectibles - Collectibles - Kitchen / Home | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323219022
@@ -31333,9 +32349,9 @@
 ## Lot 1354 — Large Live Trap
 
 - HiBid lot ID: 323219023
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 5
 - Category: Sporting Goods - Hunting & Trapping | Sporting Goods
 - Lot page: https://hibid.com/lot/323219023
@@ -31353,9 +32369,9 @@
 ## Lot 1355 — Metal and Plastic Crates
 
 - HiBid lot ID: 323219024
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 9
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323219024
@@ -31453,9 +32469,9 @@
 ## Lot 1359 — Black Metal Rack, (2) Plant Stands
 
 - HiBid lot ID: 323219028
-- Current bid: 0.0 USD
+- Current bid: 7.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 3
 - Photo count: 12
 - Category: Business & Industrial - Business / Retail - Racks / Shelving | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323219028
@@ -31480,9 +32496,9 @@
 ## Lot 1360 — Metal Beverage Cart
 
 - HiBid lot ID: 323219029
-- Current bid: 0.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 7
 - Category: Business & Industrial - Business / Retail - Carts / Baskets | Business & Industrial - Business / Retail | Business & Industrial
 - Lot page: https://hibid.com/lot/323219029
@@ -31502,9 +32518,9 @@
 ## Lot 1361 — Metal Stars (2) Blue, Red
 
 - HiBid lot ID: 323219030
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 10
 - Category: Home Goods & Decor - Home Goods - Kitchen / Housewares | Home Goods & Decor - Home Goods | Home Goods & Decor
 - Lot page: https://hibid.com/lot/323219030
@@ -31559,9 +32575,9 @@
 ## Lot 1363 — Beach Chairs (2)
 
 - HiBid lot ID: 323219032
-- Current bid: 0.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 2
 - Photo count: 7
 - Category: Furniture - Deck / Patio | Furniture
 - Lot page: https://hibid.com/lot/323219032
@@ -31630,9 +32646,9 @@
 ## Lot 1366 — Step Stool/Seat, Wood Stool
 
 - HiBid lot ID: 323219035
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 11
 - Category: Furniture - Chairs / Stools | Furniture
 - Lot page: https://hibid.com/lot/323219035
@@ -31656,9 +32672,9 @@
 ## Lot 1367 — Decorative Metal Patio Chair
 
 - HiBid lot ID: 323219036
-- Current bid: 2.0 USD
+- Current bid: 15.0 USD
 - Price realized: 0 USD
-- Bid count: 4
+- Bid count: 16
 - Photo count: 7
 - Category: Furniture - Deck / Patio | Furniture
 - Lot page: https://hibid.com/lot/323219036
@@ -31678,9 +32694,9 @@
 ## Lot 1368 — Garden Red, White, Blue Windmill
 
 - HiBid lot ID: 323219037
-- Current bid: 0.0 USD
+- Current bid: 12.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 6
 - Photo count: 4
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219037
@@ -31697,9 +32713,9 @@
 ## Lot 1369 — Ceramic Deer
 
 - HiBid lot ID: 323219038
-- Current bid: 0.0 USD
+- Current bid: 11.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 5
 - Photo count: 6
 - Category: Antiques & Collectibles - Collectibles - Figurines | Antiques & Collectibles - Collectibles | Antiques & Collectibles
 - Lot page: https://hibid.com/lot/323219038
@@ -31718,9 +32734,9 @@
 ## Lot 1370 — Garden Windmill, Sm bean pot and Eagle Bell
 
 - HiBid lot ID: 323219039
-- Current bid: 2.0 USD
+- Current bid: 10.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 5
 - Photo count: 5
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219039
@@ -31738,9 +32754,9 @@
 ## Lot 1371 — Metal Horse Weather Vane
 
 - HiBid lot ID: 323219040
-- Current bid: 2.0 USD
+- Current bid: 3.0 USD
 - Price realized: 0 USD
-- Bid count: 1
+- Bid count: 2
 - Photo count: 6
 - Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219040
@@ -31756,14 +32772,14 @@
 
 ---
 
-## Lot 1372 — - no description -
+## Lot 1372 — Scrap Pile
 
 - HiBid lot ID: 323219041
-- Current bid: 0.0 USD
+- Current bid: 2.0 USD
 - Price realized: 0 USD
-- Bid count: 0
+- Bid count: 1
 - Photo count: 5
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219041
 
 **Photos:**
@@ -31776,14 +32792,14 @@
 
 ---
 
-## Lot 1373 — - no description -
+## Lot 1373 — Metal Outdoor Tractor Decor
 
 - HiBid lot ID: 323219042
 - Current bid: 0.0 USD
 - Price realized: 0 USD
 - Bid count: 0
 - Photo count: 11
-- Category: Home Goods & Decor - Home Goods - Other Items - Other
+- Category: Lawn & Garden - Outdoors | Lawn & Garden
 - Lot page: https://hibid.com/lot/323219042
 
 **Photos:**
