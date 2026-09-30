@@ -48,7 +48,6 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1145 | Trailer towing hardware | $4 | 12 | existing | Useful towing hardware. |
 | 1147 | Oil-filter wrenches/filters/coolant tester | $0 | 8 | reviewed | Oil-filter wrenches/filters/coolant tester; value the reusable tools because filter fitment is uncertain. |
 | 1148 | Pneumatic DA sander + bits | $0 | 15 | existing | Useful shop tool; condition unknown. |
-| 1149 | Air hoses/tire/blow tools | $0 | 15 | existing | Good shop utility if hoses are sound. |
 | 1155 | HD towing / tractor hardware | $3 | 15 | existing | Useful farm/trailer hardware. |
 | 1172 | Two gas weed whips | $0 | 10 | reviewed | Two older gas weed whips; complete-looking but untested project value only. |
 | 1173 | Craftsman blower + chainsaw | $2 | 25 | reviewed | Craftsman chainsaw + power blower; both substantially complete, old and untested. |
@@ -119,6 +118,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 
 | Lot | Item | Current | Reason |
 |---:|---|---:|---|
+| 1149 | Air hoses/tire/blow tools | $0 | Removed: air hose is visibly cracked/deteriorated. |
 | 839 | 5-door cabinet | $0 | Removed from watchlist at owner request. |
 | 3 | 8-ft utility trailer | $425 | Prior $250 max; live bidding far above it. |
 | 9 | 1930s Emerson tube radio | $8 | Non-working collectible; conflicts with utility-first plan. |
