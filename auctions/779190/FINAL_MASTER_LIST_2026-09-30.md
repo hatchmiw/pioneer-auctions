@@ -86,7 +86,6 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 802 | Drawknife + sockets/hand tools | $2 | 15 | existing | Useful mixed tool lot. |
 | 826 | Pipe wrenches | $0 | 20 | existing | Serviceable-looking old wrenches. |
 | 837 | Metal shelf | $0 | 10 | existing | Cheap storage if hauling is worth it. |
-| 839 | 5-door cabinet | $0 | 15 | existing | Useful storage; rough/painted. |
 | 840 | 4-door cabinet | $2 | 20 | existing | Useful storage. |
 | 1011 | Schumacher power converter | $0 | 10 | reviewed | Schumacher 410W power inverter; older low-output inverter, so keep cheap. |
 | 1079 | Platform ladder | $13 | 20 | existing | Useful but bidding already $11. |
@@ -120,6 +119,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 
 | Lot | Item | Current | Reason |
 |---:|---|---:|---|
+| 839 | 5-door cabinet | $0 | Removed from watchlist at owner request. |
 | 3 | 8-ft utility trailer | $425 | Prior $250 max; live bidding far above it. |
 | 9 | 1930s Emerson tube radio | $8 | Non-working collectible; conflicts with utility-first plan. |
 | 321 | JCPenney 4-in-1 stereo | $5 | Bulky low-value electronics/resale. |
