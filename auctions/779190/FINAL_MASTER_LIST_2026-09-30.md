@@ -2,7 +2,7 @@
 
 Auction: **Living Estate of Patricia Freed**  
 Working rule for tonight: **prioritize personal/farm/shop utility; avoid collectibles unless upside is unusually large.**  
-Live-price snapshot used: **2026-09-30T18:45:46Z**.  
+Live-price snapshot used: **2026-09-30T19:59:03Z**.  
 Auction terms in catalog: **10% buyer premium with cash/check**. Caps below are **hammer-price** ceilings before premium/tax.
 
 ## Source reconciliation
@@ -77,9 +77,9 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 802 | Drawknife + sockets/hand tools | $2 | 15 | existing | Useful mixed tool lot. |
 | 826 | Pipe wrenches | $0 | 20 | existing | Serviceable-looking old wrenches. |
 | 837 | Metal shelf | $0 | 10 | existing | Cheap storage if hauling is worth it. |
-| 840 | 4-door cabinet | $2 | 20 | existing | Useful storage. |
+| 840 | 4-door cabinet | $3 | 20 | existing | Useful storage. |
 | 1011 | Schumacher power converter | $0 | 10 | reviewed | Schumacher 410W power inverter; older low-output inverter, so keep cheap. |
-| 1079 | Platform ladder | $13 | 20 | existing | Useful but bidding already $11. |
+| 1079 | Platform ladder | $17 | 20 | existing | Useful but bidding already $11. |
 | 1119 | 2-ton hand puller | $18 | 20 | existing | Current price already near cap. |
 | 1131 | Heavy extension cord + trouble light | $2 | 10 | existing | Useful if cord is sound. |
 | 1133 | Retractable/drop lights + cord | $0 | 8 | existing | Utility only. |
@@ -87,9 +87,9 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1138 | Heavy cord/reel | $2 | 10 | existing | Utility; verify connectors. |
 | 1139 | Heavy/specialty cord | $2 | 10 | existing | Utility only if plug configuration is useful. |
 | 1157 | Grease + two grease guns | $2 | 8 | existing | Only if it adds useful capability. |
-| 1162 | Meilink safe | $2 | 50 | reviewed | Meilink safe is shown open with clean interior and handwritten combination instructions present; heavy/awkward pickup still limits cap. |
+| 1162 | Meilink safe | $3 | 50 | reviewed | Meilink safe is shown open with clean interior and handwritten combination instructions present; heavy/awkward pickup still limits cap. |
 | 1181 | Metal table | $0 | 10 | reviewed | Metal table; current photos reviewed, basic shop utility only. |
-| 1193 | Two stainless dairy/milking vessels + strainer | $21 | 50 | reviewed | Chore-Boy stainless bucket milker + second dairy vessel/strainer + hose/stainless milking components; substantially stronger lot than the old one-photo assessment. |
+| 1193 | Two stainless dairy/milking vessels + strainer | $22 | 50 | reviewed | Chore-Boy stainless bucket milker + second dairy vessel/strainer + hose/stainless milking components; substantially stronger lot than the old one-photo assessment. |
 | 1251 | Twin 15-in ceiling lights + towel bar | $2 | 8 | reviewed | Boxed Patriot Lighting twin 15-in. flush-mount lights + Lenape 18-in. towel bar; only if style/use fits. |
 | 1293 | Sprinklers incl. copper lighthouse sprinkler | $0 | 8 | reviewed | Old sprinkler, decorative copper/brass sprinkler and Wagner DeckMate system; low-priority yard/tool lot. |
 | 14 | Sauder cabinet/table extension | $3 | 10 | reviewed | All current photos reviewed. Cheap storage/work surface only if hauling makes sense. |
@@ -101,7 +101,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 | Lot | Item | Current | Hammer max | Rationale |
 |---:|---|---:|---:|---|
 | 407 | German Black Forest cuckoo clock | $12 | 25 | Collectible exception only. Substantially complete in photos but untested; fragile resale item. |
-| 575 | Fostoria 'Tut' uranium trophy vase + bowls | $21 | 40 | Collectible exception only. Current price still leaves possible margin; no need to chase. |
+| 575 | Fostoria 'Tut' uranium trophy vase + bowls | $26 | 40 | Collectible exception only. Current price still leaves possible margin; no need to chase. |
 | 691 | Dressel/Arlington railroad lantern | $27 | 40 | Collectible exception only. Marking and blue lens confirmed; possible upside, but not a personal-use priority. |
 | 979 | Bundy II sax + White's metal detector | $5 | 100 | Keep despite mixed collectible content because the detector plus sax creates unusually large value coverage. |
 
@@ -111,7 +111,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 |---:|---|---:|---|
 | 703 | Fulton cast-iron rivet press (auction title is wrong) | $2 | Removed from watchlist at owner request. |
 | 996 | Hardware organizer + contents | $2 | Removed from watchlist at owner request. |
-| 1081 | DieHard wheeled charger | $37 | Removed; already over cap and no longer an active target. |
+| 1081 | DieHard wheeled charger | $43 | Removed; already over cap and no longer an active target. |
 | 1124 | Hitch pins/clips/clamps/hardware | $0 | Removed from watchlist at owner request. |
 | 1127 | HD puller/installer assortment | $2 | Removed from watchlist at owner request; no further photo review needed. |
 | 1145 | Trailer towing hardware | $4 | Removed from watchlist at owner request. |
@@ -139,7 +139,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 | 1368 | Garden red/white/blue windmill | $12 | Decorative. |
 | 1370 | Garden windmill + bean pot + eagle bell | $10 | Decorative/collectible. |
 | 449 | Uranium hand mixer | $24 | Collectible; limited room at current bid. |
-| 452 | Federal Lovebirds uranium glass | $11 | At/near prior cap; collectible. |
+| 452 | Federal Lovebirds uranium glass | $16 | At/near prior cap; collectible. |
 | 458 | Hazel Atlas uranium refrigerator dishes | $25 | Near prior cap; collectible. |
 | 671 | John Deere thermometer | $11 | Over prior cap; collectible. |
 | 977 | C.S. Bell No.2 yoke/mount only | $15 | No bell present; incomplete-value risk. |
