@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-09-30T13:51:37Z",
+  "checkedAt": "2026-09-30T14:09:31Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -25,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 32881.68,
-          "to": 32577.197
+          "from": 32577.197,
+          "to": 31502.126999999997
         }
       }
     },
@@ -36,9 +36,21 @@
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "auctionId": "779190",
       "fields": {
+        "highBid": {
+          "from": 0.0,
+          "to": 2.0
+        },
+        "nextBid": {
+          "from": 2.0,
+          "to": 3.0
+        },
+        "bidCount": {
+          "from": 0,
+          "to": 1
+        },
         "timeLeftSeconds": {
-          "from": 42531.68,
-          "to": 42223.27
+          "from": 42223.27,
+          "to": 41148.706999999995
         }
       }
     }
@@ -59,8 +71,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
       "status": "OPEN",
-      "timeLeft": "9h  2m  ",
-      "timeLeftSeconds": 32577.197,
+      "timeLeft": "8h  45m  ",
+      "timeLeftSeconds": 31502.126999999997,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -71,12 +83,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T13:51:37Z",
+      "checkedAt": "2026-09-30T14:09:31Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": 32881.68,
-          "to": 32577.197
+          "from": 32577.197,
+          "to": 31502.126999999997
         }
       },
       "retrievalStatus": "ok",
@@ -88,9 +100,9 @@
       "lotNumber": "1282",
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "hibidLotId": "323218949",
-      "highBid": 0.0,
-      "bidCount": 0,
-      "nextBid": 2.0,
+      "highBid": 2.0,
+      "bidCount": 1,
+      "nextBid": 3.0,
       "timeRemaining": "6d 11h 22m",
       "url": "https://pioneerauctionservice.hibid.com/lot/323218949/2-hand-held-post-hole-diggers--spade-shovel",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8432744724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=pndatSbPKl4RfDwSXVmbdtiKIfm5CZve&h=350&w=350",
@@ -98,8 +110,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "11h  43m  ",
-      "timeLeftSeconds": 42223.27,
+      "timeLeft": "11h  25m  ",
+      "timeLeftSeconds": 41148.706999999995,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -110,12 +122,24 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T13:51:37Z",
+      "checkedAt": "2026-09-30T14:09:31Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
+        "highBid": {
+          "from": 0.0,
+          "to": 2.0
+        },
+        "nextBid": {
+          "from": 2.0,
+          "to": 3.0
+        },
+        "bidCount": {
+          "from": 0,
+          "to": 1
+        },
         "timeLeftSeconds": {
-          "from": 42531.68,
-          "to": 42223.27
+          "from": 42223.27,
+          "to": 41148.706999999995
         }
       },
       "retrievalStatus": "ok",
