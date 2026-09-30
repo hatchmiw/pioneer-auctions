@@ -1,14 +1,13 @@
 {
-  "schemaVersion": "1.0",
-  "updater": "Pioneer HiBid Watchlist Bid Updater",
-  "updaterVersion": "1.0.0",
-  "checkedAt": "2026-09-30T20:45:06Z",
+  "schemaVersion": "2.0",
+  "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
+  "updaterVersion": "2.0.0",
+  "checkedAt": "2026-09-30T20:48:33Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
     "reportedLotCount": 2,
-    "capturedLotCount": 2,
-    "sha256": "b7d9acf47c2812d4a9528e11e3265b732a3fa57297f0d6c1e14bc9ae038e30f9"
+    "capturedLotCount": 2
   },
   "summary": {
     "trackedLots": 2,
@@ -16,8 +15,7 @@
     "missingLots": 0,
     "activeLots": 2,
     "closedLots": 0,
-    "changedLotsSincePreviousCheck": 2,
-    "invalidSourceRows": 0
+    "changedLotsSincePreviousCheck": 2
   },
   "changes": [
     {
@@ -26,21 +24,9 @@
       "title": "JCPenney 4 In One Stereo System W/Speakers",
       "auctionId": "779190",
       "fields": {
-        "highBid": {
-          "from": 5.0,
-          "to": 11.0
-        },
-        "nextBid": {
-          "from": 6.0,
-          "to": 12.0
-        },
-        "bidCount": {
-          "from": 5,
-          "to": 7
-        },
         "timeLeftSeconds": {
-          "from": 8544.463,
-          "to": 7763.507
+          "from": 7763.507,
+          "to": 7559.967
         }
       }
     },
@@ -51,8 +37,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 18190.522999999997,
-          "to": 17413.506999999998
+          "from": 17413.506999999998,
+          "to": 17206.452999999998
         }
       }
     }
@@ -73,8 +59,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
       "status": "OPEN",
-      "timeLeft": "2h  9m  ",
-      "timeLeftSeconds": 7763.507,
+      "timeLeft": "2h  5m  ",
+      "timeLeftSeconds": 7559.967,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -85,30 +71,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T20:45:06Z",
+      "checkedAt": "2026-09-30T20:48:33Z",
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": 7763.507,
+          "to": 7559.967
+        }
+      },
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 3,
       "sourceSnapshotBidCount": 2,
-      "sourceSnapshotNextBid": 4,
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "highBid": {
-          "from": 5.0,
-          "to": 11.0
-        },
-        "nextBid": {
-          "from": 6.0,
-          "to": 12.0
-        },
-        "bidCount": {
-          "from": 5,
-          "to": 7
-        },
-        "timeLeftSeconds": {
-          "from": 8544.463,
-          "to": 7763.507
-        }
-      }
+      "sourceSnapshotNextBid": 4
     },
     {
       "lotNumber": "1282",
@@ -124,8 +98,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "4h  50m  ",
-      "timeLeftSeconds": 17413.506999999998,
+      "timeLeft": "4h  46m  ",
+      "timeLeftSeconds": 17206.452999999998,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -136,18 +110,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T20:45:06Z",
-      "retrievalStatus": "ok",
-      "sourceSnapshotHighBid": 0,
-      "sourceSnapshotBidCount": 0,
-      "sourceSnapshotNextBid": 2,
+      "checkedAt": "2026-09-30T20:48:33Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": 18190.522999999997,
-          "to": 17413.506999999998
+          "from": 17413.506999999998,
+          "to": 17206.452999999998
         }
-      }
+      },
+      "retrievalStatus": "ok",
+      "sourceSnapshotHighBid": 0,
+      "sourceSnapshotBidCount": 0,
+      "sourceSnapshotNextBid": 2
     }
   ]
 }
