@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-09-30T14:29:36Z",
+  "checkedAt": "2026-09-30T14:48:31Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -25,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 30460.09,
-          "to": 30298.157
+          "from": 30298.157,
+          "to": 29161.833
         }
       }
     },
@@ -37,8 +37,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": 40110.093,
-          "to": 39944.203
+          "from": 39944.203,
+          "to": 38808.43
         }
       }
     }
@@ -59,8 +59,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 179613,
       "status": "OPEN",
-      "timeLeft": "8h  24m  ",
-      "timeLeftSeconds": 30298.157,
+      "timeLeft": "8h  6m  ",
+      "timeLeftSeconds": 29161.833,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -71,12 +71,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-09-30T14:29:36Z",
+      "checkedAt": "2026-09-30T14:48:31Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": 30460.09,
-          "to": 30298.157
+          "from": 30298.157,
+          "to": 29161.833
         }
       },
       "retrievalStatus": "ok",
@@ -98,8 +98,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "11h  5m  ",
-      "timeLeftSeconds": 39944.203,
+      "timeLeft": "10h  46m  ",
+      "timeLeftSeconds": 38808.43,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -110,12 +110,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-09-30T14:29:36Z",
+      "checkedAt": "2026-09-30T14:48:31Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": 40110.093,
-          "to": 39944.203
+          "from": 39944.203,
+          "to": 38808.43
         }
       },
       "retrievalStatus": "ok",
