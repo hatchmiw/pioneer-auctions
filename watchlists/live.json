@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-10-01T01:25:15Z",
+  "checkedAt": "2026-10-01T01:38:50Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -13,8 +13,8 @@
     "trackedLots": 2,
     "retrievedLots": 2,
     "missingLots": 0,
-    "activeLots": 1,
-    "closedLots": 1,
+    "activeLots": 0,
+    "closedLots": 2,
     "changedLotsSincePreviousCheck": 2
   },
   "changes": [
@@ -25,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -8575.172999999999,
-          "to": -9040.567
+          "from": -9040.567,
+          "to": -9855.23
         }
       }
     },
@@ -37,20 +37,32 @@
       "auctionId": "779190",
       "fields": {
         "highBid": {
-          "from": 8.0,
-          "to": 10.0
-        },
-        "nextBid": {
-          "from": 9.0,
+          "from": 10.0,
           "to": 11.0
         },
+        "nextBid": {
+          "from": 11.0,
+          "to": 0
+        },
         "bidCount": {
-          "from": 7,
-          "to": 8
+          "from": 8,
+          "to": 9
+        },
+        "status": {
+          "from": "OPEN",
+          "to": "CLOSED"
         },
         "timeLeftSeconds": {
-          "from": 1074.827,
-          "to": 605.223
+          "from": 605.223,
+          "to": -209.6
+        },
+        "isClosed": {
+          "from": false,
+          "to": true
+        },
+        "priceRealized": {
+          "from": 0,
+          "to": 11.0
         }
       }
     }
@@ -72,7 +84,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -9040.567,
+      "timeLeftSeconds": -9855.23,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -83,12 +95,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-10-01T01:25:15Z",
+      "checkedAt": "2026-10-01T01:38:50Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -8575.172999999999,
-          "to": -9040.567
+          "from": -9040.567,
+          "to": -9855.23
         }
       },
       "retrievalStatus": "ok",
@@ -100,21 +112,21 @@
       "lotNumber": "1282",
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "hibidLotId": "323218949",
-      "highBid": 10.0,
-      "bidCount": 8,
-      "nextBid": 11.0,
+      "highBid": 11.0,
+      "bidCount": 9,
+      "nextBid": 0,
       "timeRemaining": "6d 11h 22m",
       "url": "https://pioneerauctionservice.hibid.com/lot/323218949/2-hand-held-post-hole-diggers--spade-shovel",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8432744724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=pndatSbPKl4RfDwSXVmbdtiKIfm5CZve&h=350&w=350",
       "imageMapping": "same-lot-link",
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
-      "status": "OPEN",
-      "timeLeft": "10m  5s",
-      "timeLeftSeconds": 605.223,
-      "isClosed": false,
+      "status": "CLOSED",
+      "timeLeft": "Bidding Closed",
+      "timeLeftSeconds": -209.6,
+      "isClosed": true,
       "isLive": false,
-      "priceRealized": 0,
+      "priceRealized": 11.0,
       "reserveSatisfied": true,
       "currency": "USD",
       "auctionId": "779190",
@@ -122,24 +134,36 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-10-01T01:25:15Z",
+      "checkedAt": "2026-10-01T01:38:50Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "highBid": {
-          "from": 8.0,
-          "to": 10.0
-        },
-        "nextBid": {
-          "from": 9.0,
+          "from": 10.0,
           "to": 11.0
         },
+        "nextBid": {
+          "from": 11.0,
+          "to": 0
+        },
         "bidCount": {
-          "from": 7,
-          "to": 8
+          "from": 8,
+          "to": 9
+        },
+        "status": {
+          "from": "OPEN",
+          "to": "CLOSED"
         },
         "timeLeftSeconds": {
-          "from": 1074.827,
-          "to": 605.223
+          "from": 605.223,
+          "to": -209.6
+        },
+        "isClosed": {
+          "from": false,
+          "to": true
+        },
+        "priceRealized": {
+          "from": 0,
+          "to": 11.0
         }
       },
       "retrievalStatus": "ok",
