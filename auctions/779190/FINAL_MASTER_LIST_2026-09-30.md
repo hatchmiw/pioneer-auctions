@@ -56,7 +56,6 @@ The fresh 2026-09-30 rerun exported **1,383 lots / 10,871 photo references** and
 | 1250 | Heavy steel chains | $0 | 20 | reviewed | Three chain assemblies; useful general-purpose steel, but grade/WLL is unverified—do not treat as certified transport chain. |
 | 1275 | Shelf + bins + metal locker | $0 | 15 | existing | Shop storage; better than rough cabinet alternatives. |
 | 1277 | Two metal trailer ramps | $10 | 20 | existing | No visible load rating; keep conservative. |
-| 1282 | Two post-hole diggers + spade | $2 | 15 | existing | Strong farm-use target. |
 | 1283 | Three pick axes | $2 | 12 | existing | Farm/groundwork utility. |
 | 1284 | Spade + three scoop shovels | $0 | 12 | existing | Farm/shop utility. |
 | 1285 | Three push brooms | $0 | 8 | reviewed | Three used but serviceable-looking long-handled push brooms; token-money utility buy. |
@@ -103,6 +102,7 @@ Do **not** let these distract from Priority 1. Only stay involved where the marg
 
 | Lot | Item | Current | Reason |
 |---:|---|---:|---|
+| 1282 | Two post-hole diggers + spade | $2 | Removed from active watchlist: handle condition/strength not trustworthy enough at current bidding. |
 | 1119 | 2-ton hand puller | $18 | Removed from active watchlist at owner request. |
 | 1137 | Extension cord on reel | $2 | Removed from active watchlist at owner request. |
 | 1138 | Heavy cord/reel | $2 | Removed from active watchlist at owner request. |
