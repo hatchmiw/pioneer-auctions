@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-10-01T03:58:32Z",
+  "checkedAt": "2026-10-01T04:13:20Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -25,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -17563.057,
-          "to": -18238.423
+          "from": -18238.423,
+          "to": -19126.263
         }
       }
     },
@@ -37,8 +37,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -7913.057,
-          "to": -8591.903
+          "from": -8591.903,
+          "to": -9479.607
         }
       }
     }
@@ -60,7 +60,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -18238.423,
+      "timeLeftSeconds": -19126.263,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -71,12 +71,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-10-01T03:58:32Z",
+      "checkedAt": "2026-10-01T04:13:20Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -17563.057,
-          "to": -18238.423
+          "from": -18238.423,
+          "to": -19126.263
         }
       },
       "retrievalStatus": "ok",
@@ -99,7 +99,7 @@
       "itemId": 186232,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -8591.903,
+      "timeLeftSeconds": -9479.607,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -110,12 +110,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-10-01T03:58:32Z",
+      "checkedAt": "2026-10-01T04:13:20Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -7913.057,
-          "to": -8591.903
+          "from": -8591.903,
+          "to": -9479.607
         }
       },
       "retrievalStatus": "ok",
