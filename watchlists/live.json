@@ -1,13 +1,14 @@
 {
-  "schemaVersion": "2.0",
-  "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
-  "updaterVersion": "2.0.0",
-  "checkedAt": "2026-10-01T01:08:09Z",
+  "schemaVersion": "1.0",
+  "updater": "Pioneer HiBid Watchlist Bid Updater",
+  "updaterVersion": "1.0.0",
+  "checkedAt": "2026-10-01T01:17:25Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
     "reportedLotCount": 2,
-    "capturedLotCount": 2
+    "capturedLotCount": 2,
+    "sha256": "b7d9acf47c2812d4a9528e11e3265b732a3fa57297f0d6c1e14bc9ae038e30f9"
   },
   "summary": {
     "trackedLots": 2,
@@ -15,7 +16,8 @@
     "missingLots": 0,
     "activeLots": 1,
     "closedLots": 1,
-    "changedLotsSincePreviousCheck": 2
+    "changedLotsSincePreviousCheck": 2,
+    "invalidSourceRows": 0
   },
   "changes": [
     {
@@ -25,8 +27,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -7244.313,
-          "to": -8014.9
+          "from": -8014.9,
+          "to": -8575.172999999999
         }
       }
     },
@@ -36,21 +38,9 @@
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "auctionId": "779190",
       "fields": {
-        "highBid": {
-          "from": 7.0,
-          "to": 8.0
-        },
-        "nextBid": {
-          "from": 8.0,
-          "to": 9.0
-        },
-        "bidCount": {
-          "from": 6,
-          "to": 7
-        },
         "timeLeftSeconds": {
-          "from": 2402.037,
-          "to": 1631.12
+          "from": 1631.12,
+          "to": 1074.827
         }
       }
     }
@@ -72,7 +62,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -8014.9,
+      "timeLeftSeconds": -8575.172999999999,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -83,18 +73,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-10-01T01:08:09Z",
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "timeLeftSeconds": {
-          "from": -7244.313,
-          "to": -8014.9
-        }
-      },
+      "checkedAt": "2026-10-01T01:17:25Z",
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 3,
       "sourceSnapshotBidCount": 2,
-      "sourceSnapshotNextBid": 4
+      "sourceSnapshotNextBid": 4,
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": -8014.9,
+          "to": -8575.172999999999
+        }
+      }
     },
     {
       "lotNumber": "1282",
@@ -110,8 +100,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "27m  11s",
-      "timeLeftSeconds": 1631.12,
+      "timeLeft": "17m  54s",
+      "timeLeftSeconds": 1074.827,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -122,30 +112,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-10-01T01:08:09Z",
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "highBid": {
-          "from": 7.0,
-          "to": 8.0
-        },
-        "nextBid": {
-          "from": 8.0,
-          "to": 9.0
-        },
-        "bidCount": {
-          "from": 6,
-          "to": 7
-        },
-        "timeLeftSeconds": {
-          "from": 2402.037,
-          "to": 1631.12
-        }
-      },
+      "checkedAt": "2026-10-01T01:17:25Z",
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 0,
       "sourceSnapshotBidCount": 0,
-      "sourceSnapshotNextBid": 2
+      "sourceSnapshotNextBid": 2,
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": 1631.12,
+          "to": 1074.827
+        }
+      }
     }
   ]
 }
