@@ -1,14 +1,13 @@
 {
-  "schemaVersion": "1.0",
-  "updater": "Pioneer HiBid Watchlist Bid Updater",
-  "updaterVersion": "1.0.0",
-  "checkedAt": "2026-10-01T00:51:42Z",
+  "schemaVersion": "2.0",
+  "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
+  "updaterVersion": "2.0.0",
+  "checkedAt": "2026-10-01T00:55:18Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
     "reportedLotCount": 2,
-    "capturedLotCount": 2,
-    "sha256": "b7d9acf47c2812d4a9528e11e3265b732a3fa57297f0d6c1e14bc9ae038e30f9"
+    "capturedLotCount": 2
   },
   "summary": {
     "trackedLots": 2,
@@ -16,8 +15,7 @@
     "missingLots": 0,
     "activeLots": 1,
     "closedLots": 1,
-    "changedLotsSincePreviousCheck": 2,
-    "invalidSourceRows": 0
+    "changedLotsSincePreviousCheck": 2
   },
   "changes": [
     {
@@ -27,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -5938.496999999999,
-          "to": -7032.7429999999995
+          "from": -7032.7429999999995,
+          "to": -7244.313
         }
       }
     },
@@ -38,21 +36,9 @@
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "auctionId": "779190",
       "fields": {
-        "highBid": {
-          "from": 6.0,
-          "to": 7.0
-        },
-        "nextBid": {
-          "from": 7.0,
-          "to": 8.0
-        },
-        "bidCount": {
-          "from": 5,
-          "to": 6
-        },
         "timeLeftSeconds": {
-          "from": 3706.89,
-          "to": 2617.257
+          "from": 2617.257,
+          "to": 2402.037
         }
       }
     }
@@ -74,7 +60,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -7032.7429999999995,
+      "timeLeftSeconds": -7244.313,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -85,18 +71,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-10-01T00:51:42Z",
-      "retrievalStatus": "ok",
-      "sourceSnapshotHighBid": 3,
-      "sourceSnapshotBidCount": 2,
-      "sourceSnapshotNextBid": 4,
+      "checkedAt": "2026-10-01T00:55:18Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -5938.496999999999,
-          "to": -7032.7429999999995
+          "from": -7032.7429999999995,
+          "to": -7244.313
         }
-      }
+      },
+      "retrievalStatus": "ok",
+      "sourceSnapshotHighBid": 3,
+      "sourceSnapshotBidCount": 2,
+      "sourceSnapshotNextBid": 4
     },
     {
       "lotNumber": "1282",
@@ -112,8 +98,8 @@
       "cardVerifiedSingleLot": true,
       "itemId": 186232,
       "status": "OPEN",
-      "timeLeft": "43m  37s",
-      "timeLeftSeconds": 2617.257,
+      "timeLeft": "40m  2s",
+      "timeLeftSeconds": 2402.037,
       "isClosed": false,
       "isLive": false,
       "priceRealized": 0,
@@ -124,30 +110,18 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-10-01T00:51:42Z",
+      "checkedAt": "2026-10-01T00:55:18Z",
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "timeLeftSeconds": {
+          "from": 2617.257,
+          "to": 2402.037
+        }
+      },
       "retrievalStatus": "ok",
       "sourceSnapshotHighBid": 0,
       "sourceSnapshotBidCount": 0,
-      "sourceSnapshotNextBid": 2,
-      "changedSincePreviousCheck": true,
-      "changedFields": {
-        "highBid": {
-          "from": 6.0,
-          "to": 7.0
-        },
-        "nextBid": {
-          "from": 7.0,
-          "to": 8.0
-        },
-        "bidCount": {
-          "from": 5,
-          "to": 6
-        },
-        "timeLeftSeconds": {
-          "from": 3706.89,
-          "to": 2617.257
-        }
-      }
+      "sourceSnapshotNextBid": 2
     }
   ]
 }
