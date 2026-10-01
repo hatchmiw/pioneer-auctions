@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
   "updaterVersion": "2.0.0",
-  "checkedAt": "2026-10-01T06:55:32Z",
+  "checkedAt": "2026-10-01T07:08:18Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -25,8 +25,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -28617.017,
-          "to": -28857.289999999997
+          "from": -28857.289999999997,
+          "to": -29623.713
         }
       }
     },
@@ -37,8 +37,8 @@
       "auctionId": "779190",
       "fields": {
         "timeLeftSeconds": {
-          "from": -18967.017,
-          "to": -19211.44
+          "from": -19211.44,
+          "to": -19977.986999999997
         }
       }
     }
@@ -60,7 +60,7 @@
       "itemId": 179613,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -28857.289999999997,
+      "timeLeftSeconds": -29623.713,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -71,12 +71,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/322874070",
-      "checkedAt": "2026-10-01T06:55:32Z",
+      "checkedAt": "2026-10-01T07:08:18Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -28617.017,
-          "to": -28857.289999999997
+          "from": -28857.289999999997,
+          "to": -29623.713
         }
       },
       "retrievalStatus": "ok",
@@ -99,7 +99,7 @@
       "itemId": 186232,
       "status": "CLOSED",
       "timeLeft": "Bidding Closed",
-      "timeLeftSeconds": -19211.44,
+      "timeLeftSeconds": -19977.986999999997,
       "isClosed": true,
       "isLive": false,
       "priceRealized": 11.0,
@@ -110,12 +110,12 @@
       "auctionClose": "2026-09-30T18:00:00",
       "auctioneer": "Pioneer Auction Service",
       "lotUrl": "https://hibid.com/lot/323218949",
-      "checkedAt": "2026-10-01T06:55:32Z",
+      "checkedAt": "2026-10-01T07:08:18Z",
       "changedSincePreviousCheck": true,
       "changedFields": {
         "timeLeftSeconds": {
-          "from": -18967.017,
-          "to": -19211.44
+          "from": -19211.44,
+          "to": -19977.986999999997
         }
       },
       "retrievalStatus": "ok",
