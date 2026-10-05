@@ -40,7 +40,8 @@ jobs:
 
           while IFS= read -r auction_id; do
             [ -n "$auction_id" ] || continue
-            artifact_prefix="pioneer-$auction_id-photos"
+            photo_prefix="pioneer-$auction_id-photos"
+            review_name="pioneer-$auction_id-review-sheets"
             echo "Checking expired auction $auction_id"
 
             gh api --paginate \
@@ -48,7 +49,7 @@ jobs:
               --jq '.artifacts[] | [.id, .name] | @tsv' |
             while IFS=$'\t' read -r artifact_id artifact_name; do
               [ -n "$artifact_id" ] || continue
-              if [[ "$artifact_name" == "$artifact_prefix"* ]]; then
+              if [[ "$artifact_name" == "$photo_prefix"* || "$artifact_name" == "$review_name" ]]; then
                 echo "Deleting artifact $artifact_name ($artifact_id)"
                 gh api --method DELETE \
                   "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
