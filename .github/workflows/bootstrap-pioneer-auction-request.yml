@@ -1,0 +1,63 @@
+name: Bootstrap Pioneer auction request
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "auction-requests/*.txt"
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - name: Find changed auction requests
+        id: requests
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t request_files < <(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" -- 'auction-requests/*.txt' | grep -E '^auction-requests/[0-9]+[.]txt$' | sort -u || true)
+
+          if (( ${#request_files[@]} == 0 )); then
+            echo "No numeric Pioneer auction request files changed."
+            exit 0
+          fi
+
+          printf '%s\n' "${request_files[@]}" > /tmp/pioneer-auction-requests.txt
+          echo "has_requests=true" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch requested auctions
+        if: steps.requests.outputs.has_requests == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          while IFS= read -r request_file; do
+            [[ -n "$request_file" ]] || continue
+
+            auction_id="${request_file##*/}"
+            auction_id="${auction_id%.txt}"
+
+            if [[ ! "$auction_id" =~ ^[0-9]+$ ]]; then
+              echo "Invalid Pioneer auction request path: $request_file" >&2
+              exit 1
+            fi
+
+            echo "Dispatching Run Pioneer Auction for auction $auction_id"
+            gh workflow run run-pioneer-auction.yml \
+              --repo "$GITHUB_REPOSITORY" \
+              --ref "$GITHUB_REF_NAME" \
+              -f auction_id="$auction_id"
+          done < /tmp/pioneer-auction-requests.txt
