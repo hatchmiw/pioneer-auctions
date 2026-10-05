@@ -6,28 +6,20 @@ on:
       auction_id:
         description: "HiBid auction ID"
         required: true
-        default: "776304"
+        default: "781007"
 
 permissions:
   contents: write
   actions: write
 
 concurrency:
-  group: pioneer-auction-${{ inputs.auction_id }}
+  group: pioneer-metadata-writes
   cancel-in-progress: false
 
 jobs:
-  metadata:
+  run-auction:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-    outputs:
-      matrix: ${{ steps.batches.outputs.matrix }}
-      batch_count: ${{ steps.batches.outputs.batch_count }}
-      retention_days: ${{ steps.retention.outputs.retention_days }}
-      expired: ${{ steps.retention.outputs.expired }}
-      cleanup_at: ${{ steps.retention.outputs.cleanup_at }}
-      auction_close: ${{ steps.retention.outputs.auction_close }}
-      metadata_ref: ${{ steps.commit.outputs.metadata_ref }}
+    timeout-minutes: 120
 
     steps:
       - name: Check out repository
@@ -38,126 +30,390 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install exporter dependency
-        run: python -m pip install --upgrade curl_cffi
+      - name: Install dependencies
+        run: python -m pip install --upgrade curl_cffi pillow
 
       - name: Export HiBid auction
         run: python scripts/export_hibid.py "${{ inputs.auction_id }}"
 
-      - name: Calculate photo retention
-        id: retention
-        shell: bash
-        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
-
-      - name: Build 100-lot photo batches
-        id: batches
-        shell: bash
-        run: python scripts/photo_batches.py "${{ inputs.auction_id }}" 100 >> "$GITHUB_OUTPUT"
-
-      - name: Commit permanent auction metadata
-        id: commit
+      - name: Verify exported metadata
         shell: bash
         run: |
+          set -euo pipefail
+          for name in README.md summary.md summary.csv lots.json; do
+            test -s "auctions/${{ inputs.auction_id }}/$name"
+          done
+          python - "${{ inputs.auction_id }}" <<'PY'
+          import json, pathlib, sys
+          path = pathlib.Path("auctions") / sys.argv[1] / "lots.json"
+          data = json.loads(path.read_text(encoding="utf-8"))
+          lots = data.get("lots") or []
+          if not lots:
+              raise SystemExit("Auction export contains no lots")
+          print(f"Verified {len(lots)} auction lots.")
+          PY
+
+      - name: Commit permanent auction metadata
+        shell: bash
+        run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add "auctions/${{ inputs.auction_id }}/README.md" \
                   "auctions/${{ inputs.auction_id }}/summary.md" \
                   "auctions/${{ inputs.auction_id }}/summary.csv" \
-                  "auctions/${{ inputs.auction_id }}/lots.json" \
-                  "auctions/${{ inputs.auction_id }}/photo-batches.json"
+                  "auctions/${{ inputs.auction_id }}/lots.json"
 
           if git diff --cached --quiet; then
             echo "No metadata changes to commit."
           else
             git commit -m "Run Pioneer auction ${{ inputs.auction_id }}"
-            pushed=false
             for attempt in 1 2 3; do
-              echo "Synchronizing with main (attempt $attempt/3)..."
               git fetch origin main
               git rebase origin/main
               if git push origin HEAD:main; then
-                pushed=true
+                echo "Auction metadata committed and pushed."
                 break
               fi
-              echo "Main changed during push; retrying..."
+              if [[ "$attempt" == "3" ]]; then
+                echo "Failed to push after 3 attempts." >&2
+                exit 1
+              fi
               sleep 5
             done
-            if [ "$pushed" != "true" ]; then
-              echo "Failed to push after 3 attempts." >&2
-              exit 1
-            fi
           fi
 
-          echo "metadata_ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Calculate temporary photo retention
+        id: retention
+        shell: bash
+        run: python scripts/photo_retention.py "${{ inputs.auction_id }}" >> "$GITHUB_OUTPUT"
 
-      - name: Metadata summary
+      - name: Mirror lot photos into temporary runner workspace
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}"
+
+      - name: Build review sheets
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/build_contact_sheets.py "${{ inputs.auction_id }}"
+
+      - name: Verify photo outputs
+        if: steps.retention.outputs.expired != 'true'
+        run: python scripts/verify_photo_outputs.py "${{ inputs.auction_id }}"
+
+      - name: Partition temporary photo artifacts
+        if: steps.retention.outputs.expired != 'true'
         shell: bash
         run: |
-          echo "## Pioneer auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Photo batches: ${{ steps.batches.outputs.batch_count }} (100 lots maximum each)" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Auction close (UTC): ${{ steps.retention.outputs.auction_close }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "- Photo cleanup after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
+          python scripts/partition_photo_artifacts.py "${{ inputs.auction_id }}" \
+            --target-mib 275 \
+            --hard-max-mib 450 \
+            --run-id "$GITHUB_RUN_ID" \
+            --cleanup-at "${{ steps.retention.outputs.cleanup_at }}"
 
-  photos:
-    needs: metadata
-    if: needs.metadata.outputs.expired != 'true' && needs.metadata.outputs.batch_count != '0'
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    strategy:
-      fail-fast: false
-      max-parallel: 2
-      matrix: ${{ fromJSON(needs.metadata.outputs.matrix) }}
-
-    steps:
-      - name: Check out exact auction snapshot
-        uses: actions/checkout@v5
-        with:
-          ref: ${{ needs.metadata.outputs.metadata_ref }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: "3.12"
-
-      - name: Install Pillow
-        run: python -m pip install --upgrade pillow
-
-      - name: Mirror batch ${{ matrix.batch.label }}
-        run: python scripts/mirror_photos.py "${{ inputs.auction_id }}" "${{ matrix.batch.start }}" "${{ matrix.batch.end }}"
-
-      - name: Upload photo batch
+      - name: Upload all-lot review sheets
+        if: steps.retention.outputs.expired != 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ matrix.batch.artifact_name }}
-          path: auctions/${{ inputs.auction_id }}/photo_batches/${{ matrix.batch.label }}/
-          retention-days: ${{ needs.metadata.outputs.retention_days }}
+          name: pioneer-${{ inputs.auction_id }}-review-sheets
+          path: .artifact-staging/${{ inputs.auction_id }}/review-sheets/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
           compression-level: 0
           if-no-files-found: error
 
-      - name: Batch summary
-        shell: bash
-        run: |
-          echo "## Photo batch ${{ matrix.batch.label }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Lots ${{ matrix.batch.first_lot }} through ${{ matrix.batch.last_lot }}" >> "$GITHUB_STEP_SUMMARY"
-          echo "Artifact: ${{ matrix.batch.artifact_name }}" >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload original-photo shard 001
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-001
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-001/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
 
-  retire-monolith:
-    needs: [metadata, photos]
-    if: always() && needs.metadata.result == 'success' && needs.photos.result == 'success'
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+      - name: Upload original-photo shard 002
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-002
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-002/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
 
-    steps:
-      - name: Delete obsolete single photo artifact
+      - name: Upload original-photo shard 003
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-003
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-003/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 004
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-004
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-004/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 005
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-005
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-005/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 006
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-006
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-006/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 007
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-007
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-007/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 008
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-008
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-008/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 009
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-009
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-009/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 010
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-010
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-010/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 011
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-011
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-011/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 012
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-012
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-012/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 013
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-013
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-013/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 014
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-014
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-014/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 015
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-015
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-015/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 016
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-016
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-016/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 017
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-017
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-017/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 018
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-018
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-018/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 019
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-019
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-019/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Upload original-photo shard 020
+        if: steps.retention.outputs.expired != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pioneer-${{ inputs.auction_id }}-photos-020
+          path: .artifact-staging/${{ inputs.auction_id }}/photos-020/
+          retention-days: ${{ steps.retention.outputs.retention_days }}
+          compression-level: 0
+          if-no-files-found: ignore
+
+      - name: Verify temporary artifact uploads
+        if: steps.retention.outputs.expired != 'true'
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          old_name="pioneer-${{ inputs.auction_id }}-photos"
-          gh api "/repos/$GITHUB_REPOSITORY/actions/artifacts?name=$old_name&per_page=100" \
-            --jq ".artifacts[] | select(.name == \"$old_name\") | .id" |
+          set -euo pipefail
+          index="auctions/${{ inputs.auction_id }}/photo-artifact-index.json"
+          mapfile -t expected < <(python - "$index" <<'PY'
+          import json, sys
+          data = json.load(open(sys.argv[1], encoding="utf-8"))
+          print(data["review_sheets"]["artifact_name"])
+          for shard in data["photo_shards"]:
+              print(shard["artifact_name"])
+          PY
+          )
+          mapfile -t actual < <(gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?per_page=100" --jq '.artifacts[].name')
+          for name in "${expected[@]}"; do
+            if ! printf '%s\n' "${actual[@]}" | grep -Fxq "$name"; then
+              echo "Expected temporary artifact is missing: $name" >&2
+              exit 1
+            fi
+          done
+          echo "Verified ${#expected[@]} temporary photo artifacts."
+
+      - name: Commit photo artifact index only
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          index="auctions/${{ inputs.auction_id }}/photo-artifact-index.json"
+          test -s "$index"
+          git add -- "$index"
+
+          if git diff --cached --quiet; then
+            echo "Photo artifact index already current."
+          else
+            git commit -m "Index Pioneer ${{ inputs.auction_id }} temporary photo artifacts"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Photo artifact index committed and pushed."
+                break
+              fi
+              if [[ "$attempt" == "3" ]]; then
+                echo "Failed to publish artifact index after 3 attempts." >&2
+                exit 1
+              fi
+              sleep 5
+            done
+          fi
+
+      - name: Delete superseded photo artifacts from older runs
+        if: steps.retention.outputs.expired != 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          auction_id="${{ inputs.auction_id }}"
+          gh api --paginate "/repos/$GITHUB_REPOSITORY/actions/artifacts?per_page=100" |
+          jq -r --arg auction_id "$auction_id" --argjson current_run "$GITHUB_RUN_ID" '
+            .artifacts[]
+            | select((.workflow_run.id // 0) != $current_run)
+            | select(
+                .name == ("pioneer-" + $auction_id + "-photos")
+                or .name == ("pioneer-" + $auction_id + "-review-sheets")
+                or (.name | startswith("pioneer-" + $auction_id + "-photos-"))
+              )
+            | .id
+          ' |
           while IFS= read -r artifact_id; do
-            [ -n "$artifact_id" ] || continue
-            echo "Deleting obsolete monolithic artifact $artifact_id"
+            [[ -n "$artifact_id" ]] || continue
+            echo "Deleting superseded photo artifact $artifact_id"
             gh api --method DELETE "/repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
           done
+
+      - name: Remove temporary photo workspace
+        if: always()
+        shell: bash
+        run: |
+          rm -rf "auctions/${{ inputs.auction_id }}/photos"
+          rm -rf ".artifact-staging/${{ inputs.auction_id }}"
+
+      - name: Summary
+        if: always()
+        shell: bash
+        run: |
+          echo "## Pioneer auction ${{ inputs.auction_id }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Permanent: metadata and photo-artifact index only." >> "$GITHUB_STEP_SUMMARY"
+          echo "Temporary: review sheets and sharded source-photo artifacts." >> "$GITHUB_STEP_SUMMARY"
+          echo "Target shard size: 275 MiB; hard shard ceiling: 450 MiB." >> "$GITHUB_STEP_SUMMARY"
+          echo "Photo cleanup after (UTC): ${{ steps.retention.outputs.cleanup_at }}" >> "$GITHUB_STEP_SUMMARY"
