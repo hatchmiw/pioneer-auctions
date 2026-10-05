@@ -1,0 +1,4 @@
+# Pioneer/HiBid photos and generated artifact staging are temporary runner data.
+auctions/*/photos/
+auctions/*/photo_batches/
+.artifact-staging/
