@@ -1,59 +1,247 @@
 {
-  "schemaVersion": "1.0",
-  "updater": "Pioneer HiBid Watchlist Bid Updater",
-  "updaterVersion": "1.0.0",
-  "checkedAt": "2026-10-08T07:48:56Z",
+  "schemaVersion": "2.0",
+  "updater": "Pioneer HiBid All-Lot Live Updater (watchlist compatibility view)",
+  "updaterVersion": "2.0.0",
+  "checkedAt": "2026-10-08T07:59:58Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
     "reportedLotCount": 2,
-    "capturedLotCount": 2,
-    "sha256": "b7d9acf47c2812d4a9528e11e3265b732a3fa57297f0d6c1e14bc9ae038e30f9"
+    "capturedLotCount": 2
   },
   "summary": {
     "trackedLots": 2,
-    "retrievedLots": 0,
-    "missingLots": 2,
+    "retrievedLots": 2,
+    "missingLots": 0,
     "activeLots": 0,
-    "closedLots": 0,
-    "changedLotsSincePreviousCheck": 0,
-    "invalidSourceRows": 0
+    "closedLots": 2,
+    "changedLotsSincePreviousCheck": 2
   },
-  "changes": [],
-  "missingLotIds": [
-    "322874070",
-    "323218949"
+  "changes": [
+    {
+      "hibidLotId": "322874070",
+      "lotNumber": "321",
+      "title": "JCPenney 4 In One Stereo System W/Speakers",
+      "auctionId": "779190",
+      "fields": {
+        "highBid": {
+          "from": 3,
+          "to": 11.0
+        },
+        "nextBid": {
+          "from": 4,
+          "to": 0
+        },
+        "bidCount": {
+          "from": 2,
+          "to": 0
+        },
+        "status": {
+          "from": null,
+          "to": "CLOSED"
+        },
+        "timeLeftSeconds": {
+          "from": null,
+          "to": 0
+        },
+        "isClosed": {
+          "from": null,
+          "to": true
+        },
+        "isLive": {
+          "from": null,
+          "to": false
+        },
+        "priceRealized": {
+          "from": null,
+          "to": 11.0
+        },
+        "reserveSatisfied": {
+          "from": null,
+          "to": true
+        }
+      }
+    },
+    {
+      "hibidLotId": "323218949",
+      "lotNumber": "1282",
+      "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
+      "auctionId": "779190",
+      "fields": {
+        "highBid": {
+          "from": 0,
+          "to": 11.0
+        },
+        "nextBid": {
+          "from": 2,
+          "to": 0
+        },
+        "status": {
+          "from": null,
+          "to": "CLOSED"
+        },
+        "timeLeftSeconds": {
+          "from": null,
+          "to": 0
+        },
+        "isClosed": {
+          "from": null,
+          "to": true
+        },
+        "isLive": {
+          "from": null,
+          "to": false
+        },
+        "priceRealized": {
+          "from": null,
+          "to": 11.0
+        },
+        "reserveSatisfied": {
+          "from": null,
+          "to": true
+        }
+      }
+    }
   ],
+  "missingLotIds": [],
   "lots": [
     {
       "lotNumber": "321",
       "title": "JCPenney 4 In One Stereo System W/Speakers",
       "hibidLotId": "322874070",
-      "highBid": 3,
-      "bidCount": 2,
-      "nextBid": 4,
+      "highBid": 11.0,
+      "bidCount": 0,
+      "nextBid": 0,
       "timeRemaining": "6d 8h 41m",
       "url": "https://pioneerauctionservice.hibid.com/lot/322874070/jcpenney-4-in-one-stereo-system-w-speakers",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8431281815&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=uv2AfRdjsQRG2yF%2fZwZBQ16tPhBxtoUg&h=350&w=350",
       "imageMapping": "same-lot-link",
       "cardVerifiedSingleLot": true,
-      "checkedAt": "2026-10-08T07:48:56Z",
-      "retrievalStatus": "missing-from-public-query"
+      "itemId": 179613,
+      "status": "CLOSED",
+      "timeLeft": "",
+      "timeLeftSeconds": 0,
+      "isClosed": true,
+      "isLive": false,
+      "priceRealized": 11.0,
+      "reserveSatisfied": true,
+      "currency": "USD",
+      "auctionId": "779190",
+      "auctionName": "Living Estate of Patricia Freed",
+      "auctionClose": "2026-09-30T18:00:00",
+      "auctioneer": "Pioneer Auction Service",
+      "lotUrl": "https://hibid.com/lot/322874070",
+      "checkedAt": "2026-10-08T07:59:58Z",
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "highBid": {
+          "from": 3,
+          "to": 11.0
+        },
+        "nextBid": {
+          "from": 4,
+          "to": 0
+        },
+        "bidCount": {
+          "from": 2,
+          "to": 0
+        },
+        "status": {
+          "from": null,
+          "to": "CLOSED"
+        },
+        "timeLeftSeconds": {
+          "from": null,
+          "to": 0
+        },
+        "isClosed": {
+          "from": null,
+          "to": true
+        },
+        "isLive": {
+          "from": null,
+          "to": false
+        },
+        "priceRealized": {
+          "from": null,
+          "to": 11.0
+        },
+        "reserveSatisfied": {
+          "from": null,
+          "to": true
+        }
+      },
+      "retrievalStatus": "ok",
+      "sourceSnapshotHighBid": 3,
+      "sourceSnapshotBidCount": 2,
+      "sourceSnapshotNextBid": 4
     },
     {
       "lotNumber": "1282",
       "title": "2 Hand Held Post Hole Diggers, Spade Shovel",
       "hibidLotId": "323218949",
-      "highBid": 0,
+      "highBid": 11.0,
       "bidCount": 0,
-      "nextBid": 2,
+      "nextBid": 0,
       "timeRemaining": "6d 11h 22m",
       "url": "https://pioneerauctionservice.hibid.com/lot/323218949/2-hand-held-post-hole-diggers--spade-shovel",
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8432744724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=pndatSbPKl4RfDwSXVmbdtiKIfm5CZve&h=350&w=350",
       "imageMapping": "same-lot-link",
       "cardVerifiedSingleLot": true,
-      "checkedAt": "2026-10-08T07:48:56Z",
-      "retrievalStatus": "missing-from-public-query"
+      "itemId": 186232,
+      "status": "CLOSED",
+      "timeLeft": "",
+      "timeLeftSeconds": 0,
+      "isClosed": true,
+      "isLive": false,
+      "priceRealized": 11.0,
+      "reserveSatisfied": true,
+      "currency": "USD",
+      "auctionId": "779190",
+      "auctionName": "Living Estate of Patricia Freed",
+      "auctionClose": "2026-09-30T18:00:00",
+      "auctioneer": "Pioneer Auction Service",
+      "lotUrl": "https://hibid.com/lot/323218949",
+      "checkedAt": "2026-10-08T07:59:58Z",
+      "changedSincePreviousCheck": true,
+      "changedFields": {
+        "highBid": {
+          "from": 0,
+          "to": 11.0
+        },
+        "nextBid": {
+          "from": 2,
+          "to": 0
+        },
+        "status": {
+          "from": null,
+          "to": "CLOSED"
+        },
+        "timeLeftSeconds": {
+          "from": null,
+          "to": 0
+        },
+        "isClosed": {
+          "from": null,
+          "to": true
+        },
+        "isLive": {
+          "from": null,
+          "to": false
+        },
+        "priceRealized": {
+          "from": null,
+          "to": 11.0
+        },
+        "reserveSatisfied": {
+          "from": null,
+          "to": true
+        }
+      },
+      "retrievalStatus": "ok",
+      "sourceSnapshotHighBid": 0,
+      "sourceSnapshotBidCount": 0,
+      "sourceSnapshotNextBid": 2
     }
   ]
 }
