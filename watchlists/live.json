@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "updater": "Pioneer HiBid Watchlist Bid Updater",
   "updaterVersion": "1.0.0",
-  "checkedAt": "2026-10-09T09:49:02Z",
+  "checkedAt": "2026-10-09T10:18:31Z",
   "sourceWatchlist": {
     "path": "watchlists/latest.json",
     "exportedAt": "2026-09-24T14:13:02.054Z",
@@ -37,7 +37,7 @@
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8431281815&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=uv2AfRdjsQRG2yF%2fZwZBQ16tPhBxtoUg&h=350&w=350",
       "imageMapping": "same-lot-link",
       "cardVerifiedSingleLot": true,
-      "checkedAt": "2026-10-09T09:49:02Z",
+      "checkedAt": "2026-10-09T10:18:31Z",
       "retrievalStatus": "missing-from-public-query"
     },
     {
@@ -52,7 +52,7 @@
       "imageUrl": "https://cdn.hibid.com/img.axd?id=8432744724&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=pndatSbPKl4RfDwSXVmbdtiKIfm5CZve&h=350&w=350",
       "imageMapping": "same-lot-link",
       "cardVerifiedSingleLot": true,
-      "checkedAt": "2026-10-09T09:49:02Z",
+      "checkedAt": "2026-10-09T10:18:31Z",
       "retrievalStatus": "missing-from-public-query"
     }
   ]
