@@ -45,12 +45,18 @@
   "unique_distinct_contact_sheets_reviewed": 1307,
   "unreviewed_contact_sheets": 0,
   "original_photo_detail_revisited_lots": [
-    "981",
-    "1082",
-    "650",
     "639",
     "640",
-    "641"
+    "641",
+    "650",
+    "981",
+    "1082",
+    "1203",
+    "1204",
+    "1229",
+    "1274",
+    "1281",
+    "1288"
   ],
   "reviewed_lots": [
     "1",
@@ -1777,5 +1783,15 @@
   "run_status": "success",
   "review_checkpoint": "2026-10-18 second continuation",
   "manual_review_scope": "Thumbnail contact sheets for each marked lot visually checked. Most original-resolution photographs not yet individually inspected.",
-  "last_reconciled": "2026-10-18: phase 019a-d inspected all 161 previously outstanding contact sheets, preserve existing marks and counts"
+  "last_reconciled": "2026-10-18: complete 1307/1307 baseline lot contact-sheet reviews, 0 outstanding. 31 additional full-size source photos independently checked across six farm/shop lots, stored in practical-lots-original-detail-2026-10-18.md. New/modified listings and valuation remain follow-ups.",
+  "full_set_original_photo_reviewed_new": {
+    "1203": 6,
+    "1204": 6,
+    "1229": 4,
+    "1274": 5,
+    "1281": 6,
+    "1288": 4
+  },
+  "final_stage1_review_completed": true,
+  "final_stage1_status": "Each of 1307 baseline catalog lots has a distinct manually checked reduced-size per-lot contact sheet. This is NOT all 10331 original-size photographs independently inspected, nor equivalent to test-verified condition, final appraised value, or approval to purchase."
 }
