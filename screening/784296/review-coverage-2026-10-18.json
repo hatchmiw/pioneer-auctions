@@ -22,7 +22,9 @@
     "photo-review-pass-010.csv": 83,
     "photo-review-pass-010a.csv": 30,
     "photo-review-pass-010b.csv": 30,
-    "photo-review-pass-010c.csv": 13
+    "photo-review-pass-010c.csv": 13,
+    "photo-review-pass-011a.csv": 43,
+    "photo-review-pass-011b.csv": 47
   },
   "unique_distinct_contact_sheets_reviewed": 436,
   "unreviewed_contact_sheets": 871,
@@ -486,7 +488,9 @@
     "photo-review-pass-010.csv": "0ec3040a1cc230eaf720db09d77a336c22d282c7",
     "photo-review-pass-010a.csv": "9cbbf631c50d5b77fbd49687fbb90e699ef8d73f",
     "photo-review-pass-010b.csv": "a0802bab2dfaf66dbd998c3a643ca7cd9ca1e6da",
-    "photo-review-pass-010c.csv": "91c858b4a373c3af7609a15a668d5eea68b7f2f0"
+    "photo-review-pass-010c.csv": "91c858b4a373c3af7609a15a668d5eea68b7f2f0",
+    "photo-review-pass-011a.csv": "82b29c2e02f4490d245316e300258c90bb00e2bf",
+    "photo-review-pass-011b.csv": "2fb3f1c83544b123c250d0edb069a968675548ac"
   },
   "reviewed_lot_source_files": {
     "2": [
@@ -867,5 +871,5 @@
   "run_status": "success",
   "review_checkpoint": "2026-10-18 second continuation",
   "manual_review_scope": "Thumbnail contact sheets for each marked lot visually checked. Most original-resolution photographs not yet individually inspected.",
-  "last_reconciled": "2026-10-18; through pass 010c and prior existing 010"
+  "last_reconciled": "2026-10-18; through pass 011b; index extended preserving previous coverage."
 }
