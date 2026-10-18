@@ -145,5 +145,381 @@
     "photo-review-pass-002.csv": "f932e28a56d3bc936efaeb4237f0f6e84d1c2767",
     "photo-review-pass-003.csv": "4188035471aba80ade7f0e6350b377492687fb9b",
     "photo-review-pass-004.csv": "cab4dd5bfb9e62e64350db5397bf0f13aec32dc6"
+  },
+  "reviewed_lot_source_files": {
+    "2": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "3": [
+      "photo-review-batch-002.md"
+    ],
+    "4": [
+      "photo-review-batch-001.md"
+    ],
+    "5": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "6": [
+      "photo-review-batch-001.md"
+    ],
+    "7": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "8": [
+      "photo-review-pass-003.csv"
+    ],
+    "9": [
+      "photo-review-batch-002.md"
+    ],
+    "10": [
+      "photo-review-batch-002.md"
+    ],
+    "21": [
+      "photo-review-pass-003.csv"
+    ],
+    "84": [
+      "photo-review-pass-004.csv"
+    ],
+    "85": [
+      "photo-review-pass-004.csv"
+    ],
+    "86": [
+      "photo-review-pass-004.csv"
+    ],
+    "89": [
+      "photo-review-pass-004.csv"
+    ],
+    "209": [
+      "photo-review-pass-004.csv"
+    ],
+    "212": [
+      "photo-review-pass-004.csv"
+    ],
+    "697": [
+      "photo-review-pass-004.csv"
+    ],
+    "698": [
+      "photo-review-pass-004.csv"
+    ],
+    "725": [
+      "photo-review-pass-004.csv"
+    ],
+    "764": [
+      "photo-review-pass-004.csv"
+    ],
+    "795": [
+      "photo-review-pass-004.csv"
+    ],
+    "811": [
+      "photo-review-pass-004.csv"
+    ],
+    "814": [
+      "photo-review-pass-004.csv"
+    ],
+    "857": [
+      "photo-review-pass-004.csv"
+    ],
+    "951": [
+      "photo-review-pass-004.csv"
+    ],
+    "959": [
+      "photo-review-batch-001.md"
+    ],
+    "960": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "961": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "964": [
+      "photo-review-pass-003.csv"
+    ],
+    "978": [
+      "photo-review-pass-003.csv"
+    ],
+    "981": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "983": [
+      "photo-review-batch-002.md"
+    ],
+    "984": [
+      "photo-review-pass-003.csv"
+    ],
+    "985": [
+      "photo-review-pass-003.csv"
+    ],
+    "986": [
+      "photo-review-pass-003.csv"
+    ],
+    "987": [
+      "photo-review-pass-003.csv"
+    ],
+    "990": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "992": [
+      "photo-review-pass-003.csv"
+    ],
+    "998": [
+      "photo-review-batch-002.md"
+    ],
+    "1005": [
+      "photo-review-pass-003.csv"
+    ],
+    "1011": [
+      "photo-review-pass-004.csv"
+    ],
+    "1015": [
+      "photo-review-pass-004.csv"
+    ],
+    "1017": [
+      "photo-review-pass-004.csv"
+    ],
+    "1036": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1037": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1040": [
+      "photo-review-batch-001.md"
+    ],
+    "1041": [
+      "photo-review-batch-002.md"
+    ],
+    "1042": [
+      "photo-review-batch-002.md"
+    ],
+    "1043": [
+      "photo-review-batch-001.md"
+    ],
+    "1044": [
+      "photo-review-batch-002.md"
+    ],
+    "1046": [
+      "photo-review-pass-002.csv"
+    ],
+    "1047": [
+      "photo-review-pass-002.csv"
+    ],
+    "1048": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1049": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1050": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1051": [
+      "photo-review-pass-002.csv"
+    ],
+    "1052": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1053": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1054": [
+      "photo-review-pass-003.csv"
+    ],
+    "1055": [
+      "photo-review-pass-002.csv"
+    ],
+    "1056": [
+      "photo-review-pass-002.csv"
+    ],
+    "1057": [
+      "photo-review-pass-004.csv"
+    ],
+    "1059": [
+      "photo-review-pass-003.csv"
+    ],
+    "1063": [
+      "photo-review-pass-003.csv"
+    ],
+    "1064": [
+      "photo-review-pass-002.csv"
+    ],
+    "1065": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1067": [
+      "photo-review-pass-004.csv"
+    ],
+    "1068": [
+      "photo-review-pass-003.csv"
+    ],
+    "1069": [
+      "photo-review-pass-004.csv"
+    ],
+    "1070": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1071": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1072": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1073": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1074": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1076": [
+      "photo-review-pass-003.csv"
+    ],
+    "1077": [
+      "photo-review-pass-003.csv"
+    ],
+    "1078": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1079": [
+      "photo-review-pass-003.csv"
+    ],
+    "1080": [
+      "photo-review-pass-003.csv"
+    ],
+    "1082": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1083": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1121": [
+      "photo-review-pass-003.csv"
+    ],
+    "1123": [
+      "photo-review-pass-004.csv"
+    ],
+    "1132": [
+      "photo-review-pass-001.csv"
+    ],
+    "1133": [
+      "photo-review-pass-002.csv"
+    ],
+    "1139": [
+      "photo-review-pass-002.csv"
+    ],
+    "1146": [
+      "photo-review-pass-002.csv"
+    ],
+    "1152": [
+      "photo-review-pass-004.csv"
+    ],
+    "1157": [
+      "photo-review-pass-003.csv"
+    ],
+    "1167": [
+      "photo-review-pass-003.csv"
+    ],
+    "1168": [
+      "photo-review-pass-003.csv"
+    ],
+    "1200": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1201": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1202": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-002.csv"
+    ],
+    "1203": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1204": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1222": [
+      "photo-review-pass-003.csv"
+    ],
+    "1223": [
+      "photo-review-pass-002.csv"
+    ],
+    "1238": [
+      "photo-review-pass-003.csv"
+    ],
+    "1240": [
+      "photo-review-pass-004.csv"
+    ],
+    "1263": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1264": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1266": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1267": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1268": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1273": [
+      "photo-review-pass-004.csv"
+    ],
+    "1275": [
+      "photo-review-batch-002.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1276": [
+      "photo-review-pass-004.csv"
+    ],
+    "1277": [
+      "photo-review-pass-004.csv"
+    ],
+    "1278": [
+      "photo-review-pass-002.csv"
+    ],
+    "1281": [
+      "photo-review-batch-001.md",
+      "photo-review-pass-001.csv"
+    ],
+    "1283": [
+      "photo-review-pass-002.csv"
+    ],
+    "1286": [
+      "photo-review-batch-002.md"
+    ]
   }
 }
