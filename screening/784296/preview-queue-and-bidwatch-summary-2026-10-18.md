@@ -1,0 +1,11 @@
+# Pioneer #784296 — reviewed-candidate bidwatch and preview queue
+
+**Evidence snapshot:** 2026-10-18T17:07:13Z. 38 focused lots; each current high bid, next bid, lot URL, buyer premium and approximate sequential soft-close time is in `candidate-bidwatch-2026-10-18T170713Z.csv`. Baseline stage complete (1307/1307 contact sheets). **No bids or purchases authorized.**
+
+- **19** candidates have documented **previously tentative** untested hammer planning figures; **5** already have the next allowed bid exceeding those cautious figures (9, 1034, 1049, 1070, 1204). **19** have no honest untested maximum and need more evidence. A remaining low-bid flag is NOT a recommendation to buy.
+- Conservatism: all figures are *hammer only*, tax/transport/repair/premium additional. Time estimates based on the 17:07Z snapshot countdown; may move under auction extensions. Auction closes sequentially beginning Oct 21 6pm EDT.
+- **Photo-based correction (important):** lot **1034** is labelled “shipping blankets” on a tote but shows patterned cloth instead of identifiable quilted moving pads. It has been designated **UNVERIFIED CONTENTS / $0 until the contents are inspected**, whereas lot **1035** visibly contains quilted moving pads.
+- **Shop-tool model correction:** lot 1048 is specifically DeWalt **DW106 TYPE 2 3/8 VSR** and Craftsman **315.101280 1/2 inch**, both visually intact-looking but not powered on. Exact-model sold evidence in `shop-tools-and-farm-supplies-original-photo-audit-2026-10-18.md`.
+- **Farmer's best value checks at preview:** 1281 yard cart, 1274 garden hose cart, 1288 totes, 1048 drills, 1053 clamps, 1050 grinder guard, 1035 moving pads. Spot-check original photos/loads before any decision.
+- **Safety/fit holds:** 1203 long-ram hoist frame unrated; 1204 saw safety components missing/unproven; 2 zero turn hydro, 3 Suzuki title/mechanical, 981 generator electrical load, 811 Delta faucet centerset fit, 641 graphophone horn and reproducer, 639/640 intact wax records, 114 Omega authenticity.
+- Scheduled all-lot updater at 2026-10-18T17:07:13Z reported 1307 open lots. Metadata/lot-title and HiBid stable IDs match baseline exactly, but **photo and freeform-description changes remain unaudited** (see `live-vs-baseline-catalog-audit-2026-10-18T170713Z.md`).
