@@ -29,10 +29,11 @@
     "photo-review-pass-012.csv": 28,
     "photo-review-pass-013.csv": 46,
     "photo-review-pass-012b.csv": 46,
-    "photo-review-pass-014.csv": 63
+    "photo-review-pass-014.csv": 63,
+    "photo-review-pass-015.csv": 10
   },
-  "unique_distinct_contact_sheets_reviewed": 722,
-  "unreviewed_contact_sheets": 585,
+  "unique_distinct_contact_sheets_reviewed": 732,
+  "unreviewed_contact_sheets": 575,
   "original_photo_detail_revisited_lots": [
     "981",
     "1082",
@@ -167,28 +168,38 @@
     "227",
     "228",
     "229",
+    "229B",
     "230",
     "231",
     "232",
+    "233",
+    "234",
     "235",
     "236",
     "237",
     "238",
     "239",
+    "240",
     "241",
     "242",
+    "243",
     "244",
     "245",
+    "245B",
     "246",
     "247",
     "248",
+    "249",
     "250",
+    "251",
     "252",
     "253",
     "254",
     "255",
+    "256",
     "257",
     "258",
+    "259",
     "260",
     "261",
     "262",
@@ -788,7 +799,8 @@
     "photo-review-pass-012.csv": "81fe250edaa85b83421a4cd293dab089cc11a7fe",
     "photo-review-pass-013.csv": "63d7fe468a70812502502d8174384aa1876f11da",
     "photo-review-pass-012b.csv": "a4a5d49d4d0f48413088dbd54612fad883354f32",
-    "photo-review-pass-014.csv": "af83eb719dcd94c39e5bc93582da72beaf3550dc"
+    "photo-review-pass-014.csv": "af83eb719dcd94c39e5bc93582da72beaf3550dc",
+    "photo-review-pass-015.csv": "e1e76b492453b260e2f74ea45bf49ccd9d7c39f0"
   },
   "reviewed_lot_source_files": {
     "2": [
@@ -1169,5 +1181,5 @@
   "run_status": "success",
   "review_checkpoint": "2026-10-18 second continuation",
   "manual_review_scope": "Thumbnail contact sheets for each marked lot visually checked. Most original-resolution photographs not yet individually inspected.",
-  "last_reconciled": "2026-10-18 through pass 014; precise reviewed indices matched with Stage 1."
+  "last_reconciled": "2026-10-18 through visual pass 015; all review counts unique, no duplicates"
 }
