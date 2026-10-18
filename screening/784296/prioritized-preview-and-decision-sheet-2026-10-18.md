@@ -42,3 +42,15 @@ Numbers reflect buyer-side project utility, not a statement of resale market pri
 - Lodge maker pricing: https://www.lodgecastiron.com/collections/gifts-under-50/products/10-25-inch-seasoned-cast-iron-smokey-bear-skillet
 - Type AT bundled sold comp: https://www.clevedonsalerooms.com/auction/lot/lot-395---two-early-20th-century-phonographs/?lot=49362
 - Official auction terms: https://hibid.com/auction/784296/richard-and-kathy-duynslager-living-trust
+
+
+## October 18 late photo audit: extra practical alternatives
+The original-photo shard 004 has now been reopened and **70 source JPGs across 12 already-reviewed lots** displayed in review grids, with select pictures enlarged individually. This strengthens the alternatives list:
+- **1055**: actual orange RIDGID 18-inch + Craftsman 14-inch pipe wrenches; verify worms/teeth. Prefer **$5-8 hammer**, conditional stop **$12**. **1054** has two more worn/unbranded ones; prefer **$3-5**, conditional stop $8. Pick the best set, not both by default.
+- **1056**: three complete-looking old C-clamps, alternative to mixed welding fixtures **1053**. Prefer **$4-7**, up to ~$10 if all screw pads run true. No automatic duplicate purchase.
+- **1077**: two JIFFY JS-1 sawhorse-bracket boxes, **1 pair each** printed, but actual brackets not counted. Ideal for portable lumber sawhorses if complete; **$4-6** only after verifying contents, up to ~$8-10 if all four brackets present.
+- **1057**: gray **HDX-marked tool** really is pictured with six other pliers/adjustables; prior suggestion no specialty tool was pictured was overconfident. Exact locknut fit not proved. **$3-6** if joints freely move; ~$8-10 if fully sound.
+- **985/986/1069**: inexpensive hardware, irrigation/plumbing-assortment and saw-guide/bit consumables; verify exact use before even a small bid.
+- **981**: old 3500W Sears / Craftsman 8HP generator remains a **do-not-buy-untested** item due duplication and electrical/mechanical risk.
+- **1076** aged extension cords are *not* presumed adequate for camper shore power.
+Full individual lot audit with evidence limitations: [source-photo-tool-batch-audit-2026-10-18.md](./source-photo-tool-batch-audit-2026-10-18.md). No fresh lot-level bid values were extracted in that photo pass. **No bids authorized.**
