@@ -10,7 +10,7 @@ Columns: current high / next, prior *as-is* provisional cap, higher budget **onl
 | [1048](https://hibid.com/lot/325871521) DeWalt + Craftsman corded drills | Shop | $2 → $3 | $12 | $28 | within asis budget not approval |
 | [1053](https://hibid.com/lot/325871526) Clamps and welding fixtures | Shop | $0 → $2 | $12 | $20 | within asis budget not approval |
 | [1055](https://hibid.com/lot/325871528) Craftsman + RIDGID pipe wrenches | Plumbing/shop | $6 → $7 | — | $18 | no safe asis cap |
-| [1034](https://hibid.com/lot/325871507) Shipping blankets tote A | Farm/shop | $5 → $6 | $8 | — | within asis budget not approval |
+| [1034](https://hibid.com/lot/325871507) Unverified tote contents (shipping-blanket label) | Farm/shop | $5 → $6 | — | — | no safe asis cap; inspect contents |
 | [1035](https://hibid.com/lot/325871508) Shipping blankets tote B | Farm/shop | $6 → $7 | $8 | — | within asis budget not approval |
 | [1274](https://hibid.com/lot/325871748) Hose reel + loose hose | Farm/garden | $0 → $2 | $12 | — | within asis budget not approval |
 | [1288](https://hibid.com/lot/325871762) Mixed storage tubs | Farm/shop | $4 → $5 | $15 | — | within asis budget not approval |
@@ -33,7 +33,7 @@ Columns: current high / next, prior *as-is* provisional cap, higher budget **onl
 | [670](https://hibid.com/lot/325567034) Sterilite tall cabinet | Shop | $35 → $36 | — | $30 | no safe asis cap |
 | [981](https://hibid.com/lot/325567654) Sears 3500W generator | Farm/backup | $3 → $4 | — | — | no safe asis cap |
 | [2](https://hibid.com/lot/325565507) Exmark zero-turn | Farm/major equipment | $600 → $650 | — | — | no safe asis cap |
-| [641](https://hibid.com/lot/325566974) Columbia Graphophone Type AT | Exception resale | $6 → $7 | $40 | $75 | within asis budget not approval |
+| [641](https://hibid.com/lot/325566974) Columbia Graphophone Type AT | Exception resale | $6 → $7 | $35 | $75 | within asis budget not approval |
 | [639](https://hibid.com/lot/325566972) Edison cylinder tubes and case | Exception resale | $6 → $7 | $15 | $35 | within asis budget not approval |
 | [640](https://hibid.com/lot/325566973) Edison record cylinders and case | Exception resale | $5 → $6 | $8 | $25 | within asis budget not approval |
 | [721](https://hibid.com/lot/325567138) Masters of the Universe vintage figures | Exception resale | $21 → $22 | — | — | no safe asis cap |
@@ -43,7 +43,7 @@ Columns: current high / next, prior *as-is* provisional cap, higher budget **onl
 | [114](https://hibid.com/lot/325565760) Square Omega watch with 14K clasp-looking mark | Exception resale | $76 → $77 | — | — | no safe asis cap |
 | [438](https://hibid.com/lot/325566581) Burberry-style handbag | Exception resale | $56 → $57 | — | — | no safe asis cap |
 
-**Evidence warnings:** #1203 jack label is not whole hoist frame load rating; #1204 saw guard/splitter uncertain; #641 may be incomplete; #640 photographed broken cylinder; #721 vintage authenticity/parts uncertain; #114 and #438 no appraisal/authentication. Do not chase competition.
+**Evidence warnings:** #1203 jack label is not whole hoist frame load rating; #1204 saw guard/splitter uncertain; #641 may be incomplete; #640 photographed broken cylinder; #721 vintage authenticity/parts uncertain; #114 and #438 no appraisal/authentication. Do not chase competition. **Correction:** #1034 photographs show multicolor patterned cloth in a tote whose lid says shipping blankets; do **not** treat as authentic moving pads. #1035, unlike #1034, visibly contains quilted pads. Graphophone #641 lower uninspected ceiling refined to $20–35 in more recent evidence.
 **Financial check:** Auctioneer buyer premium = 10% cash/check or 13% credit/debit **before applicable tax, fuel, cleanup and repair**. The companion CSV computes next bid plus premium only, to avoid hiding transaction costs.
 **Catalog-integrity cross-check:** all 1,307 current live `lotNumber`, HiBid ID, and `title` values matched the permanent Oct 18 `summary.csv` baseline exactly; **0 added/removed/renamed records detected in those fields**. This does NOT compare descriptions or photo hashes and the website still warns that more lots may be added. The updater's changed-lot metric counts countdown timer changes and should not be misread as actual catalog changes.
 **Next actions:** If actual purchase consideration arises, independently inspect relevant original-size images and in-person function, do exact-model sold-comparable research, verify every item's next bid near closing, and preserve price-history after auction. No purchase commitment inferred.
