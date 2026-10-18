@@ -43,3 +43,16 @@
 3. Reconcile seller listing changes/photos vs Oct 18 immutable snapshot. Official HiBid displays 1,307 at latest available online view and a generic "more lots" warning; matching count does not prove unchanged photos and descriptions.
 4. Refine true practical/exceptional items against **real SOLD** comparables, exact model, completeness, buyer premium, tax, pickup, repair and user overlap before setting a *final* Bargain / Good Buy / Absolute Max.
 5. **Do not place any bids or purchases**, or infer the user will attend preview.
+
+
+## October 18 original-photo update — hidden resale and machinery IDs
+
+Separate follow-up audited grids spanning **83 original seller JPGs across ten already-reviewed lots** (four files independently magnified). Details and source-specific limits in `selected-original-photo-practical-and-motu-audit-2026-10-18.md` (commit fceb4cce). None of these lots adds to the 1307/1307 baseline contact-sheet count.
+
+- **NEW exceptional-bargain resale preview: 721**, photographed approximately 23 MOTU-style figures, loose accessories, illustrated creature and **two Fantasy Creatures action-figure collector cases**. Identity/limbs/vintage/complete accessories must be checked; mixed-market sales of comparable vintage lots are wide ($59.95–$174.95 for various collections), and a $600 Michigan auction outlier should not set expectations. Archived baseline high bid **$18**, not current. **Tentative as-is risk budget $35–50 hammer IF original figures structurally sound**; $0–25 if missing arms/parts/not authenticated. Only consider $60–75 after examination demonstrating vintage and completeness; not authorization to buy. This is **resale only if genuinely exceptional**.
+- **1049 catalog mislabelled “6 Inch Bench Grinder”: original motor badge actually says “8 Inch Bench Grinder” (appears KMC)**. Confirm wheel guards/rests, electrical operation, wheel cracks, bearings, safety before any use. No-test value near $0–10; old high bid already $12 at baseline.
+- **697 Kenmore upright freezer** model 263.28042809, factory label dated **11-2013**, untested refrigeration. Large/transport-intensive; no buy without proving continuous ~0°F interior and real user need. **698 GE fridge** model GTS18FBSARWW, untested, not camper's installed fridge.
+- **1037 large black coil** original images still do not prove it is electrical cable or usable tubing (seller labels “wire”). Do not value absent material marking and verified conductor or bore. **764 Oster food grinder** seems to lack proof of all auger/blade/feeding components. **1132** is a squirrel-size *Bonus Trap* cage, **not adequate by assumption for farm cat TNR**.
+- **670** Sterilite storage cabinet, baseline high bid $35 versus tentative cap $30; do not chase when 680–684 provide alternatives. **1052** portable B&D jigsaw plus Inflator 200 require power/pressure tests; **1073** small toolbox has heavy corrosion and interiors are nearly empty.
+
+The priority practical check order remains **1281, 1048, 1035, 1053** before collector speculation. Add **721** to the preview queue *only after* those basic utility inspections. Before pursuing any of these, refresh bid snapshot/soft-close, fees, pickup and buyer's actual fit.
