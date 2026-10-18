@@ -6,7 +6,7 @@
 - Native GitHub Action **39133274951** succeeded on Oct 18; permanent catalog snapshot has **1,307 lots, 10,331 referenced photos**, 1,307 per-lot visual contact sheets, five mirror-photo archives. No re-export or prior assessment reset is recommended just to repeat work.
 - The authoritative `stage1_title_category_2026-10-18.csv` and `review-coverage-2026-10-18.json` now agree that **1,307/1,307 baseline contact sheets** have been visually reviewed. **Zero baseline contact sheets remain**.
 - This is **not a full-resolution photo examination** for all source images, nor mechanical tests, complete sold comps, or appraised maximum hammer prices.
-- Public HiBid index available Oct 18 says **1,307 lots**, matching baseline count. **Matching count does not prove identical HiBid IDs, photo contents, descriptions, or removal/addition swaps**; maintain change watch and archive the original state.
+- Public HiBid index available Oct 18 says **1,307 lots**, matching baseline count. **An earlier 20:04Z *all-row* updater reconciliation confirmed zero new, removed, renamed or re-ID'd lots against the baseline; matching that data still cannot prove identical photo contents or listing descriptions**; maintain change watch and archive the original state.
 - GitHub scheduled all-lot updater success run **39166747663** (Oct 18, 21:11:49 UTC). Retrieved `live.json` at Git blob SHA `4bd26058b57c7118ecd08e514e314940649ef049`; file's own `checkedAt` **21:12:03 UTC**, reports 1,307 active and zero closed lots. Its 1,307 'changedLotsSincePreviousCheck' includes timers and is **not proof 1,307 actual price changes**.
 
 ## Personal-use shortlist — exact 21:12Z next bids, provisional ceilings
@@ -17,7 +17,7 @@
 | **1048** | Corded DeWalt + Craftsman drills | $2 / **$3** | $12 | **$28** after both motor/cord/chuck tests. |
 | **1053** | Clamps and welding toggle fixtures | $0 / **$2** | $12 | **$20** if pivots/screws straight. |
 | **1274** | Garden hose cart + separate coil | $0 / **$2** | — | ~$12 only if reel and hose sound; do not assume hose is installed. |
-| **1035** | Moving blankets in tote | $6 / **$7** | — | ~$8 only if clean and multiple usable pads; already near tentative cap. |
+| **1035** | Verified-looking blue/gray quilted moving pads | $6 / **$7** | $8 | Count actual pads, check mildew/tears; next bid is near untested budget. |
 | **1288** | Assorted storage totes and loose lids | $4 / **$5** | — | ~$15 only if sufficient matching lids and clean, sound bins. |
 | **1229** | Garden loppers/axe/scythe | $0 / **$2** | — | ~$12 only if handles safe and useful tools can be restored. |
 | **1050** | Craftsman angle grinder | $5 / **$6** | $10 | Up to $23 *only if functional and safety guard/handle verified*. |
@@ -32,10 +32,10 @@ These are **provisional hammer-side spend budgets from earlier evidence**, not g
 
 | Lot | Current high/next at 21:12Z | Why potentially special | Mandatory proof before advancing |
 | --- | ---: | --- | --- |
-| **641** Columbia Graphophone **Type AT** | $6 / $7 | Distinctive vintage phonograph, independent past *realized auction* comparables exist. | Horn is not pictured; motor, crank, reproducer, stylus, feed and speed all unverified. Preliminary $25–40 bargain, **$75 absolute only under conditional inspection**; not automatic authorization. |
+| **641** Columbia Graphophone **Type AT** | $6 / $7 | Distinctive vintage phonograph with selected realized auction comparables. | Horn not pictured; motor, crank, reproducer, stylus, feed/speed all unverified. **Revised cautious no-test budget $20–35 hammer** given hornless sold comparable; prior $75 is only a conditional higher ceiling after important components/operation and repair economics are verified. |
 | **639** Edison Gold Moulded wax cylinders | $6 / $7 | Some genuine Edison cardboard sleeves; collectors market. | Count actual intact playable records not sleeves. $15 as-is conditional prior budget, potentially $35 if records proven. |
 | **640** More Edison cylinders | $5 / $6 | Potential parts/record collectors lot. | At least one visibly broken wax cylinder in original photos, don't treat 25–30 sleeve positions as 25–30 good records; cautious $8 prior figure. |
-| **721** Masters of the Universe toy figures | $23 / $24 | About 23 MOTU-style action figures with vintage-like cases/accessories pictured. | Prove genuine make/year/complete limbs. Prior high uncertainty $35–50 as-is *if authentic intact*; otherwise $0–25. Resale listing/part sorting time meaningful. |
+| **721** Masters of the Universe toy figures | $23 / $24 | Roughly 23 MOTU-style figures with vintage-like cases/accessories pictured. | More recent sold-comparable audit limits cautious as-is budget to **$25–35** if genuine and substantially intact; if incomplete/reproductions, $0–15/pass. Higher **$50–60** only if verified in-person vintage and completeness. |
 | **489** Sega Genesis Model 1 and games | $21 / $22 | Potential complete working retro game bundle. | Need console power/video/audio, correct adapter, controllers, actual cartridges; provisional $20–30 as-is, $35–45 tested. |
 | **114** Omega-labeled square watch | $76 / $77 | Possible watch/metal content anomaly. | **No safe photo-only value**; professional authenticity, movement, case composition, metal assay necessary. |
 | **438** Burberry-style bag | high baseline $56 (not repriced here) | Branded textiles occasionally collectible. | Authentication first. Counterfeits common; passing may be best. |
@@ -43,7 +43,7 @@ These are **provisional hammer-side spend budgets from earlier evidence**, not g
 ## Inspection order and unresolved dependencies
 1. Prioritize **1281, 1048, 1053, 1035, 1274, 1288 and 1229** for near-term in-person preview if personally attending. Record *working status and measurable defects*, not merely "looks good." If preview infeasible, keep as-is price discipline or do not bid.
 2. Only after that consider **641, 639, 640, 721 and 489** for exceptional-bargain resale. Specialty fragile phonograph pieces are not guaranteed intact and require careful pickup/packing.
-3. **No final exact sold-price matrix for every survivor**; previous research shows select realized comparable examples. Avoid combining listed/asking prices with realized values. For riskier items no cap was assigned.
+3. **PHOTO WARNING #1034:** the tote lid says shipping blankets, but the visible material is patterned cloth, not obviously mover pads. No justified hammer ceiling until contents actually verified. **#5 SnowFlite** next bid $22 already exceeds the previously reasoned even-if-working $12 price, so pass at snapshot price. **No final exact sold-price matrix for every survivor**; previous research shows select realized comparable examples. Avoid combining listed/asking prices with realized values. For riskier items no cap was assigned.
 4. Obtain fresh bid/next-bid state immediately before any decision; previous source snapshot time is preserved and will age. Soft-close extension and actual lot close can shift.
 5. Reconcile catalog updates by unique HiBid IDs and photo/description signatures without rerunning completed contact-sheet analysis. This is still **unverified**.
 6. **No bids or purchases authorized, placed or requested**; user need not attend preview.
