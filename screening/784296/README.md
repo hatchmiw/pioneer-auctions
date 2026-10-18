@@ -1,26 +1,34 @@
-# Pioneer Auction 784296 — review status and resumability (2026-10-18)
+# Pioneer Auction 784296 — state at 2026-10-18
 
-## Immutable baseline
-- Auction: **Richard & Kathy Duynslager Living Trust**; Pioneer Auction Service, HiBid ID **784296**.
-- The **existing** GitHub Actions `run-pioneer-auction.yml` was launched through `auction-requests/784296.txt` and the existing bootstrap dispatcher. Run **39133274951** finished **success**: https://github.com/hatchmiw/pioneer-auctions/actions/runs/39133274951
-- Catalog snapshot **2026-10-18T13:50:28Z**: **1,307** lots, **10,331** listing-photo references. Confirmed six retained Actions artifacts: **one artifact with 1,307 per-lot review contact sheets**, **five original-photo ZIP shards**. The workflow reported zero photo-mirror failures. This is a baseline, not proof the auctioneer won't add/change lots.
-- Original-photo shards have automatic cleanup scheduled around **Oct 28 at 6pm EDT**, so do not rely on them being permanent.
-- Newer automated `Update All Pioneer Lot Bids` jobs have been observed completing successfully Oct 18 (latest observed run 39142551210); the recorded catalog `live.json` should be re-read before using prices. Neither past bids nor asks are reliable comparable **sold** prices.
-- Buyer premium: **10% cash/check, 13% card**, plus any tax, pickup and repair. The sale begins **Wed Oct 21 at 6pm EDT** with individual soft close; preview is **Mon Oct 19 4–6pm**, pickup Fri Oct 23 4–6pm / Sat Oct 24 9–11am, **2720 E Weidman Rd, Rosebush MI**. Verify terms again prior to decisions.
+## Verified action / catalog
+- Auction: **Richard and Kathy Duynslager Living Trust**. Repo: `hatchmiw/pioneer-auctions`; main action `.github/workflows/run-pioneer-auction.yml`.
+- GitHub Actions `Run Pioneer Auction` run **39133274951** (created through existing `auction-requests/784296.txt` bootstrap path) **completed successfully**, not blocked. https://github.com/hatchmiw/pioneer-auctions/actions/runs/39133274951
+- Immutable baseline catalog exported **2026-10-18T13:50:28Z**: **1,307 lots**, **10,331 photo references**, full mirrored listing original photos reported with **0 failures**, **1,307 lot-by-lot contact/review sheets**, five original-photo ZIP artifact shards.
+- Temporary GitHub Actions photo artifacts auto-clean up around **October 28, 2026, 6pm EDT**. GitHub repository catalog, CSV review notes and audit files are durable; the original full-size photos in Actions artifacts are **not** durable.
+- Scheduled `Update All Pioneer Lot Bids` and `Update Watchlist Bids` runs have completed successfully on October 18 (last personally checked All Bids run **39144017021**, completed success). Refresh `live.json` before using bids; any earlier bid number is a *timestamped observation*, not verified live and not a market comp.
+- Official HiBid catalog and public index both displayed **1,307 lots** when checked October 18. Auctioneer still has a generic "More lots coming soon" notice; **lot count match does not prove IDs, descriptions or photographs are unchanged.** Do not erase prior reviewed lots merely to refresh catalog.
 
-## Work fully preserved on main
-- All **1,307 / 1,307** catalog titles/categories received permissive routing, not final appraisal.
-- **722 unique lots** had their **individual reduced-resolution contact sheets** visually examined, **585 remain**. Count reconciled in `review-coverage-2026-10-18.json`, with the list of all individually reviewed lot IDs and the hashes of review-pass sources.
-- Reviews are in `photo-review-batch-001.md`, `photo-review-batch-002.md`, plus `photo-review-pass-001.csv` onward through `photo-review-pass-014.csv`, including lettered passes. Each reviewed lot records photo evidence/identity, practical utility and unresolved condition/completeness; many are dismissed as bulky or low-fit home decor without spending resale research time. These are **thumbnail reviews**; they do not establish that all original-resolution images were inspected or that items work.
-- At least **five** lots have original images separately examined in detail: `650` Lodge Smokey skillet; `981` old Sears generator; `1082` Craftsman lawn-tractor lift-kit manual; `639` and `640` Edison cylinder records. The separate `edison-cylinder-original-audit-2026-10-18.md` audits **7 full-size photographs for 639** and **9 for 640**, including visibly damaged records in 640 and several relevant SOLD comparable records.
-- `preliminary-risk-adjusted-maxima-2026-10-18.md` includes thirteen conditional, conservative hammer figures with tested/untested distinctions and source notes; `all-reviewed-lots-live-snapshot-2026-10-18.csv` was created earlier with only **113** reviewed lots, so **DO NOT mistake that older snapshot for current complete review coverage or current bids**.
-- Other important catalog correction flags: lot **1133** is corded/electric, not gasoline-fueled; lot **1082** a lawn tractor model accessory, not a Kubota tractor implement; lot **1071** photos show a tire-chain BOX but do not prove chains present; lot **1037** title says wire but actual coiled material not identified. Safety-critical hoists/jacks, gas heaters, vintage extinguisher and used helmets require non-photo checks and can be no-bids. No purchases/bids made.
+## Completed stage — every lot's contact sheet
+- **1,307 / 1,307 distinct listed lots** have now been **individually visually screened using the available reduced-resolution per-lot photographic contact sheets**, across `photo-review-batch-001.md`/002 and `photo-review-pass-001.csv` through **019d**. The master `stage1_title_category_2026-10-18.csv` and `review-coverage-2026-10-18.json` reconcile exactly with **zero unreviewed contact-sheet lots**. All 1,307 catalog titles/categories had a separate initial permissive keyword pass.
+- Photos in contact sheets are lower-resolution grouped previews. **Completing all contact sheets does NOT mean all 10,331 original-resolution listing photos were independently reviewed.** Nor are the equipment's operation, safe load rating, exact identity, completeness, market sold value or final bid maxima proven. Many low-fit seasonal, glassware, clothing, generic jewelry and bulky decor lots were triaged rather than independently valued.
+- Original-resolution detail source photography was separately audited in several notes, including lots **639, 640** (Edison wax records), **641** (Columbia Graphophone Type AT), **650** (Lodge Smokey Bear skillet), **981** (Sears generator), **1082** (Craftsman lift accessory), and all original-size JPEGs for **1203, 1204, 1229, 1274, 1281, 1288** (**31** full-size photos across six practical lots). See `edison-cylinder-original-audit-2026-10-18.md`, `graphophone-type-at-lot-641-audit-2026-10-18.md` and `practical-lots-original-detail-2026-10-18.md`. This is *selective* original-image review, not a claim of full-resolution completion.
+- `farm-shop-and-exceptional-resale-priority-2026-10-18.md` is the current farm/shop and extraordinary-bargain **inspection priority** list (not authorization); `priority-shortlist-and-market-evidence-2026-10-18.md` and `preliminary-risk-adjusted-maxima-2026-10-18.md` retain older sold-price sources and tentative risk-adjusted figures. Blanks mean unappraised, **not** worthless. Older CSV bidwatch snapshots cover 48 or 113 reviewed lots and are **not** current full-catalog status.
 
-## Next work (preserve completion markers)
-1. Continue all **585** image-sheet records, not blanket or inferred photo approvals. Prioritize farm, shop, renovation, tools, older audio/collectibles where **exceptional bargain** potential exists. Many unreviewed listings are jewelry, bedding, holiday decor and tableware.
-2. Cross-check all **1,307 unique HiBid IDs and photos** for late additions, removals or material description/photo changes. Only re-open a reviewed entry when materially changed.
-3. For true shortlisted candidates, inspect selected original photographs at full size (model labels, cracks, rust, missing parts), verify tested operation, **actual sold** value and local sell-through, then assign **Bargain / Good Buy / Absolute Max** hammer prices after adding fees, repair, pickup, duplication and storage.
-4. Save normalized bid/history snapshots as the auction approaches; never confuse `live.json` export-time bid with market value or realized hammer. Auction participation is undecided.
-5. **DO NOT place bids or buy**, absent a new explicit user authorization.
+## Safety and title/photo flags
+- Lot 1133: **corded/electric** hedge trimmer despite "fuel" style catalog title.
+- Lot 1071: chain **retail box** photographed, but contents not proved.
+- Lot 1082: Craftsman lawn **tractor** lift accessory, not an implement for a Kubota.
+- Lot 1037: coiled black material listed as wire remains ambiguous; electrical rating not proved.
+- Lot 1203: red long-ram bottle/hydraulic jack marked **3 TON** does **not** give whole frame a rated safe lifting capacity.
+- Lot 1204: saw blade pictured exposed; splitter/riving knife/guard not clearly established.
+- Lot 640: at least one photographed cylinder visibly damaged. Sleeves aren't proof of intact records.
+- Used extinguisher, safety helmets, old chemicals/ammunition and suspect lifting devices should not be relied upon without qualified assessment. All sales as-is.
 
-Tracking records: Active Projects Dashboard row for auction review tooling; reminder **REM-008**; Auction History **784296**. Store progress there and verify dependent dashboard counts after updates.
+## Important next steps
+1. Inspect original-size details for actual **candidate buys**; then verify mechanical/fit/condition in person or classify as untested parts. Cost in expected repairs, buyer premium, pickup/hauling and duplication in user's existing projects.
+2. **Reconcile updated catalog HiBid lot IDs, photo counts/signatures and descriptions** against the immutable October 18 snapshot. Re-open only changed/new lots without restarting reviewed work.
+3. Refresh bid prices, soft-close times and **independent realized sold comparables**, then refine **Bargain / Good Buy / Absolute Max hammer amounts** only for surviving candidates. Preserve normalized auction price-history when closed.
+4. Seller preview Mon **Oct 19, 4–6pm EDT**. Auction soft close begins Wed **Oct 21, 6pm EDT**; pickup Fri **Oct 23, 4–6pm** or Sat **Oct 24, 9–11am**, **2720 E Weidman Rd, Rosebush MI**. Buyer premium **10% cash/check** or **13% card**, plus tax/travel/repairs. Check live terms before any decision.
+5. **No bids or purchases authorized**; decision to participate remains uncommitted.
+
+Project tracking: Google Sheets **Active Projects Dashboard**, `Reminders & Reviews` task **REM-008**, and `Auction History` sheet record for 784296. Verify those summaries reflect stage completion and not a fictitious final valuation.
